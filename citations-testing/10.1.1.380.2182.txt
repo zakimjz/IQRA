@@ -1,0 +1,21 @@
+10.1.1.380.2182	2008	Using Information Retrieval to Support Software Maintenance Tasks
+R1	10.1.1.17.1362	Supporting Program Comprehension Using Semantic and Structural Information
+R1	10.1.1.111.2379	Hipikat: A Project Memory for Software Development
+R1	10.1.1.74.7616	An Information Retrieval Approach to Concept Location in Source Code
+R1	10.1.1.100.4083	Feature Location Using Probabilistic Ranking of Methods Based on Execution Scenarios and Information Retrieval
+R1	10.1.1.159.3405	Recovery of traceability links between software documentation and source code
+R1	10.1.1.181.1329	Recovering traceability links between code and documentation
+R1	10.1.1.132.4615	Leveraged quality assessment using information retrieval techniques
+R1	10.1.1.70.618	Concise and consistent naming
+R1	10.1.1.75.3909	Combining Probabilistic Ranking and Latent Semantic Indexing for Feature Identification
+R1	10.1.1.140.5807	Mudablue: An automatic categorization system for open source repositories
+R1	10.1.1.380.3539	Combining Formal Concept Analysis with Information Retrieval for Concept Location in Source Code
+R1	10.1.1.76.3342	Can LSI help reconstructing requirements traceability in design and test
+R1	10.1.1.227.30	Source code exploration with Google
+R1	10.1.1.120.9351	Feature Location via Information Retrieval based Filtering of a Single Scenario Execution Trace
+R1	10.1.1.143.5378	An approach to detecting duplicate bug reports using natural language and execution information
+R1	10.1.1.380.4740	Combining Textual and Structural Analysis of Software Artifacts for Traceability Link Recovery
+R1	10.1.1.380.2182	Using Information Retrieval to Support Software Maintenance Tasks
+R1	10.1.1.380.3118	An Exploratory Study on Assessing Feature Location Techniques
+R1	10.1.1.380.6657	Creating and evolving software by searching, selecting and synthesizing relevant source code
+R1	10.1.1.380.5935	An Empirical Exploration of Regularities in Open-Source Software Lexicons

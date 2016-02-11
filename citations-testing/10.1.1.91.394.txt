@@ -1,0 +1,51 @@
+10.1.1.91.394	2003	The design and evaluation of a query processing architecture for sensor networks
+R1	10.1.1.112.2772	GPSR: Greedy perimeter stateless routing for wireless networks
+R1	10.1.1.121.1027	A reliable multicast framework for light-weight sessions and application level framing
+R1	10.1.1.11.8839	TelegraphCQ: Continuous Dataflow Processing for an Uncertan World
+R1	10.1.1.109.7382	Fine-grained network time synchronization using reference broadcasts
+R1	10.1.1.136.6228	TAG: a Tiny AGgregation service for ad-hoc sensor networks
+R1	10.1.1.31.157	An Adaptive Query Execution System for Data Integration
+R1	10.1.1.35.7968	XJoin: A Reactively-Scheduled Pipelined Join Operator
+R1	10.1.1.12.1036	The design and implementation of an intentional naming system
+R1	10.1.1.202.2386	A Survey of active network Research
+R1	10.1.1.153.2215	Querying in highly mobile distributed environments
+R1	10.1.1.114.5659	Habitat monitoring: application driver for wireless communications technology
+R1	10.1.1.136.2762	ANALYSIS OF WIRELESS SENSOR NETWORKS FOR HABITAT MONITORING
+R1	10.1.1.136.4253	NiagaraCQ: A Scalable Continuous Query System for Internet Databases
+R1	10.1.1.16.1535	An Energy-Efficient MAC Protocol for Wireless Sensor Networks
+R1	10.1.1.24.8172	Adaptive Protocols for Information Dissemination in Wireless Sensor Networks
+R1	10.1.1.133.8073	The Postgres Next-Generation Database Management System
+R1	10.1.1.1.4507	GHT: A Geographic Hash Table for Data-Centric Storage
+R1	10.1.1.116.345	Impact of network density on Data Aggregation in wireless sensor networks
+R1	10.1.1.20.6212	A Transmission Control Scheme for Media Access in Sensor Networks
+R1	10.1.1.20.5356	A Highly Adaptive Distributed Routing Algorithm for Mobile Wireless Networks
+R1	10.1.1.15.3507	Supporting Aggregate Queries over Ad-Hoc Wireless Sensor Networks
+R1	10.1.1.12.1378	Query Processing for Sensor Networks
+R1	10.1.1.133.3930	Maté: A Tiny Virtual Machine for Sensor Networks
+R1	10.1.1.1.5480	Taming the Underlying Challenges of Reliable Multihop Routing in Sensor Networks
+R1	10.1.1.14.8410	Smart-Its: An Embedded Platform for Smart Objects
+R1	10.1.1.120.4505	Data cube: A relational aggregation operator generalizing group-by, cross-tab, and sub-totals
+R1	10.1.1.141.162	Reliable Multicast Transport Protocol (RMTP)
+R1	10.1.1.138.3451	Approximate Query Processing Using Wavelets
+R1	10.1.1.144.1261	The New Jersey Data Reduction Report
+R1	10.1.1.120.6943	Scalable information-driven sensor querying and routing for ad hoc heterogeneous sensor networks
+R1	10.1.1.21.2565	Wavelet-Based Histograms for Selectivity Estimation
+R1	10.1.1.19.770	Complex Behavior at Scale: An Experimental Study of Low-Power Wireless Sensor Networks
+R1	10.1.1.123.8939	Routing indices for peer-to-peer systems
+R1	10.1.1.127.9488	The nesC language: A holistic approach to networked embedded systems
+R1	10.1.1.331.2614	The design of an acquisitional query processor for sensor networks
+R1	10.1.1.184.6036	A Delay-Tolerant Network Architecture for Challenged Internets”, Intel Research
+R1	10.1.1.143.6958	Composite events for active databases: Semantics, contexts, and detection
+R1	10.1.1.14.1476	Contour and Texture Analysis for Image Segmentation
+R1	10.1.1.144.2361	Optimization techniques for queries with expensive methods
+R1	10.1.1.22.6376	Query Optimization In Compressed Database Systems
+R1	10.1.1.26.6454	Materialized View Selection and Maintenance Using Multi-Query Optimization
+R1	10.1.1.128.3209	The design of calamari: an ad-hoc localization system for sensor networks
+R1	10.1.1.38.3676	The Design and Implementation of the Ariel Active Database Rule System
+R1	10.1.1.323.1691	Multi-dimensional range queries in sensor networks
+R1	10.1.1.116.5210	Gossip-based ad hoc routing
+R1	10.1.1.52.2431	Query Optimization in Mobile Environments
+R1	10.1.1.15.3140	Beyond Average: Toward Sophisticated Sensing with Queries
+R1	10.1.1.128.3390	Efficient Mid-Query Re-Optimization of Sub-Optimal Query Execution Plans
+R1	10.1.1.19.8847	GADT: A Probability Space ADT for Representing and Querying the Physical World
+R1	10.1.1.203.3753	From ethnography to design in a vineyard, in

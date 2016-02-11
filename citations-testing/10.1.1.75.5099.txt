@@ -1,0 +1,41 @@
+10.1.1.75.5099	1998	Faithful Representations and Moments of Satisfaction: Probabilistic Methods in Learning and Logic
+R1	10.1.1.20.8521	Selective sampling using the Query by Committee algorithm
+R1	10.1.1.135.9814	A Theory of the Learnable
+R1	10.1.1.332.356	The Nature of Statistical Learning Theory
+R1	10.1.1.406.395	The complexity of theorem-proving procedures
+R1	10.1.1.21.2207	Local Search Strategies for Satisfiability Testing
+R1	10.1.1.135.1907	Atomic decomposition by basis pursuit
+R1	10.1.1.239.9869	Books in graphs
+R1	10.1.1.53.5438	Cryptographic Limitations on Learning Boolean Formulae and Finite Automata
+R1	10.1.1.136.6387	Computational Limitations on Learning from Examples
+R1	10.1.1.47.3862	Algorithms for Quantum Computation: Discrete Logarithms and Factoring
+R1	10.1.1.144.7398	On the power of quantum computation
+R1	10.1.1.32.8918	A Decision-Theoretic Generalization of on-Line Learning and an Application to Boosting
+R1	10.1.1.219.1572	Boosting the margin: A new explanation for the effectiveness of voting methods
+R1	10.1.1.37.1595	The Weighted Majority Algorithm
+R1	10.1.1.154.7012	Parallel Networks that Learn to Pronounce English Text
+R1	10.1.1.37.8876	Neural Network Ensembles, Cross Validation, and Active Learning
+R1	10.1.1.153.7626	The Strength of Weak Learnability
+R1	10.1.1.51.7418	Probable networks and plausible predictions - a review of practical Bayesian methods for supervised neural networks
+R1	10.1.1.25.8841	Gaussian Processes for Regression
+R1	10.1.1.154.9998	BAYESIAN LEARNING FOR NEURAL NETWORKS
+R1	10.1.1.183.9827	Searching for backbones -- an efficient parallel algorithm for the traveling salesman problem
+R1	10.1.1.162.455	Basis Pursuit
+R1	10.1.1.137.1181	Rigorous learning curve bounds from statistical mechanics
+R1	10.1.1.48.9258	Regularization Theory and Neural Networks Architectures
+R1	10.1.1.50.1675	Analysis Of Two Simple Heuristics On A Random Instance Of k-SAT
+R1	10.1.1.30.5247	On the Boosting Ability of Top-Down Decision Tree Learning Algorithms
+R1	10.1.1.133.1434	Handwritten digit recognition with a back-propagation network
+R1	10.1.1.37.7400	An Improved Training Algorithm for Support Vector Machines
+R1	10.1.1.56.69	Generating Accurate and Diverse Members of a Neural-Network Ensemble
+R1	10.1.1.27.4743	Learning with ensembles: How over-fitting can be useful
+R1	10.1.1.45.206	Implementation issues in the Fourier Transform algorithm
+R1	10.1.1.41.4789	Probabilistic Analysis Of A Generalization Of The Unit Clause Literal Selection Heuristic For The K-Satisfiability Problem
+R1	10.1.1.48.3546	The Canonical Distortion Measure for Vector Quantization and Function Approximation
+R1	10.1.1.21.893	Combinatorial Variability of Vapnik-Chervonenkis Classes with Applications to Sample Compression Schemes
+R1	10.1.1.125.4163	A Bayesian/information theoretic model of learning to learn via multiple task sampling
+R1	10.1.1.31.8330	The Statistical Mechanics of k-Satisfaction
+R1	10.1.1.40.1619	Probabilistic Analysis Of Two Heuristics For The 3-Satisfiability Problem
+R1	10.1.1.52.7108	Gaussian Regression and Optimal Finite Dimensional Linear Models
+R1	10.1.1.14.2606	Learning low-dimensional representations via the usage of multiple-class labels
+R1	10.1.1.7.2375	Permanent Uncertainty: On the quantum evaluation of the determinant and the permanent of a matrix

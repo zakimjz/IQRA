@@ -1,0 +1,39 @@
+10.1.1.107.8007	2006	Survey of Data Mining Approaches to User Modeling for Adaptive Hypermedia
+R1	10.1.1.217.4132	Mining Association Rules between Sets of Items in Large Databases
+R1	10.1.1.332.356	The Nature of Statistical Learning Theory
+R1	10.1.1.167.3624	Induction of Decision Trees
+R1	10.1.1.308.8619	Some methods for classification and analysis of multivariate observations
+R1	10.1.1.1.8783	Relational Markov Models and their Application to Adaptive Web Navigation
+R1	10.1.1.136.7654	Automatic Personalization Based on Web Usage Mining
+R1	10.1.1.101.3594	Selective Markov Models for Predicting Web-Page Accesses
+R1	10.1.1.39.8472	The Lumière Project: Bayesian User Modeling for Inferring the Goals and Needs of Software Users
+R1	10.1.1.44.8942	A Hybrid User Model for News Story Classification
+R1	10.1.1.2.4198	Adaptable and Adaptive Information Access for All Users, Including the Disabled and the Elderly
+R1	10.1.1.117.5761	On-line student modeling for coached problem solving using Bayesian networks
+R1	10.1.1.37.4059	Clustering of Web Users Based on Access Patterns
+R1	10.1.1.20.1567	Clustering the Users of Large Web Sites into Communities
+R1	10.1.1.102.67	On mining Web Access Logs
+R1	10.1.1.116.859	Mining web access logs using relational competitive fuzzy clustering
+R1	10.1.1.61.3520	Prefetching Hyperlinks
+R1	10.1.1.31.21	Assessing Temporally Variable User Properties With Dynamic Bayesian Networks
+R1	10.1.1.35.7011	Average-Case Analysis of a Nearest Neighbor Algorithm
+R1	10.1.1.21.8306	Generic User Modeling Systems
+R1	10.1.1.2.2638	Robust Data Clustering
+R1	10.1.1.12.8506	Mining for Bidding Strategies on eBay
+R1	10.1.1.38.7994	User as Student: Towards an Adaptive Interface for Advanced Web-Based Applications
+R1	10.1.1.25.2091	On the Complexity of Mining Association Rules
+R1	10.1.1.104.3927	Low-complexity fuzzy relational clustering algorithms for web mining
+R1	10.1.1.102.5727	Exploiting Learning Techniques for the Acquisition of User Stereotypes and Communities
+R1	10.1.1.14.9548	Adapting to the User's Internet Search Strategy on Small Devices
+R1	10.1.1.88.6058	Discriminant Analysis as a Machine Learning Method for Revision of User Stereotypes of Information Retrieval Systems
+R1	10.1.1.40.6889	Modelling of Novices' Control Skills With Machine Learning
+R1	10.1.1.18.5806	Initializing the Student Model using Stereotypes and Machine Learning
+R1	10.1.1.36.3545	Comparative evaluation of alternative induction engines for Feature Based Modelling
+R1	10.1.1.12.6339	User Intention Modeling in Web Applications Using Data Mining
+R1	10.1.1.38.6711	Symbolic Data Analysis With the K-Means Algorithm for User Profiling
+R1	10.1.1.19.911	Evaluation of Recommender Algorithms for an Internet Information Broker Based on Simple . . .
+R1	10.1.1.13.3272	User Modeling for Efficient Use of Multimedia Files
+R1	10.1.1.33.645	Empirical Evaluation of Explicit versus Implicit Acquisition of User Profiles in Information Filtering Systems
+R1	10.1.1.73.2008	Predictive Statistical Models for User Modeling
+R1	10.1.1.105.9313	Profiling Network Applications with Fuzzy C-Means Clustering and Self-Organising Map
+R1	10.1.1.10.4521	Effective Prediction of Web-user Accesses: A Data Mining Approach

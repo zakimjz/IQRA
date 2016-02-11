@@ -1,0 +1,27 @@
+10.1.1.34.7485	1997	Algorithms and Software for LMI Problems in Control
+R1	10.1.1.136.1990	A NEW POLYNOMIAL-TIME ALGORITHM FOR LINEAR PROGRAMMING
+R1	10.1.1.113.1209	Semidefinite Programming
+R1	10.1.1.42.3053	Polynomial Convergence of Primal-Dual Algorithms for Semidefinite Programming Based on Monteiro and Zhang Family of Directions
+R1	10.1.1.145.216	Strong duality for semidefinite programming
+R1	10.1.1.124.8803	Interior-point Methods
+R1	10.1.1.35.4131	Interior Point Methods in Semidefinite Programming with Applications to Combinatorial Optimization
+R1	10.1.1.129.4377	sdpsol -- A Parser/Solver for Semidefinite Programming and Determinant Maximization Problems with Matrix Structure -- User's Guide
+R1	10.1.1.134.904	Determinant maximization with linear matrix inequality constraints
+R1	10.1.1.34.7036	Large-Scale Optimization of Eigenvalues
+R1	10.1.1.141.2285	SDPA (Semidefinite Programming Algorithm) -- User's Manual
+R1	10.1.1.140.5474	An Interior-Point Method for Semidefinite Programming
+R1	10.1.1.49.5821	Local Convergence of Predictor-Corrector Infeasible-Interior-Point Algorithms for SDPs and SDLCPs
+R1	10.1.1.56.6724	A Predictor Corrector Method for Semi-definite Linear Programming
+R1	10.1.1.40.7072	Primal-Dual Path-Following Algorithms for Semidefinite Programming
+R1	10.1.1.54.7646	Self-Scaled Cones and Interior-Point Methods in Nonlinear Programming
+R1	10.1.1.52.3427	Primal-Dual Interior-Point Methods for Self-Scaled Cones
+R1	10.1.1.56.5067	SDPHA - a MATLAB implementation of homogeneous interior-point algorithms for semidefinite programming
+R1	10.1.1.47.3516	Symmetric Primal-Dual Path Following Algorithms for Semidefinite Programming
+R1	10.1.1.50.315	Homogeneous Interior-Point Algorithms for Semidefinite Programming
+R1	10.1.1.36.1385	Optimizing Eigenvalues of Symmetric Definite Pencils
+R1	10.1.1.48.6432	Duality And Self-Duality For Conic Convex Programming
+R1	10.1.1.43.3804	Connections Between Duality in Control Theory and Convex Optimization
+R1	10.1.1.56.2346	Iteration Algorithm for Computing Bounds in Quadratic Optimization Problems
+R1	10.1.1.37.6813	A Predictor-Corrector Interior-Point Algorithm for the Semidefinite Linear Complementarity Problem Using the Alizadeh-Haeberly-Overton Search Direction
+R1	10.1.1.31.3148	On a General Class of Interior-Point Algorithms for Semidefinite Programming with Polynomial Complexity and Superlinear Convergence
+R1	10.1.1.121.3242	The long-step method of analytic centers for fractional problems

@@ -1,0 +1,82 @@
+10.1.1.101.4668	2004	Great expectations: The value of spatial diversity in wireless networks
+R1	10.1.1.200.4981	A simple transmit diversity technique for wireless communications
+R1	10.1.1.138.4537	Space-time block codes from orthogonal designs
+R1	10.1.1.138.3623	The capacity of wireless networks
+R1	10.1.1.110.1242	Minimum energy mobile wireless networks
+R1	10.1.1.25.3452	The Macroscopic Behavior of the TCP Congestion Avoidance Algorithm
+R1	10.1.1.147.2959	Energy-efficient scheduling of packet transmissions over wireless networks
+R1	10.1.1.16.9368	On The Capacity Of Wireless Networks: The Relay Case
+R1	10.1.1.112.8702	A generalized processor sharing approach to flow control in integrated services networks: The single-node case
+R1	10.1.1.23.3256	The performance of TCP/IP for networks with high bandwidth-delay products and random loss
+R1	10.1.1.125.5511	I-TCP: Indirect TCP for mobile hosts
+R1	10.1.1.1.2228	Fading Channels: Information-Theoretic And Communications Aspects
+R1	10.1.1.112.4293	Space-time codes for high data rate wireless communication: Performance criterion and code construction
+R1	10.1.1.18.7300	Optimal Power Allocation over Parallel Gaussian Broadcast Channels
+R1	10.1.1.19.4838	Linear Multiuser Receivers: Effective Interference, Effective Bandwidth and User Capacity
+R1	10.1.1.16.7229	Downlink Power Allocation for Multi-class CDMA Wireless Networks
+R1	10.1.1.420.2627	Transmit beamforming and power control for cellular wireless systems
+R1	10.1.1.24.4895	Capacity of Fading Channels with Channel Side Information
+R1	10.1.1.113.2393	A comparison of mechanisms for improving TCP performance over wireless links
+R1	10.1.1.33.4853	Multichannel Blind Identification: From Subspace to Maximum Likelihood Methods
+R1	10.1.1.10.4942	Improving Reliable Transport and Handoff Performance in Cellular Wireless Networks
+R1	10.1.1.15.3014	Mobility Management in Next-Generation Wireless Systems
+R1	10.1.1.1.3380	Applications of Antenna Arrays to Mobile Communications, Part I: Performance Improvement, Feasibility, and System Considerations
+R1	10.1.1.45.5055	Unveiling Turbo Codes: Some Results on Parallel Concatenated Coding Schemes
+R1	10.1.1.29.2012	Capacity of a Mobile Multiple-Antenna Communication Link in Rayleigh Flat Fading
+R1	10.1.1.159.6213	Asymmetric multiple description lattice vector quantizers
+R1	10.1.1.329.6251	Cellular IP: A New Approach to Internet Host Mobility
+R1	10.1.1.19.4920	Capacity Scaling in MIMO Wireless Systems Under Correlated Fading
+R1	10.1.1.142.2124	Capacity and Optimal Resource Allocation for Fading Broadcast Channels: Part I: Ergodic Capacity
+R1	10.1.1.22.4060	Information-Theoretic Considerations for Symmetric, Cellular, Multiple-Access Fading Channels - Part II
+R1	10.1.1.323.7424	Space–time transmit precoding with imperfect channel feedback
+R1	10.1.1.19.5125	Opportunistic Beamforming Using Dumb Antennas
+R1	10.1.1.160.7901	The design philosophy of the DARPA internet protocols
+R1	10.1.1.332.411	Geographical routing using partial information for wireless ad hoc networks
+R1	10.1.1.421.9166	Simplified processing for high spectral efficiency wireless communication employing multi-element arrays
+R1	10.1.1.111.4133	Mobility increases the capacity of ad-hoc wireless networks
+R1	10.1.1.21.9769	Quantization Index Modulation: A Class of Provably Good Methods for Digital Watermarking and Information Embedding
+R1	10.1.1.44.7577	Flow and Stretch Metrics for Scheduling Continuous Job Streams
+R1	10.1.1.38.6505	High-Rate Codes that are Linear in Space and Time
+R1	10.1.1.18.837	Basis Expansion Models and Diversity Techniques for Blind Identification and Equalization of Time-Varying Channels
+R1	10.1.1.131.738	Iterative (turbo) soft interference cancellation and decoding for coded CDMA
+R1	10.1.1.115.218	Space-time codes performance criteria and design for frequency selective fading channels
+R1	10.1.1.17.2091	Generalized Multiple Description Coding with Correlating Transforms
+R1	10.1.1.161.5794	M-TCP: TCP for Mobile Cellular Networks
+R1	10.1.1.33.3094	Quality of Service Guarantees in Virtual Circuit Switched Networks
+R1	10.1.1.104.9432	a domain-based approach for supporting mobility in Wide-area Wireless Networks
+R1	10.1.1.42.1649	Fair Scheduling in Wireless Packet Networks
+R1	10.1.1.137.3031	Full rate space-time turbo codes
+R1	10.1.1.421.8007	A differential detection scheme for transmit diversity
+R1	10.1.1.419.1083	Efficient signal processing techniques for exploiting transmit antenna diversity on fading channels
+R1	10.1.1.123.8463	Smartbridge: A scalable bridge architecture
+R1	10.1.1.38.6412	Differential Unitary Space-Time Modulation
+R1	10.1.1.3.6540	On the Theory of Space-Time Codes for PSK Modulation
+R1	10.1.1.24.6421	Space-Time Coding With Maximum Diversity Gains Over Frequency-Selective Fading Channels
+R1	10.1.1.52.3644	AIRMAIL: A Link-Layer Protocol for Wireless Networks
+R1	10.1.1.127.7026	Gamal, “Energy-efficient packet transmission over a wireless link
+R1	10.1.1.23.6709	The history of communications and its implications for the Internet
+R1	10.1.1.76.5703	Duality, achievable rates, and sum-rate capacity of Gaussian MIMO broadcast channels
+R1	10.1.1.15.6707	Multi-Input Multi-Output Fading Channel Tracking and Equalization Using Kalman Estimation
+R1	10.1.1.202.758	Sum capacity of the vector Gaussian broadcast channel and uplink-downlink duality
+R1	10.1.1.22.9990	Fast and scalable wireless handoffs in support of mobile Internet audio
+R1	10.1.1.32.1570	Iterative Equalization and Decoding with Channel Shortening Filters for Space-Time Coded Modulation
+R1	10.1.1.13.846	On Diagonal Algebraic Space-Time Block Codes
+R1	10.1.1.103.3218	A Framework for Optimal Battery Management for Wireless Nodes
+R1	10.1.1.28.9913	TCP HACK: TCP Header Checksum Option to Improve Performance over Lossy Links
+R1	10.1.1.20.5271	Parallel Scheduling Problems in Next Generation Wireless Networks
+R1	10.1.1.14.622	Improving Battery Performance by Using Traffic Shaping Techniques
+R1	10.1.1.172.3873	Prefiltered space-time M-BCJR equalizer for frequency-selective channels
+R1	10.1.1.172.3998	Effect of Spatio-Temporal Channel Correlation on the Performance of Space-Time Codes
+R1	10.1.1.12.3941	Locating Nodes with EASE: Last Encounter Routing in Ad Hoc Networks through Mobility Diffusion
+R1	10.1.1.27.5797	Scheduling Algorithms
+R1	10.1.1.330.8219	Effect of antenna polarization on the capacity of a multiple element system in an indoor environment
+R1	10.1.1.20.950	Decoding and Equalization of Unknown Multipath Channels Based on Block Precoding and Transmit-Antenna Diversity
+R1	10.1.1.211.1212	hoc Networks
+R1	10.1.1.335.2155	Interchannel interference analysis of OFDM in a mobile environment
+R1	10.1.1.35.6505	Representation Theory for High-Rate Multiple-Antenna Code Design
+R1	10.1.1.22.777	Further Results on Interference Cancellation and Space-Time Block Codes
+R1	10.1.1.141.556	Transmitter redundancy for blind estimation and equalization of time- and frequency-selective channels
+R1	10.1.1.206.1077	A space-time block-coded OFDM scheme for unknown frequency-selective fading channels
+R1	10.1.1.35.6219	Multiple Description Vector Quantization with Lattice Codebooks: Design and Analysis
+R1	10.1.1.420.650	Architecture design, frequency planning, and perform analysis for a microcell/macrocell overlaying system
+R1	10.1.1.19.1121	Communication on the Grassmann Manifold: A Geometric Approach to the Noncoherent Multiple-Antenna Channel

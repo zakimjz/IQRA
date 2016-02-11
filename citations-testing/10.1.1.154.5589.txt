@@ -1,0 +1,21 @@
+10.1.1.154.5589	2008	Fast viscoelastic behavior with thin features
+R1	10.1.1.17.7325	Implicit Fairing of Irregular Meshes using Diffusion and Curvature Flow
+R1	10.1.1.4.1293	A Fast and Accurate Semi-Lagrangian Particle Level Set Method
+R1	10.1.1.41.3909	Graphical Modeling and Animation of Brittle Fracture
+R1	10.1.1.380.1560	Elastically deformable models
+R1	10.1.1.114.7906	Robust treatment of collisions, contact and friction for cloth animation
+R1	10.1.1.136.8519	A crystalline, red green strategy for meshing highly deformable objects with tetrahedra
+R1	10.1.1.19.1692	Stable Real-Time Deformations
+R1	10.1.1.23.4993	Dynamic Free-Form Deformations for Animation Synthesis
+R1	10.1.1.18.5757	Interactive Skeleton-Driven Dynamic Deformations
+R1	10.1.1.2.5781	Point Based Animation of Elastic, Plastic and Melting Objects
+R1	10.1.1.21.2928	Evaluation of Memoryless Simplification
+R1	10.1.1.9.5976	Interactive Virtual Materials
+R1	10.1.1.59.9379	Particle-based Viscoelastic Fluid Simulation
+R1	10.1.1.19.7361	What is a Good Linear Element? - Interpolation, Conditioning, and Quality Measures
+R1	10.1.1.4.5239	Physically-Based Simulation of Objects Represented by Surface Meshes
+R1	10.1.1.15.4361	Simplification and Repair of Polygonal Models Using Volumetric Techniques
+R1	10.1.1.120.9370	Isosurface stuffing: Fast tetrahedral meshes with good dihedral angles
+R1	10.1.1.93.3108	Fast simulation of deformable models in contact using dynamic deformation textures
+R1	10.1.1.127.5748	Face offsetting: A unified approach for explicit moving interfaces
+R1	10.1.1.116.4685	Fluid Animation with Explicit Surface Meshes and Boundary-Only Dynamics

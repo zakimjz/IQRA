@@ -1,0 +1,37 @@
+10.1.1.161.538	2009	Toolkit Support for Integrating Physical and Digital Interactions
+R1	10.1.1.28.8790	The Audio Notebook - Paper and Pen Interaction with Structured Speech
+R1	10.1.1.9.5130	A Conceptual Framework and a Toolkit for Supporting the Rapid Prototyping of Context-Aware Applications
+R1	10.1.1.420.3300	A computational approach to edge detection
+R1	10.1.1.14.6113	Bug Isolation via Remote Program Sampling
+R1	10.1.1.29.6454	Bridging Physical and Virtual Worlds with Electronic Tags
+R1	10.1.1.8.2676	Emerging Frameworks for Tangible User Interfaces
+R1	10.1.1.22.1477	Usability Analysis of Visual Programming Environments: a `cognitive dimensions' framework
+R1	10.1.1.150.539	Phidgets: easy development of physical interfaces through physical widgets
+R1	10.1.1.129.4143	Bricks: Laying the foundations for graspable user interfaces
+R1	10.1.1.19.8542	Augmented Surfaces: A Spatially Continuous Work Space for Hybrid Computing Environments
+R1	10.1.1.216.6967	TokenBased Access to Digital Information
+R1	10.1.1.34.8985	Reinventing the Familiar: Exploring an Augmented Reality Design Space for Air Traffic Control
+R1	10.1.1.16.5832	Triangles: Tangible Interface for Manipulation and Exploration of Digital Information Topography
+R1	10.1.1.91.1609	Retrospective and Challenges for Model-Based Interface Development
+R1	10.1.1.10.5347	A User-Centred Approach to Functions in Excel
+R1	10.1.1.298.7228	A Programming System for Children that is Designed for Usability
+R1	10.1.1.37.126	CyberCode: Designing Augmented Reality Environments with Visual Tags
+R1	10.1.1.134.2681	DART: A Toolkit for Rapid Design Exploration of Augmented Reality Experiences
+R1	10.1.1.404.1621	Patch Panel: Enabling Control-Flow Interoperability in Ubicomp Environments
+R1	10.1.1.32.5121	Extending An Existing User Interface Toolkit To Support Gesture Recognition
+R1	10.1.1.129.1090	Design and technology for collaborage: collaborative collages of information on physical walls
+R1	10.1.1.230.9746	mediaBlocks: Physical Containers, Transports, and Controls for Online Media
+R1	10.1.1.310.1536	A New Model for Handling Input
+R1	10.1.1.361.1234	Methodology matters: Doing research in the behavioral and social sciences
+R1	10.1.1.111.5179	A toolkit for managing user attention in peripheral displays
+R1	10.1.1.16.4191	A Tangible Interface for Organizing Information Using a Grid
+R1	10.1.1.157.7955	Class libraries: A challenge for programming usability research
+R1	10.1.1.37.6216	SUEDE: A Wizard of Oz Prototyping Tool for Speech User Interfaces
+R1	10.1.1.117.9541	Books with Voices: Paper Transcripts as a Tangible Interface to Oral Histories
+R1	10.1.1.114.1561	A.K.: Siteview: Tangibly programming active environments with predictive visualization
+R1	10.1.1.43.6103	Video Mosaic: Laying Out Time In A Physical Space
+R1	10.1.1.46.4480	Emancipated Pixels: Real-World Graphics in The Luminous Room
+R1	10.1.1.304.6150	Exiting the cleanroom: On ecological validity and ubiquitous computing
+R1	10.1.1.182.6553	Integrating Physical and Digital Interactions on Walls for Fluid Design Collaboration
+R1	10.1.1.125.2193	ObjectClassifierViews: Support for Visual Programming in Papier-Mâché
+R1	10.1.1.129.2407	Function Composition in Physical Chaining Applications

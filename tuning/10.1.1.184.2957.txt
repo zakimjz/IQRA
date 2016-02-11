@@ -1,0 +1,25 @@
+10.1.1.184.2957	2006	Just Relax: Convex Programming Methods for Identifying Sparse Signals in Noise
+R1	10.1.1.135.1907	Atomic decomposition by basis pursuit
+R1	10.1.1.348.5735	Orthogonal matching pursuit: Recursive function approximation with applications to wavelet decomposition
+R1	10.1.1.321.1443	Greed is Good: Algorithmic Results for Sparse Approximation
+R1	10.1.1.101.2466	Just relax: Convex programming methods for subset selection and sparse approximation
+R1	10.1.1.161.9300	Uncertainty principles and ideal atomic decomposition
+R1	10.1.1.150.1728	On sparse representations in arbitrary redundant bases
+R1	10.1.1.15.3929	Matching Pursuits Based Multiple Description Video Coding For Lossy Environments
+R1	10.1.1.3.9509	Improved Approximation Algorithms for Maximum Cut and Satisfiability Problems Using Semidefinite Programming
+R1	10.1.1.161.9236	Minimax Estimation via Wavelet Shrinkage
+R1	10.1.1.35.7574	Regression Shrinkage and Selection Via the Lasso
+R1	10.1.1.154.3947	A simple test to check the optimality of sparse signal approximations
+R1	10.1.1.150.1716	Extension of the Pisarenko method to sparse linear arrays
+R1	10.1.1.11.381	A Posteriori Quantization of Progressive Matching Pursuit Streams
+R1	10.1.1.377.936	Simultaneous approximation by greedy algorithms
+R1	10.1.1.154.8135	An affine scaling methodology for best basis selection
+R1	10.1.1.91.9526	For Most Large Underdetermined Systems of Linear Equations the Minimal ℓ1-norm Solution is also the Sparsest Solution
+R1	10.1.1.30.1473	Legendre Functions and the Method of Random Bregman Projections
+R1	10.1.1.120.1054	Quantitative Robust Uncertainty Principles and Optimally Sparse Decompositions
+R1	10.1.1.150.2330	Recovery of exact sparse representations in the presence of bounded noise
+R1	10.1.1.154.4555	Sparse solutions to linear inverse problems with multiple measurement vectors
+R1	10.1.1.178.4206	Algorithms for simultaneous sparse approximation. Part II: Convex relaxation
+R1	10.1.1.124.4696	Regularization and variable selection via the Elastic Net
+R1	10.1.1.66.4024	Theoretical results about finding the sparsest representations of multiple measurement vectors (MMV) in an overcomplete dictionary using ℓ1 minimization and greedy algorithms
+R1	10.1.1.150.869	SOME FURTHER RESULTS ON THE RECOVERY ALGORITHMS.

@@ -1,0 +1,27 @@
+10.1.1.149.7996	2007	A Survey on Recognition of On-Line Handwritten Mathematical Notation
+R1	10.1.1.29.3389	Mathematical Expression Recognition: A Survey
+R1	10.1.1.26.9506	Segmentation And Recognition Of Symbols Within Handwritten Mathematical Expressions
+R1	10.1.1.44.4875	Ambiguity and Constraint in Mathematical Expression Recognition
+R1	10.1.1.27.1304	A Soft-Decision Approach For Structural Analysis Of Handwritten Mathematical Expressions
+R1	10.1.1.19.7984	On-line Handwriting Recognition with Support Vector Machines - A Kernel Approach
+R1	10.1.1.1.4991	A Handwriting-Based Equation Editor
+R1	10.1.1.364.4652	Bayesian network modeling of strokes and their relationships for on-line handwriting recognition
+R1	10.1.1.364.5089	Ligature modeling for online cursive script recognition
+R1	10.1.1.30.113	On-Line Hand-Printing Recognition with Neural Networks
+R1	10.1.1.36.645	Optical Character Recognition and Parsing of Typeset Mathematics
+R1	10.1.1.40.7630	Optical Formula Recognition
+R1	10.1.1.108.8800	Infty- an integrated OCR system for mathematical documents
+R1	10.1.1.127.5697	Mathematical formula recognition using virtual link network
+R1	10.1.1.34.4237	Recognizing On-Line Handwritten Alphanumeric Characters Through Flexible Structural Matching
+R1	10.1.1.34.5586	An Efficient Syntactic Approach to Structural Analysis of On-line Handwritten Mathematical Expressions
+R1	10.1.1.19.5969	Recognizing Mathematical Expressions Using Tree Transformation
+R1	10.1.1.176.1888	The immediate usability of graffiti
+R1	10.1.1.30.6093	A Dynamic Grouping Technique for Ink and Audio Notes
+R1	10.1.1.78.7431	A ground-truthed mathematical character and symbol image database
+R1	10.1.1.7.7138	Clustering Writing Styles with a Self-Organizing Map
+R1	10.1.1.19.1794	Directions in Recognizing Tabular Structures of Handwritten Mathematics Notation
+R1	10.1.1.157.9104	Adaptive recognition of implicit structures in human-organized layouts
+R1	10.1.1.318.6862	On-line handwritten formula recognition using statistical methods
+R1	10.1.1.136.8490	Mathematical Sketching: A New Approach to Creating and Exploring Dynamic Illustrations
+R1	10.1.1.124.4242	Recognition for large sets of handwritten mathematical symbols
+R1	10.1.1.58.4209	Methods, Report and Survey for the Comparison of Diverse Isolated Character Recognition Results on the UNIPEN Database

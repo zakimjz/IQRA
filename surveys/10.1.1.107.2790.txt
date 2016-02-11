@@ -1,0 +1,52 @@
+10.1.1.107.2790	2005	Toward the next generation of recommender systems: A survey of the state-of-the-art and possible extensions
+R1	10.1.1.20.8521	Selective sampling using the Query by Committee algorithm
+R1	10.1.1.30.9676	Learning to Order Things
+R1	10.1.1.33.1187	Probabilistic Latent Semantic Analysis
+R1	10.1.1.27.7690	Modern Information Retrieval
+R1	10.1.1.136.4322	GroupLens: An Open Architecture for Collaborative Filtering of Netnews
+R1	10.1.1.119.2797	Improving generalization with active learning
+R1	10.1.1.369.723	Heterogeneous uncertainty sampling for supervised learning
+R1	10.1.1.15.9737	Discovery and Evaluation of Aggregate Usage Profiles for Web Personalization
+R1	10.1.1.18.5535	Active Learning with Statistical Models
+R1	10.1.1.201.9694	Empirical Analysis of Predictive Algorithm for Collaborative Filtering
+R1	10.1.1.16.4936	Content-Boosted Collaborative Filtering for Improved Recommendations
+R1	10.1.1.38.6498	Collaborative Filtering by Personality Diagnosis: A Hybrid Memory- and Model-Based Approach
+R1	10.1.1.331.3636	Latent Semantic Models for Collaborative filtering
+R1	10.1.1.3.901	Flexible Mixture Model for Collaborative Filtering
+R1	10.1.1.324.9056	Combining collaborative filtering with personal agents for better recommendations
+R1	10.1.1.115.3415	Novelty and redundancy detection in adaptive filtering
+R1	10.1.1.37.1595	The Weighted Majority Algorithm
+R1	10.1.1.30.6583	Social Information Filtering: Algorithms for Automating "Word of Mouth"
+R1	10.1.1.10.1932	Modeling User Rating Profiles for Collaborative Filtering
+R1	10.1.1.36.4620	Recommendation as Classification: Using Social and Content-Based Information in Recommendation
+R1	10.1.1.49.1946	The TREC-6 Filtering Track: Description and Analysis
+R1	10.1.1.43.1280	E-Commerce Recommendation Applications
+R1	10.1.1.157.1807	Adaptive lightweight text filtering
+R1	10.1.1.167.7612	Itembased Collaborative Filtering Recommendation Algorithms
+R1	10.1.1.2.4437	Combining Usage, Content, and Structure Data to Improve Web Site Recommendation
+R1	10.1.1.23.5041	Horting Hatches an Egg: A New Graph-Theoretic Approach to Collaborative Filtering
+R1	10.1.1.109.6332	Grouplens: Applying collaborative filtering to usenet news
+R1	10.1.1.103.8264	PHOAKS: a system for sharing recommendations
+R1	10.1.1.32.252	Explaining Collaborative Filtering Recommendations
+R1	10.1.1.37.8212	Eigentaste: A Constant Time Collaborative Filtering Algorithm
+R1	10.1.1.360.5223	Multicriteria Optimization
+R1	10.1.1.10.6090	Bayesian Mixed-Effects Models for Recommender Systems
+R1	10.1.1.211.3584	A Bayesian Model for Collaborative Filtering
+R1	10.1.1.40.2101	Learning and Revising User Profiles: The Identification of Interesting Web Sites
+R1	10.1.1.7.2476	Collaborative Filtering via Gaussian Probabilistic Latent Semantic Analysis
+R1	10.1.1.16.4348	Content-Based Book Recommending Using Learning for Text Categorization
+R1	10.1.1.421.1323	Expert-driven validation of rule-based user models in personalization 9
+R1	10.1.1.12.3012	An MDP-Based Recommender System
+R1	10.1.1.3.1590	Applying Associative Retrieval Techniques to Alleviate the Sparsity Problem in Collaborative Filtering
+R1	10.1.1.16.4905	Book Recommending using Text Categorization with Extracted Information
+R1	10.1.1.221.4365	Implicit Feedback for Recommender System
+R1	10.1.1.21.2137	Maximum Likelihood Estimation for Filtering Thresholds
+R1	10.1.1.35.3495	Recommendation Systems: A Probabilistic Analysis
+R1	10.1.1.14.7463	MovieLens Unplugged: Experiences with an Occasionally Connected Recommender System
+R1	10.1.1.129.5228	The digitization of word of mouth: Promise and challenges of online feedback mechanisms
+R1	10.1.1.23.6907	Collaborative Learning for Recommender Systems
+R1	10.1.1.12.4938	Customer Lifetime Value Modeling and Its Use for Customer Retention Planning
+R1	10.1.1.40.7269	Memory-Based Weighted-Majority Prediction For Recommender Systems
+R1	10.1.1.40.4507	Using Probabilistic Relational Models for Collaborative Filtering
+R1	10.1.1.177.5125	A maximum entropy approach to collaborative filtering in dynamic, sparse, high-dimensional domains
+R1	10.1.1.105.2517	Probabilistic Memory-based Collaborative Filtering

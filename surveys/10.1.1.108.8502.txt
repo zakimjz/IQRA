@@ -1,0 +1,150 @@
+10.1.1.108.8502	2007	Outlier Detection: A Survey
+R1	10.1.1.217.4132	Mining Association Rules between Sets of Items in Large Databases
+R1	10.1.1.40.9892	Mining Sequential Patterns
+R1	10.1.1.120.9821	Conditional random fields: Probabilistic models for segmenting and labeling sequence data
+R1	10.1.1.329.5778	A Markov Chain Model of Temporal Behavior for Anomaly Detection
+R1	10.1.1.116.2034	Maximum entropy markov models for information extraction and segmentation
+R1	10.1.1.33.3654	Activity Monitoring: Noticing interesting changes in behavior
+R1	10.1.1.108.6701	On-line unsupervised outlier detection using finite mixtures with discounting learning algorithms
+R1	10.1.1.26.2088	Visual Data Mining: Recognizing Telephone Calling Fraud
+R1	10.1.1.407.7108	Discovery of frequent episodes in event sequences
+R1	10.1.1.47.6145	A Sense of Self for Unix Processes
+R1	10.1.1.134.4855	Data Mining Approaches for Intrusion Detection
+R1	10.1.1.317.9421	Detecting intrusion using system calls: alternative data models
+R1	10.1.1.24.1005	A Fast Automaton-Based Method for Detecting Anomalous Program Behaviors
+R1	10.1.1.27.304	Learning Program Behavior Profiles for Intrusion Detection
+R1	10.1.1.114.4122	EMERALD: Event monitoring enabling responses to anomalous live disturbances
+R1	10.1.1.117.6291	Detection of Abrupt Spectral Changes using Support Vector Machines. An application to audio signal segmentation
+R1	10.1.1.43.6197	Intrusion Detection using Sequences of System Calls
+R1	10.1.1.28.8387	Adaptive Intrusion Detection: a Data Mining Approach
+R1	10.1.1.216.8842	An Immunological Approach to Change Detection: Algorithms
+R1	10.1.1.17.9158	State Transition Analysis: A Rule-Based Intrusion Detection Approach
+R1	10.1.1.39.912	Estimating the Support of a High-Dimensional Distribution
+R1	10.1.1.34.4329	Efficient Clustering of High-Dimensional Data Sets with Application to Reference Matching
+R1	10.1.1.121.5724	A Probabilistic Framework for Semi-Supervised Clustering
+R1	10.1.1.158.7469	Temporal sequence learning and data reduction for anomaly detection
+R1	10.1.1.121.9220	A density-based algorithm for discovering clusters in large spatial databases with noise
+R1	10.1.1.89.8594	COOLCAT: an entropy-based algorithm for categorical clustering
+R1	10.1.1.5.5141	Specification-based Anomaly Detection: A New Approach for Detecting Network Intrusions
+R1	10.1.1.107.5806	Wavecluster: A multi-resolution clustering approach for very large spatial databases
+R1	10.1.1.48.3258	Self-Nonself Discrimination in a Computer
+R1	10.1.1.44.3648	Clustering Sequences with Hidden Markov Models
+R1	10.1.1.40.1452	Learning Patterns from Unix Process Execution Traces for Intrusion Detection
+R1	10.1.1.12.7883	Learning Nonstationary Models of Normal Network Traffic for Detecting Novel Attacks
+R1	10.1.1.134.6510	Anomaly Detection of Web-based Attacks
+R1	10.1.1.30.8264	Learning to Predict Rare Events in Event Sequences
+R1	10.1.1.42.8795	A Linear Programming Approach to Novelty Detection
+R1	10.1.1.133.6013	Parallel Multilevel k-way Partitioning Scheme for Irregular Graphs
+R1	10.1.1.131.2385	Outlier detection for high dimensional data
+R1	10.1.1.35.8948	LOF: Identifying Density-Based Local Outliers
+R1	10.1.1.29.2637	Mining Needles in a Haystack: Classifying Rare Classes via Two-Phase Rule Induction
+R1	10.1.1.17.947	Efficient Algorithms for Mining Outliers from Large Data Sets
+R1	10.1.1.31.3570	Intrusion Detection with Neural Networks
+R1	10.1.1.10.3542	An Anomaly Detection Technique Based On A Chi-Square Statistic For Detecting Intrusions Into Information Systems
+R1	10.1.1.43.8014	Outlier Detection and Motion Segmentation
+R1	10.1.1.133.1434	Handwritten digit recognition with a back-propagation network
+R1	10.1.1.137.9452	A Linear Method for Deviation Detection in Large Databases
+R1	10.1.1.34.184	Mining Surprising Patterns Using Temporal Description Length
+R1	10.1.1.142.7309	Nearest neighbor clutter removal for estimating features in spatial point processes
+R1	10.1.1.411.6806	One-Class SVMs for Document Classification
+R1	10.1.1.308.7424	Lightweight Agents for Intrusion Detection
+R1	10.1.1.13.4127	Identifying and Eliminating Mislabeled Training Instances
+R1	10.1.1.29.8564	Robust Decision Trees: Removing Outliers from Databases
+R1	10.1.1.10.638	Bayesian Event Classification for Intrusion Detection
+R1	10.1.1.19.9291	Active Platform Security through Intrusion Detection Using Naive Bayesian Network For Anomaly Detection
+R1	10.1.1.15.8899	Online Data Mining for Co-Evolving Time Sequences
+R1	10.1.1.28.5650	Combining One-class Classifiers
+R1	10.1.1.18.7553	OPTICS-OF: Identifying Local Outliers
+R1	10.1.1.28.5042	Mining Top-n Local Outliers in Large Databases
+R1	10.1.1.13.9009	Detecting Graph-Based Spatial Outliers: Algorithms and Applications (Summary of Results)
+R1	10.1.1.10.7512	One Class Support Vector Machines for Detecting Anomalous Windows Registry Accesses
+R1	10.1.1.57.2401	A Novelty Detection Approach To Diagnose Damage In A Cracked Beam
+R1	10.1.1.27.993	Nonlinear Gated Experts for Time Series: Discovering Regimes and Avoiding Overfitting
+R1	10.1.1.81.3114	Towards parameter-free data mining
+R1	10.1.1.197.9801	An approach to novelty detection applied to the classification of image regions
+R1	10.1.1.52.8781	Statistical Independence and Novelty Detection with Information Preserving Nonlinear Maps
+R1	10.1.1.33.7953	Novelty, Confidence & Errors In Connectionist Systems
+R1	10.1.1.130.9194	A formal framework for positive and negative detection schemes
+R1	10.1.1.69.7852	LOCI: Fast outlier detection using the local correlation integral
+R1	10.1.1.13.4821	A Tale of Two Filters -- On-line Novelty Detection
+R1	10.1.1.116.4156	Mining anomalies using traffic feature distributions
+R1	10.1.1.109.1943	A survey of outlier detection methodologies
+R1	10.1.1.11.3574	CLUSEQ: Efficient and Effective Sequence Clustering
+R1	10.1.1.119.3205	ADAM: A testbed for exploring the use of data mining in intrusion detection
+R1	10.1.1.100.4852	Fast mining of distance-based outliers in high dimensional datasets
+R1	10.1.1.13.2503	Mining Distance-Based Outliers in Near Linear Time with Randomization and a Simple Pruning Rule
+R1	10.1.1.107.6705	Protein family classification using sparse markov transducers
+R1	10.1.1.23.8418	Characterizing the Behavior of a Program Using Multiple-Length N-grams
+R1	10.1.1.104.8018	A classification framework for anomaly detection
+R1	10.1.1.16.4437	Parzen-Window Network Intrusion Detectors
+R1	10.1.1.9.8572	Towards Multisensor Data Fusion for DoS Detection
+R1	10.1.1.45.9763	Topic Detection and Tracking Pilot Study
+R1	10.1.1.14.1934	Online Novelty Detection on Temporal Sequences
+R1	10.1.1.101.8966	Graph-based anomaly detection
+R1	10.1.1.20.9877	Fault Detection by Mining Association Rules from House-keeping Data
+R1	10.1.1.158.5767	Sequence matching and learning in anomaly detection for computer security
+R1	10.1.1.332.3018	Predicting Rare Events in Temporal Domains
+R1	10.1.1.33.878	Call-based Fraud Detection in Mobile Communication Networks using a Hierarchical Regime-Switching Model
+R1	10.1.1.12.3366	Outlier Detection Using Replicator Neural Networks
+R1	10.1.1.101.9899	Spatial weighted outlier detection
+R1	10.1.1.215.3893	A comparative study of anomaly detection schemes in network intrusion detection
+R1	10.1.1.66.299	A novel anomaly detection scheme based on principal component classifier
+R1	10.1.1.102.4480	Mining distance-based outliers from large databases in any metric space
+R1	10.1.1.195.1161	Using Kohonen’s selforganizing feature map to uncover automobile bodily injury claims fraud
+R1	10.1.1.66.8341	A statistical method for profiling network traffic
+R1	10.1.1.131.1506	Minority Report in Fraud Detection: Classification of Skewed Data
+R1	10.1.1.104.4142	Detection and classification of intrusions and faults using sequences of system calls
+R1	10.1.1.33.2216	Intrusion Detection Applying Machine Learning to Solaris Audit Data
+R1	10.1.1.110.1220	An Application of Machine Learning to Anomaly Detection
+R1	10.1.1.15.7178	Using Artificial Anomalies to Detect Unknown and Known Network Intrusions
+R1	10.1.1.296.9837	Outlier detection using k-nearest neighbour graph
+R1	10.1.1.12.5111	ADMIT: Anomaly-based Data Mining for Intrusions
+R1	10.1.1.74.2063	Hot sax: Efficiently finding the most unusual time series subsequence
+R1	10.1.1.107.2071	Resampling approach for anomaly detection in multispectral images
+R1	10.1.1.177.5125	A maximum entropy approach to collaborative filtering in dynamic, sparse, high-dimensional domains
+R1	10.1.1.125.8146	Towards nic-based intrusion detection
+R1	10.1.1.28.2263	Outlier Detection using Classifier Instability.
+R1	10.1.1.215.4854	On abnormality detection in spuriously populated data streams
+R1	10.1.1.53.7441	The Grand Tour as a Method for Detecting Multivariate Outliers
+R1	10.1.1.24.5743	Unsupervised Profiling Methods for Fraud Detection
+R1	10.1.1.115.1192	Wat: Finding top-k discords in time series database
+R1	10.1.1.69.3285	Modeling Multiple Time Series for Anomaly Detection
+R1	10.1.1.11.2787	Very Fast Outlier Detection in Large Multidimensional Data Sets
+R1	10.1.1.68.4476	Detecting anomalous records in categorical datasets
+R1	10.1.1.2.4153	Residual Generation and Visualization for Understanding Novel Process Conditions
+R1	10.1.1.147.2184	Finding time series discords based on haar transform
+R1	10.1.1.79.1443	An approach to spacecraft anomaly detection problem using kernel feature space
+R1	10.1.1.132.9801	Loaded: Link-based outlier and anomaly detection in evolving data sets
+R1	10.1.1.88.6380	Detection of significant sets of episodes in event sequences
+R1	10.1.1.42.1868	The Error-Reject Tradeoff
+R1	10.1.1.34.8726	Novelty Detection in Airframe Strain Data
+R1	10.1.1.2.6527	Robust Anomaly Detection Using Support Vector Machines
+R1	10.1.1.87.1692	Eigenspace-based Anomaly Detection in Computer Systems
+R1	10.1.1.137.1980	Finding the most unusual time series subsequence: algorithms and applications
+R1	10.1.1.135.9256	NSOM: A Real-Time Network-Based Intrusion Detection System Using Self-Organizing Maps
+R1	10.1.1.36.7407	Informal Identification of Outliers in Medical Data
+R1	10.1.1.215.2870	Roam: Rule- and motif-based anomaly detection in massive moving object data sets
+R1	10.1.1.20.5474	Improving the performance of radial basis function classifiers in condition monitoring and fault diagnosis applications where `unknown' faults may occur
+R1	10.1.1.65.7407	Approximations to magic: Finding unusual medical time series
+R1	10.1.1.88.2502	A machine learning approach to anomaly detection
+R1	10.1.1.42.9706	A Model of Habituation Applied to Mobile Robots
+R1	10.1.1.147.653	Two state-based approaches to program-based anomaly detection
+R1	10.1.1.113.3386	Fast distributed outlier detection in mixed-attribute data sets
+R1	10.1.1.59.2757	Sequence Modeling with Mixtures of Conditional Maximum Entropy Distributions
+R1	10.1.1.56.6494	A Neural Network Autoassociator for Induction Motor Failure Prediction
+R1	10.1.1.81.8522	Incremental local outlier detection for data streams
+R1	10.1.1.78.128	A vertical distance-based outlier detection method with local pruning
+R1	10.1.1.115.4568	Outlier detection based on the distribution of distances between data points
+R1	10.1.1.330.8062	Learning States and Rules for Time Series Anomaly Detection
+R1	10.1.1.23.4105	The Importance Of Being Emergent
+R1	10.1.1.26.8659	Detecting Network Intrusion Using a Markov Modulated Nonhomogeneous Poisson Process
+R1	10.1.1.38.5595	Markov Monitoring with Unknown States
+R1	10.1.1.115.1433	Neighborhood formation and anomaly detection in bipartite graphs
+R1	10.1.1.91.3596	On local spatial outliers
+R1	10.1.1.215.6061	Mining for outliers in sequential databases
+R1	10.1.1.62.2218	Weighting versus pruning in rule validation for detecting network and host anomalies
+R1	10.1.1.21.5355	Fraud Detection In Communications Networks Using Neural And Probabilistic Methods
+R1	10.1.1.10.7164	HOT: Hypergraph-based Outlier Test for Categorical Data
+R1	10.1.1.33.3339	A Function Approximation Approach to Anomaly Detection in Propulsion System Test Data
+R1	10.1.1.121.210	comparative study of rnn for outlier detection in data mining
+R1	10.1.1.331.1381	Detecting outlying subspaces for high-dimensional data: the new task

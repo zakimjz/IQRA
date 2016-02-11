@@ -1,0 +1,23 @@
+10.1.1.214.7355	2005	Three-Dimensional Shape Searching: State-of-the-Art Review and Future Trends
+R1	10.1.1.12.2380	An Active Learning Framework for Content-Based Information Retrieval
+R1	10.1.1.136.607	An overview of audio information retrieval
+R1	10.1.1.111.7540	A search engine for 3d models
+R1	10.1.1.12.6624	Harmonic 3D Shape Matching
+R1	10.1.1.14.4660	Rotation Invariant Spherical Harmonic Representation of 3D Shape Descriptors
+R1	10.1.1.31.7027	Matching 3D Models with Shape Distributions
+R1	10.1.1.42.9021	Model-Based Object Recognition - A Survey of Recent Research
+R1	10.1.1.4.3270	The Princeton Shape Benchmark
+R1	10.1.1.40.9013	Efficient and Effective Querying by Image Content
+R1	10.1.1.17.3080	Approximate Tree Matching and Shape Similarity
+R1	10.1.1.10.8114	Skeleton Based Shape Matching and Retrieval
+R1	10.1.1.21.956	State-Of-The-Art In Content-Based Image And Video Retrieval
+R1	10.1.1.19.2056	A Geometric Approach to 3D Object Comparison
+R1	10.1.1.144.5016	Tools for 3D-object retrieval: Karhunen-Loeve Transform and spherical harmonics
+R1	10.1.1.2.6885	Content-based Three-dimensional Engineering Shape Search
+R1	10.1.1.67.9266	3D shape matching with 3D shape contexts
+R1	10.1.1.20.2887	IR evaluation methods for retrieving highly relevant documents
+R1	10.1.1.329.7090	Using sets of feature vectors for similarity search on voxelized CAD objects
+R1	10.1.1.180.8102	A 3D digital library system: Capture, analysis, query, and display
+R1	10.1.1.385.9706	A deployed engineering design retrieval system using neural networks
+R1	10.1.1.116.1618	Part-sourcing in a global market
+R1	10.1.1.20.9775	Efficient Feature Extraction For 2D/3D Objects In Mesh Representation

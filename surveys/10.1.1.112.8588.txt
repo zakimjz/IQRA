@@ -1,0 +1,79 @@
+10.1.1.112.8588	2006	Object Tracking: A Survey
+R1	10.1.1.36.8357	CONDENSATION - conditional density propagation for visual tracking
+R1	10.1.1.131.2084	A tutorial on hidden markov models and selected applications in speech recognition
+R1	10.1.1.332.356	The Nature of Statistical Learning Theory
+R1	10.1.1.118.8639	An Algorithm for Tracking Multiple Targets
+R1	10.1.1.1.3276	A Unified Algebraic Approach to 2-D and 3-D Motion Segmentation
+R1	10.1.1.214.8532	An optimal graph theoretic approach to data clustering: Theory and its application to image segmentation
+R1	10.1.1.14.3601	Normalized Cuts and Image Segmentation
+R1	10.1.1.185.1651	Determining Optical Flow
+R1	10.1.1.15.9468	A Multiple Hypothesis Approach to Figure Tracking
+R1	10.1.1.160.3832	Mean shift: A robust approach toward feature space analysis
+R1	10.1.1.20.215	Background and Foreground Modeling Using Nonparametric Kernel Density Estimation for Visual Surveillance
+R1	10.1.1.110.5546	Neural Network-Based Face Detection
+R1	10.1.1.33.1784	Interpreting Face Images using Active Appearance Models
+R1	10.1.1.150.441	Sequential Monte Carlo Methods for Multiple Target Tracking and Data Fusion
+R1	10.1.1.420.3300	A computational approach to edge detection
+R1	10.1.1.315.2756	A theory for multiresolution signal decomposition : the wavelet representation
+R1	10.1.1.18.5663	EigenTracking: Robust Matching and Tracking of Articulated Objects Using a View-Based Representation
+R1	10.1.1.124.5318	Snakes: Active contour models
+R1	10.1.1.78.2338	Multiple Camera Tracking of Interacting and Occluded Human Motion
+R1	10.1.1.111.7659	Selection of relevant features and examples in machine learning
+R1	10.1.1.122.9509	Human Motion Analysis: A Review
+R1	10.1.1.32.8918	A Decision-Theoretic Generalization of on-Line Learning and an Application to Boosting
+R1	10.1.1.30.3515	Additive Logistic Regression: a Statistical View of Boosting
+R1	10.1.1.131.2072	The Visual Analysis of Human Movement: A Survey
+R1	10.1.1.14.4931	Distinctive Image Features from Scale-Invariant Keypoints
+R1	10.1.1.135.7147	Good features to track
+R1	10.1.1.215.296	Pfinder: Real-time tracking of the human body
+R1	10.1.1.21.2196	Geodesic Active Contours
+R1	10.1.1.6.4265	Robust Online Appearance Models for Visual Tracking
+R1	10.1.1.21.1000	Geodesic Active Contours and Level Sets for the Detection and Tracking of Moving Objects
+R1	10.1.1.20.663	A Probabilistic Background Model for Tracking
+R1	10.1.1.84.2384	Region Tracking via Level Set PDEs Without Motion Computation
+R1	10.1.1.135.8624	On-line selection of discriminative tracking features
+R1	10.1.1.22.24	Wallflower: Principles and Practice of Background Maintenance
+R1	10.1.1.332.5361	Background modeling and subtraction of dynamic scenes
+R1	10.1.1.116.182	A Review of Statistical Data Association Techniques for Motion Correspondence
+R1	10.1.1.108.203	A Survey of Computer Vision-Based Human Motion Capture
+R1	10.1.1.406.9698	A general framework for object detection
+R1	10.1.1.90.8936	Object tracking with Bayesian estimation of dynamic layer representations
+R1	10.1.1.49.5898	Elliptical Head Tracking Using Intensity Gradients and Color Histograms
+R1	10.1.1.12.8952	Kalman Filter-based Algorithms for Estimating Depth from Image Sequences
+R1	10.1.1.140.9946	Spline-based image registration
+R1	10.1.1.132.3753	A Bayesian computer vision system for modeling human interactions
+R1	10.1.1.375.7581	Introduction to Monte Carlo methods
+R1	10.1.1.1.8546	3D Trajectory Recovery for Tracking Multiple Objects and Trajectory Guided Recognition of Actions
+R1	10.1.1.24.3528	Topology Free Hidden Markov Models: Application to Background Modeling
+R1	10.1.1.124.1906	Unsupervised Improvement of Visual Detectors using Co-Training
+R1	10.1.1.111.5770	Discriminative random fields: A discriminative framework for contextual interaction in classification
+R1	10.1.1.32.1383	Color-Based Tracking of Heads and Other Mobile Objects at Video Frame Rates
+R1	10.1.1.10.4061	Detecting Pedestrians Using Patterns of Motion and Appearance
+R1	10.1.1.105.5661	Support vector tracking
+R1	10.1.1.207.9778	Real-time closed-world tracking, in
+R1	10.1.1.4.7932	BraMBLe: A Bayesian Multiple-Blob Tracker
+R1	10.1.1.100.5507	A PERFORMANCE EVALUATION OF LOCAL DESCRIPTORS
+R1	10.1.1.21.1960	JPDAF Based HMM for Real-Time Contour Tracking
+R1	10.1.1.113.6035	W4: Real-time surveillance of people and their activities
+R1	10.1.1.39.1649	Real-Time Tracking of Multiple People Using Continuous Detection
+R1	10.1.1.21.1649	Error Analysis of Background Adaption
+R1	10.1.1.51.9487	Video Indexing Based on Mosaic Representations
+R1	10.1.1.108.8409	Overcomplete steerable pyramid filters and rotation invariance
+R1	10.1.1.19.8042	Statistical Mosaics For Tracking
+R1	10.1.1.16.2638	Space-Time Tracking
+R1	10.1.1.143.4647	An affine invariant interest point detector
+R1	10.1.1.1.4622	Contour Based Object Tracking with Occlusion Handling in Video Acquired Using Mobile Cameras
+R1	10.1.1.122.5270	Segmentation given partial grouping constraints
+R1	10.1.1.13.1733	Algorithms for Cooperative Multisensor Surveillance
+R1	10.1.1.15.7472	Consistent Labeling of Tracked Objects in Multiple Cameras with Overlapping Fields of View
+R1	10.1.1.14.6565	M2Tracker: A Multi-View Approach to Segmenting and Tracking People in a Cluttered Scene Using Region-Based Stereo
+R1	10.1.1.418.3158	Tracking across multiple cameras with disjoint views
+R1	10.1.1.105.3671	Resolving motion correspondence for densely moving points
+R1	10.1.1.95.5853	Online ensemble learning
+R1	10.1.1.2.7478	A Non-Iterative Greedy Algorithm for Multi-frame Point Correspondence
+R1	10.1.1.85.5477	Temporal spatio-velocity transform and its application to tracking and interaction
+R1	10.1.1.127.4980	A hierarchical bayesian network for event recognition of human actions and interactions
+R1	10.1.1.21.2524	Mean Shift Analysis and Applications
+R1	10.1.1.5.9843	Adaptive Visual Tracking and Recognition using Particle Filters
+R1	10.1.1.73.4574	Probabilistic object tracking using multiple features
+R1	10.1.1.389.4167	Object contour tracking using graph cuts based active contours

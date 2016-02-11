@@ -1,0 +1,28 @@
+10.1.1.2.8746	2004	Effect of Vertical Handovers on Performance of TCP-Friendly Rate Control
+R1	10.1.1.143.9137	Modeling TCP Throughput: A Simple Model and its Empirical Validation
+R1	10.1.1.10.2033	Transient Behaviors of TCP-friendly Congestion Control Protocols
+R1	10.1.1.136.4408	Equation-based congestion control for unicast applications
+R1	10.1.1.28.9234	On Estimating End-to-End Network Path Properties
+R1	10.1.1.10.4942	Improving Reliable Transport and Handoff Performance in Cellular Wireless Networks
+R1	10.1.1.218.8371	The Eifel Algorithm: Making TCP Robust Against Spurious Retransmissions
+R1	10.1.1.22.5685	The Addition of Explicit Congestion Notification (ECN) to IP
+R1	10.1.1.335.5675	Modeling Wireless Links for Transport Protocols
+R1	10.1.1.12.2414	TCP Friendly Rate Control (TFRC): Protocol Specification
+R1	10.1.1.21.4505	Dynamic Behavior of Slowly-Responsive Congestion Control Algorithms
+R1	10.1.1.107.4992	A receiver-centric transport protocol for mobile hosts with heterogeneous wireless interfaces
+R1	10.1.1.100.1629	Receiver based management of low bandwidth access links
+R1	10.1.1.40.7252	Improving the Performance of Reliable Transport Protocols in Mobile Computing Environments
+R1	10.1.1.40.3362	Policy-Enabled Handoffs Across Heterogeneous Wireless Networks
+R1	10.1.1.31.5436	Vertical Handoffs in Wireless Overlay Networks
+R1	10.1.1.137.2019	A Survey on TCP-friendly  Congestion Control
+R1	10.1.1.3.7679	Multi Service Link Layers: An Approach to Enhancing Internet Performance over Wireless Links
+R1	10.1.1.374.6674	Tcp congestion control
+R1	10.1.1.136.3460	The infostations challenge: Balancing cost and ubiquity in delivering wireless data
+R1	10.1.1.18.7127	Multi-Layer Protocol Tracing in a GPRS Network
+R1	10.1.1.10.7158	Congestion Control in Linux TCP
+R1	10.1.1.14.7859	Designing DCCP: Congestion Control Without Reliability
+R1	10.1.1.22.9990	Fast and scalable wireless handoffs in support of mobile Internet audio
+R1	10.1.1.33.4598	The effect of Mobile IP handoffs on the performance of TCP
+R1	10.1.1.18.6093	Making TCP Robust Against Delay Spikes
+R1	10.1.1.81.5528	Responding to spurious timeouts in TCP
+R1	10.1.1.93.6932	Performance analysis of optimized smooth handoff

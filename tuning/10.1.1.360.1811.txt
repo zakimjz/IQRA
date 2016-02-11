@@ -1,0 +1,22 @@
+10.1.1.360.1811	2011	Small-world Datacenters
+R1	10.1.1.140.3129	A Scalable Content-Addressable Network
+R1	10.1.1.117.7097	The Small-World Phenomenon: An Algorithmic Perspective
+R1	10.1.1.17.4065	Viceroy: A Scalable and Dynamic Emulation of the Butterfly
+R1	10.1.1.42.9931	Compass Routing on Geometric Networks
+R1	10.1.1.20.814	Small-World Phenomena and the Dynamics of Information
+R1	10.1.1.129.6877	An Experimental Study of the Small World Problem
+R1	10.1.1.13.1630	Symphony: Distributed Hashing in a Small World
+R1	10.1.1.18.1296	Using the Small-World Model to Improve Freenet Performance
+R1	10.1.1.62.410	Complex Networks and Decentralized Search Algorithms
+R1	10.1.1.116.942	Meridian: A Lightweight Network Location Service without Virtual Coordinates
+R1	10.1.1.123.844	Linux Software Router: Data Plane Optimization and Performance Evaluation
+R1	10.1.1.141.3877	NetFPGA: reusable router architecture for experimental research
+R1	10.1.1.147.3229	Approximate Matching for Peer-to-PeerOverlayswith Cubit
+R1	10.1.1.295.9174	Vl2: A scalable and flexible data center network
+R1	10.1.1.160.3180	DCell: A scalable and fault-tolerant network structure for data centers
+R1	10.1.1.149.9669	BCube: A High Performance, Server-centric Network Architecture for Modular Data Centers
+R1	10.1.1.154.5604	RouteBricks: Exploiting Parallelism to Scale Software Routers
+R1	10.1.1.281.5217	Network ‘Small-World-Ness’: a quantitative method for determining canonical network equivalence
+R1	10.1.1.168.3325	Symbiotic Routing in Future Data Centers
+R1	10.1.1.168.5504	PacketShader: a GPU-Accelerated Software Router
+R1	10.1.1.229.2047	ServerSwitch: A Programmable and High Performance Platform for Data Center Networks

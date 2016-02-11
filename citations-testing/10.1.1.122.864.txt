@@ -1,0 +1,24 @@
+10.1.1.122.864	2008	Halo: High-assurance locate for distributed hash tables
+R1	10.1.1.140.3129	A Scalable Content-Addressable Network
+R1	10.1.1.105.3673	Chord: A Scalable Peer-to-Peer Lookup Service for Internet Applications
+R1	10.1.1.1.1674	PAST: A large-scale, persistent peer-to-peer storage utility
+R1	10.1.1.38.1850	Accessing Nearby Copies of Replicated Objects in a Distributed Environment
+R1	10.1.1.1.5574	Koorde: A simple degree-optimal distributed hash table
+R1	10.1.1.142.752	Pastry: Scalable, decentralized object location, and routing for large-scale peer-to-peer systems
+R1	10.1.1.118.8846	Skipnet: A scalable overlay network with practical locality properties
+R1	10.1.1.16.3291	Introducing Tarzan, a Peer-to-Peer Anonymizing Network Layer
+R1	10.1.1.11.7175	Security Considerations for Peer-to-Peer Distributed Hash Tables
+R1	10.1.1.342.201	Skip Graphs
+R1	10.1.1.118.1870	Secure routing for structured peer-to-peer overlay networks
+R1	10.1.1.1.4196	SCRIBE: The design of a large-scale event notification infrastructure
+R1	10.1.1.16.4785	Kademlia: A Peer-to-peer Information System Based on the XOR Metric
+R1	10.1.1.137.2834	Fast and secure distributed read-only file system
+R1	10.1.1.11.7193	Novel Architectures for P2P Applications: the Continuous-Discrete Approach
+R1	10.1.1.13.1630	Symphony: Distributed Hashing in a Small World
+R1	10.1.1.3.998	Practical Anonymity for the Masses with MorphMix
+R1	10.1.1.61.6702	OpenDHT: A Public DHT Service and Its Uses
+R1	10.1.1.102.3617	Making chord robust to byzantine attacks
+R1	10.1.1.111.1476	Supervised peer-to-peer systems
+R1	10.1.1.75.2571	Salsa: A Structured Approach to Large-Scale Anonymity
+R1	10.1.1.210.1547	Efficient content authentication in peer-to-peer networks
+R1	10.1.1.110.9831	The Rainbow Skip Graph: A Fault-Tolerant Constant-Degree Distributed Data Structure

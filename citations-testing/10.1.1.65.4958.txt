@@ -1,0 +1,25 @@
+10.1.1.65.4958	2007	A machine learning approach to TCP throughput prediction
+R1	10.1.1.119.6140	Resilient Overlay Networks
+R1	10.1.1.332.356	The Nature of Statistical Learning Theory
+R1	10.1.1.25.3452	The Macroscopic Behavior of the TCP Congestion Avoidance Algorithm
+R1	10.1.1.143.9137	Modeling TCP Throughput: A Simple Model and its Empirical Validation
+R1	10.1.1.1.3504	A Stochastic Model of TCP/IP with Stationary Random Losses
+R1	10.1.1.168.4807	End-to-end available bandwidth: Measurement methodology, dynamics, and relation with TCP throughput
+R1	10.1.1.143.6798	Modeling TCP latency
+R1	10.1.1.134.20	End-to-End Internet Packet Dynamics
+R1	10.1.1.123.5505	On the constancy of Internet path properties
+R1	10.1.1.33.1084	Measurements and analysis of end-to-end Internet dynamics
+R1	10.1.1.11.2062	Online Learning with Kernels
+R1	10.1.1.17.9158	State Transition Analysis: A Rule-Based Intrusion Detection Approach
+R1	10.1.1.114.4288	A tutorial on support vector regression
+R1	10.1.1.182.1888	Analyzing Stability in WideArea Network Performance
+R1	10.1.1.18.2405	On the Characteristics and Origins of Internet Flow Rates
+R1	10.1.1.16.7128	Predicting TCP Throughput from Non-invasive Network Sampling
+R1	10.1.1.60.2372	Predicting short-transfer latency from TCP arcana: A trace-based validation
+R1	10.1.1.102.1485	SVM Learning of IP Address Structure for Latency Prediction
+R1	10.1.1.41.816	Stochastic Modeling of TCP over Lossy Links
+R1	10.1.1.17.1003	Predicting the Performance of Wide Area Data Transfers
+R1	10.1.1.16.8337	Multivariate Resource Performance Forecasting in the Network Weather Service
+R1	10.1.1.105.891	On the Predictability of Large Transfer TCP Throughput
+R1	10.1.1.64.7813	A Proposed Framework for Calibration of Available Bandwidth Estimation Tools
+R1	10.1.1.5.9626	Characterizing And Predicting Tcp Throughput On The Wide Area Network

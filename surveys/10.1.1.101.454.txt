@@ -1,0 +1,45 @@
+10.1.1.101.454	2006	OpenKnowledge ⋆ Deliverable 3.1.: Dynamic Ontology Matching: a Survey
+R1	10.1.1.140.3129	A Scalable Content-Addressable Network
+R1	10.1.1.105.3673	Chord: A Scalable Peer-to-Peer Lookup Service for Internet Applications
+R1	10.1.1.118.6768	Federated database systems for managing distributed, heterogeneous, and autonomous databases
+R1	10.1.1.20.7003	Towards a Standard Upper Ontology
+R1	10.1.1.37.7547	The Ontolingua Server: a Tool for Collaborative Ontology Construction
+R1	10.1.1.101.8349	OBSERVER: An Approach for Query Processing in Global Information Systems based on Interoperation across Pre-existing Ontologies
+R1	10.1.1.17.4650	Generic Schema Matching with Cupid
+R1	10.1.1.16.700	A Survey of Approaches to Automatic Schema Matching
+R1	10.1.1.107.7214	A Comparative Analysis of Methodologies for Database Schema Integration
+R1	10.1.1.103.9186	Semantic matching
+R1	10.1.1.4.969	Web Explanations for Semantic Heterogeneity Discovery
+R1	10.1.1.12.8073	Ontology-Based Integration of Information - A Survey of Existing Approaches
+R1	10.1.1.26.9108	CYC: A Large-Scale Investment in Knowledge Infrastructure
+R1	10.1.1.1.3781	Element Level Semantic Matching
+R1	10.1.1.102.375	Logical foundations of peer-to-peer data integration
+R1	10.1.1.57.9148	Ontology Mapping: The State of the Art
+R1	10.1.1.14.6026	Automatic Word Sense Discrimination
+R1	10.1.1.135.2192	Similarity Flooding: A Versatile Graph Matching Algorithm and Its Application to Schema Matching
+R1	10.1.1.49.4923	Semantic Integration of Semistructured and Structured Data Sources
+R1	10.1.1.14.8996	Magpie - Towards a Semantic Web Browser
+R1	10.1.1.18.7666	Anchor-PROMPT: Using Non-Local Context for Semantic Matching
+R1	10.1.1.10.4772	Ontology Mapping - An Integrated Approach
+R1	10.1.1.111.8464	Aqua: A fast decision support system using approximate query answers
+R1	10.1.1.100.2253	Discovering missing background knowledge in ontology matching
+R1	10.1.1.103.7806	A Large Scale Taxonomy Mapping Evaluation
+R1	10.1.1.101.784	Semantic integration research in the database community: A brief survey
+R1	10.1.1.135.4645	Introduction to the ontology alignment evaluation 2005
+R1	10.1.1.133.1384	Semantic Integration: A Survey Of Ontology-Based Approaches
+R1	10.1.1.102.3578	A classification  of schema-based matching approaches
+R1	10.1.1.175.1738	QOM – Quick ontology mapping
+R1	10.1.1.111.7190	On Schema Matching with Opaque Column Names and Data Values
+R1	10.1.1.102.4136	Poweraqua: Fishing the semantic web
+R1	10.1.1.11.4792	Comparison of Schema Matching Evaluations
+R1	10.1.1.58.9404	Toward Large Scale Integration: Building a MetaQuerier over Databases on the Web
+R1	10.1.1.102.8881	A lightweight coordination calculus for agent systems
+R1	10.1.1.405.5016	Bootstrapping ontology alignment methods with apfel
+R1	10.1.1.125.3751	Managing Uncertainty in Schema Matching with Top-K Schema Mappings
+R1	10.1.1.104.6842	Semantic schema matching
+R1	10.1.1.348.6343	The piazza peer data management system
+R1	10.1.1.3.4017	IF-Map: An Ontology-Mapping Method Based on Information-Flow Theory
+R1	10.1.1.387.4498	Dynamic ontology refinement
+R1	10.1.1.108.2226	Progressive ontology alignment for meaning coordination: An information-theoretic foundation
+R1	10.1.1.137.7504	Web Ontology Segmentation: Analysis, Classification and Use
+R1	10.1.1.2.6460	Extracting Synonymous Gene and Protein Terms From Biological Literature

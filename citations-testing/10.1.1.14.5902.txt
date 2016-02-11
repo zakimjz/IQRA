@@ -1,0 +1,22 @@
+10.1.1.14.5902	1998	Mediating and Metasearching on the Internet
+R1	10.1.1.205.8363	The TSIMMIS Approach to Mediation: Data Models and Languages
+R1	10.1.1.38.7636	Querying Heterogeneous Information Sources Using Source Descriptions
+R1	10.1.1.127.3070	Information integration using logical views
+R1	10.1.1.21.478	Multi-Service Search and Comparison Using the MetaCrawler
+R1	10.1.1.1.2918	Scaling Heterogeneous Databases and the Design of Disco
+R1	10.1.1.35.735	MedMaker: A Mediation System Based on Declarative Specifications
+R1	10.1.1.12.7606	Optimizing Queries across Diverse Data Sources
+R1	10.1.1.32.1651	The Information Manifold
+R1	10.1.1.26.106	Searching Distributed Collections With Inference Networks
+R1	10.1.1.31.1173	Generalizing GlOSS to Vector-Space Databases and Broker Hierarchies
+R1	10.1.1.29.4662	Capabilities-based Query Rewriting in Mediator Systems
+R1	10.1.1.49.3156	Answering Queries Using Templates with Binding Patterns
+R1	10.1.1.103.4491	Describing and using query capabilities of heterogeneous sources
+R1	10.1.1.38.7069	Boolean Query Mapping across Heterogeneous Information Sources (Extended Version)
+R1	10.1.1.45.165	Merging Ranks from Heterogeneous Internet Sources
+R1	10.1.1.132.6191	Proximity search in databases
+R1	10.1.1.29.8868	STARTS: Stanford Proposal for Internet Meta-Searching
+R1	10.1.1.33.2482	The Collection Fusion Problem
+R1	10.1.1.40.8003	Multiple Search Engines in Database Merging
+R1	10.1.1.106.8424	Using probabilistic information in data integration
+R1	10.1.1.17.5506	Predicate Rewriting for Translating Boolean Queries in a Heterogeneous Information System

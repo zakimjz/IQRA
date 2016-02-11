@@ -1,0 +1,21 @@
+10.1.1.127.4988	2007	Design and Implementation of Verifiable Audit Trails for a Versioning File System
+R1	10.1.1.115.4299	Oceanstore: An architecture for global-scale persistent storage
+R1	10.1.1.125.3017	Publius: A robust, tamper-evident, censorship-resistant, web publishing system
+R1	10.1.1.13.1734	Passive NFS Tracing of Email and Research Workloads
+R1	10.1.1.125.41	Wide-area cooperative storage with CFS
+R1	10.1.1.160.4725	A comparison of file system workloads
+R1	10.1.1.128.8654	THE CEDAR FILE SYSTEM
+R1	10.1.1.137.2834	Fast and secure distributed read-only file system
+R1	10.1.1.17.1875	Efficient Certificate Revocation
+R1	10.1.1.10.2167	Enabling the Archival Storage of Signed Documents
+R1	10.1.1.18.8085	Venti: A New Approach to Archival Storage
+R1	10.1.1.122.6037	Metadata efficiency in versioning file systems
+R1	10.1.1.54.2981	An Analysis of Trace Data for Predictive File Caching in Mobile Computing
+R1	10.1.1.110.1442	Provenance-Aware Storage Systems
+R1	10.1.1.12.5598	Plutus: Scalable secure file sharing on untrusted storage
+R1	10.1.1.309.7601	All-or-nothing encryption and the package transform
+R1	10.1.1.208.6423	Incremental Cryptography and Application to Virus Protection
+R1	10.1.1.16.351	A Block-Cipher Mode of Operation for Parallelizable Message Authentication
+R1	10.1.1.18.3894	Naming and Integrity: Self-Verifying Data in Peer-to-Peer Systems
+R1	10.1.1.413.2673	Secure deletion for a versioning file system
+R1	10.1.1.113.3811	I 3 FS: An in-kernel integrity checker and intrusion detection file system

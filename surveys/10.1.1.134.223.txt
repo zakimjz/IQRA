@@ -1,0 +1,21 @@
+10.1.1.134.223	2002	Active Recognition through Next View Planning: A Survey
+R1	10.1.1.18.1128	A Probabilistic Approach to Concurrent Mapping and Localization for Mobile Robots
+R1	10.1.1.17.6253	Reflectance Based Object Recognition
+R1	10.1.1.1.6566	A Bayesian Approach to Landmark Discovery and Active Perception in Mobile Robot Navigation
+R1	10.1.1.114.5165	A Comparison of Position Estimation Techniques Using Occupancy Grids
+R1	10.1.1.1.9094	Experiences with an Interactive Museum Tour-Guide Robot
+R1	10.1.1.54.596	An Autonomous Active Vision System for Complete and Accurate 3D Scene Reconstruction
+R1	10.1.1.40.958	Transinformation for Active Object Recognition
+R1	10.1.1.20.7734	Recognizing Large 3-D Objects through Next View Planning using an Uncalibrated Camera
+R1	10.1.1.45.4778	Active Recognition: Using Uncertainty to Reduce Ambiguity
+R1	10.1.1.71.3799	Planning Multiple Observations for Object Recognition
+R1	10.1.1.41.1437	Viewpoint Selection for Complete Surface Coverage of Three Dimensional Objects
+R1	10.1.1.409.526	Bonsai: 3D object recognition using constrained hearch
+R1	10.1.1.43.6264	Isolated 3-D Object Recognition through Next View Planning
+R1	10.1.1.57.1355	Object Recognition Using Appearance-Based Parts and Relations
+R1	10.1.1.30.7871	A Best Next View selection algorithm incorporating a quality criterion
+R1	10.1.1.39.6952	Localization and Homing using Combinations of Model Views
+R1	10.1.1.31.7218	Spatial Learning for Navigation in Dynamic Environments
+R1	10.1.1.41.7923	A Two-Stage Algorithm for Planning the Next View From Range Images
+R1	10.1.1.57.2843	Hierarchical Organization of Appearance-based Parts and Relations for Object Recognition
+R1	10.1.1.40.7472	Active Object Recognition in Parametric Eigenspace

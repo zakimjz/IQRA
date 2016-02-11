@@ -1,0 +1,38 @@
+10.1.1.120.3657	2007	A Survey of Named Entity Recognition and Classification
+R1	10.1.1.101.3197	Extracting patterns and relations from the world wide web
+R1	10.1.1.14.5614	Automatic Acquisition of Hyponyms from Large Text Corpora
+R1	10.1.1.15.227	Automatic Retrieval and Clustering of Similar Words
+R1	10.1.1.105.6330	Nymble: a high-performance learning name-finder
+R1	10.1.1.38.6961	A Knowledge-free Method for Capitalized Word Disambiguation
+R1	10.1.1.77.7311	The GENIA corpus: An annotated research abstract corpus in molecular biology domain
+R1	10.1.1.10.8269	Boosting Precision and Recall of Dictionary-Based Protein Name Recognition
+R1	10.1.1.118.5566	Effective adaptation of a hidden Markov model-based named entity recognizer for biomedical domain
+R1	10.1.1.14.7004	Internal and External Evidence in the Identification and Semantic Categorization of Proper Names
+R1	10.1.1.342.796	Introduction to the CoNLL-2003 shared task: Language-independent named entity recognition
+R1	10.1.1.14.7963	Early Results for Named Entity Recognition with Conditional Random Fields, Feature Induction and Web-Enhanced Lexicons
+R1	10.1.1.106.4319	Using machine learning to maintain rule-based named-entity recognition and classification systems
+R1	10.1.1.108.6430	NYU: Description of the MENE Named Entity System as Used in MUC-7
+R1	10.1.1.321.1498	Exploiting dictionaries in named entity extraction: Combining semi-markov extraction processes and data integration method
+R1	10.1.1.318.2355	Identification and tracing of ambiguous names: Discriminative and generative approaches
+R1	10.1.1.14.3576	Identification and Classification of Proper Nouns in Chinese Texts
+R1	10.1.1.126.7195	Description of the Kent Ridge Digital Labs System Used for MUC-7
+R1	10.1.1.3.918	Definition, Dictionaries and Tagger for Extended Named Entity Hierarchy
+R1	10.1.1.12.4507	Named Entity Recognition without Gazetteers
+R1	10.1.1.18.7395	Named Entity Recognition from Diverse Text Types
+R1	10.1.1.14.1570	A Statistical Profile of the Named Entity Task
+R1	10.1.1.105.2835	RitroveRAI: A Web Application for Semantic Indexing and Hyperlinking of Multimedia News
+R1	10.1.1.55.6337	Extracting Names from Natural-Language Text
+R1	10.1.1.18.8966	Unsupervised Named Entity Recognition Using Syntactic and Semantic Contextual Evidence
+R1	10.1.1.99.4830	Cluster Analysis and Classification of Named Entities
+R1	10.1.1.383.6144	Heuristic methods for reducing errors of geographic named entities learned by bootstrapping
+R1	10.1.1.65.7515	Extracting personal names from emails: Applying named entity recognition to informal text
+R1	10.1.1.134.1923	Dealing with Metonymic Readings of Named Entities
+R1	10.1.1.21.4746	Proper Name Extraction from Non-Journalistic Texts
+R1	10.1.1.133.9008	Using Soundex Codes for Indexing Names in ASR documents
+R1	10.1.1.380.7997	HAREM: An Advanced NER Evaluation Contest for Portuguese
+R1	10.1.1.81.895	Named Entity Discovery Using Comparable News Articles
+R1	10.1.1.47.7292	An Approach to Proper Name Tagging for German
+R1	10.1.1.25.6005	Facile: Description Of The Ne System Used For Muc-7
+R1	10.1.1.13.8457	Recognizing Unregistered Names for Mandarin Word Identification
+R1	10.1.1.64.6233	Multilingual Named Entity Extraction and Translation from Text and Speech
+R1	10.1.1.206.594	IREX: IR and IE Evaluation project in Japanese

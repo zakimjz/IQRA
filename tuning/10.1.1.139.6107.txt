@@ -1,0 +1,21 @@
+10.1.1.139.6107	2008	Compatible Embedding for 2D Shape Animation
+R1	10.1.1.153.3865	Progressive Meshes
+R1	10.1.1.114.8663	Texture mapping progressive meshes
+R1	10.1.1.37.1190	Multiresolution Curves
+R1	10.1.1.140.3521	Silhouette Clipping
+R1	10.1.1.121.3736	A physically based approach to 2-D shape blending
+R1	10.1.1.43.4586	Constructing Piecewise Linear Homeomorphisms
+R1	10.1.1.19.8680	Recent Advances in Mesh Morphing
+R1	10.1.1.118.7561	Inter-surface mapping
+R1	10.1.1.150.1531	As-rigid-as-possible shape interpolation
+R1	10.1.1.51.3522	Image Metamorphosis Using Snakes and Free-Form Deformations
+R1	10.1.1.186.4373	Recognition of Shapes by Editing Their Shock Graphs
+R1	10.1.1.103.4146	Canonical Skeletons for Shape Matching
+R1	10.1.1.25.4852	Guaranteed Intersection-Free Polygon Morphing
+R1	10.1.1.22.6030	Blending Polygonal Shapes with Different Topologies
+R1	10.1.1.329.5828	Mesh-based inverse kinematics
+R1	10.1.1.12.590	High Quality Compatible Triangulations
+R1	10.1.1.22.8324	Computing Visibility Polygons with LEDA
+R1	10.1.1.332.8231	Image deformation using moving least squares
+R1	10.1.1.138.8485	Detail preserving shape deformation in image editing
+R1	10.1.1.383.2725	Sketch based image deformation

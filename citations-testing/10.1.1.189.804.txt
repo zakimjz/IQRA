@@ -1,0 +1,42 @@
+10.1.1.189.804	2009	A survey of sequential Monte Carlo methods for economics and finance
+R1	10.1.1.37.1434	Contour Tracking By Stochastic Propagation of Conditional Density
+R1	10.1.1.110.5995	Markov chains for exploring posterior distributions
+R1	10.1.1.51.4205	Mixture Kalman Filters
+R1	10.1.1.20.6662	A Survey of Convergence Results on Particle Filtering Methods for Practitioners
+R1	10.1.1.110.383	On Sequential Monte Carlo Sampling Methods for Bayesian Filtering
+R1	10.1.1.48.6455	Dynamic Conditional Independence Models And Markov Chain Monte Carlo Methods
+R1	10.1.1.286.236	Annealed importance sampling
+R1	10.1.1.51.1308	Central Limit Theorem for Non Linear Filtering and Interacting Particle Systems
+R1	10.1.1.20.6159	Particle Filters for State Estimation of Jump Markov Linear Systems
+R1	10.1.1.6.168	An Improved Particle Filter for Non-linear Problems
+R1	10.1.1.13.4050	Stability and Uniform Approximation of Nonlinear Filters Using the Hilbert Metric, and Application to Particle Filters
+R1	10.1.1.125.6694	Diagnosis by a waiter and a mars explorer
+R1	10.1.1.126.9118	Comparison of resampling schemes for particle filtering
+R1	10.1.1.236.8881	Central limit theorem for sequential monte carlo methods and its application to bayesian inference
+R1	10.1.1.55.9157	Discrete Filtering Using Branching and Interacting Particle Systems
+R1	10.1.1.237.1202	Limit theorems for weighted samples with applications to Sequential Monte Carlo Methods. eprint arXiv:math.ST/0507042
+R1	10.1.1.14.9494	Monte Carlo smoothing for non-linear time series
+R1	10.1.1.13.2658	Population Monte Carlo
+R1	10.1.1.334.7428	Smooth Particle Filters for Likelihood Evaluation and Maximisation
+R1	10.1.1.10.4084	Efficient Particle Filtering for Jump Markov Systems. Application to Time-Varying Autoregressions
+R1	10.1.1.28.4409	Nonlinear and Non-Gaussian State-Space Modeling with Monte Carlo Techniques: A Survey and Comparative Study
+R1	10.1.1.390.1183	Marginalized particle filters for mixed linear/nonlinear state-space models
+R1	10.1.1.28.83	Auxiliary Variable Based Particle Filters
+R1	10.1.1.157.2945	Efficient block sampling strategies for sequential Monte Carlo
+R1	10.1.1.61.2754	Iterated Importance Sampling in Missing Data Problems
+R1	10.1.1.175.8309	Sequential Monte Carlo samplers for rare event estimation
+R1	10.1.1.239.105	Recursive Monte Carlo filters: Algorithms and theoretical analysis
+R1	10.1.1.61.2998	On-Line Parameter Estimation in General State-Space Models
+R1	10.1.1.111.157	Particle methods for optimal filter derivative: Application to parameter estimation
+R1	10.1.1.135.3585	Sequential Monte Carlo for Bayesian Computation
+R1	10.1.1.199.7018	Inference for adaptive time series models: stochastic volatility and conditionally Gaussian state space form. Econometric Reviews 25(2-3
+R1	10.1.1.235.4511	Sequential Monte Carlo smoothing with application to parameter estimation in nonlinear state space models
+R1	10.1.1.174.7404	Has Inflation Become Harder to Forecast
+R1	10.1.1.246.1877	Adaptive importance sampling in general mixture classes
+R1	10.1.1.156.7033	Particle Markov chain Monte Carlo methods
+R1	10.1.1.157.772	A tutorial on particle filtering and smoothing: fifteen years later
+R1	10.1.1.164.9708	A sequential smoothing algorithm with linear computational cost
+R1	10.1.1.245.1984	Optimality of the auxiliary particle filter
+R1	10.1.1.332.9282	Euro area inflation persistence in an estimated nonlinear dsge model
+R1	10.1.1.154.6159	Particle methods: An introduction with applications
+R1	10.1.1.297.2633	Testing the assumptions behind importance sampling

@@ -1,0 +1,29 @@
+10.1.1.298.6802	2010	Are your hosts trading or plotting? Telling P2P file-sharing and bots apart
+R1	10.1.1.160.7346	A measurement study of peer-to-peer file sharing systems
+R1	10.1.1.10.7268	Measurement, Modeling, and Analysis of a Peer-to-Peer File-Sharing Workload
+R1	10.1.1.16.4785	Kademlia: A Peer-to-peer Information System Based on the XOR Metric
+R1	10.1.1.73.7847	A metric for distributions with applications to image databases
+R1	10.1.1.117.4973	Botz-4-sale: Surviving organized ddos attacks that mimic flash crowds
+R1	10.1.1.111.5971	The Zombie Roundup: Understanding, Detecting, and Disrupting Botnets
+R1	10.1.1.133.8992	Revealing Botnet Membership Using DNSBL Counter-Intelligence
+R1	10.1.1.60.7750	The eMule Protocol Specification
+R1	10.1.1.119.9996	Peer-to-Peer Botnets: Overview and Case Study
+R1	10.1.1.126.2517	A Multi-perspective Analysis of the Storm (Peacomm) Worm. Available at: http://www.cyber-ta.org/pubs/StormWorm/report
+R1	10.1.1.331.6974	An algorithm for anomaly-based botnet detection
+R1	10.1.1.95.3	Using Machine Learning Techniques to Identify Botnet Traffic
+R1	10.1.1.140.9258	Network Monitoring using Traffic Dispersion Graphs (TDGs)
+R1	10.1.1.135.8028	BotHunter: Detecting Malware Infection Through IDS-Driven Dialog Correlation
+R1	10.1.1.177.8170	Rishi: identify bot contaminated hosts by irc nickname evaluation
+R1	10.1.1.122.3920	Finding peer-to-peer file-sharing using coarse network behaviors
+R1	10.1.1.86.7432	Is a Bot at the Controls? Detecting Input Data Attacks
+R1	10.1.1.140.188	Measuring and Detecting Fast-Flux Service Networks
+R1	10.1.1.143.9352	Measurements and Mitigation of Peer-to-Peer-based Botnets: A Case Study on Storm Worm
+R1	10.1.1.144.5167	BotMiner: Clustering Analysis of Network Traffic for Protocol- and Structure-Independent Botnet Detection
+R1	10.1.1.158.1695	Traffic aggregation for malware detection
+R1	10.1.1.145.5998	Measurement and Classification of Humans and Bots in Internet Chat
+R1	10.1.1.154.846	Towards complete node enumeration in a peer-to-peer botnet
+R1	10.1.1.148.8426	Not-a-Bot: Improving Service Availability in the Face of Botnet Attacks
+R1	10.1.1.149.1179	Automatically Generating Models for Botnet Detection
+R1	10.1.1.216.7098	Inherent behaviors for on-line detection of peer-to-peer file sharing
+R1	10.1.1.157.8343	On the Effectiveness of Structural Detection and Defense Against P2P-based
+R1	10.1.1.217.4620	Rb-seeker: Auto-detection of redirection botnets

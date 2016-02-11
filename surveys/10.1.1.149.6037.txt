@@ -1,0 +1,31 @@
+10.1.1.149.6037	2010	A Survey on Bio-inspired Networking
+R1	10.1.1.26.1865	The Ant System: Optimization by a colony of cooperating agents
+R1	10.1.1.108.4069	Mobile ad hoc networking: imperatives and challenges
+R1	10.1.1.145.6569	Ant algorithms for discrete optimization
+R1	10.1.1.221.4654	Event-to-Sink Reliable Transport in Wireless Sensor Networks
+R1	10.1.1.145.7015	AntNet: Distributed stigmergetic control for communications networks
+R1	10.1.1.127.1544	Synchronization of pulse-coupled biological oscillators
+R1	10.1.1.61.2545	Wireless mesh networks: a survey
+R1	10.1.1.165.6379	The bio-networking architecture: A biologically inspired approach to the design of scalable, adaptive, and survivable/available network applications
+R1	10.1.1.102.5998	Evaluating activator-inhibitor mechanisms for sensors coordination
+R1	10.1.1.20.1414	The Power of Epidemics: Robust Communication for Large-Scale Distributed Systems
+R1	10.1.1.70.5361	AntHocNet: An adaptive nature-inspired algorithm for routing in mobile ad hoc networks
+R1	10.1.1.61.2639	Underwater Acoustic Sensor Networks: Research Challenges
+R1	10.1.1.2.1441	Monitoring and Early Detection for Internet Worms
+R1	10.1.1.11.6064	An Epidemic Model for Information Diffusion in MANETs
+R1	10.1.1.174.1785	An artificial immune system approach to misbehavior detection in mobile ad hoc networks
+R1	10.1.1.149.4384	Molecular Processes as a Basis for Autonomous Networking
+R1	10.1.1.146.234	Self-Organised Task Allocation in a Group of Robots
+R1	10.1.1.61.3454	NeXt generation/dynamic spectrum access/cognitive Radio Wireless Networks: A Survey
+R1	10.1.1.185.34	Firefly-inspired heartbeat synchronization in overlay networks
+R1	10.1.1.124.3209	Towards a biologically-inspired architecture for selfregulatory and evolvable network applications
+R1	10.1.1.83.8790	Molecular Communication for Health Care Applications
+R1	10.1.1.137.8484	Resilient multi-path routing based on a biological attractor selection scheme
+R1	10.1.1.111.4175	Molecular Communication for Nanomachines Using Intercellular Calcium Signaling
+R1	10.1.1.156.6701	Exploratory Research on Molecular Communication between Nanomachines
+R1	10.1.1.131.4479	Self-Replicating and Self-Modifying Programs in Fraglets
+R1	10.1.1.134.7407	A Design of a Molecular Communication System for Nanomachines Using Molecular Motors
+R1	10.1.1.149.5991	On the Lifetime of Wireless Sensor Networks
+R1	10.1.1.149.4417	A Bio-Inspired Architecture for Division of Labour in SANETs
+R1	10.1.1.149.5041	Bio-inspired Feedback Loops for Self-Organized Event Detection in SANETs
+R1	10.1.1.152.8325	Evolving Artificial Cell Signaling Networks using Molecular Classifier Systems

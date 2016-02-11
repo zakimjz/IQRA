@@ -1,0 +1,61 @@
+10.1.1.87.1342	2007	Synthesizing Scalable System Software for Wireless Sensor Networks
+R1	10.1.1.183.5769	Instrumenting the world with wireless sensor networks,” ICASSP
+R1	10.1.1.123.2014	Next Century Challenges: Mobile Networking for “Smart Dust”
+R1	10.1.1.24.6338	Pervasive Computing: Vision and Challenges
+R1	10.1.1.2.2351	Practical Java Card bytecode compression
+R1	10.1.1.158.1117	The Case for Virtual Register Machines
+R1	10.1.1.114.5659	Habitat monitoring: application driver for wireless communications technology
+R1	10.1.1.136.2762	ANALYSIS OF WIRELESS SENSOR NETWORKS FOR HABITAT MONITORING
+R1	10.1.1.24.1736	Research Challenges in Wireless Networks of Biomedical Sensors
+R1	10.1.1.14.7130	Transparent Process Migration: Design Alternatives and the Sprite Implementation
+R1	10.1.1.13.1596	SPINS: Security Protocols for Sensor Networks
+R1	10.1.1.31.188	Stack Caching for Interpreters
+R1	10.1.1.307.6798	Optimizing an ANSI C interpreter with superoperators
+R1	10.1.1.379.9058	The dynamic behavior of a data dissemination protocol for network programming at scale
+R1	10.1.1.133.3930	Maté: A Tiny Virtual Machine for Sensor Networks
+R1	10.1.1.323.7733	A remote code update mechanism for wireless sensor networks
+R1	10.1.1.1.4406	A Programmable Routing Framework for Autonomic Sensor Networks
+R1	10.1.1.134.3086	Design and Implementation of a Framework for Efficient and Programmable Sensor Networks
+R1	10.1.1.13.7035	Capacity, Delay and Mobility in Wireless Ad-Hoc Networks
+R1	10.1.1.127.9488	The nesC language: A holistic approach to networked embedded systems
+R1	10.1.1.39.9148	Data Compression
+R1	10.1.1.1.8347	Middleware Challenges for Wireless Sensor Networks
+R1	10.1.1.3.5116	Trickle: A Self-Regulating Algorithm for Code Propagation and Maintenance in Wireless Sensor Networks
+R1	10.1.1.131.6269	Data mules: Modeling a three-tier architecture for sparse sensor networks
+R1	10.1.1.97.3985	A brief history of just-in-time
+R1	10.1.1.88.3793	Monitoring Volcanic Eruptions with a Wireless Sensor Network
+R1	10.1.1.2.3745	A Public-Key Infrastructure for Key Distribution in TinyOS Based on Elliptic Curve Cryptography
+R1	10.1.1.4.2746	Efficient Code Distribution in Wireless Sensor Networks
+R1	10.1.1.329.9382	Tinysec: A link layer security architecture for wireless sensor networks
+R1	10.1.1.375.2655	D.: A wireless sensor network for structural monitoring
+R1	10.1.1.410.6966	A Macroscope in the Redwoods
+R1	10.1.1.59.2303	Contiki - a Lightweight and Flexible Operating System for Tiny Networked Sensors
+R1	10.1.1.93.2446	Remote incremental linking for energy-efficient reprogramming of sensor networks
+R1	10.1.1.85.6200	Sensor Network Software Update Management: A Survey
+R1	10.1.1.119.6732	The platforms enabling wireless sensor networks
+R1	10.1.1.377.4040	A dynamic operating system for sensor nodes
+R1	10.1.1.158.4096	Virtual machine showdown: stack versus registers
+R1	10.1.1.330.8193	and response: experiments in sampling the environment
+R1	10.1.1.118.2876	Incremental network programming for wireless sensors
+R1	10.1.1.11.51	MANTIS: System Support For Multimodal Networks Of . . .
+R1	10.1.1.375.1572	Active Sensor Networks
+R1	10.1.1.11.5073	Operating System Fundamentals for the EYES Distributed Sensor Network
+R1	10.1.1.138.3160	Design and deployment of industrial sensor networks: experiences from a semiconductor plant and the north sea
+R1	10.1.1.87.8451	Secure code distribution in dynamically programmable wireless sensor networks
+R1	10.1.1.111.9833	Securing the Deluge network programming system
+R1	10.1.1.88.6742	Tinypk: securing sensor networks with public key technology
+R1	10.1.1.64.8890	The emergence of networking abstractions and techniques in tinyos
+R1	10.1.1.65.1140	Run-time dynamic linking for reprogramming wireless sensor networks
+R1	10.1.1.138.1400	Design and implementation of a sensor network system for vehicle tracking and autonomous interception
+R1	10.1.1.215.2918	Data collection, storage, and retrieval with an underwater sensor network
+R1	10.1.1.43.3527	Compact Java Binaries for Embedded Systems
+R1	10.1.1.335.7899	Health monitoring of civil infrastructures using wireless sensor networks
+R1	10.1.1.12.7377	Enhanced Code Compression for Embedded RISC Processors
+R1	10.1.1.12.918	The Behavior of Efficient Virtual Machine Interpreters on Modern Architectures
+R1	10.1.1.35.7480	Differential Compression: A Generalized Solution For Binary Files
+R1	10.1.1.38.8645	Scylla: A Smart Virtual Machine for Mobile Embedded Systems
+R1	10.1.1.61.7082	Nonintrusive Precision Instrumentation Of Microcontroller Software
+R1	10.1.1.122.9729	Cenwits: A sensor-based loosely coupled search and rescue system using witnesses
+R1	10.1.1.415.8093	Multilevel software reconfiguration for sensor networks
+R1	10.1.1.113.1572	Mnp: Multihop network reprogramming service for sensor networks
+R1	10.1.1.208.9812	Balancing computation and code distribution costs: The case for hybrid execution in sensor networks

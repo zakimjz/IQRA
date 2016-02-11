@@ -1,0 +1,21 @@
+10.1.1.161.7255	2007	Sparse Representation-based Image Deconvolution by Iterative Thresholding
+R1	10.1.1.155.4265	The curvelet transform for image denoising
+R1	10.1.1.135.1907	Atomic decomposition by basis pursuit
+R1	10.1.1.321.1443	Greed is Good: Algorithmic Results for Sparse Approximation
+R1	10.1.1.125.5610	Stable recovery of sparse overcomplete representations in the presence of noise
+R1	10.1.1.161.9300	Uncertainty principles and ideal atomic decomposition
+R1	10.1.1.237.4534	Least angle regression
+R1	10.1.1.161.9294	Curvelets: a surprisingly effective nonadaptive representation of objects with edges
+R1	10.1.1.125.5878	Deterministic edge-preserving regularization in computed imaging
+R1	10.1.1.35.7574	Regression Shrinkage and Selection Via the Lasso
+R1	10.1.1.102.8197	Wavelet deconvolution in a periodic setting
+R1	10.1.1.14.4648	A Variational Method In Image Recovery
+R1	10.1.1.162.288	Fast Discrete Curvelet Transforms
+R1	10.1.1.142.3226	Bayesian wavelet-based image deconvolution: A GEM algorithm exploiting a class of heavy-tailed priors
+R1	10.1.1.50.1792	A New Approach To Variable Selection In Least Squares Problems
+R1	10.1.1.99.6911	Wave atoms and sparsity of oscillatory patterns
+R1	10.1.1.107.1062	Morphological component analysis: New results
+R1	10.1.1.36.1676	Multiresolution Support Applied to Image Filtering and Restoration
+R1	10.1.1.50.4951	Image Restoration with Noise Suppression Using a Multiresolution Support
+R1	10.1.1.121.4925	Deconvolution of astronomical images using the multiscale maximum entropy method
+R1	10.1.1.154.6519	Fast solution of ℓ1-norm minimization problems when the solution may be sparse

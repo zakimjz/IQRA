@@ -1,0 +1,23 @@
+10.1.1.357.6392	2005	Models and Modeling Infrastructures for Global Computational Platforms
+R1	10.1.1.114.2815	The physiology of the grid: An open grid services architecture for distributed systems integration
+R1	10.1.1.105.3673	Chord: A Scalable Peer-to-Peer Lookup Service for Internet Applications
+R1	10.1.1.144.7995	Wide-Area Traffic: The Failure of Poisson Modeling
+R1	10.1.1.115.4299	Oceanstore: An architecture for global-scale persistent storage
+R1	10.1.1.111.1818	Tapestry: An infrastructure for fault-tolerant wide-area location and routing
+R1	10.1.1.30.8962	Self-Similarity Through High-Variability: Statistical Analysis of Ethernet LAN Traffic at the Source Level
+R1	10.1.1.159.9831	The Bayou Architecture: Support for Data Sharing among Mobile Users
+R1	10.1.1.24.5844	XtremWeb : A Generic Global Computing System
+R1	10.1.1.10.1904	Tapestry: A Resilient Global-scale Overlay for Service Deployment
+R1	10.1.1.12.8273	Entropia: Architecture and Performance of an Enterprise Desktop Grid System
+R1	10.1.1.60.5032	Models and Scheduling Mechanisms for Global Computing Applications
+R1	10.1.1.24.8997	Why We Don't Know How to Simulate the Internet
+R1	10.1.1.116.7929	The GrADS project: Software support for high-level grid application development
+R1	10.1.1.17.2849	Studying Protein Folding on the Grid: Experiences Using CHARMM on NPACI Ressources under Legion
+R1	10.1.1.87.9847	Writing Programs that Run EveryWare on the Computational Grid
+R1	10.1.1.15.1200	Folding@Home and Genome@Home: Using distributed computing to tackle previously intractable problems in computational biology
+R1	10.1.1.11.2035	Quantifying Machine Availability in Networked and Desktop Grid Systems
+R1	10.1.1.25.7842	Running EveryWare on the Computational Grid
+R1	10.1.1.14.1112	Cactus Application: Performance Predictions in Grid Environments
+R1	10.1.1.20.8211	Processor Allocation and Checkpoint Interval Selection in Cluster Computing Systems
+R1	10.1.1.153.7517	Model-based Checkpoint Scheduling for Volatile Resource Environments
+R1	10.1.1.330.2594	Predicting Grid Resource Performance On-Line

@@ -1,0 +1,39 @@
+10.1.1.11.5182	2002	A Survey of Algorithms for Real-Time Bayesian Network Inference
+R1	10.1.1.333.1586	Approximating probabilistic inference in Bayesian belief networks is NP-hard
+R1	10.1.1.16.1782	Context-Specific Independence in Bayesian Networks
+R1	10.1.1.138.6606	No Free Lunch Theorems for Optimization
+R1	10.1.1.32.5020	Variational Probabilistic Inference and the QMR-DT Network
+R1	10.1.1.47.4260	Reasoning Under Varying and Uncertain Resource Constraints
+R1	10.1.1.1.7854	Bucket Elimination: A Unifying Framework for Probabilistic Inference
+R1	10.1.1.375.7581	Introduction to Monte Carlo methods
+R1	10.1.1.53.4593	Reasoning about Beliefs and Actions under Computational Resource Constraints
+R1	10.1.1.40.3614	An Introduction to Variational Methods for Graphical Models
+R1	10.1.1.28.9129	Generalizing Variable Elimination in Bayesian Networks
+R1	10.1.1.115.4360	Turbo decoding as an instance of Pearl’s belief propagation algorithm
+R1	10.1.1.175.8876	Using Anytime Algorithms in Intelligent Systems
+R1	10.1.1.113.5590	Correctness of belief propagation in gaussian graphical models of arbitrary topology
+R1	10.1.1.88.2045	Ideal Reformulation of Belief Networks
+R1	10.1.1.319.9218	Latin hypercube sampling in Bayesian networks
+R1	10.1.1.33.4719	Conditioning Methods for Exact and Approximate Inference in Causal Networks
+R1	10.1.1.23.567	Local Conditioning in Bayesian Networks
+R1	10.1.1.42.8231	Quantitative Modeling of Complex Computational Task Environments
+R1	10.1.1.36.7946	An Optimal Approximation Algorithm For Bayesian Inference
+R1	10.1.1.21.6311	Some Properties of Joint Probability Distributions
+R1	10.1.1.334.8476	Relevance in probabilistic models: backyards in a small world
+R1	10.1.1.113.3082	Optimal schedules for monitoring anytime algorithms
+R1	10.1.1.157.2787	A tractable inference algorithm for diagnosing multiple diseases
+R1	10.1.1.156.9728	Causal independence for knowledge acquisition and inference. Also in this proceedings
+R1	10.1.1.161.1014	Heterogeneous Time Series Learning for Crisis Monitoring
+R1	10.1.1.46.599	Models of Continual Computation
+R1	10.1.1.3.2598	Stochastic Sampling and Search in Belief Updating Algorithms for . . .
+R1	10.1.1.16.9089	The Challenges of Real-Time AI
+R1	10.1.1.44.7206	Lazy Propagation in Junction Trees
+R1	10.1.1.32.5538	Loopy Belief Propagation for Approximate Inference: An Empirical Study
+R1	10.1.1.57.782	Belief Network Algorithms: a Study of Performance Using Domain Characterisation
+R1	10.1.1.24.2803	The use of conflicts in searching Bayesian networks
+R1	10.1.1.56.6386	Exploiting Contextual Independence and Approximation in Belief Network Inference
+R1	10.1.1.26.7880	Deterministic Approximation of Marginal Probabilities in Bayes Nets
+R1	10.1.1.42.539	Modeling Intelligent Control of Distributed Cooperative Inferencing
+R1	10.1.1.26.6297	State-Space Abstraction for Anytime Evaluation of Probabilistic Networks
+R1	10.1.1.14.3332	Operational Rationality through Compilation of Anytime Algorithms
+R1	10.1.1.163.2827	Context-specific approximation in probabilistic inference

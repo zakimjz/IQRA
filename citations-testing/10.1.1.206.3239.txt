@@ -1,0 +1,32 @@
+10.1.1.206.3239	2007	Learning to find object boundaries using motion cues
+R1	10.1.1.160.3832	Mean shift: A robust approach toward feature space analysis
+R1	10.1.1.135.1357	Logistic Regression, AdaBoost and Bregman Distances
+R1	10.1.1.129.2941	A database of human segmented natural images and its application to evaluating segmentation algorithms and measuring ecological statistics
+R1	10.1.1.2.9848	The Plenoptic Function and the Elements of Early Vision
+R1	10.1.1.36.1597	Probabilistic Detection and Tracking of Motion Discontinuities
+R1	10.1.1.54.282	Interpreting images by propagating Bayesian beliefs
+R1	10.1.1.116.2465	Statistical edge detection: learning and evaluating edge cues
+R1	10.1.1.118.2575	Learning to detect natural image boundaries using local brightness, color, and texture cues
+R1	10.1.1.35.573	Detecting Kinetic Occlusion
+R1	10.1.1.75.3554	Accurate motion layer segmentation and matting
+R1	10.1.1.60.3944	Guiding Model Search Using Segmentation
+R1	10.1.1.11.2222	Efficient Graph-Based Image Segmentation
+R1	10.1.1.101.9793	3D occlusion inference from silhouette cues
+R1	10.1.1.227.5809	Layered Motion Segmentation and Depth Ordering by Tracking Edges
+R1	10.1.1.207.5036	Approximate inference and constrained optimization
+R1	10.1.1.115.3292	Learning a classification model for segmentation
+R1	10.1.1.108.9213	Local detection of occlusion boundaries in video
+R1	10.1.1.413.1690	Texture edge detection using the compass operator
+R1	10.1.1.12.7577	Bayesian Inference of Visual Motion Boundaries
+R1	10.1.1.29.806	Segmentation with Pairwise Attraction and Repulsion
+R1	10.1.1.364.4991	Motion based decompositing of video
+R1	10.1.1.227.4771	Affine reconstruction of curved surfaces from uncalibrated views of apparent contours
+R1	10.1.1.3.1316	The Local Projective Shape of Smooth Surfaces and their Outlines
+R1	10.1.1.133.4407	Figure/ground assignment in natural images
+R1	10.1.1.59.8522	The Geometry of the Occluding Contour and Its Effect on Motion Interpretation
+R1	10.1.1.116.6039	Supervised learning of edges and object boundaries
+R1	10.1.1.129.8734	Cue integration in figure/ground labeling
+R1	10.1.1.331.425	Disambiguating visual motion by form–motion interaction – a computational model
+R1	10.1.1.70.3365	Analysis of contour motions
+R1	10.1.1.331.2411	Combining local appearance and motion cues for occlusion boundary detection
+R1	10.1.1.83.7043	Tree-based classifiers for bilayer video segmentation

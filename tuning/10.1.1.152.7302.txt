@@ -1,0 +1,23 @@
+10.1.1.152.7302	2009	Models and Proofs of Protocol Security: A Progress Report
+R1	10.1.1.1.5724	A calculus for cryptographic protocols: The spi calculus
+R1	10.1.1.26.75	Proof Techniques for Cryptographic Processes
+R1	10.1.1.31.5135	Inductive Analysis of the Internet Protocol TLS
+R1	10.1.1.27.6385	Breaking and Fixing the Needham-Schroeder Public-Key Protocol using FDR
+R1	10.1.1.12.4604	Types and Effects for Asymmetric Cryptographic Protocols
+R1	10.1.1.20.2584	Reconciling Two Views of Cryptography (The Computational Soundness of Formal Encryption)
+R1	10.1.1.14.5150	An Efficient Cryptographic Protocol Verifier Based on Prolog Rules
+R1	10.1.1.36.865	A Calculus of Mobile Processes, Part I
+R1	10.1.1.122.8667	Analyzing Security Protocols with Secrecy . . .
+R1	10.1.1.36.8538	The Compositional Security Checker: A Tool for the Verification of Information Flow Security Properties
+R1	10.1.1.117.3779	Soundness of formal encryption in the presence of active adversaries
+R1	10.1.1.112.975	A modular correctness proof of ieee 802.11i and tls
+R1	10.1.1.218.5574	Analysis of an electronic voting protocol in the applied pi-calculus
+R1	10.1.1.103.9710	WSEmail: Secure internet messaging based on web services
+R1	10.1.1.15.325	Computer-Assisted Verification of a Protocol for Certified Email
+R1	10.1.1.11.2564	Probabilistic Bisimulation and Equivalence for Security Analysis of Network Protocols
+R1	10.1.1.105.6655	Automated Security Proofs with Sequences of Games
+R1	10.1.1.160.5776	Gordon Verified Reference Implementations of WS-Security Protocols
+R1	10.1.1.212.6863	D.: Zero-knowledge in the applied pi-calculus and automated verification of the direct anonymous attestation protocol
+R1	10.1.1.128.6928	Automated formal analysis of a protocol for secure file sharing on untrusted storage
+R1	10.1.1.151.1450	Computational Soundness of Observational Equivalence
+R1	10.1.1.153.3950	Cryptographically Verifies  Implementations for TLS

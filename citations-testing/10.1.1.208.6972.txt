@@ -1,0 +1,23 @@
+10.1.1.208.6972	2005	Tracking Human Body Pose on a Learned Smooth Space
+R1	10.1.1.36.8357	CONDENSATION - conditional density propagation for visual tracking
+R1	10.1.1.15.9468	A Multiple Hypothesis Approach to Figure Tracking
+R1	10.1.1.11.418	Charting a Manifold
+R1	10.1.1.116.1381	Singularity analysis for articulated object tracking
+R1	10.1.1.19.9400	Laplacian Eigenmaps and Spectral Techniques for Embedding and Clustering
+R1	10.1.1.317.9043	Articulated body motion capture by annealed particle filtering
+R1	10.1.1.19.8312	Learning Image Statistics for Bayesian Tracking
+R1	10.1.1.106.192	Covariance scaled sampling for monocular 3D body tracking
+R1	10.1.1.22.8606	Probabilistic Tracking in a Metric Space
+R1	10.1.1.15.1533	How Does CONDENSATION Behave with a Finite Number of Samples?
+R1	10.1.1.38.878	Prediction With Gaussian Processes: From Linear Regression To Linear Prediction And Beyond
+R1	10.1.1.12.8842	Fast Sparse Gaussian Process Methods: The Informative Vector Machine
+R1	10.1.1.37.1691	A smoothing filter for Condensation
+R1	10.1.1.220.2263	Synthesizing physically realistic human motion in low-dimensional, behaviorspecific spaces
+R1	10.1.1.134.7190	Recent Developments in Human Motion Analysis
+R1	10.1.1.207.2269	Gaussian process latent variable models for visualisation of high dimensional data
+R1	10.1.1.5.5809	Bayesian Object Localisation in Images
+R1	10.1.1.118.4205	Inferring 3d body pose from silhouettes using activity manifold learning
+R1	10.1.1.66.8581	Probabilistic non-linear principal component analysis with Gaussian process latent variable models
+R1	10.1.1.305.900	Specialized Mappings and the Estimation of Human Body Pose from a Single Image
+R1	10.1.1.60.1954	Generative Modeling for Continuous Non-Linearly Embedded Visual Inference
+R1	10.1.1.9.6184	Bayesian Articulated Tracking Using Single Frame Pose Sampling

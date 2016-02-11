@@ -1,0 +1,21 @@
+10.1.1.60.2214	2005	Transactional Execution of Java Programs
+R1	10.1.1.22.3694	Clock Rate versus IPC: The End of the Road for Conventional Microarchitectures
+R1	10.1.1.136.1312	Speculative Lock Elision: Enabling Highly Concurrent Multithreaded Execution
+R1	10.1.1.19.8113	Transactional Lock-Free Execution of Lock-Based Programs
+R1	10.1.1.106.5742	Shared memory consistency models: A tutorial
+R1	10.1.1.136.8870	A Chip-Multiprocessor Architecture with Speculative Multithreading
+R1	10.1.1.134.208	Multiscalar Processors
+R1	10.1.1.12.6148	Speculative Synchronization: Applying Thread-Level  Speculation to Explicitly Parallel Applications
+R1	10.1.1.208.4448	Transactional Memory: Architectural Support for Lock-Free Data Structures
+R1	10.1.1.29.130	The Potential for Using Thread-Level Data Speculation to Facilitate Automatic Parallelization
+R1	10.1.1.129.4409	Virtualizing Transactional Memory
+R1	10.1.1.222.1147	Software transactional memory for dynamic-sized data structures
+R1	10.1.1.415.7792	Composable memory transactions
+R1	10.1.1.41.4743	Software Transactional Memory
+R1	10.1.1.5.9270	Language Support for Lightweight Transactions
+R1	10.1.1.123.8108	Transactional memory coherence and consistency
+R1	10.1.1.232.8821	A semantic framework for designer transactions
+R1	10.1.1.128.8559	Programming with transactional coherence and consistency (tcc
+R1	10.1.1.15.7534	The Jrpm System for Dynamically Parallelizing Java Programs
+R1	10.1.1.15.3618	Using Thread-Level Speculation to Simplify Manual Parallelization
+R1	10.1.1.137.6464	Characterization of tcc on chip-multiprocessors

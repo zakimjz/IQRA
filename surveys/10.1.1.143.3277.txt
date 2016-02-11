@@ -1,0 +1,25 @@
+10.1.1.143.3277	2008	Service Discovery for Mobile Ad Hoc Networks: A Survey of Issues and Techniques
+R1	10.1.1.105.883	Supporting Service Discovery, Querying and Interaction in Ubiquitous Computing Environments
+R1	10.1.1.39.4636	An Architecture for a Secure Service Discovery Service
+R1	10.1.1.104.7696	ReMMoC: A Reflective Middleware to Support Mobile Client Interoperability
+R1	10.1.1.10.5321	Service Advertisement and Discovery in Mobile Ad hoc Networks
+R1	10.1.1.22.7629	Service Provision in Ad Hoc Networks
+R1	10.1.1.406.2252	Scalable service discovery for MANET
+R1	10.1.1.13.2416	Service Rings - A Semantic Overlay for Service Discovery in Ad hoc Networks
+R1	10.1.1.133.4571	Contact-Extended Zone-Based Transactions Routing for Energy-Constrained Wireless Ad Hoc Networks
+R1	10.1.1.124.8021	SPDP: A Secure Service Discovery Protocol for Ad-hoc Networks
+R1	10.1.1.136.6062	INDISS: Interoperable Discovery System for Networked Services
+R1	10.1.1.20.3990	Nom: Resource Location and Discovery for Ad Hoc Mobile Networks
+R1	10.1.1.154.1461	Rendezvous Regions: A scalable architecture for service location and data-centric storage in large-scale wireless networks
+R1	10.1.1.4.6586	Konark - A Service Discovery and Delivery Protocol for Ad-Hoc Networks
+R1	10.1.1.19.8447	Allia: Alliance-based Service Discovery for Ad-Hoc Environments
+R1	10.1.1.108.9248	Evaluation of service discovery architectures for mobile ad hoc networks
+R1	10.1.1.105.7246	Understanding Consistency Maintenance in Service Discovery Architectures During Communication Failure
+R1	10.1.1.137.2106	A private, secure and user-centric information exposure model for service discovery protocols
+R1	10.1.1.107.1445	Security requirements in service oriented architectures for ubiquitous computing
+R1	10.1.1.63.1997	A service discovery threat model for ad hoc networks
+R1	10.1.1.18.8079	Multi-Layer Clusters in Ad-hoc Networks -- An Approach to Service Discovery
+R1	10.1.1.81.9851	Service Discovery in Mobile Ad Hoc Networks: A Field Theoretic Approach
+R1	10.1.1.134.9670	Toward distributed service discovery in pervasive computing environments
+R1	10.1.1.73.7004	Optimized Service Selection for MANETs using an AODV-based Service Discovery Protocol *
+R1	10.1.1.115.6395	Implementation of a lightweight service advertisement and discovery protocol for mobile ad hoc networks

@@ -1,0 +1,21 @@
+10.1.1.72.2459	2006	Using Taxonomies for Content-based Routing with Ants
+R1	10.1.1.101.3346	Anthill: A Framework for the Development of Agent-Based Peer-to-Peer Systems
+R1	10.1.1.12.7728	Efficient Content Location Using Interest-Based Locality in Peer-to-Peer Systems
+R1	10.1.1.10.7262	REMINDIN': Semantic Query Routing in Peer-to-Peer Networks Based on Social Metaphors
+R1	10.1.1.12.7146	The Chatty Web: Emergent Semantics Through Gossiping
+R1	10.1.1.123.8939	Routing indices for peer-to-peer systems
+R1	10.1.1.13.1643	Semantic Overlay Networks for P2P Systems
+R1	10.1.1.121.2046	Designing a Super-peer Network
+R1	10.1.1.101.9494	A comparative analysis of selection schemes used in genetic algorithms
+R1	10.1.1.132.970	Search and replication in unstructured peer-to-peer networks
+R1	10.1.1.145.8411	Ant Colony System: A cooperative learning approach to the traveling salesman problem
+R1	10.1.1.10.1708	Towards Taxonomy-based Routing in P2P Networks
+R1	10.1.1.175.2501	Searching dynamic communities with personal indexes
+R1	10.1.1.59.4708	Efficient Search in Unstructured Peer-to-Peer Networks
+R1	10.1.1.83.2113	Taxonomy-based routing indices for peer-to-peer networks
+R1	10.1.1.151.8892	MINERVA∞: A Scalable Efficient Peer-to-Peer Search Engine
+R1	10.1.1.126.8568	An Evaluation and Comparison of Current Peer-to-Peer Full-Text Keyword Search Techniques
+R1	10.1.1.9.6378	Emergent Semantics Principles and Issues
+R1	10.1.1.2.1823	Self-Organization of a Small World by Topic
+R1	10.1.1.20.4682	A Case for Associative Peer to Peer Overlays
+R1	10.1.1.73.1873	Ant Algorithms for Search in Unstructured Peer-to-Peer Networks

@@ -1,0 +1,21 @@
+10.1.1.112.5936	2004	A survey on private information retrieval
+R1	10.1.1.116.2833	How to leak a secret
+R1	10.1.1.126.9441	Private Information Retrieval
+R1	10.1.1.207.8212	Computationally private information retrieval with polylogarithmic communication
+R1	10.1.1.46.9633	Unbiased Bits from Sources of Weak Randomness and Probabilistic Communication Complexity
+R1	10.1.1.21.4449	Upper Bound on the Communication Complexity of Private Information Retrieval
+R1	10.1.1.45.9378	One-way Functions are Essential for Single-Server Private Information Retrieval
+R1	10.1.1.110.116	A random server model for private information retrieval
+R1	10.1.1.14.1710	Improved Upper Bounds on Information-Theoretic Private Information Retrieval (Extended Abstract)
+R1	10.1.1.2.5130	A New and Efficient All-Or-Nothing Disclosure of Secrets Protocol
+R1	10.1.1.18.174	Lower Bounds for Linear Locally Decodable Codes and Private Information Retrieval
+R1	10.1.1.10.816	Robust Information-Theoretic Private Information Retrieval
+R1	10.1.1.10.9798	Private Information Retrieval Based on the Subgroup Membership Problem
+R1	10.1.1.35.5151	On Hiding Information from an Oracle
+R1	10.1.1.41.7250	On the Power of Two-Local Random Reductions
+R1	10.1.1.156.4354	Covering radius survey and recent results
+R1	10.1.1.77.1043	Breaking the O(n 1/(2k−1) ) Barrier for Information-Theoretic Private Information Retrieval
+R1	10.1.1.133.2654	One-way trapdoor permutations are sufficient for non-trivial single-server private information retrieval
+R1	10.1.1.21.5506	Private Information Retrieval by Keywords
+R1	10.1.1.129.7075	Reducing the servers' computation in private information retrieval: Pir with preprocessing
+R1	10.1.1.4.5643	Repudiative Information Retrieval

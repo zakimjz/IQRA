@@ -1,0 +1,21 @@
+10.1.1.359.5281	2010	Automated search for causal relations: Theory and practice
+R1	10.1.1.1.8638	Identifying Independencies in Causal Graphs with Feedback
+R1	10.1.1.108.5349	Independent component analysis: algorithms and applications
+R1	10.1.1.11.459	Optimal Structure Identification with Greedy Search
+R1	10.1.1.142.8832	A characterization of Markov equivalence classes for acyclic digraphs
+R1	10.1.1.12.8418	HITON, A Novel Markov Blanket Algorithm for Optimal Variable Selection
+R1	10.1.1.35.1489	Directed Cyclic Graphical Representations of Feedback Models
+R1	10.1.1.21.825	A Transformational Characterization of Equivalent Bayesian Network Structures
+R1	10.1.1.357.7545	Learning the structure of linear latent variable models
+R1	10.1.1.127.8544	Estimating high-dimensional directed acyclic graphs with the PC-algorithm
+R1	10.1.1.163.2163	A linear non-gaussian acyclic model for causal discovery
+R1	10.1.1.149.7938	Complete Identification Methods for the Causal Hierarchy
+R1	10.1.1.321.6307	Searching for the causal structure of a vector autoregression
+R1	10.1.1.142.6917	Markov equivalence for ancestral graphs
+R1	10.1.1.405.5443	Estimating Latent Causal Influences: TETRAD III Variable Selection and Bayesian Parameter Estimation: the effect of Lead on IQ
+R1	10.1.1.143.9015	Causal discovery of linear acyclic models with arbitrary distributions
+R1	10.1.1.144.4921	Nonlinear causal discovery with additive noise models
+R1	10.1.1.323.8171	Integrating locally learned causal structures with overlapping variables
+R1	10.1.1.210.8190	Search for additive nonlinear time series causal models
+R1	10.1.1.207.4395	Controlling the False Discovery Rate of the Association/Causality Structure Learned with the PC Algorithm
+R1	10.1.1.330.3440	Joint estimation of linear non-gaussian acyclic models

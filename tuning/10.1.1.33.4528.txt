@@ -1,0 +1,21 @@
+10.1.1.33.4528	1998	Evolutionary Robotics: Exploiting the full power of self-organization
+R1	10.1.1.10.7878	The Symbol Grounding Problem
+R1	10.1.1.17.1220	Automatic Programming of Behavior-based Robots using Reinforcement Learning
+R1	10.1.1.99.9907	Understanding Intelligence
+R1	10.1.1.52.7017	Robot Shaping: Experiment In Behavior Engineering
+R1	10.1.1.30.5678	Co-evolving predator and prey robots: Do `arms races' arise in artificial evolution?
+R1	10.1.1.49.722	Mobile robot miniaturization: A tool for investigation in control algorithms.
+R1	10.1.1.133.9324	Automatic creation of an autonomous agent: Genetic evolution of a neural-network driven robot
+R1	10.1.1.39.9871	Challenges in Evolving Controllers for Physical Robots
+R1	10.1.1.33.3131	Evolving non-Trivial Behaviors on Real Robots: an Autonomous Robot that Picks up Objects
+R1	10.1.1.154.2206	Evolution of plastic neurocontrollers for situated agents. Animals to Animats
+R1	10.1.1.27.4422	Computational Neuroethology: A Provisional Manifesto
+R1	10.1.1.49.7177	Co-evolution of Pursuit and Evasion II: Simulation Methods and Results
+R1	10.1.1.28.1524	Perspectives: Complex Adaptations and the Evolution of Evolvability
+R1	10.1.1.33.4946	Using Emergent Modularity to Develop Control Systems for Mobile Robots
+R1	10.1.1.47.3504	Sensory-Motor Coordination: The Metaphor and Beyond
+R1	10.1.1.56.2138	Reducing Human Design and Increasing Adaptability in Evolutionary Robotics
+R1	10.1.1.26.6491	Evolving Robot Morphology
+R1	10.1.1.31.446	The Neural Mind and the Robot
+R1	10.1.1.50.6753	Sufficient Neurocontrollers can be Surprisingly Simple
+R1	10.1.1.42.5922	Evolution and Development of Modular Control Architectures for 1-D Locomotion in Six-Legged Animats

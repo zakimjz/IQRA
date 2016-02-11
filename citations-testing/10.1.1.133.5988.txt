@@ -1,0 +1,25 @@
+10.1.1.133.5988	1998	The Art of Signaling: Fifty Years of Coding Theory
+R1	10.1.1.173.1903	Where mathematics meets the Internet
+R1	10.1.1.135.9318	Near Shannon limit error-correcting coding and decoding
+R1	10.1.1.22.382	Comments on Broadcast Channels
+R1	10.1.1.116.5688	On limits of wireless communications in a fading environment when using multiple antennas
+R1	10.1.1.112.4293	Space-time codes for high data rate wireless communication: Performance criterion and code construction
+R1	10.1.1.24.6027	Codes and Decoding on General Graphs
+R1	10.1.1.47.3862	Algorithms for Quantum Computation: Discrete Logarithms and Factoring
+R1	10.1.1.69.5504	Capacity of multi-antenna Gaussian channels
+R1	10.1.1.45.5055	Unveiling Turbo Codes: Some Results on Parallel Concatenated Coding Schemes
+R1	10.1.1.68.3377	The Z_4-linearity of Kerdock, Preparata, Goethals, and related codes
+R1	10.1.1.145.9062	Data networks as cascades: investigating the multifractal nature
+R1	10.1.1.49.7324	Near Shannon Limit Performance of Low Density Parity Check Codes
+R1	10.1.1.366.4276	Successive refinement of information
+R1	10.1.1.205.6018	Quantum Error Correction Via Codes Over GF(4)
+R1	10.1.1.332.5362	Construction and decoding of a class of algebraic geometric codes
+R1	10.1.1.252.4951	Mixed state entanglement and quantum error correction
+R1	10.1.1.29.9216	Quaternary Quadratic Residue Codes and Unimodular Lattices
+R1	10.1.1.71.1713	New trellis codes based on lattices and cosets
+R1	10.1.1.109.6181	On the decoding of algebraic-geometric codes
+R1	10.1.1.156.6778	At the dawn of the theory of codes
+R1	10.1.1.173.6869	Averaging bounds for lattices and linear codes
+R1	10.1.1.40.6507	Symbolic Dynamics and Connections to Coding Theory, Automata Theory and System Theory
+R1	10.1.1.392.5825	A strengthening of the Assmus–Mattson theorem
+R1	10.1.1.24.505	Power and Bandwidth Efficient Digital Communication Using Turbo Codes in Multilevel Codes

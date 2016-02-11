@@ -1,0 +1,21 @@
+10.1.1.59.6546	2005	A First Look at Peer-to-Peer Worms: Threats and Defenses
+R1	10.1.1.140.3129	A Scalable Content-Addressable Network
+R1	10.1.1.28.5987	Pastry: Scalable, distributed object location and routing for large-scale peer-to-peer systems
+R1	10.1.1.105.3673	Chord: A Scalable Peer-to-Peer Lookup Service for Internet Applications
+R1	10.1.1.54.2169	Modeling Internet Topology
+R1	10.1.1.118.1870	Secure routing for structured peer-to-peer overlay networks
+R1	10.1.1.161.253	Measurement and Analysis of Spyware in a University Environment
+R1	10.1.1.10.5444	Making Gnutella-like P2P Systems Scalable
+R1	10.1.1.114.3963	Samsara: Honor among thieves in peer-to-peer storage
+R1	10.1.1.10.9515	COCA: A Secure Distributed Online Certification Authority
+R1	10.1.1.12.5470	Internet Quarantine: Requirements for Containing Self-Propagating Code
+R1	10.1.1.160.6250	How to 0wn the Internet in Your Spare Time
+R1	10.1.1.72.3322	Fast portscan detection using sequential hypothesis testing
+R1	10.1.1.10.4743	A Taxonomy of Computer Worms
+R1	10.1.1.133.4019	Very fast containment of scanning worms
+R1	10.1.1.1.7686	Monitoring and Early Warning for Internet Worms
+R1	10.1.1.94.5342	Autograph: Toward automated, distributed worm signature detection
+R1	10.1.1.124.341	Secure Program Execution via Dynamic Information Flow Tracking
+R1	10.1.1.60.21	Minos: Control Data Attack Prevention Orthogonal to Memory Model
+R1	10.1.1.307.8389	Dynamic taint analysis for automatic detection, analysis, and signature generation of exploits on commodity software
+R1	10.1.1.178.8545	we contain Internet worms

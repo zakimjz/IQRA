@@ -1,0 +1,40 @@
+10.1.1.135.9600	2005	Survey of Sparse and Non-Sparse Methods in Source Separation
+R1	10.1.1.133.4884	Maximum likelihood from incomplete data via the EM algorithm
+R1	10.1.1.308.8619	Some methods for classification and analysis of multivariate observations
+R1	10.1.1.127.6264	Algorithms for non-negative matrix factorization
+R1	10.1.1.107.3613	Independent Component Analysis
+R1	10.1.1.110.696	An information-maximization approach to blind separation and blind deconvolution
+R1	10.1.1.43.9497	Multichannel Blind Deconvolution: Fir Matrix Algebra And Separation Of Multipath Mixtures
+R1	10.1.1.135.1907	Atomic decomposition by basis pursuit
+R1	10.1.1.8.5684	Blind Beamforming for Non Gaussian Signals
+R1	10.1.1.56.3619	Infomax and Maximum Likelihood for Blind Source Separation
+R1	10.1.1.23.7180	Learning of Sparse Auditory Receptive Fields
+R1	10.1.1.32.3277	Unmixing Hyperspectral Data
+R1	10.1.1.32.6731	One Microphone Source Separation
+R1	10.1.1.48.3989	An Information-Theoretic Analysis of Hard and Soft Assignment Methods for Clustering
+R1	10.1.1.16.1720	Sparse Coding In The Primate Cortex
+R1	10.1.1.30.1292	Removing Electroencephalographic Artifacts: Comparison between ICA and PCA
+R1	10.1.1.120.3155	Independent component approach to the analysis of EEG and MEG recordings
+R1	10.1.1.43.8460	An Approach to Blind Source Separation Based on Temporal Structure of Speech Signals
+R1	10.1.1.164.7690	Learning Overcomplete Representations
+R1	10.1.1.10.6002	Soft-LOST: EM on a Mixture of Oriented Lines
+R1	10.1.1.165.533	Blind source separation of more sources than mixtures using overcomplete representations
+R1	10.1.1.36.4566	Blind Source Separation by Sparse Decomposition in a Signal Dictionary
+R1	10.1.1.10.9884	Hard-LOST: Modified k-Means for Oriented Lines
+R1	10.1.1.89.2028	A first application of independent component analysis to extracting structure from stock returns
+R1	10.1.1.43.7425	A Context-Sensitive Generalization of ICA
+R1	10.1.1.9.3590	When Does Non-Negative Matrix Factorization Give Correct Decomposition into Parts?
+R1	10.1.1.2.2253	Monaural Source Separation using Spectral Cues
+R1	10.1.1.40.2118	Blind Separation Of Convolved Sources Based On Information Maximization
+R1	10.1.1.40.2504	Blind Separation Of Real World Audio Signals Using Overdetermined Mixtures
+R1	10.1.1.110.7271	BSS: A new approach for watermark attack
+R1	10.1.1.7.3319	Eigen-Structure Of The Fourth-Order Cumulant Tensor With Application To The Blind Source Separation Problem
+R1	10.1.1.15.3550	Real-Time Sound Source Localization and Separation for Robot Audition
+R1	10.1.1.341.8149	Non-negative sparse coding, in
+R1	10.1.1.18.7486	A Geometric Algorithm for Overcomplete Linear ICA
+R1	10.1.1.11.6396	Underdetermined Blind Source Separation Using A Probabilistic Source Sparsity Model
+R1	10.1.1.146.1217	Networks for the separation of sources that are superimposed and delayed
+R1	10.1.1.11.8472	Blind Source Separation with Pure Delay Mixtures
+R1	10.1.1.22.5377	On the Approximate W-Disjoint Orthogonality of Speech
+R1	10.1.1.35.4016	Blind Separation of Disjoint Orthogonal Signals: Demixing N Sources from 2 Mixtures
+R1	10.1.1.11.811	Adaptive separation of acoustic sources for anechoic conditions: A constrained frequency domain approach

@@ -1,0 +1,37 @@
+10.1.1.101.3514	2006	Managing Wire Delay in Chip Multiprocessor Caches
+R1	10.1.1.140.6368	Token flow control
+R1	10.1.1.25.9729	The Future of Wires
+R1	10.1.1.185.703	Inexpensive implementations of set-associativity
+R1	10.1.1.2.1314	Generating Representative Web Workloads for Network and Server Performance Evaluation
+R1	10.1.1.227.3145	An adaptive, nonuniform cache structure for wire-delay dominated on-chip caches
+R1	10.1.1.125.1918	The optimal logic depth per pipeline stage is 6 to 8 FO4 inverter delays
+R1	10.1.1.25.8050	Speed and Power Scaling of SRAM's
+R1	10.1.1.126.8147	Memory System Characterization of Commercial Workloads
+R1	10.1.1.217.1425	An Adaptive Cache Coherence Protocol Optimized for Migratory Sharing
+R1	10.1.1.115.8650	A coding framework for low-power address and data busses
+R1	10.1.1.5.2876	Low-Swing On-Chip Signaling Techniques: Effectiveness and Robustness
+R1	10.1.1.51.3368	Scheduling and Page Migration for Multiprocessor Compute Servers
+R1	10.1.1.104.6469	The SPLASH-2 programs: Characterization and methodological considerations
+R1	10.1.1.16.5625	SPEComp: A New Benchmark Suite for Measuring Parallel Computer Performance
+R1	10.1.1.59.2377	Managing Wire Delay in Large Chip-Multiprocessor Caches
+R1	10.1.1.110.3788	Cooperative caching for chip multiprocessors
+R1	10.1.1.108.9888	Adaptive mechanisms and policies for managing cache hierarchies in chip multiprocessors
+R1	10.1.1.99.8172	Design and Management of 3D Chip Multiprocessors Using Network-in-Memory
+R1	10.1.1.188.2042	Exploring interconnections in multi-core architectures
+R1	10.1.1.84.6302	Simulating a $2M Commercial Server on a $2K PC
+R1	10.1.1.119.7640	Microarchitectural wire management for performance and power in partitioned architectures
+R1	10.1.1.105.1041	ASR: Adaptive selective replication for CMP caches
+R1	10.1.1.154.9845	Near Speed-of-Light Signaling Over OnChip Electrical Interconnects
+R1	10.1.1.102.4330	Interconnect-Aware Coherence Protocols for Chip Multiprocessors
+R1	10.1.1.115.987	Distance associativity for high-performance energy-efficient non-uniform cache architectures
+R1	10.1.1.134.9374	Optimizing replication, communication, and capacity allocation in cmps
+R1	10.1.1.91.6442	Synergistic Caching in Single-Chip Multiprocessors
+R1	10.1.1.164.1512	Last Level Cache (LLC) performance of data-mining workloads on a CMP—A case study of parallel bioinformatics workloads
+R1	10.1.1.90.7471	Performance/Watt: The New Server Focus
+R1	10.1.1.116.8512	Organizing the Last Line of Defense before Hitting the Memory Wall for CMPs
+R1	10.1.1.132.1624	Rationale and challenges for optical interconnects to electronic chips
+R1	10.1.1.137.9411	The Impact of Exploiting Instruction-Level Parallelism on Shared-Memory Multiprocessors
+R1	10.1.1.64.5265	Fetching instruction streams
+R1	10.1.1.224.8994	Flexible Use of Memory for Replication/Migration in Cache-Coherent DSM Multiprocessors
+R1	10.1.1.117.8754	A new memory monitoring scheme for memory-aware scheduling and partitioning
+R1	10.1.1.41.4992	Getting to the Bottom of Deep Submicron II: A Global Wiring Paradigm

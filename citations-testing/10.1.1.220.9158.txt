@@ -1,0 +1,24 @@
+10.1.1.220.9158	2005	Face Transfer with Multilinear Models
+R1	10.1.1.30.2775	Synthesizing Realistic Facial Expressions from Photographs
+R1	10.1.1.31.3794	Resynthesizing Facial Animation through 3D Model-Based Tracking
+R1	10.1.1.2.8373	A Morphable Model For The Synthesis Of 3D Faces
+R1	10.1.1.13.73	Non-Iterative, Feature-Preserving Mesh Smoothing
+R1	10.1.1.127.3126	From Few to many: Illumination cone models for face recognition under variable lighting and pose
+R1	10.1.1.124.5942	Optical flow constraints on deformable models with applications to face tracking
+R1	10.1.1.332.6032	3-D motion estimation in model-based facial image coding
+R1	10.1.1.10.6807	Rapid object detection using a boosted cascade of simple features
+R1	10.1.1.1.5301	TensorTextures: Multilinear Image-Based Rendering
+R1	10.1.1.19.7649	Multilinear Analysis of Image Ensembles: TensorFaces
+R1	10.1.1.33.4726	Probabilistic Principal Component Analysis
+R1	10.1.1.75.7126	The integration of optical flow and deformable models with applications to human face shape and motion estimation
+R1	10.1.1.28.9127	Realistic Modeling for Facial Animation
+R1	10.1.1.13.2025	Visual Speech Synthesis by Morphing Visemes
+R1	10.1.1.23.6808	Expression Cloning
+R1	10.1.1.16.4917	Modeling, Tracking and Interactive Animation of Faces and Heads using Input from Video
+R1	10.1.1.37.3166	Simulating Facial Surgery Using Finite Element Models
+R1	10.1.1.11.972	Flexible flow for 3D nonrigid tracking and shape recovery
+R1	10.1.1.16.1600	Tracking and Modeling Non-Rigid Objects with Rank Constraints
+R1	10.1.1.164.2997	Learning bilinear models for two-factor problems in vision
+R1	10.1.1.12.2656	The Space of Human Body Shapes: Reconstruction And Parameterization from Range Scans
+R1	10.1.1.12.6847	Fundamentals of Spherical Parameterization for 3D Meshes
+R1	10.1.1.16.3330	EM Algorithms for PCA and SPCA

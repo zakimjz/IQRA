@@ -1,0 +1,27 @@
+10.1.1.216.5936	2009	Mathematical and Statistical Opportunities in Cyber Security
+R1	10.1.1.144.7995	Wide-Area Traffic: The Failure of Poisson Modeling
+R1	10.1.1.173.1903	Where mathematics meets the Internet
+R1	10.1.1.27.30	Difficulties in Simulating the Internet
+R1	10.1.1.27.3799	Heavy Tail Modeling And Teletraffic Data
+R1	10.1.1.30.8962	Self-Similarity Through High-Variability: Statistical Analysis of Ethernet LAN Traffic at the Source Level
+R1	10.1.1.72.3322	Fast portscan detection using sequential hypothesis testing
+R1	10.1.1.24.8997	Why We Don't Know How to Simulate the Internet
+R1	10.1.1.10.1000	Immunity by Design: An Artificial Immune System
+R1	10.1.1.405.7828	An architecture for generating semantics-aware signatures
+R1	10.1.1.127.5984	Strategies for Sound Internet Measurement
+R1	10.1.1.116.4156	Mining anomalies using traffic feature distributions
+R1	10.1.1.105.711	FLAIM: A multi-level anonymization framework for computer and network logs
+R1	10.1.1.163.8144	Combining filtering and statistical methods for anomaly detection
+R1	10.1.1.115.7466	Operational experiences with high-volume network intrusion detection
+R1	10.1.1.131.3873	A Brief History of Scanning
+R1	10.1.1.118.721	Internet Traffic Data
+R1	10.1.1.13.8453	Intrusion Detection Systems Using Adaptive Regression Splines
+R1	10.1.1.10.9141	Discussion of "Heavy Tail Modeling and Teletraffic Data" by S.R. Resnick
+R1	10.1.1.117.528	Adaptive defense against various network attacks
+R1	10.1.1.135.4090	Using honeynets for internet situational awareness
+R1	10.1.1.65.4958	A machine learning approach to TCP throughput prediction
+R1	10.1.1.129.6109	Challenging the Anomaly Detection Paradigm: A Provocative Discussion
+R1	10.1.1.137.9242	Some Problems in Sanitizing Network Data
+R1	10.1.1.144.4404	Securing Provenance
+R1	10.1.1.217.1954	Coordinated scan detection
+R1	10.1.1.157.9286	On the Limits of Payload-Oblivious Network Attack Detection

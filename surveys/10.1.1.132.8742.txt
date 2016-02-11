@@ -1,0 +1,33 @@
+10.1.1.132.8742	2001	A survey of energy efficient network protocols for wireless networks
+R1	10.1.1.160.1776	Thwarting the power-hungry disk
+R1	10.1.1.39.3266	Comparing Algorithms for Dynamic Speed-Setting of a Low-Power CPU
+R1	10.1.1.134.8329	Scheduling techniques for reducing processor energy use
+R1	10.1.1.134.4617	PAMAS -- Power Aware Multi-Access protocol with Signalling for Ad Hoc Networks
+R1	10.1.1.125.5511	I-TCP: Indirect TCP for mobile hosts
+R1	10.1.1.47.1888	Measuring and Reducing Energy Consumption of Network Interfaces in Hand-Held Devices
+R1	10.1.1.37.5539	Topology Control of Multihop Wireless Networks using Transmit Power Adjustment
+R1	10.1.1.107.7720	Energy Conserving Routing in Wireless Ad-hoc Networks
+R1	10.1.1.132.8742	A survey of energy efficient network protocols for wireless networks
+R1	10.1.1.10.4942	Improving Reliable Transport and Handoff Performance in Cellular Wireless Networks
+R1	10.1.1.21.7581	Power-Aware Routing in Mobile Ad Hoc Networks
+R1	10.1.1.12.6395	Performance Comparison of Battery Power Consumption in Wireless Multiple Access Protocols
+R1	10.1.1.12.4491	Power-Aware Scheduling Algorithms for Wireless Networks
+R1	10.1.1.110.9475	Power Aware Page Allocation
+R1	10.1.1.40.7252	Improving the Performance of Reliable Transport Protocols in Mobile Computing Environments
+R1	10.1.1.39.9314	Battery Power Sensitive Video Processing in Wireless Networks
+R1	10.1.1.161.5794	M-TCP: TCP for Mobile Cellular Networks
+R1	10.1.1.32.7658	TCP-Probing: Towards an Error Control Schema with Energy and Throughput Performance Gains
+R1	10.1.1.33.608	Adaptive Frame Length Control for Improving Wireless Link Throughput, Range, and Energy Efficiency
+R1	10.1.1.104.138	On the Construction of Energy-Efficient Broadcast and Multicast Trees in Wireless Networks
+R1	10.1.1.46.6876	PowerScope: A Tool for Profiling the Energy Usage of Mobile Applications
+R1	10.1.1.11.9350	Software Strategies for Portable Computer Energy Management
+R1	10.1.1.31.2968	Energy Constrained Error Control for Wireless Channels
+R1	10.1.1.52.3644	AIRMAIL: A Link-Layer Protocol for Wireless Networks
+R1	10.1.1.13.31	On Scheduling Of Multimedia Services In A Low-Power MAC For Wireless ATM Networks
+R1	10.1.1.54.7885	Energy Efficient Query Optimization
+R1	10.1.1.23.1247	Adaptive Source Rate Control for Real-Time Wireless Video Transmission
+R1	10.1.1.12.909	Advances in Wireless Terminals
+R1	10.1.1.38.3492	Energy/Throughput Tradeoffs of TCP Error Control Strategies
+R1	10.1.1.28.4174	Power-Aware Broadcasting in Mobile Ad Hoc Networks
+R1	10.1.1.20.9597	Bandwidth Efficient Transmission of MPEG-II Video over Noisy Mobile Links
+R1	10.1.1.85.8012	A low-power, lightweight unit to provide ubiquitous information access -- Applications and network support for Infopad

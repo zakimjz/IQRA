@@ -1,0 +1,21 @@
+10.1.1.225.5140	2008	H.P.: Gesture modeling and animation based on a probabilistic re-creation of speaker style
+R1	10.1.1.36.6903	Spacetime Constraints
+R1	10.1.1.105.1244	WordNet: An on-line lexical database
+R1	10.1.1.192.4027	Information Structure and the Syntax-Phonology Interface
+R1	10.1.1.109.1587	Modeling Coarticulation in Synthetic Visual Speech
+R1	10.1.1.111.5468	Beat: The behavior expression animation toolkit
+R1	10.1.1.9.4922	Physically Based Motion Transformation
+R1	10.1.1.10.3040	Animating Human Athletics
+R1	10.1.1.4.1865	ANVIL - A Generic Annotation Tool for Multimodal Dialogue
+R1	10.1.1.4.6875	Automatic Generation of Non-Verbal Facial Expressions from Speech
+R1	10.1.1.3.9975	Modeling Tension and Relaxation for Computer Animation
+R1	10.1.1.35.2609	Motion Warping
+R1	10.1.1.119.8571	Formational parameters and adaptive prototype instantiation for MPEG-4 compliant gesture synthesis
+R1	10.1.1.138.4369	The EMOTE Model for Effort and Shape
+R1	10.1.1.16.78	The Virtual Stuntman: Dynamic Characters with a Repertoire of Autonomous Motor Skills
+R1	10.1.1.114.1281	An annotation scheme for conversational gestures: How to economically capture timing and form
+R1	10.1.1.332.5332	Design and evaluation of expressive gesture synthesis for embodied conversational agents
+R1	10.1.1.144.4356	Non-verbal cues for discourse structure
+R1	10.1.1.61.6130	Methods for Exploring Expressive Stance
+R1	10.1.1.132.1768	Design and Evaluation of an American Sign Language Generator
+R1	10.1.1.348.3716	Aesthetic exploration and refinement: A computational framework for expressive character animation

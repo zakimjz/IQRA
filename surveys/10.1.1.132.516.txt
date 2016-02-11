@@ -1,0 +1,40 @@
+10.1.1.132.516	2006	Spiking neuron networks: A survey
+R1	10.1.1.135.9814	A Theory of the Learnable
+R1	10.1.1.332.356	The Nature of Statistical Learning Theory
+R1	10.1.1.27.3235	Reduction of the Hodgkin-Huxley Equations to a Single-Variable Threshold Model
+R1	10.1.1.45.9176	The NEURON Simulation Environment
+R1	10.1.1.54.9608	On the Complexity of Learning for a Spiking Neuron
+R1	10.1.1.38.6745	Networks of Spiking Neurons: The Third Generation of Neural Network Models
+R1	10.1.1.162.595	Simple model of spiking neurons
+R1	10.1.1.10.5551	Complexity of Learning for Networks of Spiking Neurons with Nonlinear Synaptic Interactions
+R1	10.1.1.17.4842	On the Complexity of Learning for Spiking Neurons with Temporal Coding
+R1	10.1.1.5.8123	Real-Time Computing Without Stable States: A New Framework for Neural Computation Based on Pertubations
+R1	10.1.1.10.7613	A VLSI Recurrent Network of Integrate-and-Fire Neurons Connected by Plastic Synapses with Long-Term Memory
+R1	10.1.1.386.2693	Synaptic modification by correlated activity: Hebb’s postulate revisited
+R1	10.1.1.218.3603	Theory for the development of neuron selectivity: orientation specificity and binocular interaction in visual cortex
+R1	10.1.1.23.6427	Rate Coding Versus Temporal Order Coding: What the Retinal Ganglion Cells Tell the Visual Cortex
+R1	10.1.1.105.2395	Spikenet: a simulator for modeling large networks of integrate and fire neurons
+R1	10.1.1.94.8113	An event-driven framework for the simulation of networks of spiking neurons
+R1	10.1.1.136.7920	Spike-timing Dynamics of Neuronal Groups
+R1	10.1.1.52.6714	On Computing Boolean Functions by a Spiking Neuron
+R1	10.1.1.55.5246	Mapping Neural Networks onto Message-Passing Multicomputers
+R1	10.1.1.104.1263	Rapid visual processing using spike asynchrony
+R1	10.1.1.295.7695	Learning in spiking neural assemblies
+R1	10.1.1.3.9849	The Evidence for Neural Information Processing with Precise Spike-times: A Survey
+R1	10.1.1.105.6130	A distributed and multithreaded neural event driven simulation framework
+R1	10.1.1.20.1940	Simulation of Spiking Neural Networks on Different Hardware Platforms
+R1	10.1.1.107.9160	Temporal sequence learning, prediction and control - a review of different models and their relation to biological mechanisms
+R1	10.1.1.15.7062	Spike-Based Synaptic Plasticity and the Emergence of Direction Selective Simple Cells: Simulation Results
+R1	10.1.1.107.6936	Isotropic Sequence Order Learning
+R1	10.1.1.108.2609	Learning and discrimination through STDP in a top-down modulated associative memory
+R1	10.1.1.48.1877	VC Dimension of an Integrate-and-Fire Neuron Model
+R1	10.1.1.18.3650	Sparse Image Coding Using an Asynchronous Spiking Neural Network
+R1	10.1.1.19.2861	Unsupervised Clustering with Spiking Neurons by Sparse Temporal Coding and Multi-Layer RBF Networks
+R1	10.1.1.5.7825	Homeostasis And Learning Through Spike-Timing Dependent Plasticity
+R1	10.1.1.295.9361	Optimal Hebbian Learning: A Probabilistic Point of View
+R1	10.1.1.60.6371	Isolated Word Recognition Using a Liquid State Machine
+R1	10.1.1.331.5588	A “spiking” Bidirectional Associative Memory for modeling intermodal priming
+R1	10.1.1.64.3903	Spike-timing dependent plasticity and mutual information maximization for a spiking neuron model
+R1	10.1.1.295.8394	Dynamic Bayesian Networks with Deterministic Latent
+R1	10.1.1.88.5924	Evolution of Spiking Neural Circuits in Autonomous Mobile Robots
+R1	10.1.1.13.6360	Simulation of Spiking Neural Networks - Architectures And Implementations

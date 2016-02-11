@@ -1,0 +1,21 @@
+10.1.1.134.9987	2007	Event perception: A mind/brain perspective
+R1	10.1.1.123.2689	Contention scheduling and the control of routine activities
+R1	10.1.1.138.1319	Brain areas involved in perception of biological motion
+R1	10.1.1.225.165	Distributed hierarchical processing in the primate cerebral cortex
+R1	10.1.1.106.873	Forward models: Supervised learning with a distal teacher
+R1	10.1.1.397.1616	The reviewing of object files: Object specific integration of information
+R1	10.1.1.164.7628	Grounding language in action
+R1	10.1.1.140.5348	An efficient, probabilistically sound algorithm for segmentation and word discovery
+R1	10.1.1.129.1412	Predictive reward signal of dopamine neurons
+R1	10.1.1.319.9438	On the control of control: The role of dopamine in regulating prefrontal function and working
+R1	10.1.1.32.8054	Interactions Between Frontal Cortex and Basal Ganglia in Working Memory: A Computational Model
+R1	10.1.1.418.7567	By carrot or by stick: Cognitive reinforcement learning in parkinsonism
+R1	10.1.1.53.458	The Link Between Brain Learning, Attention, And Consciousness
+R1	10.1.1.105.5274	Functional brain mapping during free viewing of natural scenes
+R1	10.1.1.124.7274	Connectionist neuroimaging
+R1	10.1.1.116.8992	Functional analysis of human MT and related visual cortical areas using magnetic resonance imaging
+R1	10.1.1.111.9709	Doing without schema hierarchies: A recurrent connectionist approach to normal and impaired routine sequential action
+R1	10.1.1.137.5877	Perceiving, remembering, and communicating structure in events
+R1	10.1.1.334.5138	The neural basis of human error processing: Reinforcement learning, dopamine, and the error-related negativity.” Psychological Review 109:679–709
+R1	10.1.1.76.9369	Temporal accent structure and the remembering of filmed narratives
+R1	10.1.1.70.4812	Learning representations in a gated prefrontal cortex model of dynamic task switching

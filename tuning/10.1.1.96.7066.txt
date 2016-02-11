@@ -1,0 +1,74 @@
+10.1.1.96.7066	2006	State of the Art Analysis of Wireless Mesh Technologies
+R1	10.1.1.138.3623	The capacity of wireless networks
+R1	10.1.1.12.5035	Dynamic Power Allocation and Routing for Time Varying Wireless Networks
+R1	10.1.1.12.2972	Optimal Routing, Link Scheduling and Power Control in Multi-hop Wireless Networks
+R1	10.1.1.18.2598	Simultaneous Routing and Resource Allocation via Dual Decomposition
+R1	10.1.1.1.2405	SSCH: Slotted Seeded Channel Hopping for Capacity Improvement in IEEE 802.11 Ad-Hoc Wireless Networks
+R1	10.1.1.98.5736	ad hoc on-demand distance vector (aodv) routing
+R1	10.1.1.117.453	Multi-Channel MAC for Ad Hoc Networks: Handling Multi-Channel Hidden Terminals Using a Single Transceiver
+R1	10.1.1.329.6251	Cellular IP: A New Approach to Internet Host Mobility
+R1	10.1.1.1.4227	End-to-End Performance and Fairness in Multihop Wireless Backhaul Networks
+R1	10.1.1.127.3891	Impact of interference on multi-hop wireless network performance
+R1	10.1.1.111.4133	Mobility increases the capacity of ad-hoc wireless networks
+R1	10.1.1.104.6876	Cross-Layer Design for Wireless Networks
+R1	10.1.1.31.6029	Design, Implementation, and Evaluation of Cellular IP
+R1	10.1.1.5.6094	Queuing with Adaptive Modulation and Coding over Wireless Links: Cross-Layer Analysis and Design
+R1	10.1.1.114.2307	Routing in multi-radio, multi-hop wireless mesh networks
+R1	10.1.1.132.5833	Delay and Capacity Trade-offs in Mobile Ad Hoc Networks: A Global Perspective
+R1	10.1.1.3.5380	Link-level Measurements from an 802.11b Mesh Network
+R1	10.1.1.61.2545	Wireless mesh networks: a survey
+R1	10.1.1.94.9895	Fair resource allocation in wireless networks using queue-length-based scheduling and congestion control
+R1	10.1.1.135.5419	ExOR: Opportunistic Multi-Hop Routing for Wireless Networks
+R1	10.1.1.138.2822	Joint rate control and scheduling in multihop wireless networks
+R1	10.1.1.110.3402	The impact of imperfect scheduling on cross-layer congestion  control in   wireless networks
+R1	10.1.1.112.2848	Comparison of routing metrics for static multi-hop wireless networks
+R1	10.1.1.404.6800	Joint channel assignment and routing for throughput optimization in multi-radio wireless mesh networks
+R1	10.1.1.125.8938	Characterizing the capacity region in multi-radio multi-channel wireless mesh networks
+R1	10.1.1.4.7783	Centralized Channel Assignment and Routing Algorithms for Multi-channel Wireless Mesh Networks
+R1	10.1.1.148.5810	Quality of service support in IEEE 802.16 networks
+R1	10.1.1.119.2810	Architecture and Evaluation of an Unplanned 802.11b Mesh Network
+R1	10.1.1.129.1574	Capacity of Multi-Channel Wireless Networks with Random (c, f) Assignment
+R1	10.1.1.142.1060	Cross-layer design for lifetime maximization in interference-limited wireless sensor networks
+R1	10.1.1.331.3799	Joint Source Coding, Routing and Resource Allocation for Wireless Sensor Networks
+R1	10.1.1.374.1932	Hierarchical mobile IPv6 mobility management (HMIPv6),” RFC 4140
+R1	10.1.1.153.4671	Comparison of multi-channel MAC protocols
+R1	10.1.1.141.5458	Designing routing metrics for mesh networks
+R1	10.1.1.91.4823	Routing and Link-layer Protocols for Multi-Channel Multi-Interface Ad hoc Wireless Networks
+R1	10.1.1.411.552	On designing mac protocols for wireless networks using directional antennas
+R1	10.1.1.93.8294	Interference-aware routing in multihop wireless networks using directional antennas
+R1	10.1.1.95.2513	Mesh networking protocols to exploit physical layer capabilities
+R1	10.1.1.91.185	Interference-aware topology control and qos routing in multi-channel wireless mesh networks
+R1	10.1.1.6.616	Network Planning in Wireless Ad hoc Networks: A Cross-Layer Approach
+R1	10.1.1.119.2487	Interference-aware ieee 802.16 wimax mesh networks
+R1	10.1.1.107.9102	Distributed dynamic scheduling for end-to-end rate guarantees in wireless ad hoc networks
+R1	10.1.1.229.2978	Algorithms for routing and centralized scheduling in IEEE 802.16 mesh networks
+R1	10.1.1.62.8284	Cross-layer scheduling with prescribed QoS guarantees in adaptive wireless networks
+R1	10.1.1.66.9173	A distributed protocol for dynamic address assignment in mobile ad hoc networks
+R1	10.1.1.154.1959	Requirements for Localised IP Mobility Management
+R1	10.1.1.128.9298	Design and evaluation of iMesh: An infrastructure-mode wireless mesh network
+R1	10.1.1.58.8529	Cross-Layer Routing in Wireless Mesh Networks
+R1	10.1.1.60.6289	Self-learning Collision Avoidance for Wireless Networks
+R1	10.1.1.64.1012	On the design and implementation of infrastructure mesh networks
+R1	10.1.1.64.8551	A Cross-Layer Scheduling Algorithm With QoS Support in Wireless Networks
+R1	10.1.1.59.5470	Performance Analysis of Dynamic OFDMA Systems with Inband Signaling
+R1	10.1.1.127.5285	Designing wireless radio access networks for third generation cellular networks
+R1	10.1.1.313.3747	Designing multihop wireless backhaul networks with delay guarantees
+R1	10.1.1.421.9892	Bohacek S. Performance of urban mesh networks
+R1	10.1.1.136.6197	Maximum Throughput and Fair Bandwidth Allocation in Multi-Channel Wireless Mesh Networks
+R1	10.1.1.122.9052	Calderbank, “Jointly optimal congestion and contention control in wireless ad hoc networks
+R1	10.1.1.298.946	Achieving Proportional Fairness Using Local Information in Aloha Networks
+R1	10.1.1.89.3159	Cross-layer rate control for end-to-end proportional fairness in wireless networks with random access
+R1	10.1.1.75.6258	Adaptive downlink scheduling and rate selection: a cross layer design
+R1	10.1.1.111.1251	Multipath routing in wireless mesh networks
+R1	10.1.1.176.7928	Performance of VoIP in a 802.11 wireless mesh network
+R1	10.1.1.158.954	A Topology Control Approach for Utilizing Multiple Channels in Multi-Radio Wireless Mesh Networks
+R1	10.1.1.77.4459	Scheduling algorithms for point-to-multipoint operation in IEEE 802.16 networks
+R1	10.1.1.153.5644	Mrs: A simple cross-layer heuristic to improve throughput capacity in wireless mesh networks
+R1	10.1.1.332.5027	Multichannel mesh networks: challenges and protocols
+R1	10.1.1.136.1792	Price-Based Rate Control for Random Access Networks
+R1	10.1.1.93.6049	Layering as optimization decomposition: current status and open issues
+R1	10.1.1.93.4446	Vaidya “Performance of Ad Hoc Routing using Directional Antennas
+R1	10.1.1.132.485	DMesh: incorporating practical directional antennas in multichannel wireless mesh networks
+R1	10.1.1.229.1776	Efficient and fair scheduling of uplink and downlink
+R1	10.1.1.331.4816	Link scheduling with power control for throughput enhancement in multihop wireless networks
+R1	10.1.1.332.9320	Virtual MIMO-based crosslayer design for wireless sensor networks

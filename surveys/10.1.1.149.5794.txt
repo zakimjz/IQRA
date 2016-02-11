@@ -1,0 +1,55 @@
+10.1.1.149.5794	2008	Monocular Pedestrian Detection: Survey and Experiments
+R1	10.1.1.36.8357	CONDENSATION - conditional density propagation for visual tracking
+R1	10.1.1.332.356	The Nature of Statistical Learning Theory
+R1	10.1.1.36.8835	Icondensation: Unifying low-level and high-level tracking in a stochastic framework
+R1	10.1.1.49.9275	Multidimensional Morphable Models
+R1	10.1.1.32.8918	A Decision-Theoretic Generalization of on-Line Learning and an Application to Boosting
+R1	10.1.1.117.1144	A tutorial on particle filters for online nonlinear/non-Gaussian Bayesian tracking
+R1	10.1.1.131.2072	The Visual Analysis of Human Movement: A Survey
+R1	10.1.1.14.4931	Distinctive Image Features from Scale-Invariant Keypoints
+R1	10.1.1.228.3906	The Hungarian method for the assignment problem
+R1	10.1.1.317.9043	Articulated body motion capture by annealed particle filtering
+R1	10.1.1.1.2317	Probabilistic Tracking With Exemplars in a Metric Space
+R1	10.1.1.123.8151	Statistical pattern recognition: A review
+R1	10.1.1.214.9150	An extended set of Haar-like features for rapid objection detection
+R1	10.1.1.208.258	Object Detection in Images by Components
+R1	10.1.1.18.4262	Partitioned Sampling, Articulated Objects, and interface-quality hand tracking
+R1	10.1.1.10.4061	Detecting Pedestrians Using Patterns of Motion and Appearance
+R1	10.1.1.33.1748	A Time Delay Neural Network Algorithm for Real-Time Pedestrian Recognition
+R1	10.1.1.21.8163	Stereo- and Neural Network-Based Pedestrian Detection
+R1	10.1.1.10.3138	A Boosted Particle Filter: Multitarget Detection and Tracking
+R1	10.1.1.4.7932	BraMBLe: A Bayesian Multiple-Blob Tracker
+R1	10.1.1.37.2884	Wormholes in Shape Space: Tracking through Discontinuous Changes in Shape
+R1	10.1.1.107.6325	Tracking multiple humans in complex situations
+R1	10.1.1.101.8745	Histograms of Oriented Gradients for Human Detection
+R1	10.1.1.94.6612	Pedestrian detection in crowded scenes
+R1	10.1.1.133.4997	Learning to detect objects in images via a sparse, part-based representation
+R1	10.1.1.54.7890	Improving Specificity in PDMs using a Hierarchical Approach
+R1	10.1.1.134.8250	Strike a pose: Tracking people by finding stylized poses
+R1	10.1.1.11.815	Model-Based Hand Tracking Using A Hierarchical Bayesian Filter
+R1	10.1.1.69.6713	Conditional random people: Tracking humans with crfs and grid filters
+R1	10.1.1.186.5229	Svm-knn: Discriminative nearest neighbor classification for visual category recognition
+R1	10.1.1.120.7927	MCMC-based particle filtering for tracking a variable number of interacting targets
+R1	10.1.1.214.9042	Tracking of multiple, partially occluded humans based on static body part detection
+R1	10.1.1.12.6701	Towards Robust Multi-cue Integration for Visual Tracking
+R1	10.1.1.81.7156	Bilattice-based Logical Reasoning for Human Detection. CVPR
+R1	10.1.1.61.5063	An Experimental Study on Pedestrian Classification
+R1	10.1.1.61.8022	Multi-cue pedestrian detection and tracking from a moving vehicle
+R1	10.1.1.68.3688	Human detection via classification on riemannian manifolds
+R1	10.1.1.21.2457	Quasi-Random Sampling for Condensation
+R1	10.1.1.18.8579	Learning the Statistics of People in Images and Video
+R1	10.1.1.41.2985	Hierarchical Shape Fitting Using an Iterated Linear Filter
+R1	10.1.1.6.1332	Pedestrian Detection for Driving Assistance Systems: Single-frame Classification and System Level Performance
+R1	10.1.1.124.5276	Generative versus discriminative methods for object recognition
+R1	10.1.1.71.2930	Direction Estimation of Pedestrian from Multiple Still Images
+R1	10.1.1.76.9599	Stereo-based preprocessing for human shape localization in unstructured environments
+R1	10.1.1.110.1995	Fast human detection using a cascade of histograms of oriented gradients
+R1	10.1.1.205.8978	Detecting pedestrians by learning shapelet features
+R1	10.1.1.80.1758	A field model for human detection and tracking
+R1	10.1.1.214.6314	Human detection using oriented histograms of flow and appearance
+R1	10.1.1.75.4523	A bayesian, exemplar-based approach to hierarchical shape matching
+R1	10.1.1.153.746	Fast Support Vector Machine Classification of very large Datasets
+R1	10.1.1.143.4593	A Mixed Generative-Discriminative Framework for Pedestrian Classification
+R1	10.1.1.153.4378	Shape variation-based frieze pattern for robust gait recognition
+R1	10.1.1.149.8005	Monocular pedestrian recognition using motion parallax
+R1	10.1.1.310.413	Detection and tracking of multiple humans with extensive pose articulation

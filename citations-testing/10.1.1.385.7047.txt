@@ -1,0 +1,26 @@
+10.1.1.385.7047	2006	V.: A scalable cluster-based infrastructure for edge-computing services
+R1	10.1.1.12.2253	Web Caching and Zipf-like Distributions: Evidence and Implications
+R1	10.1.1.42.2177	Adapting to Network and Client Variation Using Active Proxies: Lessons and Perspectives
+R1	10.1.1.2.1314	Generating Representative Web Workloads for Network and Server Performance Evaluation
+R1	10.1.1.105.9822	The Ninja architecture for robust Internet-scale systems and services
+R1	10.1.1.1.2034	Cluster-Based Scalable Network Services
+R1	10.1.1.201.2359	Characterizing Reference Locality in the WWW
+R1	10.1.1.155.483	Long-lasting transient conditions in simulations with heavy-tailed workloads
+R1	10.1.1.51.4800	httperf - A Tool for Measuring Web Server Performance
+R1	10.1.1.23.3550	Summary of WWW Characterizations
+R1	10.1.1.118.9066	Adapting to Network and Client Variability via On-Demand Dynamic Distillation
+R1	10.1.1.64.7212	Internet web servers: Workload characterization and performance implications
+R1	10.1.1.186.8231	How Useful Is Old Information
+R1	10.1.1.34.3745	Interpreting Stale Load Information
+R1	10.1.1.11.7895	A Network Architecture for Heterogeneous Mobile Computing
+R1	10.1.1.37.5554	Application Level Active Networking
+R1	10.1.1.22.7383	iMobile: A Proxy-Based Platform for Mobile Services
+R1	10.1.1.192.1426	Cooperative architectures and algorithms for discovery and transcoding of multi-version content
+R1	10.1.1.212.1545	Jin: \Workload Characterization of a Web Proxy in a Cable Modem Environment
+R1	10.1.1.49.3695	World-Wide Web Proxies
+R1	10.1.1.68.3089	Web Proxy Workload Characterization
+R1	10.1.1.17.810	The Bay Area Research Wireless Access Network (BARWAN)
+R1	10.1.1.26.5817	WebRACE: A Distributed WWW Retrieval, Annotation, and Caching Engine.
+R1	10.1.1.87.6667	Workload Characterization in Web Caching Hierarchies
+R1	10.1.1.85.8521	Intermediary infrastructures for the World
+R1	10.1.1.385.3628	Group Recording of Web Navigation

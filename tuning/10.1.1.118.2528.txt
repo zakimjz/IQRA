@@ -1,0 +1,28 @@
+10.1.1.118.2528	2007	Weakly supervised scale-invariant learning of models for visual recognition
+R1	10.1.1.133.4884	Maximum likelihood from incomplete data via the EM algorithm
+R1	10.1.1.110.5546	Neural Network-Based Face Detection
+R1	10.1.1.113.6796	Feature detection with automatic scale selection
+R1	10.1.1.114.7863	Object class recognition by unsupervised scale-invariant learning
+R1	10.1.1.334.9081	A Bayesian approach to unsupervised one-shot learning of object categories
+R1	10.1.1.143.4228	Indexing based on scale invariant interest points
+R1	10.1.1.10.6807	Rapid object detection using a boosted cascade of simple features
+R1	10.1.1.33.567	A Statistical Approach to 3D Object Detection Applied to Faces and Cars
+R1	10.1.1.143.7909	Constructing models for content-based image retrieval
+R1	10.1.1.321.6782	Towards Automatic Discovery of Object Categories
+R1	10.1.1.10.3613	PCA-SIFT: A more distinctive representation for local image descriptors
+R1	10.1.1.12.6365	Pictorial Structures for Object Recognition
+R1	10.1.1.90.8680	Unsupervised Learning of Models for Object Recognition
+R1	10.1.1.130.8946	Spatial priors for part-based recognition using statistical models
+R1	10.1.1.72.604	Visual categorization with bags of keypoints
+R1	10.1.1.219.3175	Weak hypotheses and boosting for generic object detection and recognition
+R1	10.1.1.46.2212	A Computational Model for Visual Selection
+R1	10.1.1.393.1515	Scale-Invariant Shape Features for Recognition of Object Categories
+R1	10.1.1.115.7520	Appearance based qualitative image description for object class recognition
+R1	10.1.1.5.4878	Sharing Features: Efficient Boosting Procedures for Multiclass Object Detection
+R1	10.1.1.106.1339	Learning methods for generic object recognition with invariance to pose and lighting
+R1	10.1.1.323.8857	Viewpoint-invariant learning and detection of human heads
+R1	10.1.1.20.1017	Categorization by Learning and Combining Object Parts
+R1	10.1.1.106.4617	A sparse object category model for efficient learning and exhaustive recognition
+R1	10.1.1.34.4529	Probabilistic Affine Invariants for Recognition
+R1	10.1.1.63.3175	A Visual Category Filter for Google Images
+R1	10.1.1.330.8204	Efficient methods for object recognition using the constellation model

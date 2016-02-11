@@ -1,0 +1,40 @@
+10.1.1.71.6696	2003	Speculative Plan Execution for Information Agents
+R1	10.1.1.38.7636	Querying Heterogeneous Information Sources Using Source Descriptions
+R1	10.1.1.153.5656	Summary cache: A scalable wide-area web cache sharing protocol
+R1	10.1.1.14.305	An XML Query Engine for Network-Bound Data
+R1	10.1.1.2.4506	Accurately and Reliably Extracting Data from the Web: A Machine Learning Approach
+R1	10.1.1.146.1122	RSVP: A New Resource Reservation Protocol
+R1	10.1.1.11.8839	TelegraphCQ: Continuous Dataflow Processing for an Uncertan World
+R1	10.1.1.167.3624	Induction of Decision Trees
+R1	10.1.1.31.157	An Adaptive Query Execution System for Data Integration
+R1	10.1.1.207.879	Adaptive Query Processing for Internet Applications
+R1	10.1.1.129.1383	Simultaneous Multithreading: Maximizing On-Chip Parallelism
+R1	10.1.1.136.4253	NiagaraCQ: A Scalable Continuous Query System for Internet Databases
+R1	10.1.1.105.8754	The Niagara Internet Query System
+R1	10.1.1.17.8237	Navigational Plans For Data Integration
+R1	10.1.1.51.7438	A Reactive Plan Language
+R1	10.1.1.126.6810	Finite-State Transducers in Language and Speech Processing
+R1	10.1.1.156.3935	Automatic I/O Hint Generation through Speculative Execution
+R1	10.1.1.43.33	Using Predictive Prefetching to Improve World Wide Web Latency
+R1	10.1.1.125.1566	Learning Subsequential Transducers for Pattern Recognition Interpretation Tasks
+R1	10.1.1.122.8305	Value Locality and Load Value Prediction
+R1	10.1.1.104.8594	Parallel database systems: the future of high performance database systems
+R1	10.1.1.29.5397	Speculative Execution based on Value Prediction
+R1	10.1.1.36.4035	Infomaster: An Information Integration System
+R1	10.1.1.84.5124	Static Scheduling of Synchronous Data Flow Programs for Digital Signal Processing
+R1	10.1.1.27.1223	Task Networks for Controlling Continuous Processes
+R1	10.1.1.80.1951	Learning bias and phonological-rule induction
+R1	10.1.1.33.1999	Optimizing Queries with Materialized Views
+R1	10.1.1.32.3229	An Analysis of Operating System Behavior on a Simultaneous Multithreaded Architecture
+R1	10.1.1.119.5559	An analysis of database workload performance on simultaneous multithreaded processors
+R1	10.1.1.19.3522	Embedded Software
+R1	10.1.1.22.9644	Software and Hardware for Exploiting Speculative Parallelism with a Multiprocessor
+R1	10.1.1.29.130	The Potential for Using Thread-Level Data Speculation to Facilitate Automatic Parallelization
+R1	10.1.1.53.7341	A Procedural Knowledge Approach to Task-level Control
+R1	10.1.1.22.4235	Architecting a Network Query Engine for Producing Partial Results
+R1	10.1.1.11.4146	Getting from Here to There: Interactive Planning and Agent Execution for Optimizing Travel
+R1	10.1.1.27.5693	An Adaptive Network Prefetch Scheme
+R1	10.1.1.103.4339	Learning value predictors for the speculative execution of information gathering plans
+R1	10.1.1.29.8574	Multithreading: A Revisionist View of Dataflow Architectures
+R1	10.1.1.109.3138	Deploying information agents on the web
+R1	10.1.1.48.2917	Probabilistic Online Action Prediction

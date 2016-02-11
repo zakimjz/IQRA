@@ -1,0 +1,28 @@
+10.1.1.421.9250	2012	Transforming commodity security policies to enforce Clark-Wilson integrity
+R1	10.1.1.37.1501	A Domain and Type Enforcement UNIX Prototype
+R1	10.1.1.126.9257	The Protection of Information in Computer Systems
+R1	10.1.1.2.1684	JFlow: Practical Mostly-Static Information Flow Control
+R1	10.1.1.80.9393	Preventing Privilege Escalation
+R1	10.1.1.100.4081	Security-by-contract: Toward a semantics for digital signatures on mobile code, in: European PKI Workshop: Theory and Practice (to appear
+R1	10.1.1.149.8610	Building a MAC-based security architecture for the Xen opensource hypervisor
+R1	10.1.1.324.5802	Model checking of hierarchical state machines
+R1	10.1.1.39.3858	Multiway Cuts in Directed and Node Weighted Graphs
+R1	10.1.1.61.4238	A Safety-Oriented Platform for Web Applications
+R1	10.1.1.138.7400	Policy analysis for security-enhanced Linux
+R1	10.1.1.115.630	Toward automated information-flow integrity verification for security-critical applications
+R1	10.1.1.208.264	Making information flow explicit in HiStar
+R1	10.1.1.84.8650	Towards a formal model for security policies specification and validation in the selinux system
+R1	10.1.1.113.5719	Securing distributed systems with information flow control
+R1	10.1.1.96.9096	A layered approach to simplified access control in virtualized systems
+R1	10.1.1.92.3114	A Scalable approach to Attack Graph Generation
+R1	10.1.1.159.409	Usable Mandatory Integrity Protection for Operating Systems
+R1	10.1.1.210.2764	Secure web browsing with the OP web browser
+R1	10.1.1.157.9418	Laminar: Practical Fine-Grained Decentralized Information Flow Control
+R1	10.1.1.154.6276	Automating Security Mediation Placement
+R1	10.1.1.330.147	Matching midlet’s security claims with a platform security policy using automata modulo theory
+R1	10.1.1.159.5663	Post-Hoc Separation Policy Analysis with Graph Algorithms
+R1	10.1.1.164.754	Analyzing and Comparing the Protection Quality of Security Enhanced Operating Systems
+R1	10.1.1.183.2869	Where Do You Want to Go Today? Escalating Privileges by Pathname Manipulation
+R1	10.1.1.399.7380	Practical Proactive Integrity Preservation: A Basis for Malware Defense
+R1	10.1.1.259.8359	Policy-sealed data: A new abstraction for building trusted cloud services
+R1	10.1.1.421.5563	Integrity walls: Finding attack surfaces from mandatory access control policies

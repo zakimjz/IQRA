@@ -1,0 +1,21 @@
+10.1.1.140.8664	2008	A General Model for Multiple View Unsupervised Learning
+R1	10.1.1.1.5684	Text Classification from Labeled and Unlabeled Documents using EM
+R1	10.1.1.18.2720	Data Clustering: A Review
+R1	10.1.1.164.6702	Analyzing the effectiveness and applicability of cotraining
+R1	10.1.1.109.2105	Combining labeled and unlabeled data for text classification with a large number of categories
+R1	10.1.1.12.309	Cluster Ensembles - A Knowledge Reuse Framework for Combining Multiple Partitions
+R1	10.1.1.121.5724	A Probabilistic Framework for Semi-Supervised Clustering
+R1	10.1.1.1.6487	Co-EM Support Vector Learning
+R1	10.1.1.106.4101	A fast and high quality multilevel scheme for partitioning irregular graphs
+R1	10.1.1.1.9901	Combining Multiple Weak Clusterings
+R1	10.1.1.106.5791	Probabilistic classification and clustering in relational data
+R1	10.1.1.107.3798	Unsupervised word sense disambiguation using bilingual comparable corpora
+R1	10.1.1.58.6852	Solving Cluster Ensemble Problems by Bipartite Graph Partitioning
+R1	10.1.1.102.5080	Consistent bipartite graph co-partitioning for star-structured high-order heterogeneous data co-clustering
+R1	10.1.1.35.5686	Learning to remove Internet advertisements
+R1	10.1.1.105.9050	Meta-clustering of gene expression data and literature-based information
+R1	10.1.1.69.2112	Efficient sparse coding algorithms
+R1	10.1.1.12.5987	Adaptive Overrelaxed Bound Optimization Methods
+R1	10.1.1.80.93	Spectral Clustering and Transductive Learning with Multiple Views
+R1	10.1.1.216.3871	Evolutionary Spectral Clustering by Incorporating Temporal Smoothness
+R1	10.1.1.165.1571	Combining multiple clusterings by soft correspondence

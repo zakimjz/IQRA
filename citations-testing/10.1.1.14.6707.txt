@@ -1,0 +1,22 @@
+10.1.1.14.6707	2003	Propositional Independence: Formula-Variable Independence and Forgetting
+R1	10.1.1.159.2378	Paritition-based logical reasoning
+R1	10.1.1.158.9575	Theorem proving with structured theories (full report
+R1	10.1.1.53.9054	Defaults and Revision in Structured Theories
+R1	10.1.1.109.4780	Local models semantics, or contextual reasoning = locality + compatibility
+R1	10.1.1.29.5268	Applications Of Circumscription To Formalizing Common Sense Knowledge
+R1	10.1.1.133.1913	Symbolic Model Checking Using SAT Procedures instead of BDDs
+R1	10.1.1.30.9946	Encoding Plans in Propositional Logic
+R1	10.1.1.11.6752	Toward a Logic for Qualitative Decision Theory
+R1	10.1.1.231.3421	Partial implicit unfolding in the davis-putnam procedure for quantified boolean formulae
+R1	10.1.1.10.3126	Combining Decision Diagrams and SAT Procedures for Efficient Symbolic Model Checking
+R1	10.1.1.55.4389	Forget It!
+R1	10.1.1.5.3906	Speeding Up Inferences Using Relevance Reasoning: A Formalism and Algorithms
+R1	10.1.1.101.8460	Belief change and dependence
+R1	10.1.1.224.3612	Computing strongest necessary and weakest sufficient conditions of first-order formulas
+R1	10.1.1.9.152	The PMA Revisited
+R1	10.1.1.39.843	Model-Based Diagnosis using Structured System Descriptions
+R1	10.1.1.25.8809	Propositional Belief Base Update and Minimal Change
+R1	10.1.1.26.4548	Update Operations: A Review
+R1	10.1.1.420.1878	Propositional information system
+R1	10.1.1.212.9742	A logical account of relevance
+R1	10.1.1.321.5067	Ecient consequence

@@ -1,0 +1,43 @@
+10.1.1.142.4190	2007	A survey and taxonomy of approaches for mining software repositories in the context of software evolution
+R1	10.1.1.199.7754	Detection of Logical Coupling Based on Product Release History
+R1	10.1.1.112.1518	Mining version histories to guide software changes
+R1	10.1.1.28.769	CVSSearch: Searching through Source Code using CVS Comments
+R1	10.1.1.65.7666	Toward understanding the rhetoric of small source code changes
+R1	10.1.1.111.2379	Hipikat: A Project Memory for Software Development
+R1	10.1.1.228.9292	Dex: A Semantic-Graph Differencing Tool for Studying Changes in Large Code Bases
+R1	10.1.1.114.3726	Understanding source code evolution using abstract syntax tree matching
+R1	10.1.1.58.7093	GlueTheos: Automating the Retrieval and Analysis of Data from Publicly Available Software Repositories
+R1	10.1.1.163.2993	Bug Report Networks: Varieties, Strategies, and Impacts in a F/OSS Development Community
+R1	10.1.1.298.695	Using a clone genealogy extractor for understanding and supporting evolution of code clones
+R1	10.1.1.67.2120	Visual Data Mining in Software Archives
+R1	10.1.1.88.22	Populating a Release History Database from Version Control and Bug Tracking Systems
+R1	10.1.1.132.9990	CatchUp!: capturing and replaying refactorings to support API evolution
+R1	10.1.1.163.3717	Research Infrastructure for Empirical Science of F/OSS
+R1	10.1.1.84.4420	Mining version histories to verify the learning process of legitimate peripheral participants
+R1	10.1.1.384.1820	Automated detection of refactorings in evolving components
+R1	10.1.1.94.4371	Improving evolvability through refactoring
+R1	10.1.1.60.1904	Clustering Software Artifacts Based on Frequent Common Changes
+R1	10.1.1.111.2657	Dynamine: Finding Common Error Patterns by Mining Software Revision Histories
+R1	10.1.1.352.9678	Mining repositories to assist in project planning and resource allocation
+R1	10.1.1.228.7999	Hipikat: Recommending pertinent software development artifacts
+R1	10.1.1.20.4092	A Task Oriented View of Software Visualization
+R1	10.1.1.105.9687	An ethnographic study of copy and paste programming practices in oopl
+R1	10.1.1.323.7235	Mining metrics to predict component failures
+R1	10.1.1.124.7538	Visualizing software release histories: The use of color and third dimension
+R1	10.1.1.59.3008	Using Origin Analysis to Detect Merging and Splitting of Source Code Entities
+R1	10.1.1.74.8555	Analysis of Signature Change Patterns
+R1	10.1.1.15.5678	An Integrated Approach for Studying Architectural Evolution
+R1	10.1.1.22.930	An Approach to a Theory of Software Evolution
+R1	10.1.1.6.8703	Detecting Merging and Splitting Using Origin Analysis
+R1	10.1.1.81.6718	Towards understanding the rhetoric of small changes
+R1	10.1.1.84.3109	Detecting Similar Java Classes Using Tree Algorithms
+R1	10.1.1.92.7014	MAPO: Mining API Usages from Open Source Repositories
+R1	10.1.1.84.2029	Mining evolution data of a product family
+R1	10.1.1.142.9458	Are refactorings less error-prone than other changes
+R1	10.1.1.130.6329	Open-Source Change Logs
+R1	10.1.1.127.3322	Who should fix this bug?
+R1	10.1.1.110.5707	Towards a Taxonomy of Approaches for Mining of Source Code Repositories
+R1	10.1.1.140.6010	Empirical project monitor: A tool for mining multiple project data
+R1	10.1.1.87.6711	Toward Mining “Concept Keywords ” from Identifiers in Large Software Projects
+R1	10.1.1.113.3088	A Framework for Describing and Understanding Mining Tools in Software Development
+R1	10.1.1.187.8150	Textual Allusions to Artifacts in Softwarerelated Repositories

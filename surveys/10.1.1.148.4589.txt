@@ -1,0 +1,31 @@
+10.1.1.148.4589	2003	A survey of visibility for walkthrough applications
+R1	10.1.1.164.9714	Modelling the Interaction of Light between Diffuse Surfaces
+R1	10.1.1.138.7779	Interactive ray tracing
+R1	10.1.1.93.5694	A rapid hierarchical radiosity algorithm
+R1	10.1.1.13.2761	A Real-Time Photo-Realistic Visual Flythrough
+R1	10.1.1.101.2387	Conservative Visibility Preprocessing using Extended Projections
+R1	10.1.1.36.285	Adaptive Display Algorithm for Interactive Frame Rates During Visualization of Complex Virtual Environments
+R1	10.1.1.298.6338	Portals and Mirrors: Simple, Fast Evaluation of Potentially Visible Sets
+R1	10.1.1.31.6463	Conservative Volumetric Visibility with Occluder Fusion
+R1	10.1.1.105.6555	Efficient Collision Detection Using Bounding Volume Hierarchies of k-DOPs
+R1	10.1.1.16.8880	Interactive Distributed Ray Tracing of Highly Complex Models
+R1	10.1.1.132.8222	A characterization of ten hidden-surface algorithms
+R1	10.1.1.48.1358	Computing the Antipenumbra of an Area Light Source
+R1	10.1.1.43.896	Management of Large Amounts of Data in Interactive Building Walkthroughs
+R1	10.1.1.210.5658	Hierarchical Z-buffer visibility
+R1	10.1.1.161.4457	Accelerated occlusion culling using shadow frusta
+R1	10.1.1.108.5105	Global visibility algorithms for illumination computations
+R1	10.1.1.147.4007	C.H.: Visibility Preprocessing For Interactive Walkthroughs
+R1	10.1.1.42.8320	OpenGL-assisted Occlusion Culling for Large Polygonal Models
+R1	10.1.1.230.4964	A unified hierarchical algorithm for global illumination with scattering volumes and object clusters
+R1	10.1.1.20.33	Hardware-Accelerated From-Region Visibility Using a Dual Ray Space
+R1	10.1.1.12.7699	Visibility Preprocessing with Occluder Fusion for Urban Walkthroughs
+R1	10.1.1.100.1414	A Survey of Shadow Algorithms
+R1	10.1.1.37.3923	Rendering on a Budget: A Framework for Time-Critical Rendering
+R1	10.1.1.128.4934	The prioritized-layered projection algorithm for visible set estimation
+R1	10.1.1.2.1491	Optimized View Frustum Culling Algorithms for Bounding Boxes
+R1	10.1.1.29.9725	Extending Graphics Hardware For Occlusion Queries In OpenGL
+R1	10.1.1.28.9165	Interactive Ray Tracing With the Visibility Complex
+R1	10.1.1.17.2839	Feature-based Control of Visibility Error: A Multi-resolution Clustering Algorithm for Global Illumination
+R1	10.1.1.22.1640	Radiosity for Dynamic Scenes in Flatland With the Visibility Complex
+R1	10.1.1.1.9057	Hierarchical visibility culling with occlusion trees

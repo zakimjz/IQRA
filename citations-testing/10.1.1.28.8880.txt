@@ -1,0 +1,26 @@
+10.1.1.28.8880	2000	A Call for Knowledge-based Planning
+R1	10.1.1.43.7263	Fast Planning Through Planning Graph Analysis
+R1	10.1.1.35.724	Planning in Interplanetary Space: Theory and Practice
+R1	10.1.1.27.2863	Unifying SAT-based and Graph-based Planning
+R1	10.1.1.51.2567	Planning and Reacting in Uncertain and Dynamic Environments
+R1	10.1.1.1.6964	A Model-based Approach to Reactive Self-Configuring Systems
+R1	10.1.1.22.2522	The 1998 AI Planning Systems Competition
+R1	10.1.1.27.7414	Decision-Theoretic Planning: Structural Assumptions and Computational Leverage
+R1	10.1.1.26.1630	O-Plan2: an Open Architecture for Command, Planning and Control
+R1	10.1.1.111.4955	Planning as satisfiability
+R1	10.1.1.26.453	Temporal Planning with Mutual Exclusion Reasoning
+R1	10.1.1.21.1259	The Role of Domain-Specific Knowledge in the Planning as Satisfiability Framework
+R1	10.1.1.30.1844	Scaling up Planning by teasing out Resource Scheduling
+R1	10.1.1.44.3025	Configurable, Mixed-Initiative Systems for Planning and Scheduling
+R1	10.1.1.53.9670	An Algorithm for Probabilistic Least-Commitment Planning
+R1	10.1.1.33.2635	Mixed-Initiative Resource Management: The AMC Barrel Allocator
+R1	10.1.1.202.3289	Perceiving and Reasoning about a Changing World
+R1	10.1.1.40.8534	Reasoning about Locations in Theory and Practice
+R1	10.1.1.329.3324	Conditional probabilistic planning: a unifying algorithm and effective search control mechanisms
+R1	10.1.1.36.683	MAXPLAN: A New Approach to Probabilistic Planning
+R1	10.1.1.33.6383	Strategic Advice for Hierarchical Planners
+R1	10.1.1.15.1490	Conditional Effects in Graphplan
+R1	10.1.1.53.8254	Do Computers Need Common Sense?
+R1	10.1.1.14.4580	Simulation for ARPI and the Air Campaign Simulator
+R1	10.1.1.24.231	Multiagent Planning Architecture
+R1	10.1.1.17.8618	Reachability, Relevance, Resolution and the Planning as Satisfiability Approach

@@ -1,0 +1,28 @@
+10.1.1.147.3975	2007	Duplicate record detection: A survey
+R1	10.1.1.133.4884	Maximum likelihood from incomplete data via the EM algorithm
+R1	10.1.1.21.988	Hierarchically Classifying Documents Using Very Few Words
+R1	10.1.1.116.2034	Maximum entropy markov models for information extraction and segmentation
+R1	10.1.1.39.4336	The State of Record Linkage and Current Research Problems
+R1	10.1.1.151.2570	Methods for record linkage and bayesian networks
+R1	10.1.1.119.2797	Improving generalization with active learning
+R1	10.1.1.40.1933	Research Problems in Data Warehousing
+R1	10.1.1.21.3112	A Guided Tour to Approximate String Matching
+R1	10.1.1.21.7984	Potter's Wheel: An Interactive Data Cleaning System
+R1	10.1.1.10.3857	Correlation Clustering
+R1	10.1.1.18.5269	Finding Replicated Web Collections
+R1	10.1.1.15.8644	Identity Uncertainty and Citation Matching
+R1	10.1.1.12.4018	Learning to Match and Cluster Large High-Dimensional Data Sets For Data Integration
+R1	10.1.1.10.4563	A Comparison of Fast Blocking Methods for Record Linkage
+R1	10.1.1.3.9195	TAILOR: A Record Linkage Toolbox
+R1	10.1.1.324.2776	A bayesian decision model for cost optimal record matching
+R1	10.1.1.18.6000	Automating the Approximate Record Matching Process
+R1	10.1.1.19.9539	Eliminating Fuzzy Duplicates in Data Warehouses
+R1	10.1.1.79.1519	Overview of record linkage and current research directions
+R1	10.1.1.33.4658	Hardening Soft Information Sources
+R1	10.1.1.13.2186	Learning Domain-Independent String Transformation Weights for High Accuracy Object Identification
+R1	10.1.1.114.5943	Merging the results of approximate match operations
+R1	10.1.1.4.7171	Mining Reference Tables for Automatic Text Segmentation
+R1	10.1.1.13.9086	Text Joins in an RDBMS for Web Data Integration
+R1	10.1.1.39.2433	An Application Of The Fellegi-Sunter Model Of Record Linkage To The 1990 U.S. Decennial Census
+R1	10.1.1.3.3138	A Hierarchical Graphical Model for Record Linkage
+R1	10.1.1.64.7405	Evaluating string comparator performance for record linkage

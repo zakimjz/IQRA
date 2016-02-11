@@ -1,0 +1,27 @@
+10.1.1.192.1813	2010	Point cloud skeletons via laplacian-based contraction
+R1	10.1.1.21.1887	A Signal Processing Approach To Fair Surface Design
+R1	10.1.1.24.3427	Discrete Differential-Geometry Operators for Triangulated 2-Manifolds
+R1	10.1.1.4.3270	The Princeton Shape Benchmark
+R1	10.1.1.58.1770	Reconstruction and Representation of 3D Objects with Radial Basis Functions
+R1	10.1.1.13.8020	Multi-level Partition of Unity Implicits
+R1	10.1.1.1.9866	The Power Crust
+R1	10.1.1.10.8114	Skeleton Based Shape Matching and Retrieval
+R1	10.1.1.45.2583	Voronoi Skeletons: Theory and Applications
+R1	10.1.1.100.4367	Domain connected graph : the skeleton of a closed 3D shape for animation. The Visual Computer 22
+R1	10.1.1.80.8330	Shape understanding by contour driven retiling
+R1	10.1.1.102.5743	Harmonic skeleton for realistic character animation
+R1	10.1.1.36.1846	Extracting Skeletal Curves from 3D Scattered Data
+R1	10.1.1.89.1664	Curve-skeleton properties, applications, and algorithms
+R1	10.1.1.22.8726	Hardware Accelerated Voxelization
+R1	10.1.1.166.126	Editing the Topology of 3D Models by Sketching
+R1	10.1.1.83.104	On-the-fly curve-skeleton computation for 3d shapes
+R1	10.1.1.166.154	Topology repair of solid models using skeletons
+R1	10.1.1.413.4995	Interactive topology-aware surface reconstruction
+R1	10.1.1.111.8964	Normal and Feature Approximations from Noisy Point Clouds
+R1	10.1.1.142.4322	Efficient Surface Reconstruction using Generalized Coulomb Potentials
+R1	10.1.1.144.5501	Shape Deformation using a Skeleton to Drive Simplex Transformations
+R1	10.1.1.150.5897	Consolidation of Unorganized Point Clouds for Surface Reconstruction
+R1	10.1.1.150.7277	Curve Skeleton Extraction from Incomplete Point Cloud
+R1	10.1.1.151.5557	Constructing Laplace Operator from Point Clouds in R^d
+R1	10.1.1.212.1446	Range scan registration using reduced deformable models
+R1	10.1.1.174.1233	consensus skeletons for non-rigid space-time registration

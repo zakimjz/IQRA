@@ -1,0 +1,30 @@
+10.1.1.231.7763	2011	Design of 2D Time-Varying Vector Fields
+R1	10.1.1.15.9203	Stable Fluids
+R1	10.1.1.10.1880	Image Space Based Visualization of Unsteady Flow on Surfaces
+R1	10.1.1.134.5780	Image Based Flow Visualization
+R1	10.1.1.9.5821	Image Based Flow Visualization for Curved Surfaces
+R1	10.1.1.14.9456	Flows on Surfaces of Arbitrary Topology
+R1	10.1.1.134.7084	Anisotropic Polygonal Remeshing
+R1	10.1.1.164.468	Painterly rendering for video and interaction
+R1	10.1.1.8.9169	Modelling with Implicit Surfaces that Interpolate
+R1	10.1.1.146.5211	Lapped Textures
+R1	10.1.1.31.1340	Painterly Rendering with Curved Brush Strokes of Multiple Sizes
+R1	10.1.1.133.1170	Texture Synthesis on Surfaces
+R1	10.1.1.23.4405	Texture Synthesis over Arbitrary Manifold Surfaces
+R1	10.1.1.132.7437	Continuum Crowds
+R1	10.1.1.230.3437	Advected textures
+R1	10.1.1.104.4708	Topology-Based Visualization of Time-Dependent 2D Vector Fields
+R1	10.1.1.250.8869	Topological methods for 2D time-dependent vector fields based on stream lines and path lines
+R1	10.1.1.66.3844	Illuminated lines revisited
+R1	10.1.1.136.1193	Vector field editing and periodic orbit extraction using morse decomposition
+R1	10.1.1.83.7279	Vector Field Design on Surfaces
+R1	10.1.1.298.5472	M.: Texturing fluids
+R1	10.1.1.298.2867	Fast example-based surface texture synthesis via discrete optimization
+R1	10.1.1.91.6743	Design of tangent vector fields
+R1	10.1.1.185.2400	A texture synthesis method for liquid animations
+R1	10.1.1.140.9636	A Segmentation Based Variational Model for Accurate Optical Flow Estimation
+R1	10.1.1.151.424	Feature-Aligned Shape Texturing
+R1	10.1.1.163.1681	Video Painting with Space-Time-Varying Style Parameters
+R1	10.1.1.165.1408	Motion Field Texture Synthesis
+R1	10.1.1.167.2924	Trivial Connections on Discrete Surfaces
+R1	10.1.1.183.7823	Directing Crowd Simulations Using Navigation Fields

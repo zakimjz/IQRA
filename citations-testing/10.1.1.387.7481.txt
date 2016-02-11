@@ -1,0 +1,26 @@
+10.1.1.387.7481	2008	Metamorphs: Deformable shape and appearance models
+R1	10.1.1.128.4967	Active Appearance Models
+R1	10.1.1.14.3601	Normalized Cuts and Image Segmentation
+R1	10.1.1.160.3832	Mean shift: A robust approach toward feature space analysis
+R1	10.1.1.124.5318	Snakes: Active contour models
+R1	10.1.1.131.6656	Shape modeling with front propagation: A level set approach
+R1	10.1.1.37.3900	Statistical Shape Influence in Geodesic Active Contours
+R1	10.1.1.141.4082	A geometric snake model for segmentation of medical imagery
+R1	10.1.1.48.3589	A Dynamic Finite Element Surface Model for Segmentation and Tracking in Multidimensional Medical Images with Application to Cardiac 4D Image Analysis
+R1	10.1.1.9.835	Boundary Finding with Parametrically Deformable Models
+R1	10.1.1.21.2196	Geodesic Active Contours
+R1	10.1.1.129.2941	A database of human segmented natural images and its application to evaluating segmentation algorithms and measuring ecological statistics
+R1	10.1.1.2.1828	Active Contours without Edges
+R1	10.1.1.35.1779	Snakes, Shapes, and Gradient Vector Flow
+R1	10.1.1.14.4685	A Multiphase Level Set Framework for Image Segmentation Using the Mumford and Shah Model
+R1	10.1.1.23.4993	Dynamic Free-Form Deformations for Animation Synthesis
+R1	10.1.1.26.9244	A Level Set Model for Image Classification
+R1	10.1.1.100.9744	A topology preserving level set method for geometric deformable models
+R1	10.1.1.414.5069	A statistical approach to snakes for bimodal and trimodal imagery
+R1	10.1.1.115.7974	Efficient Kernel Density Estimation using the Fast Gauss Transform with Applications to Color Modeling and Tracking
+R1	10.1.1.17.3168	Image classification using Markov Random Fields with two new relaxation methods: Deterministic pseudo  . . .
+R1	10.1.1.105.4062	Shape gradients for histogram segmentation using active contours
+R1	10.1.1.60.2593	Shape Registration in Implicit Spaces Using Information Theory and Free Form Deformations
+R1	10.1.1.108.1147	Interactive collision detection between deformable models using chromatic decomposition
+R1	10.1.1.324.196	Implicit Free-Form-Deformations for Multi-frame Segmentation and Tracking
+R1	10.1.1.64.1419	Tag surface reconstruction and tracking of myocardial beads from spamm-mri with parametric b-spline surfaces

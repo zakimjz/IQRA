@@ -1,0 +1,22 @@
+10.1.1.21.6752	2001	Type-Based Hot Swapping of Running Modules
+R1	10.1.1.24.6526	From System F to Typed Assembly Language
+R1	10.1.1.35.5706	Dynamic Typing in Polymorphic Languages
+R1	10.1.1.10.8472	Program Fragments, Linking, and Modularization
+R1	10.1.1.188.1014	Safe and flexible dynamic linking of native code
+R1	10.1.1.14.3595	A Type-Theoretic Approach to Higher-Order Modules with Sharing
+R1	10.1.1.40.9578	Representing Java Classes in a Typed Intermediate Language
+R1	10.1.1.21.2609	Making the future safe for the past: Adding Genericity to the Java Programming Language
+R1	10.1.1.368.3752	The Definition of Standard ML
+R1	10.1.1.23.9869	Compatible Genericity with Run-time Types for the Java Programming Language
+R1	10.1.1.11.8408	A Proposal for Making Eiffel Type-Safe
+R1	10.1.1.324.8384	Dynamic typing in a statically typed language
+R1	10.1.1.135.2437	Dynamic Software Updating
+R1	10.1.1.14.4663	Units: Cool Modules for HOT Languages
+R1	10.1.1.10.1118	Supporting Reconfigurable Security Policies For Mobile Programs
+R1	10.1.1.45.3252	Flexible representation analysis
+R1	10.1.1.2.9190	A Paradigmatic Object-Oriented Programming Language: Design, Static Typing and Semantics
+R1	10.1.1.108.4648	On subtyping and matching
+R1	10.1.1.12.5664	Dynamics in ML
+R1	10.1.1.52.4534	Fast Concurrent Dynamic Linking for an Adaptive Operating System
+R1	10.1.1.161.3137	Dynamic ML without dynamic types
+R1	10.1.1.29.3632	A Calculus for Dynamic Loading

@@ -1,0 +1,41 @@
+10.1.1.13.5240	2000	From the Rosetta Stone to the Information Society: A Survey of parellel text processing
+R1	10.1.1.14.5547	Word Association Norms, Mutual Information, and Lexicography
+R1	10.1.1.129.1472	A statistical approach to machine translation
+R1	10.1.1.13.8919	The Mathematics of Statistical Machine Translation: Parameter Estimation
+R1	10.1.1.55.9000	Char_align: A Program for Aligning Parallel Texts at the Character Level
+R1	10.1.1.144.803	A program for aligning sentences in bilingual corpora
+R1	10.1.1.14.5962	Accurate Methods for the Statistics of Surprise and Coincidence
+R1	10.1.1.14.832	Toward Memory-based Translation
+R1	10.1.1.178.3401	Introduction to the special issue on word sense disambiguation
+R1	10.1.1.127.4907	Termight: Identifying and Translating Technical Terminology
+R1	10.1.1.133.9990	Retrieving Collocations from Text: Xtract
+R1	10.1.1.14.1612	Translating Collocations for Bilingual Lexicons: A Statistical Approach
+R1	10.1.1.144.1276	Text-translation alignment
+R1	10.1.1.13.9101	A Word-to-Word Model of Translational Equivalence
+R1	10.1.1.37.9757	A Technical Word and Term Translation Aid using Noisy Parallel Corpora across Language Groups
+R1	10.1.1.11.3221	Automatic Discovery of Non-Compositional Compounds in Parallel Data
+R1	10.1.1.15.9192	Parallel Strands: A Preliminary Investigation into Mining the Web for Bilingual Text
+R1	10.1.1.221.6928	Multilingual domain modeling in Twenty-One: automatic creation of a bi-directional translation lexicon from a parallel corpus
+R1	10.1.1.14.3347	Aligning A Parallel English-Chinese Corpus Statistically With Lexical Criteria
+R1	10.1.1.269.4675	Building Probabilistic Models for Natural Language
+R1	10.1.1.100.7422	Learning an English-Chinese lexicon from a parallel corpus
+R1	10.1.1.269.3661	Kvec: A new approach for aligning parallel texts
+R1	10.1.1.110.1795	Translation
+R1	10.1.1.97.9794	Using Bilingual Materials to Develop Word Sense Disambiguation Methods
+R1	10.1.1.101.6750	A Translation Aid System Using Flexible Text Retrieval Based on Syntax-Matching
+R1	10.1.1.42.8746	Translingual Information Retrieval: Learning from Bilingual Corpora
+R1	10.1.1.107.695	Aligning noisy parallel corpora across language groups: Word pair feature matching by dynamic time warping
+R1	10.1.1.48.3773	Coding and Aligning the English-Norwegian Parallel Corpus
+R1	10.1.1.31.5506	Target-Text Mediated Interactive Machine Translation
+R1	10.1.1.56.42	Query Translation Using Evolutionary Programming for Multi-lingual Information Retrieval
+R1	10.1.1.143.7264	The BICORD system: combining lexical information from bilingual corpora and machine readable dictionaries
+R1	10.1.1.14.8898	Semi-Automatic Acquisition of Domain-Specific Translation Lexicons
+R1	10.1.1.130.9253	Aligning parallel texts: Do methods developed for EnglishFrench generalize to Asian languages
+R1	10.1.1.14.9667	High-Performance Bilingual Text Alignment Using Statistical And Dictionary Information
+R1	10.1.1.12.4234	MULTEXT: Multilingual Text Tools and Corpora
+R1	10.1.1.52.8485	Multext-East: Multilingual Text Tools and Corpora for Central and Eastern European Languages
+R1	10.1.1.134.3927	Transcheck - or the automatic validation of human translations
+R1	10.1.1.14.2284	Automatic Detection of Omissions in Translations
+R1	10.1.1.14.3429	A Translator's Workstation
+R1	10.1.1.230.2415	The Lingua Parallel Concordancing Project: managing multilingual texts for educational purposes
+R1	10.1.1.52.7166	TransSearch: A Bilingual Concordance Tool

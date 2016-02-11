@@ -1,0 +1,22 @@
+10.1.1.329.2424	2006	On the semantics of Alice&Bob specifications of security protocols
+R1	10.1.1.1.5724	A calculus for cryptographic protocols: The spi calculus
+R1	10.1.1.130.157	On the Security of Public Key Protocols
+R1	10.1.1.20.5472	LSCs: Breathing Life into Message Sequence Charts
+R1	10.1.1.145.4394	The inductive approach to verifying cryptographic protocols
+R1	10.1.1.20.2584	Reconciling Two Views of Cryptography (The Computational Soundness of Formal Encryption)
+R1	10.1.1.27.1442	CAPSL Integrated Protocol Environment
+R1	10.1.1.107.4611	An improved constraint-based system for the verification of security protocols
+R1	10.1.1.106.6010	A survey of authentication protocol literature
+R1	10.1.1.101.7842	Formal Methods for Cryptographic Protocol Analysis: Emerging Issues and Trends
+R1	10.1.1.185.3373	Authenticity by typing for security protocols
+R1	10.1.1.35.3398	CAPSL Interface for the NRL Protocol Analyzer
+R1	10.1.1.100.5321	Composing strand spaces
+R1	10.1.1.100.5832	Metareasoning about Security Protocols using Distributed Temporal Logic
+R1	10.1.1.122.2198	Athena: a novel approach to efficient automatic security protocol analysis
+R1	10.1.1.19.480	A Compositional Logic for Proving Security Properties of Protocols
+R1	10.1.1.142.3228	A framework for the analysis of security protocols
+R1	10.1.1.129.2264	Static validation of security protocols
+R1	10.1.1.106.9781	A High Level Protocol Specification Language for Industrial Security-Sensitive Protocols
+R1	10.1.1.106.3106	Automated Security Protocol Analysis with the AVISPA Tool
+R1	10.1.1.58.142	Intruder deductions, constraint solving and insecurity decision in presence of exclusive or
+R1	10.1.1.186.7381	A formal semantics for protocol narrations

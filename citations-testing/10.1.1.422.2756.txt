@@ -1,0 +1,30 @@
+10.1.1.422.2756	2007	Statistical Machine Translation and Automatic Speech Recognition under Uncertainty
+R1	10.1.1.133.4884	Maximum likelihood from incomplete data via the EM algorithm
+R1	10.1.1.19.9416	BLEU: a Method for Automatic Evaluation of Machine Translation
+R1	10.1.1.33.3196	Finding Consensus in Speech Recognition: Word Error Minimization and Other Applications of Confusion Networks
+R1	10.1.1.18.4454	Discriminative Training and Maximum Entropy Models for Statistical Machine Translation
+R1	10.1.1.110.611	Generalized Algorithms for Constructing Statistical Language Models
+R1	10.1.1.36.4074	The Design Principles of a Weighted Finite-State Transducer Library
+R1	10.1.1.16.2617	Finite-State Speech-To-Speech Translation
+R1	10.1.1.19.2370	Architectures for Speech-to-Speech Translation Using Finite-State Models
+R1	10.1.1.10.1288	A Systematic Comparison of Various Statistical Alignment Models
+R1	10.1.1.14.2316	Improved Alignment Models for Statistical Machine Translation
+R1	10.1.1.131.901	Hmm-based word alignment in statistical translation
+R1	10.1.1.28.7642	Fast Decoding and Optimal Decoding for Machine Translation
+R1	10.1.1.32.6631	Large Scale Discriminative Training For Speech Recognition
+R1	10.1.1.157.2429	SRILM -- An extensible language modeling toolkit
+R1	10.1.1.10.2156	Minimum Error Rate Training in Statistical Machine Translation
+R1	10.1.1.117.5165	Local phrase reordering models for statistical machine translation
+R1	10.1.1.67.7860	Machine translation in the year 2004
+R1	10.1.1.142.454	METEOR: An Automatic Metric for MT Evaluation with Improved Correlation with Human Judgments
+R1	10.1.1.105.1326	MTTK: an alignment toolkit for statistical machine translation
+R1	10.1.1.2.8357	Segmental Minimum Bayes-Risk Decoding for Automatic Speech Recognition
+R1	10.1.1.143.7352	Hmm word and phrase alignment for statistical machine translation
+R1	10.1.1.116.3624	An end-to-end discriminative approach to machine translation
+R1	10.1.1.19.1092	Risk Based Lattice Cutting For Segmental Minimum Bayes-Risk Decoding
+R1	10.1.1.109.5082	Integrated n-best re-ranking for spoken language translation
+R1	10.1.1.126.9201	Discriminative reranking for machine translation
+R1	10.1.1.145.5799	A Study of Translation Error Rate with Targeted Human Annotation
+R1	10.1.1.148.7989	A unified approach in speech-tospeech translation: Integrating features of speech recognition and machine translation
+R1	10.1.1.65.8498	Improving broadcast news transcription by lightly supervised discriminative training
+R1	10.1.1.75.8538	A Systematic Comparison of Training Criteria for Statistical Machine Translation

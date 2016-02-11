@@ -1,0 +1,26 @@
+10.1.1.302.2564	2011	Modeling Motion of Body Parts for Action Recognition
+R1	10.1.1.131.2072	The Visual Analysis of Human Movement: A Survey
+R1	10.1.1.21.513	The Recognition of Human Movement Using Temporal Templates
+R1	10.1.1.12.6365	Pictorial Structures for Object Recognition
+R1	10.1.1.85.9746	For most large underdetermined systems of equations, the minimal l1-norm near-solution approximates the sparsest near-solution
+R1	10.1.1.77.5712	Behavior recognition via sparse spatio-temporal features
+R1	10.1.1.4.4359	Space-time Interest Points
+R1	10.1.1.100.8218	Actions as space-time shapes
+R1	10.1.1.173.6790	Recognizing human actions: A local SVM approach
+R1	10.1.1.102.4803	R.: Tensor Canonical Correlation Analysis for Action Classification
+R1	10.1.1.45.838	On the Approximability of Minimizing Nonzero Variables Or Unsatisfied Relations in Linear Systems
+R1	10.1.1.105.4998	Human Activity Recognition Using Sequences of Postures
+R1	10.1.1.319.6156	Hidden Markov Model based continuous online gesture recognition
+R1	10.1.1.304.2410	Action and simultaneous multiple-person identification using cubic higher-order local auto-correlation
+R1	10.1.1.173.2667	A hierarchical model of shape and appearance for human action classification
+R1	10.1.1.149.6162	Robust face recognition via sparse representation
+R1	10.1.1.142.749	Sparse Reconstruction by Separable Approximation
+R1	10.1.1.141.2630	B.: Learning realistic human actions from movies
+R1	10.1.1.149.9905	Local Trinary Patterns for Human Action Recognition
+R1	10.1.1.152.8729	Action MACH: a spatio-temporal maximum average correlation height filter for action recognition
+R1	10.1.1.152.8982	Recognizing Realistic Actions from Videos “in the Wild”
+R1	10.1.1.158.3113	Fast Realistic Multi-Action Recognition using Mined Dense Spatio-temporal Features
+R1	10.1.1.159.2765	Evaluation of local spatio-temporal features for action recognition
+R1	10.1.1.167.8800	A Hough transform-based voting framework for action recognition
+R1	10.1.1.192.7257	Adaptive pose priors for pictorial structures
+R1	10.1.1.187.9491	Learning a hierarchy of discriminative space-time neighborhood features for human action recognition

@@ -1,0 +1,83 @@
+10.1.1.144.1913	2008	Social Signal Processing: Survey of an Emerging Domain
+R1	10.1.1.123.3365	On combining classifiers
+R1	10.1.1.13.3581	WaveSurfer -- An Open Source Speech Tool
+R1	10.1.1.110.5546	Neural Network-Based Face Detection
+R1	10.1.1.131.2072	The Visual Analysis of Human Movement: A Survey
+R1	10.1.1.25.5398	Automatic Analysis of Facial Expressions: The State of the Art
+R1	10.1.1.108.203	A Survey of Computer Vision-Based Human Motion Capture
+R1	10.1.1.106.9223	Automatic gait recognition by symmetry analysis
+R1	10.1.1.397.6488	Facial expression and emotion
+R1	10.1.1.1.7446	Automatic Analysis of Multimodal Group Actions in Meetings
+R1	10.1.1.27.6575	Partitioning and Transcription of Broadcast News Data
+R1	10.1.1.10.3248	Modeling Human Interaction in Meetings
+R1	10.1.1.115.6991	Combining multiple estimators of speaking rate
+R1	10.1.1.10.9963	Gait Analysis for Recognition and Classification
+R1	10.1.1.15.3058	Phonetic Consequences Of Speech Disfluency
+R1	10.1.1.34.8710	Finding Faces in Cluttered Scenes Using Random Labeled Graph Matching
+R1	10.1.1.25.9044	Face Detection Using Quantized Skin Color Regions Merging and Wavelet Packet Analysis
+R1	10.1.1.58.1439	Content Analysis for Audio Classification and Segmentation
+R1	10.1.1.102.9805	Robust real-time face detection
+R1	10.1.1.100.3009	Automatic discrimination between laughter and speech
+R1	10.1.1.3.2728	Toward an Affect-Sensitive Multimodal Human-Computer Interaction
+R1	10.1.1.84.2901	Multi-View Face Detection under Complex Scene based on Combined SVMs
+R1	10.1.1.58.8200	Active and Dynamic Information Fusion for Facial Expression Understanding from Image Sequences
+R1	10.1.1.422.2610	Robust real-time detection, tracking, and pose estimation of faces in video streams
+R1	10.1.1.329.3415	Evaluation campaigns and TRECVid
+R1	10.1.1.101.8745	Histograms of Oriented Gradients for Human Detection
+R1	10.1.1.158.3851	A prosody-only decision-tree model for disfluency detection
+R1	10.1.1.100.8218	Actions as space-time shapes
+R1	10.1.1.163.7957	The Rules Behind Roles: Identifying speaker role in radio broadcasts
+R1	10.1.1.24.2033	Passive Capture and Structuring of Lectures
+R1	10.1.1.132.3510	Does computer-synthesized speech manifest personality? experimental tests of recognition, similarity-attraction, and consistency-attraction
+R1	10.1.1.134.7190	Recent Developments in Human Motion Analysis
+R1	10.1.1.175.1915	Computers are social actors
+R1	10.1.1.133.4893	Embodied contextual agent in information delivering application
+R1	10.1.1.14.4868	Eye Gaze Patterns in Conversations: There is More to Conversational Agents Than Meets the Eyes
+R1	10.1.1.130.192	Social presence, embarrassment, and nonverbal behavior
+R1	10.1.1.118.8906	Detecting group interest level in meetings
+R1	10.1.1.112.5796	Dynamics of Facial Expression: Recognition of Facial Actions and Their Temporal Segments from Face Profile Image Sequences
+R1	10.1.1.132.3852	Fully Automatic Facial Action Unit Detection and Temporal Analysis
+R1	10.1.1.109.3702	Spontaneous vs. Posed Facial Behavior: Automatic Analysis of Brow Actions
+R1	10.1.1.55.2593	Speech Recognition Using On-Line Estimation Of Speaking Rate
+R1	10.1.1.4.4897	Amplitude Convergence in Children's Conversational Speech with Animated Personas
+R1	10.1.1.27.4112	Estimating The Speaking Rate By Vowel Detection
+R1	10.1.1.80.9183	Interruptions in Group Discussions: The Effects of Gender and Group Composition
+R1	10.1.1.36.1414	Pauses and the Temporal Structure of Speech
+R1	10.1.1.16.119	Video Surveillance of Interactions
+R1	10.1.1.3.7945	Smart: The Smart Meeting Room Task At Isl
+R1	10.1.1.11.2050	Speech/music segmentation using entropy and dynamism features in a HMM classification framework
+R1	10.1.1.59.8389	Improving Speaker Diarization
+R1	10.1.1.128.9287	Conditional models for contextual human motion recognition
+R1	10.1.1.207.6714	Social dynamics: Signals and behavior
+R1	10.1.1.89.4329	D.: Computational Studies of Human Motion: Part 1, Tracking and Motion Synthesis
+R1	10.1.1.157.218	Comparing HMM, maximum entropy, and conditional random fields for disfluency detection
+R1	10.1.1.110.1995	Fast human detection using a cascade of histograms of oriented gradients
+R1	10.1.1.111.3260	Using audio and video features to classify the most dominant person in a group meeting
+R1	10.1.1.70.8927	Detection and application of influence rankings in small group meetings
+R1	10.1.1.87.8358	Laughter detection in meetings
+R1	10.1.1.214.6314	Human detection using oriented histograms of flow and appearance
+R1	10.1.1.78.9249	Facial Action Unit Recognition by Exploiting Their Dynamic and Semantic Relationships
+R1	10.1.1.172.3647	Robust Audio Segmentation
+R1	10.1.1.84.9993	Automatic mapping and modeling of human networks
+R1	10.1.1.128.7501	Thin Slices of Negotiation: Predicting outcomes from conversational dynamics within the first five minutes
+R1	10.1.1.87.6628	Spontaneous Emotional Facial Expression Detection
+R1	10.1.1.131.9440	Application of information retrieval technologies to presentation slides
+R1	10.1.1.330.8127	Speakers role recognition in multiparty audio recordings using Social Network Analysis and duration distribution modeling
+R1	10.1.1.331.6310	Movie analysis based on roles social network
+R1	10.1.1.367.3652	Faces of pain: automated measurement of spontaneous facial expressions of genuine and posed pain
+R1	10.1.1.144.217	A Survey of Affect Recognition Methods: Audio, Visual, and Spontaneous Expressions
+R1	10.1.1.315.1265	Emotion, social function, and psychopathology
+R1	10.1.1.120.7240	Spatiotemporal Salient Points for Visual Recognition of Human Actions
+R1	10.1.1.135.8224	How to distinguish posed from spontaneous smiles using geometric features
+R1	10.1.1.144.4316	Audiovisual discrimination between laughter and speech
+R1	10.1.1.153.7394	Using the influence model to recognize functional roles in meetings
+R1	10.1.1.144.1829	Audiovisual Laughter Detection Based on Temporal Features ABSTRACT
+R1	10.1.1.144.4635	From the Lab to the Real World: Affect Recognition Using Multiple Cues and Modalities
+R1	10.1.1.144.4500	Human-Centred Intelligent  Human-Computer Interaction (HCI²): . . .
+R1	10.1.1.332.5379	Body expressions influence recognition of emotions in the face and voice
+R1	10.1.1.144.2380	Social Signal Processing: State-of-the-art and future perspectives of an emerging domain
+R1	10.1.1.157.3213	chapter Statistical Estimation of Human Anthropometry from a Single Uncalibrated Image
+R1	10.1.1.329.8174	Role Recognition in Multiparty Recordings using Social Affiliation Networks and Discrete Distributions
+R1	10.1.1.324.989	Pose primitive based human action recognition in videos or still images
+R1	10.1.1.183.1825	Personalized facial attractiveness prediction
+R1	10.1.1.168.6043	Fast Human Detection from Videos Using Covariance Features

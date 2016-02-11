@@ -1,0 +1,22 @@
+10.1.1.225.9107	2011	RCDC: A Relaxed Consistency Deterministic Computer
+R1	10.1.1.11.2821	StreamIt: A Language for Streaming Applications
+R1	10.1.1.140.3084	Weak Ordering -- A New Definition
+R1	10.1.1.17.8112	Memory Consistency and Event Ordering in Scalable Shared-Memory Multiprocessors
+R1	10.1.1.206.2589	NESL: A nested data-parallel language (version 2.6
+R1	10.1.1.159.5115	Pin: building customized program analysis tools with dynamic instrumentation
+R1	10.1.1.120.6562	Implementing kilo-instruction multiprocessors
+R1	10.1.1.21.4180	The Design, Implementation, and Evaluation of Jade
+R1	10.1.1.188.1445	Recording Shared Memory Dependencies Using Strata
+R1	10.1.1.109.6031	BulkSC: Bulk Enforcement of Sequential Consistency
+R1	10.1.1.157.9002	Mechanisms for Store-wait-free Multiprocessors
+R1	10.1.1.112.2382	Data Parallel Haskell: a status report
+R1	10.1.1.146.3781	Foundations of the C++ Concurrency Memory Model
+R1	10.1.1.101.6621	SHIM: A Deterministic Model for Heterogeneous Embedded Systems
+R1	10.1.1.94.8487	Eliminating synchronization-related atomic operations with biased locking and bulk rebiasing
+R1	10.1.1.121.7042	Rerun: Exploiting Episodes for Lightweight Memory Race Recording
+R1	10.1.1.128.5504	DeLorean: Recording and Deterministically Replaying Shared-Memory Multiprocessor Execution Efficiently ∗
+R1	10.1.1.143.4470	DMP: Deterministic Shared Memory Multiprocessing
+R1	10.1.1.159.42	A type and effect system for deterministic parallel java
+R1	10.1.1.157.7787	Output-deterministic replay for multicore debugging
+R1	10.1.1.174.5715	Efficient systemenforced deterministic parallelism
+R1	10.1.1.186.1850	Calvin: Deterministic or Not? Free Will to Choose

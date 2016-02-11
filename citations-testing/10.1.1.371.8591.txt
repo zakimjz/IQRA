@@ -1,0 +1,22 @@
+10.1.1.371.8591	2008	3-d reconstruction of shaded objects from multiple images under unknown illumination
+R1	10.1.1.324.1057	O.: Regularizing flows for constrained matrix-valued images
+R1	10.1.1.163.250	A theory of shape by space carving
+R1	10.1.1.44.4632	Towards Accurate Recovery of Shape from Shading under Diffuse Lighting
+R1	10.1.1.120.4564	Variable albedo surface reconstruction from stereo and shape from shading
+R1	10.1.1.4.9467	Shape from Shading: A Survey
+R1	10.1.1.14.4685	A Multiphase Level Set Framework for Image Segmentation Using the Mumford and Shah Model
+R1	10.1.1.48.9568	Minimax Programs
+R1	10.1.1.121.8709	Determining generative models of objects under varying illumination: Shape and albedo from multiple images using svd and integrability
+R1	10.1.1.30.7755	Perception of Shape From Shading on a Cloudy Day
+R1	10.1.1.30.2289	Variational principles, Surface Evolution, PDE's, level set methods and the Stereo Problem
+R1	10.1.1.76.6765	Region-based segmentation on evolving surfaces with application to 3D reconstruction of shape and piecewise constant radiance
+R1	10.1.1.12.6208	Surface Reflection: Physical and Geometrical Perspectives
+R1	10.1.1.111.2958	Estimating the surface radiance function from single images
+R1	10.1.1.14.6877	Multi-view Stereo Beyond Lambert
+R1	10.1.1.23.283	Stereoscopic Segmentation
+R1	10.1.1.187.5455	Robust variational segmentation of 3D objects from multiple views
+R1	10.1.1.62.1019	A Comparison and Evaluation of Multi-View Stereo Reconstruction Algorithms
+R1	10.1.1.395.2751	VARIATIONAL METHODS FOR SHAPE RECONSTRUCTION IN COMPUTER VISION
+R1	10.1.1.329.5527	Shedding light on stereoscopic segmentation
+R1	10.1.1.88.7642	Level set segmentation with multiple regions
+R1	10.1.1.82.1181	Viewpoint invariance for non-planar scenes

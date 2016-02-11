@@ -1,0 +1,26 @@
+10.1.1.107.9833	2003	The good of the many outweighs the good of the one: evolutionary multi-objective optimization
+R1	10.1.1.18.4257	A Fast Elitist Non-Dominated Sorting Genetic Algorithm for Multi-Objective Optimization: NSGA-II
+R1	10.1.1.32.9195	The Pareto Envelope-based Selection Algorithm for Multiobjective Optimization
+R1	10.1.1.34.4189	A Niched Pareto Genetic Algorithm for Multiobjective Optimization
+R1	10.1.1.30.5848	Comparison of Multiobjective Evolutionary Algorithms: Empirical Results
+R1	10.1.1.16.4387	Particle Swarm Optimization Method in Multiobjective Problems
+R1	10.1.1.15.6835	MOPSO : A Proposal for Multiple Objective Particle Swarm
+R1	10.1.1.138.6606	No Free Lunch Theorems for Optimization
+R1	10.1.1.48.9077	Genetic Algorithms for Multiobjective Optimization: Formulation, Discussion and Generalization
+R1	10.1.1.58.1586	Memetic Algorithms for Combinatorial Optimization Problems: Fitness Landscapes and Effective Search Strategies
+R1	10.1.1.35.5874	Multiobjective Evolutionary Algorithms: Analyzing the State-of-the-Art
+R1	10.1.1.39.9023	Evolutionary Algorithms for Multiobjective Optimization: Methods and Applications
+R1	10.1.1.52.2473	Multiobjective Optimization and Multiple Constraint Handling with Evolutionary Algorithms-Part I: A Unified Formulation
+R1	10.1.1.36.2412	Evolutionary Search for Minimal Elements in Partially Ordered Finite Sets
+R1	10.1.1.133.643	Convergence properties of some multi-objective evolutionary algorithms
+R1	10.1.1.17.988	Preferences and their Application in Evolutionary Multiobjective Optimisation
+R1	10.1.1.34.7456	Multiobjective Optimization Using Evolutionary Algorithms - A Comparative Case Study
+R1	10.1.1.46.7622	A Multiple Objective Ant-Q Algorithm for the Design of Water Distribution Irrigation Networks
+R1	10.1.1.36.5160	Treating Constraints As Objectives For Single-Objective Evolutionary Optimization
+R1	10.1.1.8.5638	A Survey of Multiobjective Optimization in Engineering Design Johan
+R1	10.1.1.106.1561	Multiobjective Genetic Algorithms with Application to Control Engineering Problems
+R1	10.1.1.15.1480	No Free Lunch and Free Leftovers Theorems for Multiobjective Optimisation Problems
+R1	10.1.1.28.6480	On the Convergence and Diversity-Preservation Properties of Multi-Objective Evolutionary Algorithms
+R1	10.1.1.28.9329	Constraint Method-Based Evolutionary Algorithm (CMEA) for Multiobjective Optimization
+R1	10.1.1.8.4738	A Multiobjective Hybrid Genetic Algorithm for the Capacitated Multipoint Network Design Problem
+R1	10.1.1.137.9326	A multiobjective approach to cost effective long-term groundwater monitoring using an elitist nondominated sorted genetic algorithm with historical data

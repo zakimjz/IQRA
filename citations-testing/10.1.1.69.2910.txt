@@ -1,0 +1,21 @@
+10.1.1.69.2910	2007	Efficient keyword search across heterogeneous relational databases
+R1	10.1.1.11.5831	BestPeer: A Self-Configurable Peer-to-Peer System
+R1	10.1.1.112.869	Optimal Aggregation Algorithms for Middleware
+R1	10.1.1.51.7802	Managing Gigabytes: Compressing and Indexing Documents and Images - Errata
+R1	10.1.1.1.5089	Evaluating Top-k Queries over Web-Accessible Databases
+R1	10.1.1.204.572	On matching schemas automatically
+R1	10.1.1.19.9165	DISCOVER: Keyword Search in Relational Databases
+R1	10.1.1.135.2192	Similarity Flooding: A Versatile Graph Matching Algorithm and Its Application to Schema Matching
+R1	10.1.1.101.784	Semantic integration research in the database community: A brief survey
+R1	10.1.1.86.1873	Effective keyword search in relational databases
+R1	10.1.1.13.9086	Text Joins in an RDBMS for Web Data Integration
+R1	10.1.1.114.5479	DBXplorer: A system for keyword-based search over relational databases
+R1	10.1.1.15.2825	Efficient IR-Style Keyword Search over Relational Databases
+R1	10.1.1.102.4741	Keyword searching and browsing in databases using BANKS
+R1	10.1.1.142.2875	Peer-to-peer management of XML data: Issues and research challenges
+R1	10.1.1.60.7541	An Efficient and Versatile Query Engine for TopX Search
+R1	10.1.1.164.3185	Flexible and efficient XML search with complex full-text predicates
+R1	10.1.1.151.8892	MINERVA∞: A Scalable Efficient Peer-to-Peer Search Engine
+R1	10.1.1.93.1897	Indexing relational database content offline for efficient keyword-based search
+R1	10.1.1.60.6948	Adaptive Processing of Top-k Queries in XML
+R1	10.1.1.123.3496	Mining database structure; or, how to build a data quality browser

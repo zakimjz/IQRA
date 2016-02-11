@@ -1,0 +1,23 @@
+10.1.1.10.8524	2003	Secure Human-Computer Identification against Peeping Attacks (SecHCI): A Survey
+R1	10.1.1.125.7923	Pessimal Print: A Reverse Turing Test
+R1	10.1.1.50.6383	Verification of a human in the loop or Identification via the Turing Test
+R1	10.1.1.48.1767	Comments on the S/KEY user authentication scheme
+R1	10.1.1.3.1180	Soft Tempest: Hidden Data Transmission Using Electromagnetic Emanations
+R1	10.1.1.1.2127	Telling Humans and Computers apart Automatically - How Lazy Cryptographers Do AI
+R1	10.1.1.46.2852	Visual Cryptography
+R1	10.1.1.49.7151	UNIX Password Security - Ten Years Later
+R1	10.1.1.118.6510	Password Hardening Based on Keystroke Dynamics
+R1	10.1.1.10.2612	The Design and Analysis of Graphical Passwords
+R1	10.1.1.11.6491	"Foiling the Cracker": A Survey of, and Improvements to, Password Security
+R1	10.1.1.12.432	Password Security: A Case History
+R1	10.1.1.17.3005	Visual Authentication and Identification
+R1	10.1.1.178.5659	Independent one-time passwords
+R1	10.1.1.4.970	Limiting the Visible Space Visual Secret Sharing Schemes and their Application to Human Identification
+R1	10.1.1.117.5068	Usability of security: A case study
+R1	10.1.1.24.2421	Transforming the `weakest Link' -- a Human/computer Interaction Approach to Usable and Effective Security
+R1	10.1.1.334.9200	Pretty Good Persuasion: A first step towards effective password security for the Real World
+R1	10.1.1.18.5222	Information Leakage from Optical Emanations
+R1	10.1.1.180.5782	Optical time-domain eavesdropping risks of CRT displays
+R1	10.1.1.104.9653	The secure remote password protocol
+R1	10.1.1.19.4695	A Secure Human-Computer Authentication Scheme
+R1	10.1.1.131.3336	Secure human identification protocols

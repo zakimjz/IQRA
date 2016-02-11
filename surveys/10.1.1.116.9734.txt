@@ -1,0 +1,77 @@
+10.1.1.116.9734	2004	A survey of collectives
+R1	10.1.1.153.721	Evolution of indirect reciprocity by image scoring, Nature
+R1	10.1.1.12.1680	Intelligence Without Representation
+R1	10.1.1.128.7632	Mariposa: A new architecture for distributed data
+R1	10.1.1.25.8016	Adaptive Task Allocation Inspired by a Model of Division of Labor in Social Insects
+R1	10.1.1.380.5018	Optimal payoff functions for members of collectives
+R1	10.1.1.30.6062	Emergence of Collective Strategies in a Prey-Predator Game Model
+R1	10.1.1.20.3760	Practical Issues in Temporal Difference Learning
+R1	10.1.1.194.7157	Design, analysis and simulation of the progressive second price auction for network bandwidth sharing
+R1	10.1.1.1.7219	Iterative Combinatorial Auctions: Theory and Practice
+R1	10.1.1.40.1750	Packet Routing in Dynamically Changing Networks: A Reinforcement Learning Approach
+R1	10.1.1.41.1377	A Distributed Reinforcement Learning Scheme for Network Routing
+R1	10.1.1.138.7942	Algorithmic mechanism design
+R1	10.1.1.50.9021	Adaptive Load Balancing: A Study in Multi-Agent Learning
+R1	10.1.1.17.5519	Improving Elevator Performance Using Reinforcement Learning
+R1	10.1.1.1.8859	Multiagent Systems: A Survey from a Machine Learning Perspective
+R1	10.1.1.138.6606	No Free Lunch Theorems for Optimization
+R1	10.1.1.159.617	The dynamics of reinforcement learning in cooperative multiagent systems
+R1	10.1.1.32.7692	Reinforcement Learning I: Introduction
+R1	10.1.1.154.9998	BAYESIAN LEARNING FOR NEURAL NETWORKS
+R1	10.1.1.187.8072	The behavior of computational ecologies
+R1	10.1.1.123.3605	Coalition structure generation with worst case guarantees
+R1	10.1.1.50.7621	Learning to Coordinate Without Sharing Information
+R1	10.1.1.12.3660	Pricing WiFi at Starbucks - Issues in Online Mechanism Design
+R1	10.1.1.38.1516	Making Greed Work in Networks: A Game-Theoretic Analysis of Switch Service Disciplines
+R1	10.1.1.133.3040	General principles of learning-based multi-agent systems
+R1	10.1.1.118.4008	Collective intelligence, data routing and Braess’ paradox
+R1	10.1.1.342.6027	Collective intelligence for control of distributed dynamical systems
+R1	10.1.1.31.779	A Market-Oriented Programming Environment and its Application to Distributed Multicommodity Flow Problems
+R1	10.1.1.100.9946	Coalitions Among Computationally Bounded Agents
+R1	10.1.1.145.8411	Ant Colony System: A cooperative learning approach to the traveling salesman problem
+R1	10.1.1.46.9041	Acting Optimally in Partially Observable Stochastic Domains
+R1	10.1.1.129.743	Multiagent Reinforcement Learning in the Iterated Prisoner's Dilemma
+R1	10.1.1.31.3588	Emergent Coordination through the Use of Cooperative State-Changing Rules
+R1	10.1.1.137.6339	Efficient mechanism design
+R1	10.1.1.295.1210	Evolution of Conventions
+R1	10.1.1.21.640	Learning About Other Agents in a Dynamic Multiagent System
+R1	10.1.1.21.1755	Leveled Commitment Contracts with Myopic and Strategic Agents
+R1	10.1.1.1.2834	High-Performance Communication Networks
+R1	10.1.1.78.2443	TPOT-RL applied to network routing
+R1	10.1.1.160.6527	Capacity allocation under noncooperative routing
+R1	10.1.1.25.9060	Routing in Telecommunications Networks With "smart" Ant-Like Agents
+R1	10.1.1.136.6846	Multiagent systems
+R1	10.1.1.9.3340	Learning Sequences of Actions in Collectives of Autonomous Agents
+R1	10.1.1.50.4270	Shifting Inductive Bias with Success-Story Algorithm, Adaptive Levin Search, and Incremental Self-Improvement
+R1	10.1.1.147.3406	Challenges in coevolutionary learning: Arms-race dynamics, openendedness, and mediocre stable states
+R1	10.1.1.306.2017	Active walker model for the formation of human and animal trail systems
+R1	10.1.1.49.1270	Adaptive Critic Designs
+R1	10.1.1.38.4229	A Computational Market Model for Distributed Configuration Design
+R1	10.1.1.22.3750	Using Collective Intelligence To Route Internet Traffic
+R1	10.1.1.51.393	Self-fulfilling Bias in Multiagent Learning
+R1	10.1.1.161.7492	Programmable self-assembly using biologically-inspired multiagent control
+R1	10.1.1.124.8721	Discrete stochastic models for traffic flow
+R1	10.1.1.295.4557	Rational Learning Leads to Nash Equilibrium
+R1	10.1.1.109.5398	Controlling smart matter
+R1	10.1.1.170.1336	Collective Intelligence and Braess’ Paradox
+R1	10.1.1.53.8217	Revisiting Evolutionary Programming
+R1	10.1.1.178.9033	Learning in Extensive-Form Games: Experimental Data and Simple Dynamic Models in the Intermediate Term
+R1	10.1.1.54.9118	Toward a Model of Mind as a Laissez-Faire Economy of Idiots
+R1	10.1.1.158.5452	Learning Conventions in Multiagent Stochastic Domains using Likelihood Estimates
+R1	10.1.1.45.1412	Reinforcement Learning With Self-Modifying Policies
+R1	10.1.1.111.9711	Programming biological cells
+R1	10.1.1.31.775	TRANSIMS traffic flow characteristics
+R1	10.1.1.241.7712	Phase diagram of traffic states in the presence of inhomogeneities
+R1	10.1.1.26.7698	Reinforcement Learning for Call Admission Control and Routing in Integrated Service Networks
+R1	10.1.1.380.5402	Reinforcement learning in distributed domains: Beyond team games
+R1	10.1.1.51.760	On Market Mechanisms as a Software Technique
+R1	10.1.1.8.8629	Zones of Cooperation in Demographic Prisoner's Dilemma
+R1	10.1.1.23.9688	Optimizing Admission Control While Ensuring Quality of Service in Multimedia Networks Via Reinforcement Learning
+R1	10.1.1.242.6896	Modeling the Evolution of Human Trail Systems
+R1	10.1.1.336.6447	A prototype model of stock exchange
+R1	10.1.1.235.5056	Dynamics of individual specialization and global diversification in communities
+R1	10.1.1.308.7099	Coalition, cryptography, and stability: Mechanisms for coalition formation in task oriented domains
+R1	10.1.1.39.1086	Achieving Network Optima Using Stackelberg Routing Strategies
+R1	10.1.1.44.1772	Critical properties of a spin glass with anisotropic Dzyaloshinskii-Moriya interaction
+R1	10.1.1.138.156	Programmable pattern-formation and scaleindependence
+R1	10.1.1.242.2321	Spontaneous coalition forming: A model from spin glass. pre-print cond-mat/9901022

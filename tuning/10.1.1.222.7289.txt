@@ -1,0 +1,46 @@
+10.1.1.222.7289	2007	Mobile Ad Hoc Networks: Modelling, Simulation and Broadcast-based Applications
+R1	10.1.1.32.6963	The Data Grid: Towards an Architecture for the Distributed Management and Analysis of Large Scientific Datasets
+R1	10.1.1.142.2844	Tschudin: A Large-scale Testbed for Reproducible Ad hoc Protocol Evaluations
+R1	10.1.1.99.5498	An Integrated Environment for Testing Mobile Ad-Hoc Networks
+R1	10.1.1.117.2921	A Performance Comparison of Multi-Hop Wireless Ad Hoc Network Routing Protocols
+R1	10.1.1.112.5073	SPEA2: Improving the Strength Pareto Evolutionary Algorithm
+R1	10.1.1.138.4182	Scatter Search and Path Relinking
+R1	10.1.1.48.4634	GloMoSim: A Library for Parallel Simulation of Large-scale Wireless Networks
+R1	10.1.1.53.7718	Maisie: A Language for the Design of Efficient Discrete-event Simulations
+R1	10.1.1.34.6321	A Generic Framework for Parallelization of Network Simulations
+R1	10.1.1.13.268	A Survey of Mobility Models for Ad Hoc Network Research
+R1	10.1.1.25.1878	Wireless Hierarchical Routing Protocol with Group Mobility (WHIRL)
+R1	10.1.1.16.8988	Comparison of Broadcasting Techniques for Mobile Ad Hoc Networks
+R1	10.1.1.53.2098	Using Java for Discrete Event Simulation
+R1	10.1.1.12.3352	A Mobility Framework for OMNeT++
+R1	10.1.1.1.6889	A Java-based uniform workbench for simulating and executing distributed mobile applications
+R1	10.1.1.138.971	A group mobility model for ad hoc wireless networks
+R1	10.1.1.104.138	On the Construction of Energy-Efficient Broadcast and Multicast Trees in Wireless Networks
+R1	10.1.1.39.9023	Evolutionary Algorithms for Multiobjective Optimization: Methods and Applications
+R1	10.1.1.10.266	Prototyping Wireless Sensor Network Applications with BTnodes
+R1	10.1.1.25.2380	Effects of Detail in Wireless Network Simulation
+R1	10.1.1.147.4406	Performance of multihop wireless networks: shortest path is not enough
+R1	10.1.1.139.1730	Flooding for reliable multicast in multi-hop ad hoc networks
+R1	10.1.1.18.9223	Localized Energy Efficient Broadcast for Wireless Networks With Directional Antennas
+R1	10.1.1.421.5514	Routing in a delay tolerant network
+R1	10.1.1.225.4025	Practical routing in delay-tolerant networks
+R1	10.1.1.192.697	Impact of interferences on bandwidth reservation for ad hoc networks: a first theoretical study
+R1	10.1.1.11.5937	Simulating Large Networks - How Big is Big Enough?
+R1	10.1.1.54.7705	Simulation Based Performance Evaluation of Mobile, Ad hoc Network Routing Protocols
+R1	10.1.1.135.485	How a New Realistic Mobility Model Can Effect the Relative Performance of a Mobile Networking Scheme
+R1	10.1.1.221.3125	Distributed self-healing and variable topology optimization algorithms for QoS provisioning in scatternets
+R1	10.1.1.135.3137	ATEMU: A fine-grained sensor network simulator
+R1	10.1.1.106.1246	Dynamic placement using ants for object based simulations, in
+R1	10.1.1.37.4612	Traffic Modeling In The ATM-TN Telesim Project: Design, Implementation, And Performance Evaluation
+R1	10.1.1.134.9505	Ubibay: An auction system for mobile multihop ad-hoc networks
+R1	10.1.1.1.3372	A Scalable Workbench for Implementing and Evaluating Distributed Applications in Mobile Ad-hoc Networks
+R1	10.1.1.2.6097	Worst Case Mobility in Ad Hoc Networks
+R1	10.1.1.130.9613	Forward-node-set-based broadcast in clustered mobile ad hoc networks
+R1	10.1.1.61.200	Toward an Architecture for Ad Hoc Grids
+R1	10.1.1.107.9582	Optimal Broadcasting in Metropolitan MANETs Using Multiobjective Scatter Search ⋆
+R1	10.1.1.35.8020	Disseminating Trust Information in Wearable Communities
+R1	10.1.1.333.3102	Forkel “Initial Performance Evaluation and Analysis of the global
+R1	10.1.1.330.9753	Forkel “The HIPERMAN Standard Performance and Analysis
+R1	10.1.1.404.6269	A Robust Interference Model for Wireless Ad Hoc Networks
+R1	10.1.1.118.946	Variable Power Broadcasting in Ad Hoc Networks
+R1	10.1.1.104.1481	Scalable and Efficient Parallel and Distributed Simulation of Complex, Dynamic and Mobile Systems

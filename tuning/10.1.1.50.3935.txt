@@ -1,0 +1,47 @@
+10.1.1.50.3935	1998	A Framework For Separating Server Scalability and Availability From Internet Application Functionality
+R1	10.1.1.35.4167	End-To-End Arguments In System Design
+R1	10.1.1.146.1122	RSVP: A New Resource Reservation Protocol
+R1	10.1.1.121.1027	A reliable multicast framework for light-weight sessions and application level framing
+R1	10.1.1.38.1298	Tcl and the Tk Toolkit
+R1	10.1.1.1.2034	Cluster-Based Scalable Network Services
+R1	10.1.1.145.8046	Improving TCP/IP performance over wireless networks
+R1	10.1.1.21.1584	A Hierarchical Internet Object Cache
+R1	10.1.1.159.9831	The Bayou Architecture: Support for Data Sharing among Mobile Users
+R1	10.1.1.41.4031	TAZ Servers and the Rewebber Network: Enabling Anonymous Publishing on the World Wide Web
+R1	10.1.1.134.4847	Implementing remote procedure calls
+R1	10.1.1.12.448	Disconnected Operation in the Coda File System
+R1	10.1.1.113.2393	A comparison of mechanisms for improving TCP performance over wireless links
+R1	10.1.1.33.2176	Wrapper Induction for Information Extraction
+R1	10.1.1.42.7520	Locality-Aware Request Distribution in Cluster-based Network Servers
+R1	10.1.1.177.4016	StackGuard: Automatic adaptive detection and prevention of buffer-overflow attacks
+R1	10.1.1.101.8988	On optimistic methods for concurrency control
+R1	10.1.1.127.3153	SPAND: Shared Passive Network Performance Discovery
+R1	10.1.1.144.9231	Scalable Timers for Soft State Protocols
+R1	10.1.1.32.7346	Security on the Move: Indirect Authentication Using Kerberos
+R1	10.1.1.37.8716	An Application Level Video Gateway
+R1	10.1.1.31.4733	Toward a Common Infrastructure for Multimedia-Networking Middleware
+R1	10.1.1.33.6882	Experience With Top Gun Wingman: A Proxy-Based Graphical Web Browser for the 3Com PalmPilot
+R1	10.1.1.44.3262	Towards a Design Methodology for Adaptive Applications
+R1	10.1.1.30.8911	IP-based Protocols for Mobile Internetworking
+R1	10.1.1.32.6145	System Design Issues for Internet Middleware Services: Deductions from a Large Client Trace
+R1	10.1.1.1.8203	Constructing Reliable Web Applications Using Atomic Actions
+R1	10.1.1.31.5436	Vertical Handoffs in Wireless Overlay Networks
+R1	10.1.1.186.8231	How Useful Is Old Information
+R1	10.1.1.109.2480	Aries: A transaction recovery method supporting fine-granularity locking and partial rollbacks using write-ahead logging
+R1	10.1.1.115.1696	Leases: An Efficient Fault-Tolerant Mechanism for Distributed File Cache Consistency
+R1	10.1.1.174.3135	The X Window System
+R1	10.1.1.112.9002	Kerberos: An Authentication Service for Open Network Systems
+R1	10.1.1.100.6047	Exokernel: An Operating System Architecture for Application-Level Resource Management
+R1	10.1.1.376.1489	MIME (Multipurpose Internet Mail Extensions) Part Two: Message Header Extensions for Non-ASCII Text
+R1	10.1.1.41.6760	Application Design for Wireless Computing
+R1	10.1.1.49.3049	Toward Work-Centered Digital Information Services
+R1	10.1.1.30.1342	System Support for Scalable and Fault Tolerant Internet Services
+R1	10.1.1.45.8669	Protocol Independent Multicast (PIM), Sparse Mode Protocol Specification
+R1	10.1.1.49.3695	World-Wide Web Proxies
+R1	10.1.1.135.4534	A Proxy Architecture for Reliable Multicast in Heterogeneous Environments
+R1	10.1.1.35.8868	Scalability Issues for High Performance Digital Libraries on the World Wide Web
+R1	10.1.1.123.1927	Distributed schedule management in the tiger video fileserver
+R1	10.1.1.39.8564	Orthogonal Extensions to the WWW User Interface Using Client-Side Technologies.
+R1	10.1.1.25.4842	Highly Available Trading System: Experiments with CORBA
+R1	10.1.1.36.7009	Experience with a Wireless World Wide Web Client
+R1	10.1.1.131.742	The Role of Distributed State

@@ -1,0 +1,37 @@
+10.1.1.104.5189	2006	A Survey on Computer Representations of Trees for Realistic and Efficient Rendering
+R1	10.1.1.11.2456	Surfels: Surface Elements as Rendering Primitives
+R1	10.1.1.18.6356	EWA Splatting
+R1	10.1.1.10.877	Light Field Rendering
+R1	10.1.1.148.4589	A survey of visibility for walkthrough applications
+R1	10.1.1.17.30	Rendering Trees from Precomputed Z-Buffer Views
+R1	10.1.1.107.89	Layered depth images
+R1	10.1.1.10.3677	Smooth View-Dependent Level-of-Detail Control and Its Application to Terrain Rendering
+R1	10.1.1.232.7198	Interactive visualization of complex plant ecosystems
+R1	10.1.1.127.5564	RENDERING FUR WITH THREE DIMENSIONAL TEXTURES
+R1	10.1.1.109.2834	Real-time fur over arbitrary surfaces
+R1	10.1.1.19.6244	Interactive Volumetric Textures
+R1	10.1.1.108.9010	Interactive rendering of trees with shading and shadows
+R1	10.1.1.11.2805	View-based Rendering: Visualizing Real Objects From Scanned Range and . . .
+R1	10.1.1.4.9616	Interactive Sampling and Rendering for Complex and Procedural Geometry
+R1	10.1.1.130.522	The Use of Positional Information in the Modeling of Plants
+R1	10.1.1.11.1654	Progressive Simplicial Complexes
+R1	10.1.1.17.9821	Survey of Polygonal Surface Simplification Algorithms
+R1	10.1.1.44.1232	Multiresolution Decimation based on Global Error
+R1	10.1.1.46.5115	A Topology Modifying Progressive Decimation Algorithm
+R1	10.1.1.1.9346	Rendering Forest Scenes in Real-Time
+R1	10.1.1.141.2514	Multiscale shaders for the efficient realistic rendering of pine-trees
+R1	10.1.1.227.5572	Pattern-based texturing revisited
+R1	10.1.1.14.3073	View-Dependent Multiresolution Model for Foliage
+R1	10.1.1.19.5932	Animating Prairies in Real-Time
+R1	10.1.1.104.1686	Modeling lobed leaves
+R1	10.1.1.23.8925	Modelling Compound Leaves Using Implicit Contours
+R1	10.1.1.34.8196	Synthesizing Verdant Landscapes Using Volumetric Textures
+R1	10.1.1.16.9309	An Interactive Forest
+R1	10.1.1.409.7584	Blobtree trees
+R1	10.1.1.72.3885	Efficient screen space approach for Hardware Accelerated Surfel Rendering
+R1	10.1.1.14.9959	A Procedural Approach to Animate Interactive Natural Sceneries
+R1	10.1.1.35.1911	Implicit Representations of Rough Surfaces
+R1	10.1.1.9.7347	The State of the Art in Realtime Rendering of Vegetation
+R1	10.1.1.102.1926	Modeling and visualization of leaf venation patterns
+R1	10.1.1.230.3118	Hierarchical Solution Techniques for Realistic Rendering
+R1	10.1.1.177.9782	Real-time rendering of plant leaves

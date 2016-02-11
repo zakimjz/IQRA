@@ -1,0 +1,24 @@
+10.1.1.159.42	2009	A type and effect system for deterministic parallel java
+R1	10.1.1.11.5322	Separation Logic: A Logic for Shared Mutable Data Structures
+R1	10.1.1.59.6498	Ownership, Encapsulation and the Disjointness of Type and Effect
+R1	10.1.1.73.4916	Polymorphic effect systems
+R1	10.1.1.11.2505	Commutativity Analysis: A New Analysis Technique for Parallelizing Compilers
+R1	10.1.1.122.3306	On the importance of points-to analysis and other memory disambiguation methods for c programs
+R1	10.1.1.18.3175	Cilk: An Efficient Multithreaded Runtime System
+R1	10.1.1.127.8639	Thread-modular shape analysis
+R1	10.1.1.127.806	Efficient detection of determinacy races in Cilk programs
+R1	10.1.1.25.480	The Semantics of Future and Its Use in Program Optimization
+R1	10.1.1.105.322	Checking interference with fractional permissions
+R1	10.1.1.120.1040	A capability calculus for concurrency and determinism
+R1	10.1.1.138.8083	Using data groups to specify and check side effects
+R1	10.1.1.15.3618	Using Thread-Level Speculation to Simplify Manual Parallelization
+R1	10.1.1.128.8401	POSH: A TLS compiler that exploits program structure
+R1	10.1.1.187.8687	Optimistic parallelism requires abstractions
+R1	10.1.1.183.3390	Towards an effects system for ownership domains
+R1	10.1.1.139.472	STAMP: Stanford Transactional Applications for Multi-Processing
+R1	10.1.1.146.5177	A Programming Model for Concurrent Object-Oriented Programs
+R1	10.1.1.149.1914	Full functional verification of linked data structures
+R1	10.1.1.148.6972	Parallel Programming Must Be Deterministic by Default
+R1	10.1.1.216.7286	Commutativity Analysis for Software Parallelization: letting Program Transformations See the Big Picture
+R1	10.1.1.216.7567	Serialization sets: a dynamic dependence-based parallel execution model
+R1	10.1.1.220.515	Inferring method effect summaries for nested heap regions

@@ -1,0 +1,55 @@
+10.1.1.142.5135	2009	As time goes by: Constraint handling rules -- A survey of CHR research between 1998 and 2007
+R1	10.1.1.10.4679	Theory and Practice of Constraint Handling Rules
+R1	10.1.1.97.2450	Specification and Verification of Agent Interaction Protocols in a Logic-based System
+R1	10.1.1.35.505	An Experimental CLP Platform for Integrity Constraints and Abduction
+R1	10.1.1.119.5314	A theory of overloading
+R1	10.1.1.10.6989	Soft Constraint Propagation and Solving in Constraint Handling Rules
+R1	10.1.1.100.5173	University course timetabling using constraint handling rules
+R1	10.1.1.16.2681	Constraints for Multimedia Presentation Generation
+R1	10.1.1.101.8427	Constraint Based Methods for Biological Sequence Analysis
+R1	10.1.1.158.4746	A Methodology of Error Detection: Improving Speech Recognition in Radiology
+R1	10.1.1.102.1318	A compositional semantics for chr
+R1	10.1.1.212.4462	Specification and verification of agent interaction using social integrity constraints
+R1	10.1.1.6.1019	The Implementation of a System for Generation and Confirmation of Hypotheses
+R1	10.1.1.104.4375	Using CHRs to generate functional test cases for the Java Card Virtual Machine
+R1	10.1.1.4.1198	Extending Arbitrary Solvers with Constraint Handling Rules
+R1	10.1.1.106.9544	A Unified Semantics for Constraint Handling Rules in Transaction Logic
+R1	10.1.1.109.2481	A flowbased approach for variant parametric types
+R1	10.1.1.122.2103	Observable confluence for constraint handling rules
+R1	10.1.1.85.1986	Probabilistic Constraint Handling Rules
+R1	10.1.1.12.5055	Using Typed Interfaces to Compose CHR Programs
+R1	10.1.1.222.6235	Information Integration Using Contextual Knowledge and Ontology Merging
+R1	10.1.1.143.6761	Chart Parsing and Constraint Programming
+R1	10.1.1.30.9704	Classroom Assignment using Constraint Logic Programming
+R1	10.1.1.120.6544	Security policy consistency
+R1	10.1.1.67.6197	Abstract Interpretation for Constraint Handling Rules
+R1	10.1.1.67.6902	Antimonotony-based Delay Avoidance for CHR
+R1	10.1.1.124.1159	The Computational Power and Complexity of Constraint Handling Rules
+R1	10.1.1.59.9195	Automatic Implication Checking for CHR Constraints
+R1	10.1.1.59.7888	Optimal Union-Find in Constraint Handling Rules
+R1	10.1.1.170.346	Guard and Continuation Optimization for Occurrence Representations of CHR
+R1	10.1.1.309.8637	Analysing the CHR implementation of unionfind
+R1	10.1.1.13.2589	Logical Algorithms
+R1	10.1.1.309.7002	Logical rules for a lexicographic order constraint solver
+R1	10.1.1.38.7233	OPIUM: An Extendable Trace Analyzer for PROLOG
+R1	10.1.1.165.4328	LMNtal as a unifying declarative language
+R1	10.1.1.324.2841	Complexity of a CHR solver for existentially quantified conjunctions of equations over trees
+R1	10.1.1.181.787	Frühwirth: A Linear-Logic Semantics For Constraint Handling Rules
+R1	10.1.1.19.9360	Rule-Based Constraint Programming: Theory and Practice
+R1	10.1.1.165.2886	Join ordering for Constraint Handling Rules
+R1	10.1.1.115.2386	Principal type inference for GHCstyle multi-parameter type classes
+R1	10.1.1.86.9027	On the implementation of global abduction
+R1	10.1.1.114.6507	Deductive Generation of Constraint Propagation Rules
+R1	10.1.1.97.2996	Modeling Motion by the Integration of Topology and Time
+R1	10.1.1.332.2958	ORCAS: Towards a CHR-based model-driven framework of reusable reasoning components
+R1	10.1.1.112.1661	Toward a First-Order Extension of Prolog’s Unification using CHR -- A CHR First-Order Constraint Solver Over Finite or Infinite Trees
+R1	10.1.1.138.1861	Semantic Property Grammars for Knowledge Extraction from Biomedical Text
+R1	10.1.1.34.328	The Munich Rent Advisor: A Success for Logic Programming on the Internet
+R1	10.1.1.149.6265	Aggregates for CHR through program transformation
+R1	10.1.1.181.1262	Relating coloured Petri nets to Constraint Handling Rules
+R1	10.1.1.165.4643	On confluence of non-terminating CHR programs
+R1	10.1.1.150.3639	M.: Fluxplayer: A successful general game player
+R1	10.1.1.181.550	Compiling constraint handling rules with lazy and concurrent search techniques
+R1	10.1.1.142.3594	Compiling Constraint Handling Rules to Java: A Reconstruction
+R1	10.1.1.165.5033	A new approach to termination analysis of Constraint Handling Rules
+R1	10.1.1.181.499	Adaptive CHR meets CHR ∨ : An extended refined operational semantics for CHR ∨ based on justifications

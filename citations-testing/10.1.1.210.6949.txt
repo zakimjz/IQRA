@@ -1,0 +1,23 @@
+10.1.1.210.6949	2009	Catching the Network Science Bug: Insight and Opportunities for the Operations Researchers
+R1	10.1.1.242.4753	Statistical mechanics of complex networks
+R1	10.1.1.117.2682	A Random Graph Model for Massive Graphs
+R1	10.1.1.20.3387	Toward an Optimization-Driven Framework for Designing and Generating Realistic Internet Topologies
+R1	10.1.1.122.7284	The structure and function of complex networks
+R1	10.1.1.198.3406	Random graph models of social networks
+R1	10.1.1.160.7901	The design philosophy of the DARPA internet protocols
+R1	10.1.1.295.7310	Power laws, Pareto distributions and Zipf’s law
+R1	10.1.1.20.8595	Mapping and Visualizing the Internet
+R1	10.1.1.100.7593	Towards a theory of scale-free graphs: Definition, properties, and implications
+R1	10.1.1.1.2676	Small-World File-Sharing Communities
+R1	10.1.1.126.5643	The Network Paradigm in Organizational Research: A Review and Typology
+R1	10.1.1.311.966	Epidemics and immunization in scale-free networks
+R1	10.1.1.7.3816	A Mathematical Framework for Designing a Low-Loss, Low-Delay Internet
+R1	10.1.1.13.8473	Trust Propagation in Small Worlds
+R1	10.1.1.33.355	Efficient Associative Memory Using Small-World Architecture
+R1	10.1.1.88.1038	Layering as optimization decomposition
+R1	10.1.1.20.9298	Relevant Cycles in Chemical Reaction Networks
+R1	10.1.1.218.6287	The “robust yet fragile” nature of the Internet
+R1	10.1.1.142.9445	The economics of social networks
+R1	10.1.1.158.7896	The many facets of Internet topology and traffic
+R1	10.1.1.133.9222	Understanding internet topology: principles, models, and validation
+R1	10.1.1.294.8431	Competition and Efficiency in Congested Markets

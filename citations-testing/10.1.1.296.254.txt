@@ -1,0 +1,22 @@
+10.1.1.296.254	1999	Region Classification for the Interpretation of Video Sequences
+R1	10.1.1.128.4967	Active Appearance Models
+R1	10.1.1.308.8619	Some methods for classification and analysis of multivariate observations
+R1	10.1.1.124.5318	Snakes: Active contour models
+R1	10.1.1.158.8722	On active contour models and balloons
+R1	10.1.1.50.5532	A Multiresolution Frequency Domain Method For Estimating Affine Motion Parameters
+R1	10.1.1.27.8570	An Experimental Comparison of Range Image Segmentation Algorithms
+R1	10.1.1.132.8548	Recognition-by-components: A theory of human image understanding
+R1	10.1.1.20.7763	Temporal Texture Modeling
+R1	10.1.1.53.496	Automatic Segmentation And Classification Of Outdoor Images Using Neural Networks
+R1	10.1.1.42.622	Finding Similar Patterns in Large Image Databases
+R1	10.1.1.29.6686	Analyzing Gait With Spatiotemporal Surfaces
+R1	10.1.1.319.2001	Unsupervised texture segmentation using Gabor filters
+R1	10.1.1.53.5460	Learning Blackboard-based Scheduling Algorithms for Computer Vision
+R1	10.1.1.141.4020	Training models of shape from sets of examples
+R1	10.1.1.51.2670	Motion from Color
+R1	10.1.1.39.4181	Computing Spatiotemporal Relations for Dynamic Perceptual Organization
+R1	10.1.1.29.187	Size Invariance In Visual Object Priming of Gray Scale Images
+R1	10.1.1.381.3923	Automatic Interpretation of Outdoor Scenes
+R1	10.1.1.420.9957	Active contours using finite elements to control local scale
+R1	10.1.1.36.5050	A Comparative Study of Three Paradigms for Object Recognition - Bayesian Statistics, Neural Networks and Expert Systems.
+R1	10.1.1.29.9024	Computer Assisted Analysis of Echocardiographic Image Sequences

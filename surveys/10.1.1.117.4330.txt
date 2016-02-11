@@ -1,0 +1,30 @@
+10.1.1.117.4330	2000	A survey of context-aware mobile computing research
+R1	10.1.1.121.328	Agile Application-Aware Adaptation for Mobility
+R1	10.1.1.17.107	Supporting Location-Awareness in Open Distributed Systems
+R1	10.1.1.12.1285	The Anatomy of a Context-Aware Application
+R1	10.1.1.52.8497	Cyberguide: A Mobile Context-Aware Tour Guide
+R1	10.1.1.119.6216	RADAR: an in-building RF-based user location and tracking system
+R1	10.1.1.34.859	CybreMinder: A Context-Aware System for Supporting Reminders
+R1	10.1.1.101.8185	Context-Aware and Location Systems
+R1	10.1.1.29.5833	Context-Aware Computing Applications
+R1	10.1.1.30.1929	The ParcTab Ubiquitous Computing Experiment
+R1	10.1.1.17.339	The Active Badge Location System
+R1	10.1.1.35.3261	GPS-less Low Cost Outdoor Localization For Very Small Devices
+R1	10.1.1.226.5349	The Stick-e Note Architecture: extending the interface beyond the user
+R1	10.1.1.187.4376	The Context Toolkit: Aiding the Development of Context-Enabled Applications
+R1	10.1.1.150.4833	Towards a better understanding of context and context-awareness
+R1	10.1.1.11.7345	A New Location Technique for the Active Office
+R1	10.1.1.372.3061	The conference assistant: Combining context-awareness with wearable computing
+R1	10.1.1.127.1990	The Smart Floor: A Mechanism for Natural User Identification and Tracking
+R1	10.1.1.27.554	Adding Generic Contextual Capabilities to Wearable Computers
+R1	10.1.1.26.6168	Location-aware information delivery with comMotion
+R1	10.1.1.127.3033	An indoor wireless system for personalized shopping assistance
+R1	10.1.1.52.6136	A System for Tracking and Recognizing Multiple People with Multiple Cameras
+R1	10.1.1.226.3943	Context-aware office assistant
+R1	10.1.1.53.6444	Rapid Prototyping of Mobile Context-Aware Applications: The Cyberguide Case Study
+R1	10.1.1.15.485	A System Architecture for Context-Aware Mobile Computing
+R1	10.1.1.67.1567	Adaptive Support for a Mobile Museum Guide
+R1	10.1.1.30.4924	Teleporting - Making Applications Mobile
+R1	10.1.1.56.6198	Customizing Mobile Applications
+R1	10.1.1.36.7638	Experience with Disconnected Operation in a Mobile Computing Environment
+R1	10.1.1.39.4228	An Infrared Network for Mobile Computers

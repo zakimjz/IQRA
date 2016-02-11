@@ -1,0 +1,22 @@
+10.1.1.20.2161	1998	Shift-Invariant Adaptive Wavelet Decompositions And Applications
+R1	10.1.1.36.5153	Singularity Detection And Processing With Wavelets
+R1	10.1.1.315.2756	A theory for multiresolution signal decomposition : the wavelet representation
+R1	10.1.1.135.1907	Atomic decomposition by basis pursuit
+R1	10.1.1.51.4502	Local Sine and Cosine Bases of Coifman and Meyer and the Construction of Smooth Wavelets
+R1	10.1.1.161.9704	De-Noising By Soft-Thresholding
+R1	10.1.1.32.6148	Simultaneous Noise Suppression and Signal Compression using a Library of Orthonormal Bases and the Minimum Description Length Criterion
+R1	10.1.1.16.5173	Matching Pursuit With Time-Frequency Dictionaries
+R1	10.1.1.162.1137	Unconditional bases are optimal bases for data compression and for statistical estimation
+R1	10.1.1.18.5715	Edge Detection
+R1	10.1.1.45.2234	Time Invariant Orthonormal Wavelet Representations
+R1	10.1.1.52.8406	Local Discriminant Bases
+R1	10.1.1.52.2803	Transform Image Coding Based On Joint Adaptation Of Filter Banks And Tree Structures
+R1	10.1.1.46.2953	Wavelets and Time-Frequency Analysis
+R1	10.1.1.20.2962	Translation-Invariant Denoising Using the Minimum Description Length Criterion
+R1	10.1.1.117.4177	A signal-dependent time-frequency representation: Optimal kernel design
+R1	10.1.1.31.505	Wavelets: The Mathematical Background
+R1	10.1.1.55.3503	Adapted Local Trigonometric Transforms and Speech Processing
+R1	10.1.1.41.8320	A Simple Scheme For Adapting Time-Frequency Representations
+R1	10.1.1.37.8160	Signal Compression with Smooth Local Trigonometric Bases
+R1	10.1.1.20.4465	Adaptive Suppression of Wigner Interference-Terms Using Shift-Invariant Wavelet Packet Decompositions
+R1	10.1.1.40.4513	Time-Frequency Analysis And Noise Suppression With Shift-Invariant Wavelet Packets

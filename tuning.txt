@@ -1,0 +1,103 @@
+10.1.1.329.2424	2006	On the semantics of Alice&Bob specifications of security protocols	semantics alice bob specifications security protocols	
+10.1.1.138.7508	2007	Assisted Peer-to-Peer Search with Partial Indexing	assisted peer-to-peer search partial indexing	
+10.1.1.352.4249	2012	Data Models and Query Languages for Linked Geospatial Data	data models query languages linked geospatial data	
+10.1.1.416.8090	2008	Opportunism, backpressure, and stochastic optimization with the wireless broadcast advantage	opportunism, backpressure, stochastic optimization wireless broadcast advantage	
+10.1.1.10.1076	2003	The many faces of Publish/Subscribe	many faces publish subscribe	
+10.1.1.146.5621	2005	Personalization, verification and conformance for logic-based communicating agents	personalization, verification conformance logic-based communicating agents	
+10.1.1.152.7302	2009	Models and Proofs of Protocol Security: A Progress Report	models proofs protocol security: progress report	
+10.1.1.3.8650	2004	Incentives and Fair Sharing In Peer-to-Peer Systems	incentives fair sharing peer-to-peer systems	
+10.1.1.170.6526	2007	MODELING SEMANTIC ASPECTS FOR CROSS-MEDIA IMAGE INDEXING	modeling semantic aspects cross-media image indexing	
+10.1.1.139.6107	2008	Compatible Embedding for 2D Shape Animation	compatible embedding 2d shape animation	
+10.1.1.96.1703	2007	Effective Linear-Time Feature Selection	effective linear-time feature selection	
+10.1.1.10.4699	2005	Rule Extraction from Recurrent Neural Networks: a Taxonomy and Review	rule extraction recurrent neural networks: taxonomy review	
+10.1.1.74.1294	2000	Combinations of model checking and theorem proving	combinations model checking theorem proving	
+10.1.1.59.2777	2005	Cluster Sampling and its Applications to Segmentation, Stereo and Motion	cluster sampling applications segmentation, stereo motion	
+10.1.1.305.1475	2013	Mining requirements from closed-loop control models	mining requirements closed-loop control models	
+10.1.1.140.4148	2007	Overview of the ImageCLEF 2007 object retrieval task	overview imageclef 2007 object retrieval task	
+10.1.1.7.8587	2001	Subdivision Surfaces - Can they be Useful for Geometric Modeling Applications?	subdivision surfaces - useful geometric modeling applications?	
+10.1.1.225.5140	2008	H.P.: Gesture modeling and animation based on a probabilistic re-creation of speaker style	h.p.: gesture modeling animation based probabilistic re-creation speaker style	
+10.1.1.33.4528	1998	Evolutionary Robotics: Exploiting the full power of self-organization	evolutionary robotics: exploiting full power self-organization	
+10.1.1.20.1460	2002	Survey of Multicast Routing Algorithms and Protocols	survey multicast routing algorithms protocols	
+10.1.1.360.1811	2011	Small-world Datacenters	small-world datacenters	
+10.1.1.102.2966	2004	Adaptive Processor Allocation in Packet Processing Systems	adaptive processor allocation packet processing systems	
+10.1.1.299.7573	2009	Generalised Nonlocal Image Smoothing	generalised nonlocal image smoothing	
+10.1.1.342.9315	2006	Energy-efficient estimation of correlated data in wireless sensor networks	energy-efficient estimation correlated data wireless sensor networks	
+10.1.1.342.4374	2002	On the Feasibility of Large-Scale Wireless Sensor Networks	feasibility large-scale wireless sensor networks	
+10.1.1.101.3514	2006	Managing Wire Delay in Chip Multiprocessor Caches	managing wire delay chip multiprocessor caches	
+10.1.1.69.5953	1999	Security for a High Performance Commodity Storage Subsystem	security high performance commodity storage subsystem	
+10.1.1.107.6083	2005	Automaton Meets Algebra: A Hybrid Paradigm for Efficiently Processing XQuery over XML Stream	automaton meets algebra: hybrid paradigm efficiently processing xquery xml stream	
+10.1.1.90.7532	1997	Open problems of Paul Erdos in Graph Theory	open problems paul erdos graph theory	
+10.1.1.126.5635	2007	Design Alternatives for a High-Performance Self-Securing Ethernet Network Interface	design alternatives high-performance self-securing ethernet network interface	
+10.1.1.115.5046	2008	Challenges in Mapping of Syntactic Representations for Framework-Independent Parser Evaluation	challenges mapping syntactic representations framework-independent parser evaluation	
+10.1.1.184.2957	2006	Just Relax: Convex Programming Methods for Identifying Sparse Signals in Noise	relax: convex programming methods identifying sparse signals noise	
+10.1.1.113.8928	2006	A component-based definition of spatial locality	component-based definition spatial locality	
+10.1.1.182.1381	2004	Adaptive data placement for wide-area sensing services	adaptive data placement wide-area sensing services	
+10.1.1.331.8223	2006	Ensemble-based discriminant learning with boosting for face recognition	ensemble-based discriminant learning boosting face recognition	
+10.1.1.87.1342	2007	Synthesizing Scalable System Software for Wireless Sensor Networks	synthesizing scalable system software wireless sensor networks	
+10.1.1.23.3665	2000	Evolutionary Computation versus Reinforcement Learning	evolutionary computation versus reinforcement learning	
+10.1.1.222.7289	2007	Mobile Ad Hoc Networks: Modelling, Simulation and Broadcast-based Applications	mobile ad hoc networks: modelling, simulation broadcast-based applications	
+10.1.1.417.9856	2010	Multi modal semantic indexing for image retrieval	multi modal semantic indexing image retrieval	
+10.1.1.153.2675	2002	A Cache-Friendly Liquid Load Balancer	cache-friendly liquid load balancer	
+10.1.1.360.2487	2013	Eliminating cache-based timing attacks with instruction-based scheduling: Extended version. http: //www.cse.chalmers.se/~buiras/esorics2013_extended.pdf	eliminating cache-based timing attacks instruction-based scheduling: extended version	
+10.1.1.165.3670	2010	On-the-fly inlining of dynamic security monitors	on-the-fly inlining dynamic security monitors	
+10.1.1.59.7318	2004	Agent-Based Recommender Systems	agent-based recommender systems	
+10.1.1.20.8431	1999	Cost Complexity-based Pruning of Ensemble Classifiers	cost complexity-based pruning ensemble classifiers	
+10.1.1.129.9977	2004	Concurrent Programming Without Locks	concurrent programming without locks	
+10.1.1.26.7709	2000	Schrodinger Operators In The Twentieth Century	schrodinger operators twentieth century	
+10.1.1.86.4610	2006	On-line learning of unknown hand held objects via tracking	on-line learning unknown hand held objects via tracking	
+10.1.1.225.9107	2011	RCDC: A Relaxed Consistency Deterministic Computer	rcdc: relaxed consistency deterministic computer	
+10.1.1.145.3278	2007	Integrating concurrency control and energy management in device drivers	integrating concurrency control energy management device drivers	
+10.1.1.11.7722	2001	Automatic Segmentation of Text Into Structured Records	automatic segmentation text structured records	
+10.1.1.59.6546	2005	A First Look at Peer-to-Peer Worms: Threats and Defenses	first look peer-to-peer worms: threats defenses	
+10.1.1.115.4544	2005	Finding narrow passages with probabilistic roadmaps: The small step retraction method	finding narrow passages probabilistic roadmaps: small step retraction method	
+10.1.1.71.6182	2005	Scalable parallel octree meshing for terascale applications	scalable parallel octree meshing terascale applications	
+10.1.1.224.7557	2011	Lateen EM: Unsupervised training with multiple objectives, applied to dependency grammar induction	lateen em: unsupervised training multiple objectives, applied dependency grammar induction	
+10.1.1.13.6934	2003	Inter-Domain Routing: Problems and Solutions	inter-domain routing: problems solutions	
+10.1.1.58.939	2004	Multi-layer Active Queue Management and Congestion Control for Scalable Video Streaming	multi-layer active queue management congestion control scalable video streaming	
+10.1.1.50.3935	1998	A Framework For Separating Server Scalability and Availability From Internet Application Functionality	framework separating server scalability availability internet application functionality	
+10.1.1.160.861	2008	Eigenvalues of a Linear Transformation	eigenvalues linear transformation	
+10.1.1.64.5265	2002	Fetching instruction streams	fetching instruction streams	
+10.1.1.215.6950	2009	Spectral-Driven Isometry-Invariant Matching of 3D Shapes	spectral-driven isometry-invariant matching 3d shapes	
+10.1.1.73.1190	2005	p2pDating: Real Life Inspired Semantic Overlay Networks for Web Search	p2pdating: real life inspired semantic overlay networks web search	
+10.1.1.118.2528	2007	Weakly supervised scale-invariant learning of models for visual recognition	weakly supervised scale-invariant learning models visual recognition	
+10.1.1.16.4303	2002	Global Distribution of Free Software (and other things)	global distribution free software (and things)	
+10.1.1.11.2608	2003	Toward the Scientific Evaluation of Music Information Retrieval Systems	toward scientific evaluation music information retrieval systems	
+10.1.1.159.42	2009	A type and effect system for deterministic parallel java	type effect system deterministic parallel java	
+10.1.1.152.6095	2007	Infrastructure-less Content-Based Publish/Subscribe	infrastructure-less content-based publish/subscribe	
+10.1.1.183.123	2001	Self-Indexed Grammar-Based Compression	self-indexed grammar-based compression	
+10.1.1.102.1983	2006	Patches as Better Bug Reports	patches better bug reports	
+10.1.1.142.5919	2006	BAYESIAN MODELING OF MUSICAL EXPECTATIONS VIA MAXIMUM ENTROPY STOCHASTIC GRAMMARS	bayesian modeling musical expectations via maximum entropy stochastic grammars	
+10.1.1.72.3158	2006	Performance Modeling of Storage Devices using Machine Learning	performance modeling storage devices using machine learning	
+10.1.1.12.2337	2003	Abstractions for Fault-Tolerant Global Computing	abstractions fault-tolerant global computing	
+10.1.1.34.7485	1997	Algorithms and Software for LMI Problems in Control	algorithms software lmi problems control	
+10.1.1.167.5208	2010	Topological mesh operators	topological mesh operators	
+10.1.1.161.7255	2007	Sparse Representation-based Image Deconvolution by Iterative Thresholding	sparse representation-based image deconvolution iterative thresholding	
+10.1.1.84.3226	2004	Power management and power control in wireless networks	power management power control wireless networks	
+10.1.1.219.6097	2008	Central pattern generators for locomotion control in animals and robots: a review	central pattern generators locomotion control animals robots: review	
+10.1.1.155.3901	2006	Stream computations organized for reconfigurable execution	stream computations organized reconfigurable execution	
+10.1.1.111.2657	2005	Dynamine: Finding Common Error Patterns by Mining Software Revision Histories	dynamine: finding common error patterns mining software revision histories	
+10.1.1.140.2007	2006	Learning semantic parsers using statistical syntactic parsing techniques	learning semantic parsers using statistical syntactic parsing techniques	
+10.1.1.164.1425	2008	Calibrating Distributed Camera Networks	calibrating distributed camera networks	
+10.1.1.294.4646	2010	Segmenting video into classes of algorithm-suitability	segmenting video classes algorithm-suitability	
+10.1.1.122.1455	2002	What HMMs can do	hmms	
+10.1.1.161.280	2005	Cashmere: Resilient anonymous routing	cashmere: resilient anonymous routing	
+10.1.1.7.6913	2002	Scalable Techniques for Memory-efficient CDN Simulations	scalable techniques memory-efficient cdn simulations	
+10.1.1.182.2306	1998	The approximability of NP-hard problems	approximability np-hard problems	
+10.1.1.128.4926	2007	ℓ1 Trend Filtering	ℓ1 trend filtering	
+10.1.1.40.550	1999	Timing Analysis of Embedded Real-Time Systems	timing analysis embedded real-time systems	
+10.1.1.365.3258	2012	Kore: keyphrase overlap relatedness for entity disambiguation	kore: keyphrase overlap relatedness entity disambiguation	
+10.1.1.192.1813	2010	Point cloud skeletons via laplacian-based contraction	point cloud skeletons via laplacian-based contraction	
+10.1.1.145.7766	2009	Directed Random Testing	directed random testing	
+10.1.1.28.3119	2001	Sentence Processing and Linguistic Structure	sentence processing linguistic structure	
+10.1.1.108.4911	1979	Fomutl Languages	fomutl languages	
+10.1.1.216.5936	2009	Mathematical and Statistical Opportunities in Cyber Security	mathematical statistical opportunities cyber security	
+10.1.1.60.1848	2004	Generating Cache Hints for Improved Program Efficiency	generating cache hints improved program efficiency	
+10.1.1.321.2005	2005	Summarizing itemset patterns: a profile-based approach	summarizing itemset patterns: profile-based approach	
+10.1.1.159.1414	2005	Advances in Digital Video Content Protection	advances digital video content protection	
+10.1.1.20.6453	2002	Estimating Rarity and Similarity over Data Stream Windows	estimating rarity similarity data stream windows	
+10.1.1.37.2631	1996	Building Secure and Reliable Network Applications	building secure reliable network applications	
+10.1.1.310.7267	2013	A toolkit for ring-LWE cryptography	toolkit ring-lwe cryptography	
+10.1.1.228.5815	2012	RDDS: A Real-Time Data Distribution Service for Cyber Physical Systems	rdds: real-time data distribution service cyber physical systems	
+10.1.1.144.7880	2008	Multi-stage programming with functors and monads: eliminating abstraction overhead from generic code	multi-stage programming functors monads: eliminating abstraction overhead generic code	
+10.1.1.96.7066	2006	State of the Art Analysis of Wireless Mesh Technologies	state art analysis wireless mesh technologies	
+10.1.1.301.1630	2012	Modeling and exploiting heterogeneous bibliographic networks for expertise ranking	modeling exploiting heterogeneous bibliographic networks expertise ranking	

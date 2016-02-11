@@ -1,0 +1,26 @@
+10.1.1.225.3459	2009	Achieving information flow security through monadic control of effects
+R1	10.1.1.11.5322	Separation Logic: A Logic for Shared Mutable Data Structures
+R1	10.1.1.158.5275	Notions of Computation and Monads
+R1	10.1.1.10.3979	Language-Based Information-Flow Security
+R1	10.1.1.11.1434	Separation and Information Hiding
+R1	10.1.1.49.9936	An Industrial Strength Theorem Prover for a Logic Based on Common Lisp
+R1	10.1.1.17.268	Monad Transformers and Modular Interpreters
+R1	10.1.1.49.8846	A Security Flow Control Algorithm and Its Denotational Semantics Correctness Proof
+R1	10.1.1.5.5304	The SwitchWare Active Network Architecture
+R1	10.1.1.10.2693	TAME: A Specialized Specification and Verification System for Timed Automata
+R1	10.1.1.158.4318	A powerdomain construction
+R1	10.1.1.173.3936	The slam calculus: programming with secrecy and integrity
+R1	10.1.1.101.441	Information flow inference for ML
+R1	10.1.1.33.5270	A Core Calculus of Dependency
+R1	10.1.1.42.3759	A Note on the Confinement Problem
+R1	10.1.1.14.1928	Robust Declassification
+R1	10.1.1.35.7443	A Semantic Approach to Secure Information Flow
+R1	10.1.1.394.5802	EROS: a fast capability system
+R1	10.1.1.18.3378	A New Type System for Secure Information Flow
+R1	10.1.1.12.7789	A Separation Kernel Formal Security Policy
+R1	10.1.1.125.198	A monadic analysis of information flow security with mutable state
+R1	10.1.1.31.2885	Semantic Lego
+R1	10.1.1.44.3079	The Fox Project: Advanced Language Technology for Extensible Systems
+R1	10.1.1.187.9635	Translating Dependency into Parametricity
+R1	10.1.1.76.6948	Modular Monadic Semantics and Compilation
+R1	10.1.1.64.8596	Formal specification and verification of data separation in a separation kernel for an embedded system

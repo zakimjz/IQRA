@@ -1,0 +1,56 @@
+10.1.1.115.3644	2001	An introduction to kernel-based learning algorithms
+R1	10.1.1.135.9814	A Theory of the Learnable
+R1	10.1.1.332.356	The Nature of Statistical Learning Theory
+R1	10.1.1.161.6020	Inductive learning algorithms and representations for text categorization
+R1	10.1.1.35.162	Engineering Support Vector Machine Kernels That Recognize Translation Initiation Sites
+R1	10.1.1.29.6750	Nonlinear Prediction of Chaotic Time Series Using Support Vector Machines
+R1	10.1.1.28.295	The Effective Number of Parameters: An Analysis of Generalization and Regularization in Nonlinear Learning Systems
+R1	10.1.1.53.5438	Cryptographic Limitations on Learning Boolean Formulae and Finite Automata
+R1	10.1.1.116.4582	Prediction games and arcing algorithms
+R1	10.1.1.32.8918	A Decision-Theoretic Generalization of on-Line Learning and an Application to Boosting
+R1	10.1.1.1.7888	Soft Margins for AdaBoost
+R1	10.1.1.219.1572	Boosting the margin: A new explanation for the effectiveness of voting methods
+R1	10.1.1.11.2062	Online Learning with Kernels
+R1	10.1.1.16.9612	A Column Generation Algorithm For Boosting
+R1	10.1.1.2.6040	New Support Vector Algorithms
+R1	10.1.1.39.912	Estimating the Support of a High-Dimensional Distribution
+R1	10.1.1.52.9391	Small Sample Statistics for Classification Error Rates I: Error Rate Measurements
+R1	10.1.1.15.9362	Support-Vector Networks
+R1	10.1.1.382.2682	Regularized discriminant analysis
+R1	10.1.1.35.380	Support Vector Learning
+R1	10.1.1.32.9535	A Mathematical Programming Approach to the Kernel Fisher Algorithm
+R1	10.1.1.34.7818	Support Vector Regression with ANOVA Decomposition Kernels
+R1	10.1.1.6.1038	Training Invariant Support Vector Machines
+R1	10.1.1.9.6021	Training Support Vector Machines: an Application to Face Detection
+R1	10.1.1.3.5956	Generalization Performance of Regularization Networks and Support . . .
+R1	10.1.1.367.9480	Arcing the edge
+R1	10.1.1.42.1588	Extracting Support Data for a Given Task
+R1	10.1.1.40.7615	On a Kernel-based Method for Pattern Recognition, Regression, Approximation, and Operator Inversion
+R1	10.1.1.1.8660	Predicting Time Series with Support Vector Machines
+R1	10.1.1.44.8513	View-Based 3d Object Recognition With Support Vector Machines
+R1	10.1.1.207.9205	Support vector machines: Training and applications
+R1	10.1.1.32.9482	Transformation Invariance in Pattern Recognition - Tangent Distance and Tangent Propagation
+R1	10.1.1.34.6943	Nonlinear Discriminant Analysis using Kernel Functions
+R1	10.1.1.105.7469	An Improved Training Algorithm for Kernel Fisher Discriminants
+R1	10.1.1.35.8378	Penalized Discriminant Analysis
+R1	10.1.1.31.5001	Bayes Point Machines: Estimating the Bayes Point in Kernel Space
+R1	10.1.1.32.9352	Playing Billiard in Version Space
+R1	10.1.1.18.3380	Priors, Stabilizers and Basis Functions: from regularization to radial, tensor and additive splines
+R1	10.1.1.40.6425	Kernel-Dependent Support Vector Error Bounds
+R1	10.1.1.33.2716	Bounds on Error Expectation for Support Vector Machines
+R1	10.1.1.54.1171	Improving the Accuracy and Speed of Support Vector Machines
+R1	10.1.1.2.3384	Kernel PCA and De-Noising in Feature Spaces
+R1	10.1.1.15.9866	A Multi-View Nonlinear Active Shape Model Using Kernel PCA
+R1	10.1.1.71.4642	Support Vector Method for Novelty Detection
+R1	10.1.1.221.6071	Neural Network Prediction of Translation Initiation Sites in Eukaryotes: Perspectives for EST and Genome analysis
+R1	10.1.1.54.7481	Mathematical Programming for Data Mining: Formulations and Challenges
+R1	10.1.1.40.9777	Prior Knowledge in Support Vector Kernels
+R1	10.1.1.133.423	A Method for Identifying Splice Sites and Translational Start Sites in Eukaryotic mRNA
+R1	10.1.1.3.4451	Input Space Versus Feature Space in Kernel-Based Methods
+R1	10.1.1.25.307	Bayesian Learning in Reproducing Kernel Hilbert Spaces
+R1	10.1.1.31.4309	Adaptive Margin Support Vector Machines for Classification
+R1	10.1.1.12.7760	Support Vector Machine - Reference Manual
+R1	10.1.1.9.8516	Kernel Methods for Extracting Local Image Semantics
+R1	10.1.1.21.1949	A PAC Analysis of a Bayesian Estimator
+R1	10.1.1.43.8717	Support Vector Density Estimation
+R1	10.1.1.36.2081	Large Scale Bayes Point Machines

@@ -1,0 +1,23 @@
+10.1.1.306.7918	2012	Provenance for system troubleshooting
+R1	10.1.1.157.6588	Xen and the art of virtualization
+R1	10.1.1.137.1746	STRIDER: A Black-box, State-based Approach to Change and Configuration Management and Support
+R1	10.1.1.18.5127	Pinpoint: Problem Determination in Large, Dynamic Internet Services
+R1	10.1.1.43.7975	Automated System Monitoring and Notification With Swatch
+R1	10.1.1.21.3516	New Approach for Automated Generation of Service Dependency Models
+R1	10.1.1.103.6094	Mielog: A highly interactive visual log browser using information visualization and statistical analysis
+R1	10.1.1.102.5779	Towards highly reliable enterprise network services via inference of multi-level dependencies
+R1	10.1.1.129.4528	Global impact analysis of dynamic library dependencies
+R1	10.1.1.70.7454	Field studies of computer system administrators: analysis of system management tools and practices
+R1	10.1.1.131.3170	Automatic Misconfiguration Troubleshooting with PeerPressure
+R1	10.1.1.137.1558	Managing Application Services over Service Provider Networks: Architecture and Dependency Analysis
+R1	10.1.1.148.4084	Applications of Machine Learning in Information Retrieval
+R1	10.1.1.137.2601	What Supercomputers Say: A Study of Five System Logs
+R1	10.1.1.131.9800	PDA: A Tool for Automated Problem Determination
+R1	10.1.1.142.1836	Alert Detection in System Logs
+R1	10.1.1.145.3035	Making a Cloud Provenance-Aware
+R1	10.1.1.152.3820	Choosing a Data Model and Query Language for Provenance
+R1	10.1.1.148.5320	Layering in Provenance Systems
+R1	10.1.1.163.1750	Provenance for the Cloud
+R1	10.1.1.180.7970	Using Provenance to Extract Semantic File Attributes
+R1	10.1.1.185.2001	Log Analysis and Event Correlation Using Variable Temporal Event Correlator (VTEC)
+R1	10.1.1.298.7413	Online detection of multi-component interactions in production systems

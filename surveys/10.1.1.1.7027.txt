@@ -1,0 +1,31 @@
+10.1.1.1.7027	2004	A survey of AI-based meta-heuristics for dealing with local optima in local search
+R1	10.1.1.14.7954	Partial Constraint Satisfaction
+R1	10.1.1.123.7607	Optimization by simulated annealing
+R1	10.1.1.145.1638	A greedy randomized adaptive search procedure for the 2-partition problem
+R1	10.1.1.26.1865	The Ant System: Optimization by a colony of cooperating agents
+R1	10.1.1.37.1008	Domain-Independent Extensions to GSAT: Solving Large Structured Satisfiability Problems
+R1	10.1.1.40.9592	The Reactive Tabu Search
+R1	10.1.1.31.8372	Minimizing Conflicts: A Heuristic Repair Method for Constraint-Satisfaction and Scheduling Problems
+R1	10.1.1.11.689	Guided Local Search for the Vehicle Routing Problem
+R1	10.1.1.115.8137	Genet: A connectionist architecture for solving constraint satisfaction problems by iterative improvement
+R1	10.1.1.34.6853	A New Method for Solving Hard Satisfiability Problems
+R1	10.1.1.16.3446	Local Search with Memory: Benchmarking RTS
+R1	10.1.1.186.3439	A Two-Stage Hybrid Local Search for the Vehicle Routing Problem with Time Windows
+R1	10.1.1.33.4475	A Lagrangian Reconstruction of a Class of Local Search Methods
+R1	10.1.1.50.4540	A Scatter Search Based Approach for the Quadratic Assignment Problem
+R1	10.1.1.48.9779	When Gravity Fails: Local Search Topology
+R1	10.1.1.26.7748	Tabu Search
+R1	10.1.1.56.9175	Extending GENET for Non-Binary Constraint Satisfaction Problems
+R1	10.1.1.123.4841	Evidence for Invariants in Local Search
+R1	10.1.1.49.9142	A Comparison of Memetic Algorithms, Tabu Search, and Ant Colonies for the Quadratic Assignment Problem
+R1	10.1.1.51.5910	Landscapes, Operators and Heuristic Search
+R1	10.1.1.47.5546	Genetic Algorithms, Path Relinking and the Flowshop Sequencing Problem
+R1	10.1.1.52.2962	Global Search Methods For Solving Nonlinear Optimization Problems
+R1	10.1.1.12.5008	Iterated Robust Tabu Search for MAX-SAT
+R1	10.1.1.34.4631	Extending GENET with lazy arc consistency
+R1	10.1.1.47.5167	MAX-MIN Ant System for Quadratic Assignment Problems
+R1	10.1.1.102.1278	Constraint and Integer Programming in OPL
+R1	10.1.1.330.8649	Guided local search and its application to the traveling salesman problem
+R1	10.1.1.19.1930	The Theory And Applications Of Discrete Constrained Optimization Using Lagrange Multipliers
+R1	10.1.1.111.1807	Hybrid Estimation of Distribution Algorithm for Global Optimisation, Engineering Computations, Accepted for publication
+R1	10.1.1.40.6747	Improving the Performance of Discrete Lagrange-Multiplier Search for Solving Hard SAT Problems

@@ -1,0 +1,24 @@
+10.1.1.269.6533	2010	eBay in the Economic Literature: Analysis of an Auction Marketplace
+R1	10.1.1.140.3342	Last-Minute Bidding and the Rules for Ending Second-Price Auctions: Evidence from eBay and Amazon Auctions on the Internet
+R1	10.1.1.409.9170	Reputation in Auctions: Theory, and Evidence from eBay
+R1	10.1.1.201.3644	Winner's Curse, Reserve Prices and Endogenous Entry: Empirical Insights from eBay auctions,’ mimeo, Stanford University, available at http://www-econ.stanford.edu/faculty/workp/swp00004.pdf Baye
+R1	10.1.1.197.2677	Public versus secret reserve prices in eBay auctions: Results from a Pokémon field experiment
+R1	10.1.1.37.8301	Auctions on the Internet: What's Being Auctioned, and How?
+R1	10.1.1.269.6601	Experts and amateurs: The role of experience in internet auctions
+R1	10.1.1.131.2345	The Value of Reputation on eBay: A Controlled Experiment
+R1	10.1.1.127.9677	Late and multiple bidding in second price Internet auctions: Theory and evidence concerning different rules for ending an auction
+R1	10.1.1.188.5731	Internet auctions with many traders
+R1	10.1.1.15.6878	How Valuable Is a Good Reputation? A Sample Selection Model of Internet Auctions
+R1	10.1.1.199.3314	Cyberspace auctions and pricing issues: A review of empirical findings
+R1	10.1.1.92.1091	Online auctions
+R1	10.1.1.117.5483	Nonparametric estimation of an eBay auction model with an unknown number of bidders
+R1	10.1.1.226.4695	2004): “Buy it Now: A Hybrid Internet Market Institution,” mimeo
+R1	10.1.1.112.320	Dividing online and offline: A case study
+R1	10.1.1.197.71	Buy-price English auction
+R1	10.1.1.85.2433	Selling Online Versus Live
+R1	10.1.1.117.5185	Consumer Surplus in Online Auctions
+R1	10.1.1.183.6518	Measuring the Benefits of Sniping on EBay: Evidence from a Field Experiment,” Preliminary Working Paper, April at http://oz.stern.nyu.edu/seminar/reiley2.pdf Hortacsu
+R1	10.1.1.131.7531	Nonparametric Approaches to Auctions
+R1	10.1.1.183.4179	2005): “Price, Quality and Reputation: Evidence from an Online Field Experiment,” Forthcoming in The Rand Journal of Economics
+R1	10.1.1.407.3749	Entry deterrence and learning prevention on eBay
+R1	10.1.1.269.6671	To be or not to be an auctioneer? Some thoughts on the legal nature of online eBay auctions and the protection of consumers

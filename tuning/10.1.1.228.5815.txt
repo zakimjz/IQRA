@@ -1,0 +1,22 @@
+10.1.1.228.5815	2012	RDDS: A Real-Time Data Distribution Service for Cyber Physical Systems
+R1	10.1.1.146.1122	RSVP: A New Resource Reservation Protocol
+R1	10.1.1.121.1027	A reliable multicast framework for light-weight sessions and application level framing
+R1	10.1.1.14.8682	Feedback Control Real-Time Scheduling: Framework, Modeling, and Algorithms
+R1	10.1.1.160.7123	Rmx: Reliable multicast for heterogeneous networks
+R1	10.1.1.10.1076	The many faces of Publish/Subscribe
+R1	10.1.1.85.6668	Using MIMO feedback control to enforce policies for interrelated metrics with application to the Apache Web server
+R1	10.1.1.28.1487	Internet QoS: A Big Picture
+R1	10.1.1.160.5863	Adaptive precision setting for cached approximate values
+R1	10.1.1.203.2309	T.F.: Queuing model based network server performance control
+R1	10.1.1.23.5083	An Overview of the Real-time CORBA Specification
+R1	10.1.1.47.2592	Scheduling Transactions with Temporal Constraints: Exploiting Data Semantics
+R1	10.1.1.149.5534	Publish/Subscribe in a Mobile Environment
+R1	10.1.1.104.6540	Controller area network (can) schedulability analysis: Refuted, revisited and revised
+R1	10.1.1.58.3182	Siren: Context-aware Computing for Firefighting
+R1	10.1.1.156.409	Implementing the real-time publisher/subscriber model on the controller area network (CAN
+R1	10.1.1.31.6989	Performance Evaluation of Control Networks: Ethernet, ControlNet, and DeviceNet
+R1	10.1.1.35.4692	Networking on the Battlefield: Challenges in Highly Dynamic Multi-hop Wireless Networks
+R1	10.1.1.127.2071	PRESTO: Feedback-driven Data Management in Sensor Networks
+R1	10.1.1.115.6526	Timing Performance Control in Web Server Systems Utilizing Internal State Information”, extended version, Available at http://www-sal.cs.uiuc.edu/~xueliu/Timing.pdf
+R1	10.1.1.110.7999	Schedulability Analysis of Real-Time Traffic in WorldFIP Networks: An Integrated Approach
+R1	10.1.1.158.6919	Cyber-Physical Systems: A New Frontier

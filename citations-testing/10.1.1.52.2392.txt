@@ -1,0 +1,30 @@
+10.1.1.52.2392	1996	Discovery Of Multiple-Level Rules From Large Databases
+R1	10.1.1.217.4132	Mining Association Rules between Sets of Items in Large Databases
+R1	10.1.1.40.9892	Mining Sequential Patterns
+R1	10.1.1.18.1674	Knowledge Discovery in Databases: an Overview
+R1	10.1.1.167.3624	Induction of Decision Trees
+R1	10.1.1.180.8796	NeuroRule: a connectionist approach to data mining
+R1	10.1.1.50.1686	An effective hash-based algorithm for mining association rules
+R1	10.1.1.144.4956	Mining generalized association rules
+R1	10.1.1.225.8292	Implementing data cubes efficiently
+R1	10.1.1.156.9918	Learning Bayesian networks: The combination of knowledge and statistical data
+R1	10.1.1.12.8532	Knowledge Discovery in Databases: An Attribute-Oriented Approach
+R1	10.1.1.7.9769	Loading Data into Description Reasoners
+R1	10.1.1.30.4217	DMQL: A Data Mining Query Language for Relational Databases
+R1	10.1.1.47.8847	Database Research: Achievements and Opportunities Into the 21st Century
+R1	10.1.1.2.2845	Resource and Knowledge Discovery in Global Information Systems: A Scalable Multiple Layered Database Approach
+R1	10.1.1.53.6112	Exploration of the Power of Attribute-Oriented Induction in Data Mining
+R1	10.1.1.29.8564	Robust Decision Trees: Removing Outliers from Databases
+R1	10.1.1.42.342	Finding Interesting Rules from Large Sets of Discovered Association Rules
+R1	10.1.1.28.764	Unexpectedness as a Measure of Interestingness in Knowledge Discovery
+R1	10.1.1.407.6025	Integrated Support for Data Archaeology
+R1	10.1.1.105.7211	A Logical Design Methodology for Relational Databases Using the Extended Entity-Relationship Model
+R1	10.1.1.32.9652	Graphical Models for Discovering Knowledge
+R1	10.1.1.28.4694	Metaqueries for Data Mining
+R1	10.1.1.52.1068	Theory Refinement on Bayesian Networks
+R1	10.1.1.51.6225	An Application of KEFIR to the Analysis of Healthcare Information
+R1	10.1.1.40.7203	The Quest Data Mining System
+R1	10.1.1.133.404	Materialized view maintenance and integrity constraint checking: Trading space for time
+R1	10.1.1.2.4294	DBMiner: A System for Mining Knowledge in Large Relational Databases
+R1	10.1.1.52.7550	Reasoning With Taxonomies
+R1	10.1.1.30.9558	Sparse Logical Terms

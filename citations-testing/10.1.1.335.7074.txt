@@ -1,0 +1,22 @@
+10.1.1.335.7074	2005	Reasoning about Trust Groups to Coordinate Mobile Ad-Hoc Systems
+R1	10.1.1.13.9006	The Effect of Rumor Spreading in Reputation Systems for Mobile Ad-Hoc Networks
+R1	10.1.1.110.5875	Understanding trust management systems
+R1	10.1.1.156.3699	Providing robust and ubiquitous security support for mobile ad-hoc networks
+R1	10.1.1.118.8747	Security Architecture for the Internet Protocol
+R1	10.1.1.102.8227	Formalising trust as a computational concept
+R1	10.1.1.95.1425	Computing and using reputations for internet ratings
+R1	10.1.1.116.6001	A computational model of trust and reputation
+R1	10.1.1.13.4399	Self-Organized Public-Key Management for Mobile Ad Hoc Networks
+R1	10.1.1.10.2207	A Formal Model for Trust in Dynamic Networks
+R1	10.1.1.36.3446	Methods for Task Allocation Via Agent Coalition Formation
+R1	10.1.1.30.4223	Using Recommendations for Managing Trust in Distributed Systems
+R1	10.1.1.12.3865	Trust for Ubiquitous, Transparent Collaboration
+R1	10.1.1.21.414	Simulated Social Control for Secure Internet Commerce
+R1	10.1.1.3.3505	Analysing the Relationship between Risk and Trust
+R1	10.1.1.14.7326	Coalition Formation through Motivation and Trust
+R1	10.1.1.13.5541	Building Trustworthy Software Agents
+R1	10.1.1.104.818	Risk Models for Trust-Based Access Control
+R1	10.1.1.104.2172	Adaptive Resource Discovery for Ubiquitous Computing
+R1	10.1.1.158.7514	Trading privacy for trust
+R1	10.1.1.11.1188	A Case for Evidence-Aware Distributed Reputation Systems - Overcoming the Limitations of Plausibility Considerations
+R1	10.1.1.296.2040	A formal model of trust lifecycle management

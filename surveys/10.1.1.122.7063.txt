@@ -1,0 +1,27 @@
+10.1.1.122.7063	2004	Routing Techniques in Wireless Sensor Networks: A Survey
+R1	10.1.1.112.2772	GPSR: Greedy perimeter stateless routing for wireless networks
+R1	10.1.1.110.1242	Minimum energy mobile wireless networks
+R1	10.1.1.126.5060	Negotiation-based Protocols for Disseminating Information in Wireless Sensor Networks
+R1	10.1.1.19.2815	A Two-Tier Data Dissemination Model for Large-scale Wireless Sensor Networks
+R1	10.1.1.112.3914	Energy-efficient communication protocol for wireless microsensor networks
+R1	10.1.1.35.3261	GPS-less Low Cost Outdoor Localization For Very Small Devices
+R1	10.1.1.18.9834	GPS-free positioning in mobile ad hoc networks
+R1	10.1.1.179.500	Srivastava Dynamic Fine-grained Localization in Ad-Hoc Networks of Sensors
+R1	10.1.1.11.3734	Rumor Routing Algorithm for Sensor Networks
+R1	10.1.1.6.6648	The ACQUIRE Mechanism for Efficient Querying in Sensor Networks
+R1	10.1.1.13.1596	SPINS: Security Protocols for Sensor Networks
+R1	10.1.1.24.9402	Maximum Lifetime Routing In Wireless Sensor Networks
+R1	10.1.1.1.3275	Secure Routing in Wireless Sensor Networks: Attacks and Countermeasures
+R1	10.1.1.58.1497	A Scalable Solution to Minimum Cost Forwarding in Large Sensor
+R1	10.1.1.1.3484	A Taxonomy of Wireless Micro-Sensor Network Models
+R1	10.1.1.120.6943	Scalable information-driven sensor querying and routing for ad hoc heterogeneous sensor networks
+R1	10.1.1.11.3462	Constrained Random Walks on Random Graphs: Routing Algorithms for Large Scale Wireless Sensor Networks
+R1	10.1.1.11.5064	Energy Aware Routing for Low Energy Ad Hoc Sensor Networks
+R1	10.1.1.1.9724	Worst-Case Optimal and Average-Case Efficient Geometric Ad-Hoc Routing
+R1	10.1.1.332.7350	TEEN: A routing protocol for enhanced efficiency in wireless sensor networks
+R1	10.1.1.12.1662	SPEED: A Stateless Protocol for Real-Time Communication In Sensor Networks
+R1	10.1.1.85.4979	Protocols for self-organization of a wireless sensor network
+R1	10.1.1.183.5854	Scalable coordination for wireless sensor networks: self-configuring localization systems
+R1	10.1.1.13.1900	Trade-Off between Traffic Overhead and Reliability in Multipath Routing for Wireless Sensor Networks
+R1	10.1.1.63.3203	Lightweight Sensing and Communication Protocols for Target Enumeration and Aggregation
+R1	10.1.1.18.8995	Hierarchical Power-aware Routing in Sensor Networks

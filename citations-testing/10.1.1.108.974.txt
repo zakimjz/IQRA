@@ -1,0 +1,25 @@
+10.1.1.108.974	1999	A model, analysis, and protocol framework for soft state-based communication
+R1	10.1.1.146.1122	RSVP: A New Resource Reservation Protocol
+R1	10.1.1.35.7073	Issues With Multicast Video Distribution in Heterogeneous Packet Networks
+R1	10.1.1.17.8462	Receiver-driven Layered Multicast
+R1	10.1.1.51.6717	vic: A Flexible Framework for Packet Video
+R1	10.1.1.121.1027	A reliable multicast framework for light-weight sessions and application level framing
+R1	10.1.1.165.7150	RTP: A Transport Protocol for Real-Time Applications
+R1	10.1.1.122.4570	Congestion control in computer networks: issues and trends
+R1	10.1.1.17.3677	An Integrated Congestion Management Architecture for Internet Hosts
+R1	10.1.1.134.5136	End-to-End Routing Behavior in the Internet
+R1	10.1.1.129.159	Lottery Scheduling: Flexible Proportional-Share Resource Management
+R1	10.1.1.154.9133	RAP: An end-to-end rate-based congestion control mechanism for realtime streams in the internet
+R1	10.1.1.107.2350	A Hierarchical Fair Service Curve Algorithm for Link-Sharing, Real-Time and Priority Services
+R1	10.1.1.33.2449	An Active Service Framework and its Application to Real-time Multimedia Transcoding
+R1	10.1.1.144.9231	Scalable Timers for Soft State Protocols
+R1	10.1.1.17.7959	Bimodal Multicast
+R1	10.1.1.160.7901	The design philosophy of the DARPA internet protocols
+R1	10.1.1.125.8216	Lightweight causal and atomic group multicast
+R1	10.1.1.17.8550	Scalable Feedback Control for Multicast Video Distribution in the Internet
+R1	10.1.1.37.2188	The Tenet Real-Time Protocol Suite: Design, Implementation, and Experiences
+R1	10.1.1.56.5024	Network Text Editor (NTE) A scalable shared text editor for the MBone
+R1	10.1.1.376.2047	A Border Gateway Protocol (BGP
+R1	10.1.1.52.9319	Receiver-driven Bandwidth Adaptation for Light-weight Sessions
+R1	10.1.1.37.6807	Using Announce-Listen with Global Events to Develop Distributed Control Systems
+R1	10.1.1.46.2501	Scalable Data Naming for Application Level Framing in Reliable Multicast

@@ -1,0 +1,25 @@
+10.1.1.22.4875	2001	Abstraction-based Intrusion Detection in Distributed Environments
+R1	10.1.1.329.2647	Maintaining knowledge about temporal intervals
+R1	10.1.1.114.4122	EMERALD: Event monitoring enabling responses to anomalous live disturbances
+R1	10.1.1.158.5704	A PATTERN MATCHING MODEL FOR MISUSE INTRUSION DETECTION
+R1	10.1.1.295.8349	A data mining framework for building intrusion detection models
+R1	10.1.1.15.7102	A Database of Computer Attacks for the Evaluation of Intrusion Detection Systems
+R1	10.1.1.17.9158	State Transition Analysis: A Rule-Based Intrusion Detection Approach
+R1	10.1.1.134.516	GrIDS - A Graph Based Intrusion Detection System For Large Networks
+R1	10.1.1.39.724	Holding Intruders Accountable on the Internet
+R1	10.1.1.50.8529	Abstraction-Based Misuse Detection: High-Level Specifications and Adaptable Strategies
+R1	10.1.1.39.582	Detecting Computer and Network Misuse Through the Production-Based Expert System Toolset (P-BEST)
+R1	10.1.1.30.9900	USTAT: A Real-time Intrusion Detection System for UNIX
+R1	10.1.1.120.2778	Classification And Detection Of Computer Intrusions
+R1	10.1.1.2.3336	Temporal Reasoning Based on Semi-Intervals
+R1	10.1.1.128.5495	NetSTAT: A Network-based Intrusion Detection Approach
+R1	10.1.1.151.8898	Analysis of a denial of service attack on TCP
+R1	10.1.1.30.3327	Distributed Audit Trail Analysis
+R1	10.1.1.308.5316	Security and privacy for partial order time
+R1	10.1.1.74.4557	A framework for cooperative intrusion detection
+R1	10.1.1.28.2852	Using Embedded Sensors for Detecting Network Attacks
+R1	10.1.1.18.8053	CARDS: A Distributed System for Detecting Coordinated Attacks
+R1	10.1.1.34.9626	A Data Mining and CIDF Based Approach for Detecting Novel and Distributed Intrusions
+R1	10.1.1.23.7043	A Query Facility for Common Intrusion Detection Framework
+R1	10.1.1.145.1959	A security analysis of the NTP protocol version 2
+R1	10.1.1.15.9560	Modeling Requests among Cooperating Intrusion Detection Systems

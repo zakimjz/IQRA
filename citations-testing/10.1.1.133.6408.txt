@@ -1,0 +1,182 @@
+10.1.1.133.6408	2007	SECURITY AND COOPERATION IN WIRELESS NETWORKS -- Thwarting Malicious and Selfish Behavior in the Age of Ubiquitous Computing
+R1	10.1.1.132.4609	Ariadne: A secure on-demand routing protocol for ad hoc networks
+R1	10.1.1.10.8652	SEAD: Secure Efficient Distance Vector Routing for Mobile Wireless Ad Hoc Networks
+R1	10.1.1.11.8397	A Micro-Payment Scheme Encouraging Collaboration in Multi-Hop Cellular Networks
+R1	10.1.1.11.4819	A Secure Routing Protocol for Ad Hoc Networks
+R1	10.1.1.298.1586	A Scalable Location Service for Geographic Ad Hoc Routing
+R1	10.1.1.112.2772	GPSR: Greedy perimeter stateless routing for wireless networks
+R1	10.1.1.12.2828	IGF: A State-Free Robust Communication Protocol for Wireless Sensor Networks
+R1	10.1.1.15.1862	Routing with Guaranteed Delivery in ad hoc Wireless Networks
+R1	10.1.1.12.1241	Random Waypoint Considered Harmful
+R1	10.1.1.144.6615	Charging and rate control for elastic traffic
+R1	10.1.1.129.426	Dynamic source routing in ad hoc wireless networks
+R1	10.1.1.138.3623	The capacity of wireless networks
+R1	10.1.1.117.6416	Capacity of Ad Hoc Wireless Networks
+R1	10.1.1.206.2669	Random key predistribution schemes for sensor networks
+R1	10.1.1.37.9720	New Directions in Cryptography
+R1	10.1.1.19.9193	A Key-Management Scheme for Distributed Sensor Networks
+R1	10.1.1.76.792	Optimal Asymmetric Encryption – How to Encrypt with RSA
+R1	10.1.1.116.8657	Efficient dispersal of information for security, load balancing, and fault tolerance
+R1	10.1.1.128.8210	Untraceable electronic mail, return addresses, and digital pseudonyms
+R1	10.1.1.58.4821	Towards Self-Organized Mobile Ad Hoc Networks: The Terminodes Project
+R1	10.1.1.13.8133	Wireless Ad Hoc Networks
+R1	10.1.1.190.9297	CORE: A Collaborative Reputation mechanism to enforce node cooperation
+R1	10.1.1.221.2247	Wireless sensor networks: a survey
+R1	10.1.1.130.5457	Characterizing Mobility and Network Usage in a Corporate Wireless Local-Area Network
+R1	10.1.1.44.8042	Power Control and Capacity of Spread Spectrum Wireless Networks
+R1	10.1.1.329.4184	A game theoretic framework for bandwidth allocation and pricing in broadband networks
+R1	10.1.1.16.7229	Downlink Power Allocation for Multi-class CDMA Wireless Networks
+R1	10.1.1.18.9834	GPS-free positioning in mobile ad hoc networks
+R1	10.1.1.380.8999	Performance Anomaly of 802.11b
+R1	10.1.1.98.5736	ad hoc on-demand distance vector (aodv) routing
+R1	10.1.1.10.4428	A Review of Current Routing Protocols for Ad-Hoc Mobile Wireless Networks
+R1	10.1.1.13.1501	Analysis of a Campus-wide Wireless Network
+R1	10.1.1.113.4100	Packet Leashes: A Defense against Wormhole Attacks in Wireless Ad Hoc Networks
+R1	10.1.1.138.4573	Efficient authentication and signing of multicast streams over lossy channels
+R1	10.1.1.118.9511	Secure Routing for Mobile Ad hoc Networks
+R1	10.1.1.13.1596	SPINS: Security Protocols for Sensor Networks
+R1	10.1.1.23.7000	Tamper Resistance -- a Cautionary Note
+R1	10.1.1.130.157	On the Security of Public Key Protocols
+R1	10.1.1.192.7018	Location-Aided Routing (LAR) in mobile ad hoc networks
+R1	10.1.1.37.5608	ns Notes and Documentation
+R1	10.1.1.1.3275	Secure Routing in Wireless Sensor Networks: Attacks and Countermeasures
+R1	10.1.1.13.1450	The Resurrecting Duckling:  Security Issues for Ad-hoc Wireless Networks
+R1	10.1.1.130.6088	The Quest for Security in Mobile Ad Hoc Networks
+R1	10.1.1.58.1497	A Scalable Solution to Minimum Cost Forwarding in Large Sensor
+R1	10.1.1.1.3351	Universal Re-encryption for Mixnets
+R1	10.1.1.2.4522	Squealing Euros: Privacy Protection in RFID-Enabled Banknotes
+R1	10.1.1.60.1724	Establishing Pairwise Keys in Distributed Sensor Networks
+R1	10.1.1.21.7931	Intercepting Mobile Communications: The Insecurity of 802.11
+R1	10.1.1.13.216	Stability of Multipacket Slotted Aloha with Selfish Users and Perfect Information
+R1	10.1.1.1.4227	End-to-End Performance and Fairness in Multihop Wireless Backhaul Networks
+R1	10.1.1.409.9170	Reputation in Auctions: Theory, and Evidence from eBay
+R1	10.1.1.13.4399	Self-Organized Public-Key Management for Mobile Ad Hoc Networks
+R1	10.1.1.42.9931	Compass Routing on Geometric Networks
+R1	10.1.1.116.309	Confidence valuation in a public-key infrastructure based on uncertain evidence
+R1	10.1.1.1.4884	Denial of Service Resilience in Ad Hoc Networks
+R1	10.1.1.117.6033	An on-demand secure routing protocol resilient to byzantine failures
+R1	10.1.1.23.9519	Enforcing Service Availability in Mobile Ad-Hoc WANs
+R1	10.1.1.5.2644	Mobility Helps Peer-to-Peer Security
+R1	10.1.1.3.43	Efficient Security Mechanisms for Routing Protocols
+R1	10.1.1.10.8094	Rushing Attacks and Defense in Wireless Ad Hoc Network Routing Protocols
+R1	10.1.1.307.4107	Low-Rate TCP-Targeted Denial of Service Attacks
+R1	10.1.1.10.3849	Secure Data Transmission in Mobile Ad Hoc Networks
+R1	10.1.1.13.1213	Sprite: A Simple, Cheat-Proof, Credit-Based System for Mobile Ad-Hoc Networks
+R1	10.1.1.111.4133	Mobility increases the capacity of ad-hoc wireless networks
+R1	10.1.1.11.5064	Energy Aware Routing for Low Energy Ad Hoc Sensor Networks
+R1	10.1.1.1.7143	Geometric Ad-Hoc Routing: Of Theory and Practice
+R1	10.1.1.120.7731	PayWord and MicroMint: two simple micropayment schemes
+R1	10.1.1.11.943	TCP and UDP Performance over a Wireless LAN
+R1	10.1.1.17.6247	Performance of Reliable Transport Protocol over IEEE 802.11 Wireless LAN: Analysis And Enhancement
+R1	10.1.1.30.3785	Crowds: Anonymity for Web Transactions
+R1	10.1.1.26.8267	Non-Malleable Cryptography
+R1	10.1.1.1.9724	Worst-Case Optimal and Average-Case Efficient Geometric Ad-Hoc Routing
+R1	10.1.1.117.3120	The blocker tag: Selective blocking of RFID tags for consumer privacy
+R1	10.1.1.1.8095	Security and Privacy Aspects of Low-Cost Radio Frequency Identification Systems
+R1	10.1.1.13.6860	Secure Link State Routing for Mobile Ad Hoc Networks
+R1	10.1.1.13.1415	Detecting Network Intrusions via Sampling : A Game Theoretic Approach
+R1	10.1.1.84.5053	Overview of
+R1	10.1.1.20.9595	An Efficient Message Authentication Scheme for Link State Routing
+R1	10.1.1.139.3158	Tussle in cyberspace: Defining tomorrow’s Internet
+R1	10.1.1.24.2652	Weaknesses in the Key Scheduling Algorithm of RC4
+R1	10.1.1.16.1408	Talking To Strangers: Authentication in Ad-Hoc Wireless Networks
+R1	10.1.1.6.194	SWATT: SoftWare-based ATTestation for Embedded Devices
+R1	10.1.1.10.463	SECTOR: secure tracking of node encounters in multi-hop wireless networks
+R1	10.1.1.16.730	Almost Optimal Hash Sequence Traversal
+R1	10.1.1.2.5578	Age Matters: Efficient Route Discovery in Mobile Ad Hoc Networks Using Encounter Ages
+R1	10.1.1.126.5430	A utility-based power-control scheme in wireless cellular systems
+R1	10.1.1.10.8609	A Survey of Two Signature Aggregation Techniques
+R1	10.1.1.133.5630	Cracking the Bluetooth PIN
+R1	10.1.1.110.1241	Economics of network pricing with multiple ISPs
+R1	10.1.1.103.7483	Ad hoc-VCG: A truthful and cost-efficient routing protocol for mobile ad hoc networks with selfish agents
+R1	10.1.1.120.208	On selfish behavior in CSMA/CA networks
+R1	10.1.1.14.3391	Equilibrium Analysis of Packet Forwarding Strategies in Wireless Ad Hoc Networks -- the Static Case
+R1	10.1.1.421.9521	Cooperation in wireless ad hoc networks
+R1	10.1.1.13.5497	Downlink Admission/Congestion Control and Maximal Load in CDMA Networks
+R1	10.1.1.13.1602	Protecting Applications with Transient Authentication
+R1	10.1.1.61.1246	Key Distribution Mechanisms for Wireless Sensor Networks: a Survey
+R1	10.1.1.135.7144	Using Directional Antennas to Prevent Wormhole Attacks
+R1	10.1.1.110.5504	Distributed detection of node replication attacks in sensor networks
+R1	10.1.1.125.4610	LEAP: Efficient Security Mechanisms for Large-scale Distributed Sensor Networks
+R1	10.1.1.102.3150	Caravan: Providing location privacy for vanet
+R1	10.1.1.59.5295	A Peer-to-Peer Approach to Wireless LAN Roaming
+R1	10.1.1.61.8786	Reputation-based Wi-Fi Deployment
+R1	10.1.1.34.4448	Network Assisted Power Control for Wireless Data
+R1	10.1.1.421.5867	Cognitive Radio: Brain-Empowered Wireless Communications
+R1	10.1.1.117.5850	Key agreement in peer-to-peer wireless networks
+R1	10.1.1.2.2208	Minimalist Cryptography for Low-Cost RFID Tags
+R1	10.1.1.304.9121	Privacy and security in library RFID: issues, practices, and architectures
+R1	10.1.1.58.3493	Key Infection: Smart Trust for Smart Dust
+R1	10.1.1.3.1233	The Sybil Attack in Sensor Networks: Analysis & Defenses
+R1	10.1.1.125.8938	Characterizing the capacity region in multi-radio multi-channel wireless mesh networks
+R1	10.1.1.112.975	A modular correctness proof of ieee 802.11i and tls
+R1	10.1.1.119.4123	Seeing-is-believing: Using camera phones for human-verifiable authentication
+R1	10.1.1.12.2049	Detection and Handling of MAC Layer  Misbehavior in Wireless Networks
+R1	10.1.1.135.5279	PIKE: Peer intermediaries for key establishment in sensor networks
+R1	10.1.1.85.7511	Efficient aggregation of encrypted data in wireless sensor networks
+R1	10.1.1.329.6789	RFID security and privacy: A research survey
+R1	10.1.1.85.3616	A survey on routing protocols for wireless sensor networks
+R1	10.1.1.18.6901	An Analysis of Short-Term Fairness in Wireless Media Access Protocols
+R1	10.1.1.64.8890	The emergence of networking abstractions and techniques in tinyos
+R1	10.1.1.83.6713	Detecting and Correcting Malicious Data in VANETs
+R1	10.1.1.164.7494	Nash Equilibria of Packet Forwarding Strategies in Wireless Ad Hoc Networks
+R1	10.1.1.66.77	Node cooperation in hybrid ad hoc networks
+R1	10.1.1.129.6435	On Designing Incentive-Compatible Routing and Forwarding Protocols in Wireless Ad-Hoc Networks  -- An Integrated Approach Using Game Theoretical and Cryptographic Techniques
+R1	10.1.1.1.3635	A Layered Naming Architecture for the Internet
+R1	10.1.1.107.732	Power control for multicell CDMA wireless networks: A team optimization approach
+R1	10.1.1.167.1019	Wireless Operators in a Shared Spectrum
+R1	10.1.1.112.3166	Single-cell forward link power allocation using pricing in wireless networks
+R1	10.1.1.93.8923	A non-cooperative power control game for multi-carrier CDMA systems
+R1	10.1.1.113.4790	The case for non-cooperative multihoming of users to access points
+R1	10.1.1.10.9366	A Mathematical Programming Approach for Pilot Power Optimization in WCDMA Networks
+R1	10.1.1.135.3719	Two-cell power allocation for downlink CDMA
+R1	10.1.1.135.5574	On trust models and trust evaluation metrics for ad hoc networks
+R1	10.1.1.2.7287	Mix Zones: User Privacy in Location-aware Services
+R1	10.1.1.103.4342	Location privacy in Bluetooth
+R1	10.1.1.169.5151	Reputation in self-organized communication systems and beyond
+R1	10.1.1.15.9316	Removing the Financial Incentive to Cheat in Micropayment Schemes
+R1	10.1.1.111.40	Public-Key Support for Collaborative Groups
+R1	10.1.1.386.7249	The challenges of building scalable mobile underwater wireless sensor networks for aquatic applications
+R1	10.1.1.220.3061	SeRLoc: Secure Range-Independent Localization for Wireless Sensor Networks
+R1	10.1.1.419.5447	A trust evaluation framework in distributed networks: vulnerability analysis and defense against attacks
+R1	10.1.1.41.1574	Hash Visualization: a New Technique to improve Real-World Security
+R1	10.1.1.5.762	BISS: Building Secure Routing out of an Incomplete Set of Security Associations
+R1	10.1.1.119.7012	Concealed data aggregation for reverse multicast traffic in sensor networks: Encryption, key distribution, and routing adaptation
+R1	10.1.1.164.4512	Manual authentication for wireless devices
+R1	10.1.1.85.6457	Secure Data Communication in Mobile Ad hoc Networks
+R1	10.1.1.158.5549	Visualization of Wormholes in Sensor Networks
+R1	10.1.1.90.2209	The Security of Vehicular Ad Hoc Networks
+R1	10.1.1.97.4852	Challenges in Securing Vehicular Networks
+R1	10.1.1.84.4061	Secure Positioning of Wireless Devices with Application to Sensor Networks
+R1	10.1.1.16.1456	Statistically Unique and Cryptographically Verifiable (SUCV) Identifiers and Addresses
+R1	10.1.1.133.7624	Provably Secure On-demand Source Routing in Mobile Ad Hoc Networks
+R1	10.1.1.131.2345	The Value of Reputation on eBay: A Controlled Experiment
+R1	10.1.1.94.2334	Selfish MAC layer misbehavior in wireless networks
+R1	10.1.1.121.2888	The feasibility of launching and detecting jamming attacks in wireless networks
+R1	10.1.1.19.2470	Rational Exchange - A Formal Model Based on Game Theory
+R1	10.1.1.115.9053	A Precision Radio Clock for WWV Transmissions
+R1	10.1.1.23.7357	Security Weaknesses in Bluetooth
+R1	10.1.1.122.2138	Security issues in a future vehicular network
+R1	10.1.1.324.4929	DOMINO: A System to Detect Greedy Behavior
+R1	10.1.1.13.2784	Nash Equilibria of a Generic Networking Game With Applications to Circuit-Switched Networks
+R1	10.1.1.144.7071	Analyzing the short-term fairness of IEEE 802.11 in wireless multi-hop radio networks
+R1	10.1.1.73.3779	Reducing time complexity in RFID systems
+R1	10.1.1.79.3563	Provable security of on-demand distance vector routing in wireless ad hoc networks
+R1	10.1.1.421.3393	Towards Provable Security for Ad Hoc Routing Protocols
+R1	10.1.1.70.6767	Enhancing intrusion detection in wireless networks using radio frequency fingerprinting
+R1	10.1.1.62.7165	Cooperative Packet Forwarding in Multi-Domain Sensor Networks
+R1	10.1.1.329.1924	Modeling Ad-hoc Rushing Attack in a Negligibility-based Security Framework
+R1	10.1.1.93.9075	How to Specify and How to Prove Correctness of Secure Routing Protocols for MANET
+R1	10.1.1.160.2844	Secure positioning in wireless networks
+R1	10.1.1.148.7387	Influence of Falsified Position Data on Geographic Ad-Hoc Routing
+R1	10.1.1.330.3590	Secure Dynamic Source Routing
+R1	10.1.1.116.954	Securing Vehicular Communications
+R1	10.1.1.132.9870	JANUS: Towards Robust and Malicious Resilient Routing
+R1	10.1.1.76.7850	Preventing Wormhole Attacks on Wireless Ad Hoc Networks: A Graph Theoretic Approach
+R1	10.1.1.146.2609	Perfect Simulation and Stationarity of a Class of Mobility Models
+R1	10.1.1.89.9023	DOMINO: Detecting MAC layer greedy behavior in IEEE 802.11 hotspots
+R1	10.1.1.85.5574	Security Overview of Bluetooth
+R1	10.1.1.121.9707	Trust evaluation in anarchy: A case study on autonomous networks
+R1	10.1.1.136.8089	OURS: Optimal Unicast Routing Systems in Non-Cooperative Wireless Networks
+R1	10.1.1.95.3693	On wormhole attacks in underwater sensor networks: A two-tier localization approach
+R1	10.1.1.140.4753	Secure on-demand distance vector route discovery in ad hoc networks

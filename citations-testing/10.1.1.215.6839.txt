@@ -1,0 +1,24 @@
+10.1.1.215.6839	2009	Timeaware test-case prioritization using integer linear programming
+R1	10.1.1.27.3215	Prioritizing Test Cases for Regression Testing
+R1	10.1.1.114.2322	Test case prioritization: An empirical study
+R1	10.1.1.23.2665	A Study of Effective Regression Testing in Practice
+R1	10.1.1.53.353	TestTube: A System for Selective Regression Testing
+R1	10.1.1.142.5690	Semantics guided regression test cost reduction
+R1	10.1.1.26.7482	Incorporating Varying Test Costs and Fault Severities into Test Case Prioritization
+R1	10.1.1.128.7131	Test case prioritization: A family of empirical studies
+R1	10.1.1.71.8723	Test-suite reduction and prioritization for modified condition/decision coverage
+R1	10.1.1.33.7286	A Safe, Efficient Regression Test Selection Technique
+R1	10.1.1.65.7730	Effectively prioritizing tests in development environment
+R1	10.1.1.130.7069	Prioritizing test cases for regression testing
+R1	10.1.1.373.2103	ªOn the Limit of Control Flow Analysis for Regression Test Selection,º
+R1	10.1.1.27.1002	An Experimental Evaluation of Selective Mutation
+R1	10.1.1.168.288	Time-Aware Test Suite Prioritization
+R1	10.1.1.25.1223	Jester - a JUnit test tester.
+R1	10.1.1.232.8971	Hierons, Search algorithms for regression test case prioritization
+R1	10.1.1.112.9150	Cost-cognizant test case prioritization
+R1	10.1.1.64.8489	The SYMPHONY callable library for mixed integer programming
+R1	10.1.1.168.919	Efficient Time-Aware Prioritization with Knapsack Solvers
+R1	10.1.1.110.8591	On the use of mutation faults in empirical assessments of test case prioritization techniques
+R1	10.1.1.143.5079	Quota-constrained test-case prioritization for regression testing of service-centric systems
+R1	10.1.1.153.5265	Configuration-Aware Regression Testing: An Empirical Study of Sampling and Prioritization
+R1	10.1.1.212.4080	Pareto efficient multi-objective test case selection

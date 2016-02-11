@@ -1,0 +1,21 @@
+10.1.1.342.9315	2006	Energy-efficient estimation of correlated data in wireless sensor networks
+R1	10.1.1.137.494	The rate-distortion function for source coding with side information at the decoder
+R1	10.1.1.20.7280	Lossy Source Coding
+R1	10.1.1.86.3018	The CEO Problem
+R1	10.1.1.6.4571	Sequential Signal Encoding from Noisy Measurements Using Quantizers with Dynamic Bias Control
+R1	10.1.1.75.1666	Bandwidth-constrained distributed estimation for wireless sensor networks -- Part I: Gaussian Case
+R1	10.1.1.95.6379	Decentralized estimation in an inhomogeneous sensing environment
+R1	10.1.1.120.4631	Source-channel communication in sensor networks
+R1	10.1.1.120.4544	Matched source-channel communication for field estimation in wireless sensor networks
+R1	10.1.1.58.4960	To Code, or Not to Code: Lossy Source-Channel Communication Revisited
+R1	10.1.1.106.5559	The rate region of the quadratic Gaussian two-terminal source-coding problem,” arXiv:cs.IT/0510095
+R1	10.1.1.85.9009	Rate Region of the Quadratic Gaussian CEO Problem
+R1	10.1.1.13.2353	Distributed Compression For Sensor Networks
+R1	10.1.1.214.3	Modeling Spatially-Correlated Sensor Network Data
+R1	10.1.1.44.1225	Multiterminal Source Coding with High Resolution
+R1	10.1.1.121.6512	Universal Decentralized Estimation in a Bandwidth Constrained Sensor Network
+R1	10.1.1.129.3880	Energy-efficient joint estimation in sensor networks: Analog vs. digital
+R1	10.1.1.342.4476	An infeasibility result for the multiterminal source-coding problem
+R1	10.1.1.97.3234	Multiterminal source-channel communication under orthogonal multiple access
+R1	10.1.1.133.6510	Efficient Communication Strategies For Distributed Signal Field Estimation
+R1	10.1.1.295.7378	A UNIVERSAL MATCHED SOURCE-CHANNEL COMMUNICATION SCHEME FOR WIRELESS SENSOR ENSEMBLES

@@ -1,0 +1,25 @@
+10.1.1.150.9748	2004	A Survey of Motion-Parallax-Based 3-D Reconstruction Algorithms
+R1	10.1.1.15.8566	Canonic Representations for the Geometries of Multiple Projective Views
+R1	10.1.1.131.9807	Shape and motion from image streams under orthography: a factorization method
+R1	10.1.1.37.1161	A Factorization Based Algorithm for Multi-Image Projective Structure and Motion
+R1	10.1.1.107.6906	Critical motion sequences for monocular self-calibration and uncalibrated euclidean reconstruction
+R1	10.1.1.143.3546	A case against Kruppa’s equations for camera self-calibration
+R1	10.1.1.17.1907	Photorealistic Scene Reconstruction by Voxel Coloring
+R1	10.1.1.127.3572	A taxonomy and evaluation of dense two-frame stereo correspondence algorithms
+R1	10.1.1.33.9687	Markov Random Field Models in Computer Vision
+R1	10.1.1.15.8999	Multi-camera Scene Reconstruction via Graph Cuts
+R1	10.1.1.86.493	The Geometry of Multiple Images
+R1	10.1.1.21.1075	Generalized Voxel Coloring
+R1	10.1.1.143.7815	Autocalibration and the absolute quadric
+R1	10.1.1.146.990	A Robust Technique for Matching Two Uncalibrated Images Through the Recovery of the Unknown Epipolar Geometry
+R1	10.1.1.20.8659	Self-Calibration from Image Triplets
+R1	10.1.1.128.1665	Computing Visual Correspondence with Occlusions using Graph Cuts
+R1	10.1.1.132.4781	Kruppa's equations derived from the fundamental matrix
+R1	10.1.1.323.6976	In Defense of the Eight-Point Algorithm
+R1	10.1.1.30.2289	Variational principles, Surface Evolution, PDE's, level set methods and the Stereo Problem
+R1	10.1.1.107.3980	A new approach for vanishing point detection in architectural environments
+R1	10.1.1.38.7127	Dense Depth Map Reconstruction: A Minimization and Regularization Approach which Preserves Discontinuities
+R1	10.1.1.7.4572	Gauge Fixing for Accurate 3D Estimation
+R1	10.1.1.44.5166	A Direct Method for Stereo Correspondence based on Singular Value Decomposition
+R1	10.1.1.30.467	Using Singular Displacements for Uncalibrated Monocular Visual Systems
+R1	10.1.1.80.6930	Variational multiframe stereo in the presence of specular reflections

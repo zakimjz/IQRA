@@ -1,0 +1,23 @@
+10.1.1.150.4968	2009	Scheduling Deterministic Parallel Programs
+R1	10.1.1.40.6866	Implementation of a Portable Nested Data-Parallel Language
+R1	10.1.1.139.2618	Scheduling Multithreaded Computations by Work Stealing
+R1	10.1.1.52.2013	The Implementation of the Cilk-5 Multithreaded Language
+R1	10.1.1.123.5055	A real-time garbage collector based on the lifetimes of objects
+R1	10.1.1.17.2735	Recursion and Dynamic Data-structures in Bounded Space: Towards Embedded ML Programming
+R1	10.1.1.124.5589	Proving the correctness of reactive systems using sized types
+R1	10.1.1.34.3727	Visualising Granularity in Parallel Programs: A Graphical Winnowing System for Haskell
+R1	10.1.1.38.4995	gprof: a Call Graph Execution Profiler
+R1	10.1.1.55.9444	Standard ML of New Jersey
+R1	10.1.1.130.3853	Thread scheduling for multiprogrammed multiprocessors
+R1	10.1.1.51.5088	Compiling Collection-Oriented Languages onto Massively Parallel Computers
+R1	10.1.1.136.3819	A Foundation for Space-Safe Transformations of Call-by-Need Programs
+R1	10.1.1.42.1918	A Java Fork/Join Framework
+R1	10.1.1.40.6968	A Provably Time-Efficient Parallel Implementation of Full Speculation
+R1	10.1.1.26.5289	Flattening Trees
+R1	10.1.1.45.7113	An Interactive Approach to Profiling Parallel Functional Programs
+R1	10.1.1.24.6444	Pipelining with Futures
+R1	10.1.1.50.8861	Lazy Threads: Implementing a Fast Parallel Call
+R1	10.1.1.137.4481	Abstract Lightweight Concurrency Primitives for GHC
+R1	10.1.1.153.3424	Implicitly-threaded parallelism in Manticore
+R1	10.1.1.145.6136	Runtime Support for Multicore Haskell
+R1	10.1.1.153.1936	A scheduling framework for general-purpose parallel languages

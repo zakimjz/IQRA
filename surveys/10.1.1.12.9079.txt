@@ -1,0 +1,23 @@
+10.1.1.12.9079	1997	Performance Evaluation for Parallel Systems: A Survey
+R1	10.1.1.134.6637	Virtual time
+R1	10.1.1.100.7859	Distributed discrete-event simulation
+R1	10.1.1.14.473	Design and Implementation or the Sun Network Filesystem
+R1	10.1.1.132.5038	The Scalability of FFT on Parallel Computers
+R1	10.1.1.18.7487	PROTEUS: A High-Performance Parallel-Architecture Simulator
+R1	10.1.1.103.9176	Performance of various computers using standard linear equations software
+R1	10.1.1.19.6728	A Petri Net Approach for Performance Oriented Parallel Program Design
+R1	10.1.1.47.5103	Scalable Problems and Memory-Bounded Speedup
+R1	10.1.1.54.9102	Parallel Depth First Search, Part II: Analysis
+R1	10.1.1.121.9722	Development of Parallel Methods for a 1024-Processor Hypercube
+R1	10.1.1.33.8570	The Efficient Simulation of Parallel Computer Systems
+R1	10.1.1.23.6951	Multiprogramming a Distributed-Memory Multiprocessor
+R1	10.1.1.37.9370	DSPNexpress: A Software Package for the Efficient Solution of Deterministic and Stochastic Petri Nets
+R1	10.1.1.55.7010	Accuracy of Memory Reference Traces of Parallel Computations in Trace-Driven Simulation
+R1	10.1.1.36.7549	Queueing Models of Parallel Applications: The Glamis Methodology
+R1	10.1.1.50.4460	Scalability of Parallel Algorithms for Matrix Multiplication
+R1	10.1.1.48.611	An Algorithm for Off-Line Detection of Phases in Execution Profiles
+R1	10.1.1.30.4377	MaxPar: An Execution Driven Simulator for Studying Parallel Systems
+R1	10.1.1.17.77	Regular Stochastic Petri Nets
+R1	10.1.1.56.5637	Performance Properties of Large Scale Parallel Systems
+R1	10.1.1.49.5950	Chief: A Simulation Environment for Studying Parallel Systems
+R1	10.1.1.35.497	Applying Genetic Algorithms to Extract Workload Classes

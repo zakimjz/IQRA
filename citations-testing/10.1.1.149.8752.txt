@@ -1,0 +1,22 @@
+10.1.1.149.8752	2008	Transfer learning for wifi-based indoor localization
+R1	10.1.1.121.8707	Multitask Learning
+R1	10.1.1.10.6050	A System for LEASE: Location Estimation Assisted by Stationery Emitters for Indoor RF Wireless Networks
+R1	10.1.1.35.7570	Enhancements to the RADAR User Location and Tracking System
+R1	10.1.1.77.9121	A framework for learning predictive structures from multiple tasks and unlabeled data
+R1	10.1.1.128.6096	Adaptive Temporal Radio Maps for Indoor Location Estimation
+R1	10.1.1.72.6754	A kernel-based learning approach to ad hoc sensor network localization
+R1	10.1.1.136.8216	Manifold regularization: A geometric framework for learning from labeled and unlabeled examples
+R1	10.1.1.143.4346	Large-scale localization from wireless signal strength
+R1	10.1.1.115.3723	Domain adaptation with structural correspondence learning
+R1	10.1.1.103.7734	Multi-task feature learning
+R1	10.1.1.76.7577	Boosting for transfer learning
+R1	10.1.1.113.8804	Correcting sample selection bias by unlabeled data
+R1	10.1.1.107.6300	Gaussian Processes for Signal Strength-Based Location Estimation
+R1	10.1.1.66.8078	Constructing informative priors using transfer learning
+R1	10.1.1.331.8958	Adaptive Localization in a Dynamic Wi-Fi Environment through Multi-View Learning
+R1	10.1.1.75.919	Self-taught learning: Transfer learning from unlabeled data
+R1	10.1.1.119.7145	Transfer learning in real-time strategy games using hybrid cbr/rl
+R1	10.1.1.116.9150	Estimating Location Using Wi-Fi
+R1	10.1.1.140.9253	Transferring Multi-device Localization Models using Latent Multi-task Learning ∗
+R1	10.1.1.304.8221	Direct importance estimation with model selection and its application to covariate shift adaptation
+R1	10.1.1.144.7317	CIGAR: Concurrent and Interleaving Goal and Activity Recognition

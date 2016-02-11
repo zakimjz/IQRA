@@ -1,0 +1,21 @@
+10.1.1.226.8244	2012	http://www.ssrc.ucsc.edu / HANDS: A Heuristically Arranged Non-Backup In-line
+R1	10.1.1.8.4861	File Access Prediction with Adjustable Accuracy
+R1	10.1.1.1.6728	C-Miner: Mining Block Correlations in Storage Systems
+R1	10.1.1.207.4675	PyPy’s Approach to Virtual Machine Construction
+R1	10.1.1.147.5039	Using Multiple Predictors to Improve the Accuracy of File Access Predictions
+R1	10.1.1.6.3430	A Stochastic Approach to File Access Prediction
+R1	10.1.1.76.5956	Semantically-Smart Disk Systems: Past, Present, and Future
+R1	10.1.1.66.4936	Disk drive level workload characterization
+R1	10.1.1.360.3741	Avoiding the disk bottleneck in the data domain deduplication file system
+R1	10.1.1.141.1900	ABSTRACT File Grouping for Scientific Data Management: Lessons from Experimenting with Real Traces
+R1	10.1.1.141.499	Secure Data Deduplication
+R1	10.1.1.159.9323	Sparse Indexing: Large Scale, Inline Deduplication Using Sampling and Locality
+R1	10.1.1.160.1239	The Effectiveness of Deduplication on Virtual Machine Disk Images
+R1	10.1.1.214.8386	Extreme binning: Scalable, parallel deduplication for chunk-based file backup
+R1	10.1.1.187.8381	I/O Deduplication: Utilizing Content Similarity to Improve I/O Performance
+R1	10.1.1.362.8612	A study of practical deduplication
+R1	10.1.1.226.2841	Semantic data placement for power management in archival storage
+R1	10.1.1.226.3213	Efficiently Identifying Working Sets in Block I/O Streams
+R1	10.1.1.227.2548	Analysis of Workload Behavior in Scientific and Historical Long-Term Data Repositories
+R1	10.1.1.298.2354	Rethinking deduplication scalability
+R1	10.1.1.379.7624	Online De-duplication in a Log-Structured File System for Primary Storage

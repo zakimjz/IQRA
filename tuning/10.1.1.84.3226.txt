@@ -1,0 +1,52 @@
+10.1.1.84.3226	2004	Power management and power control in wireless networks
+R1	10.1.1.160.1776	Thwarting the power-hungry disk
+R1	10.1.1.11.8482	Dynamic Power Management for Portable Systems
+R1	10.1.1.129.426	Dynamic source routing in ad hoc wireless networks
+R1	10.1.1.138.3623	The capacity of wireless networks
+R1	10.1.1.110.1242	Minimum energy mobile wireless networks
+R1	10.1.1.134.4617	PAMAS -- Power Aware Multi-Access protocol with Signalling for Ad Hoc Networks
+R1	10.1.1.11.5121	Topology Management for Sensor Networks: Exploiting Latency And Density
+R1	10.1.1.109.7382	Fine-grained network time synchronization using reference broadcasts
+R1	10.1.1.147.2959	Energy-efficient scheduling of packet transmissions over wireless networks
+R1	10.1.1.16.1535	An Energy-Efficient MAC Protocol for Wireless Sensor Networks
+R1	10.1.1.37.5539	Topology Control of Multihop Wireless Networks using Transmit Power Adjustment
+R1	10.1.1.12.2888	Power Control and Clustering in Ad Hoc Networks
+R1	10.1.1.2.7834	Investigating the Energy Consumption of a Wireless Network Interface in an Ad Hoc Networking Environment
+R1	10.1.1.16.8298	Power-Saving Protocols for IEEE 802.11-Based Multi-Hop Ad Hoc Networks
+R1	10.1.1.229.2655	Conserving Transmission Power in Wireless Ad Hoc Networks
+R1	10.1.1.18.1007	Critical Power for Asymptotic Connectivity in Wireless Networks
+R1	10.1.1.138.7981	Distributed topology control for power efficient operation in multihop wireless ad hoc networks
+R1	10.1.1.23.5186	Power Control in Ad-Hoc Networks: Theory, Architecture, Algorithm and Implementation of the COMPOW Protocol
+R1	10.1.1.16.7006	On the Scalability of Ad Hoc Routing Protocols
+R1	10.1.1.17.859	Energy-efficient Transmission over a Wireless Link via Lazy Packet Scheduling
+R1	10.1.1.11.4175	A Power Control MAC Protocol for Ad Hoc Networks
+R1	10.1.1.16.7339	Distributed Construction of a Planar Spanner and Routing for Ad Hoc Wireless Networks
+R1	10.1.1.16.7906	An Energy Efficient MAC Protocol for Wireless LANs
+R1	10.1.1.27.4355	A Dynamic Disk Spin-Down Technique for Mobile Computing
+R1	10.1.1.110.9475	Power Aware Page Allocation
+R1	10.1.1.21.7127	Application-Driven Power Management for Mobile Communication
+R1	10.1.1.202.5378	Dynamic power management based on continuous-time markov decision processes
+R1	10.1.1.132.726	Self-Tuning Wireless Network Power Management
+R1	10.1.1.167.5427	Minimum-energy broadcast in allwireless networks: Np-completeness and distribution
+R1	10.1.1.104.138	On the Construction of Energy-Efficient Broadcast and Multicast Trees in Wireless Networks
+R1	10.1.1.106.6465	Multipoint relaying for flooding broadcast messages in mobile wireless networks
+R1	10.1.1.23.904	Medium Access Control in a Network of Ad Hoc Mobile Nodes with Heterogeneous Power Capabilities
+R1	10.1.1.10.6572	Dynamic Power Management for Nonstationary Service Requests
+R1	10.1.1.121.1971	Analysis of a cone-based distributed topology control algorithm for wireless multi-hop networks
+R1	10.1.1.163.2857	Minimizing Energy for Wireless Web Access with Bounded Slowdown
+R1	10.1.1.107.8371	Minimum power broadcast trees for wireless networks: Optimizing using the viability lemma
+R1	10.1.1.12.9755	Design and Analysis of an MST-Based Topology Control Algorithm
+R1	10.1.1.12.9872	Localized Minimum-Energy Broadcasting in Ad-Hoc Networks
+R1	10.1.1.139.1730	Flooding for reliable multicast in multi-hop ad hoc networks
+R1	10.1.1.115.1037	Minimum-energy broadcast routing in static ad hoc wireless networks
+R1	10.1.1.4.6871	Distributed Topology Control Algorithm for Multihop Wireless Networks
+R1	10.1.1.12.8453	On-demand Power Management for Ad Hoc Networks
+R1	10.1.1.16.8193	Comparing System-Level Power Management Policies
+R1	10.1.1.138.5637	Localized Topology Control for Heterogeneous Wireless Ad-hoc Networks
+R1	10.1.1.28.4174	Power-Aware Broadcasting in Mobile Ad Hoc Networks
+R1	10.1.1.298.5386	the Complexity and Distributed Construction of Energy-Efficient Broadcast Trees
+R1	10.1.1.156.909	Adaptive Disk Spindown via Optimal Rent-to-Buy in Probabilistic Environments
+R1	10.1.1.93.9710	On minimum-energy broadcasting in all-wireless networks
+R1	10.1.1.10.283	Policy Optimization for Dynamic Power Management
+R1	10.1.1.58.3014	Exploring Energy-Latency Tradeoffs for Data Gathering in Wireless Sensor Networks
+R1	10.1.1.111.8796	LISP: A link-indexed statistical traffic prediction approach to improving

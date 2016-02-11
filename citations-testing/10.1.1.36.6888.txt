@@ -1,0 +1,22 @@
+10.1.1.36.6888	1996	Rewriting Logic as a Semantic Framework for Concurrency: a Progress Report
+R1	10.1.1.15.3043	Inductive-Data-Type Systems
+R1	10.1.1.226.6756	A theory of timed automata
+R1	10.1.1.29.6357	Rewriting Logic as a Logical and Semantic Framework
+R1	10.1.1.2.2293	Reasoning Theories - Towards an Architecture for Open Mechanized Reasoning Systems
+R1	10.1.1.51.9254	Principles of Maude
+R1	10.1.1.15.9935	Order-Sorted Algebra I: Equational Deduction for Multiple Inheritance, Overloading, Exceptions and Partial Operations
+R1	10.1.1.50.5127	ELAN: A logical framework based on computational systems
+R1	10.1.1.53.7908	Fast Matching in Combinations of Regular Equational Theories
+R1	10.1.1.144.3696	A reflective extension of ELAN
+R1	10.1.1.50.6633	Solving Binary CSP Using Computational Systems
+R1	10.1.1.35.864	Axiomatizing Permutation Equivalence
+R1	10.1.1.34.8837	Dataflow Models
+R1	10.1.1.53.666	Distributed Logic Objects: A Fragment of Rewriting Logic and its Implementation
+R1	10.1.1.47.3482	A Logical Semantics for Object-Oriented Databases
+R1	10.1.1.2.3172	Specification, Transformation, and Programming of Concurrent Systems in Rewriting Logic
+R1	10.1.1.144.3563	Prototyping completion with constraints using computational systems
+R1	10.1.1.158.9633	The Rewrite Rule Machine Node Architecture and its Performance
+R1	10.1.1.3.3649	An Object-Oriented Airport
+R1	10.1.1.30.5162	CPO models for infinite term rewriting
+R1	10.1.1.51.1984	Discrete Event Systems in Rewriting Logic
+R1	10.1.1.55.5617	Action and Change in Rewriting Logic

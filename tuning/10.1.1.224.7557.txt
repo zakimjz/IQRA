@@ -1,0 +1,33 @@
+10.1.1.224.7557	2011	Lateen EM: Unsupervised training with multiple objectives, applied to dependency grammar induction
+R1	10.1.1.133.4884	Maximum likelihood from incomplete data via the EM algorithm
+R1	10.1.1.14.4388	Weakly Supervised Natural Language Learning Without Redundant Views
+R1	10.1.1.164.6702	Analyzing the effectiveness and applicability of cotraining
+R1	10.1.1.13.8919	The Mathematics of Statistical Machine Translation: Parameter Estimation
+R1	10.1.1.32.4821	Enhancing Supervised Learning with Unlabeled Data
+R1	10.1.1.128.9917	Inside-outside reestimation from partially bracketed corpora
+R1	10.1.1.33.2557	A View Of The Em Algorithm That Justifies Incremental, Sparse, And Other Variants
+R1	10.1.1.14.903	Does Baum-Welch Re-estimation 'Help Taggers?
+R1	10.1.1.20.7191	Applying Co-Training methods to Statistical Parsing
+R1	10.1.1.14.6472	Tagging English Text with a Probabilistic Model
+R1	10.1.1.140.3309	Iterative clustering of high dimensional text data augmented by local search
+R1	10.1.1.33.3047	Deterministic Annealing for Clustering, Compression, Classification, Regression, and Related Optimization Problems
+R1	10.1.1.42.4629	Statistical Techniques for Natural Language Parsing
+R1	10.1.1.118.2752	Corpus-based induction of syntactic structure: Models of dependency and constituency
+R1	10.1.1.128.7511	CoNLL-X shared task on multilingual dependency parsing
+R1	10.1.1.61.1897	Co-Training and Expansion: Towards Bridging Theory and Practice
+R1	10.1.1.131.4650	Contrastive estimation: Training log-linear models on unlabeled data
+R1	10.1.1.108.506	2004. Annealing techniques for unsupervised statistical language learning
+R1	10.1.1.169.4672	Co-training with a Single Natural Feature Set Applied to Email Classification
+R1	10.1.1.114.9911	Guiding semi-supervision with constraint-driven learning
+R1	10.1.1.141.3056	Analyzing the Errors of Unsupervised Learning
+R1	10.1.1.154.9343	Shared logistic normal distributions for soft parameter tying in unsupervised grammar induction
+R1	10.1.1.164.7314	Minimized models for unsupervised part-of-speech tagging
+R1	10.1.1.165.7616	Painless Unsupervised Learning with Features
+R1	10.1.1.182.3739	Posterior Sparsity in Unsupervised Dependency Parsing
+R1	10.1.1.181.1128	Profiting from Mark-Up: Hyper-Text Annotations for Guided Parsing
+R1	10.1.1.182.2534	Baby Steps: How “Less is More” in unsupervised dependency parsing
+R1	10.1.1.186.1325	Unsupervised Induction of Tree Substitution Grammars for Dependency Parsing
+R1	10.1.1.207.5653	Neutralizing Linguistically Problematic Annotations in Unsupervised Dependency Parsing Evaluation
+R1	10.1.1.357.9820	Learning Probabilistic Synchronous CFGs for Phrase-based Translation
+R1	10.1.1.329.3566	A survey of cross-validation procedures for model selection
+R1	10.1.1.231.5531	Semi-supervised dependency parsing using generalized tri-training

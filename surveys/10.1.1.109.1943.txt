@@ -1,0 +1,27 @@
+10.1.1.109.1943	2004	A survey of outlier detection methodologies
+R1	10.1.1.167.3624	Induction of Decision Trees
+R1	10.1.1.33.3654	Activity Monitoring: Noticing interesting changes in behavior
+R1	10.1.1.1.4610	Topic Detection and Tracking Pilot Study Final Report
+R1	10.1.1.33.184	Enhancing SOM based data visualization
+R1	10.1.1.141.2663	ON-LINE NOVELTY DETECTION THROUGH SELF-ORGANISATION, WITH APPLICATION TO INSPECTION ROBOTICS
+R1	10.1.1.50.9949	Novelty Detection in Time Series Data using Ideas from Immunology
+R1	10.1.1.31.1365	Prototype and Feature Selection by Sampling and Random Mutation Hill Climbing Algorithms
+R1	10.1.1.131.2385	Outlier detection for high dimensional data
+R1	10.1.1.17.947	Efficient Algorithms for Mining Outliers from Large Data Sets
+R1	10.1.1.43.8014	Outlier Detection and Motion Segmentation
+R1	10.1.1.142.7309	Nearest neighbor clutter removal for estimating features in spatial point processes
+R1	10.1.1.13.4127	Identifying and Eliminating Mislabeled Training Instances
+R1	10.1.1.13.9009	Detecting Graph-Based Spatial Outliers: Algorithms and Applications (Summary of Results)
+R1	10.1.1.52.8781	Statistical Independence and Novelty Detection with Information Preserving Nonlinear Maps
+R1	10.1.1.26.994	Support Vector Data Description Applied to Machine Vibration Analysis
+R1	10.1.1.28.7127	Feature Selection for Case-Based Classification of Cloud Types: An Empirical Comparison
+R1	10.1.1.54.7481	Mathematical Programming for Data Mining: Formulations and Challenges
+R1	10.1.1.158.5767	Sequence matching and learning in anomaly detection for computer security
+R1	10.1.1.33.878	Call-based Fraud Detection in Mobile Communication Networks using a Hierarchical Regime-Switching Model
+R1	10.1.1.110.1220	An Application of Machine Learning to Anomaly Detection
+R1	10.1.1.34.8726	Novelty Detection in Airframe Strain Data
+R1	10.1.1.36.7407	Informal Identification of Outliers in Medical Data
+R1	10.1.1.38.5595	Markov Monitoring with Unknown States
+R1	10.1.1.42.6672	Learning Prototypical Concept Descriptions
+R1	10.1.1.36.2703	Automated Event Detection in Space Instruments: A Case Study Using IPEX-2 Data and Support Vector Machines
+R1	10.1.1.22.5080	A Curious Design Agent: A Computational Model of Novelty-Seeking Behaviour in Design

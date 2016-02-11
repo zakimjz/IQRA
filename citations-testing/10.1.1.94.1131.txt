@@ -1,0 +1,28 @@
+10.1.1.94.1131	2004	Extracting view-dependent depth maps from a collection of images
+R1	10.1.1.120.5002	Hierarchical model-based motion estimation
+R1	10.1.1.112.6806	Fast approximate energy minimization via graph cuts
+R1	10.1.1.10.877	Light Field Rendering
+R1	10.1.1.163.250	A theory of shape by space carving
+R1	10.1.1.127.3572	A taxonomy and evaluation of dense two-frame stereo correspondence algorithms
+R1	10.1.1.32.6253	Smoothness in Layers: Motion segmentation using nonparametric mixture estimation
+R1	10.1.1.84.8447	An integrated Bayesian approach to layer extraction from image sequences
+R1	10.1.1.30.656	Layered Representation for Motion Analysis
+R1	10.1.1.19.760	Handling Occlusions in Dense Multi-view Stereo
+R1	10.1.1.10.713	Modeling and Rendering Architecture from Photographs
+R1	10.1.1.135.7147	Good features to track
+R1	10.1.1.89.8676	MPEG: A Video Compression Standard for Multimedia Applications
+R1	10.1.1.11.1101	A Unified Mixture Framework for Motion Segmentation: Incorporating Spatial Coherence and  Estimating the Number of Models
+R1	10.1.1.12.8952	Kalman Filter-based Algorithms for Estimating Depth from Image Sequences
+R1	10.1.1.140.9946	Spline-based image registration
+R1	10.1.1.30.1039	A Pixel Dissimilarity Measure That Is Insensitive to Image Sampling
+R1	10.1.1.50.730	Stereo Matching with Non-Linear Diffusion
+R1	10.1.1.25.2464	Stereo Matching with Transparency and Matting
+R1	10.1.1.329.3602	Rendering with concentric mosaics
+R1	10.1.1.47.8977	Direct Methods for Visual Scene Reconstruction
+R1	10.1.1.84.6529	An experimental comparison of stereo algorithms
+R1	10.1.1.6.7106	Shape Reconstruction in Projective Grid Space from Large Number of Images
+R1	10.1.1.48.4242	Estimating Optical Flow in Segmented Images using Variable-order Parametric Models with Local Deformations
+R1	10.1.1.57.5303	Skin and Bones: Multi-layer, Locally Affine, Optical Flow and Regularization with Transparency
+R1	10.1.1.6.6854	Occlusion Detectable Stereo -- Occlusion Patterns In Camera Matrix
+R1	10.1.1.54.7470	Compact Representations Of Videos Through Dominant And Multiple Motion Estimation
+R1	10.1.1.31.8113	The Geometry-Image Representation Tradeoff For Rendering

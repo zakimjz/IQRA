@@ -1,0 +1,23 @@
+10.1.1.352.4249	2012	Data Models and Query Languages for Linked Geospatial Data
+R1	10.1.1.131.7887	R-trees: A Dynamic Index Structure for Spatial Searching
+R1	10.1.1.329.2647	Maintaining knowledge about temporal intervals
+R1	10.1.1.41.7218	Constraint Query Languages
+R1	10.1.1.85.1824	Spatial SQL: A Query and Presentation Language
+R1	10.1.1.35.7809	A Spatial Logic based on Regions and Connection
+R1	10.1.1.30.5832	Qualitative Spatial Representation and Reasoning Techniques
+R1	10.1.1.110.3084	Toward the semantic geospatial web
+R1	10.1.1.9.2771	Qualitative Spatial Representation and Reasoning with the Region Connection Calculus
+R1	10.1.1.44.9876	Database Models for Infinite and Indefinite Temporal Information
+R1	10.1.1.7.1605	Building a Constraint-Based Spatial Database System: Model, Languages, and Implementation
+R1	10.1.1.107.9436	Analyzing Theme, Space and Time: An Ontology-based Approach
+R1	10.1.1.109.6904	Supporting Complex Thematic, Spatial and Temporal Queries over Semantic Web Data
+R1	10.1.1.145.4527	Toward a General Spatial Data Model for an Object-Oriented
+R1	10.1.1.49.6426	A Constraint-based Spatial Extension to SQL
+R1	10.1.1.131.7615	Realms: A Foundation for Spatial Data Types in Database Systems
+R1	10.1.1.98.2564	Data Processing in Space, Time and Semantics Dimensions
+R1	10.1.1.150.3232	LinkedGeoData -- Adding a Spatial Dimension to the Web of Data
+R1	10.1.1.189.545	Linked Data -- The story so far
+R1	10.1.1.217.219	SCOVO: Using statistics on the Web of data
+R1	10.1.1.337.4710	A Framework to Support Spatial, Temporal, and Thematic Analytics over Semantic Web Data, Knoesis Center
+R1	10.1.1.220.9345	A Semantically Enabled Service Architecture for Mashups over Streaming and Stored Data
+R1	10.1.1.369.7900	M.: Developing Registries for the Semantic Sensor Web using stRDF and stSPARQL (short paper

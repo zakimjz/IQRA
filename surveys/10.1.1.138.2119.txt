@@ -1,0 +1,28 @@
+10.1.1.138.2119	2004	Computer graphics for water modeling and rendering: a survey
+R1	10.1.1.131.9222	Animating Soft Substances with Implicit Surfaces
+R1	10.1.1.25.5737	Modeling the Motion of a Hot, Turbulent Gas
+R1	10.1.1.131.9652	Particle Animation and Rendering Using Data Parallel Computation
+R1	10.1.1.15.9203	Stable Fluids
+R1	10.1.1.418.2533	Data structure for soft objects
+R1	10.1.1.108.1269	Practical animation of liquids
+R1	10.1.1.32.1924	Controlling Fluid Animation
+R1	10.1.1.185.884	Dynamic simulation of splashing fluids
+R1	10.1.1.147.3363	Modeling and Rendering of Weathered Stone
+R1	10.1.1.33.5393	Modeling and Rendering of Metallic Patinas
+R1	10.1.1.41.8870	Flow and Changes in Appearance
+R1	10.1.1.10.8053	Precomputed Radiance Transfer for Real-Time Rendering in Dynamic, Low-Frequency Lighting Environments
+R1	10.1.1.156.1458	Visual simulation of clouds
+R1	10.1.1.133.6937	A 3-Dimensional Representation for Fast Rendering of Complex Scenes
+R1	10.1.1.51.9111	A Method for Displaying Metaballs by using Bézier Clipping
+R1	10.1.1.104.4192	A General Two-Pass Method Integrating Specular and Diffuse Reflection
+R1	10.1.1.10.9156	Simulating the Flow of Liquid Droplets
+R1	10.1.1.131.5567	Simulating ocean water
+R1	10.1.1.4.4370	Real-Time Fluid Simulation in a Dynamic Virtual Environment
+R1	10.1.1.18.5819	Rendering Natural Waters
+R1	10.1.1.21.3719	Generalized Stochastic Subdivision
+R1	10.1.1.18.9227	General Calculations Using Graphics Hardware, with application to interactive caustics
+R1	10.1.1.15.9519	Towards Real-Time Visual Simulation of Water Surfaces
+R1	10.1.1.14.9136	Complex Water Effects at Interactive Frame Rates
+R1	10.1.1.9.1912	Efficient Rendering of Optical Effects within Water Using Graphics Hardware
+R1	10.1.1.32.5821	Modelling And Rendering Liquids In Motion
+R1	10.1.1.29.2913	Synthetic Images Of Underwater Scenes: A First Approximation

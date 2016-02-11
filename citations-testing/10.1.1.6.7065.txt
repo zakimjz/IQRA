@@ -1,0 +1,21 @@
+10.1.1.6.7065	2002	How Does the User Interface Design of Mobile Devices Influence the Social Impact of Mobile Communication?
+R1	10.1.1.28.8777	Nomadic Radio: Speech & Audio Interaction for Contextual Messaging in Nomadic Environments
+R1	10.1.1.26.9108	CYC: A Large-Scale Investment in Knowledge Infrastructure
+R1	10.1.1.335.7866	Tangible bits: towards seamless interfaces between people, bits and atoms
+R1	10.1.1.43.6803	Charting Past, Present and Future Research in Ubiquitous Computing
+R1	10.1.1.62.9277	CLUES: dynamic personalized message filtering
+R1	10.1.1.81.7989	Providing Presence Cues to Telephone Users
+R1	10.1.1.46.5726	Ambient Displays: Turning Architectural Space into an Interface between People and Digital Information
+R1	10.1.1.37.5470	Multimodal Interfaces That Process What Comes Naturally
+R1	10.1.1.112.1674	Electric elves: Applying agent technology to support human organizations
+R1	10.1.1.16.7544	LumiTouch: An Emotional Communication Device
+R1	10.1.1.25.5551	Hubbub: A sound-enhanced mobile instant messenger that supports awareness and opportunistic interactions
+R1	10.1.1.138.4035	Robot in Society: Friend or Appliance?
+R1	10.1.1.67.1567	Adaptive Support for a Mobile Museum Guide
+R1	10.1.1.28.6363	Distributed and Disappearing User Interfaces in . . .
+R1	10.1.1.43.1948	Exploiting Space and Location as a Design Framework for Interactive Mobile Systems
+R1	10.1.1.306.6400	What can I say: Evaluating a spoken language interface to email
+R1	10.1.1.21.6314	Subtle and Public Notification Cues for Mobile Devices
+R1	10.1.1.90.8768	Presence in multimodal interfaces
+R1	10.1.1.46.6523	Matching Information and Ambient Media
+R1	10.1.1.365.5193	Shall we mix synthetic speech and human speech?: impact on users' performance, perception, and attitude

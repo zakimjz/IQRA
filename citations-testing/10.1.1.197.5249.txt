@@ -1,0 +1,24 @@
+10.1.1.197.5249	2004	An efficient data mining method for learning Bayesian networks using an evolutionary algorithm-based hybrid approach
+R1	10.1.1.178.8884	Bayesian Network Classifiers
+R1	10.1.1.88.4436	A Bayesian method for the induction of probabilistic networks from data
+R1	10.1.1.9.1895	Learning Bayesian Networks from Data: An Information-Theory Based Approach
+R1	10.1.1.12.3134	A New Evolutionary System for Evolving Artificial Neural Networks
+R1	10.1.1.52.2692	A Tutorial on Learning Bayesian Networks
+R1	10.1.1.43.3692	Induction of Selective Bayesian Classifiers
+R1	10.1.1.21.2837	Learning Equivalence Classes Of Bayesian Network Structures
+R1	10.1.1.44.6552	Learning Bayesian Networks by Genetic Algorithms. A case study in the prediction of survival in malignant skin melanoma
+R1	10.1.1.41.208	A Comparison of Linear Genetic Programming and Neural Networks in Medical Data Mining
+R1	10.1.1.294.7942	M (2003) Using evolutionary algorithms as instance selection for data reduction in KDD: an experimental study
+R1	10.1.1.142.8832	A characterization of Markov equivalence classes for acyclic digraphs
+R1	10.1.1.157.2065	Inferring Informational Goals from Free-Text Queries: A Bayesian Approach
+R1	10.1.1.131.6334	A simple constraint-based algorithm for efficiently mining observational databases for causal relationships
+R1	10.1.1.102.3937	Scalable techniques for mining causal structures
+R1	10.1.1.17.2067	Learning Bayesian Network Structures by Searching For the Best Ordering With Genetic Algorithms
+R1	10.1.1.104.5206	Discovering knowledge from medical databases using evolutionary algorithms
+R1	10.1.1.13.7511	Towards a More Efficient Evolutionary Induction of Bayesian Networks
+R1	10.1.1.315.8385	Constructor: A system for the induction of probabilistic models
+R1	10.1.1.132.9501	Evolutionary learning of dynamic probabilistic models with large time lags
+R1	10.1.1.205.5251	Evolving accurate and compact classification rules with gene expression programming
+R1	10.1.1.14.682	Knowledge-Intensive Genetic Discovery in Foreign Exchange Markets
+R1	10.1.1.21.5651	Population Markov Chain Monte Carlo
+R1	10.1.1.219.2478	Troya, “Analyzing directed acyclic graph recombination

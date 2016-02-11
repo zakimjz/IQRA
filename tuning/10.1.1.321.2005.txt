@@ -1,0 +1,21 @@
+10.1.1.321.2005	2005	Summarizing itemset patterns: a profile-based approach
+R1	10.1.1.217.4132	Mining Association Rules between Sets of Items in Large Databases
+R1	10.1.1.40.9892	Mining Sequential Patterns
+R1	10.1.1.107.1120	Efficiently mining long patterns from databases
+R1	10.1.1.329.5344	Alternative interest measures for mining associations in databases
+R1	10.1.1.119.31	Efficient discovery of error-tolerant frequent itemsets in high dimensions
+R1	10.1.1.2.1461	The Pattern Ordering Problem
+R1	10.1.1.37.1102	Discovering Frequent Closed Itemsets for Association Rules
+R1	10.1.1.12.9324	Mining Top-K Frequent Closed Patterns without Minimum Support
+R1	10.1.1.70.4886	KDD-Cup 2000 organizers’ report: Peeling the onion
+R1	10.1.1.42.7488	Distributional Clustering of Words for Text Classification
+R1	10.1.1.10.3310	A divisive information-theoretic feature clustering algorithm for text classification
+R1	10.1.1.324.3318	Experiments on the effectiveness of dataflow- and controlflow-based test adequacy criteria
+R1	10.1.1.5.1348	Graph Indexing: A Frequent Structure-based Approach
+R1	10.1.1.26.1344	Finding Frequent Substructures in Chemical Compounds
+R1	10.1.1.12.4863	Frequent Sub-Structure-Based Approaches for Classifying Chemical Compounds
+R1	10.1.1.13.3608	On Computing Condensed Frequent Pattern Bases
+R1	10.1.1.41.2256	Data mining, hypergraph transversals, and machine learning
+R1	10.1.1.104.8029	Support envelopes: a technique for exploring the structure of association patterns
+R1	10.1.1.27.5696	Beyond Independence: Probabilistic Models for Query Approximation on Binary Transaction Data
+R1	10.1.1.134.4888	Mining spatial motifs from protein structure graphs

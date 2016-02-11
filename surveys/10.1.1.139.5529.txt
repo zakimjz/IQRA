@@ -1,0 +1,52 @@
+10.1.1.139.5529	2004	A Survey of BGP Security Issues and Solutions
+R1	10.1.1.37.9720	New Directions in Cryptography
+R1	10.1.1.20.1862	Understanding BGP Misconfiguration
+R1	10.1.1.18.2242	Measuring ISP Topologies with Rocketfuel
+R1	10.1.1.110.6928	Stable Internet Routing Without Global Coordination
+R1	10.1.1.107.1494	Short signatures from the Weil pairing
+R1	10.1.1.111.4043	An empirical study of router response to large BGP routing table load
+R1	10.1.1.120.2064	Characterizing the Internet hierarchy from multiple vantage points
+R1	10.1.1.12.8686	Measuring the Effects of Internet Path Faults on Reactive Routing
+R1	10.1.1.1.5088	Towards an Accurate AS-Level Traceroute Tool
+R1	10.1.1.22.6727	Hop Integrity in Computer Networks
+R1	10.1.1.30.2506	Towards Realistic Million-Node Internet Simulations
+R1	10.1.1.3.43	Efficient Security Mechanisms for Routing Protocols
+R1	10.1.1.15.9993	Efficient Protocols for Signing Routing Messages
+R1	10.1.1.10.4074	A Taxonomy of DDoS Attack and DDoS Defense Mechanisms
+R1	10.1.1.109.5235	Certificate Revocation and Certificate Update
+R1	10.1.1.20.3884	Working Around BGP: An Incremental Approach to Improving Security and Accuracy of Interdomain Routing
+R1	10.1.1.126.7059	Security Problems in the TCP/IP Protocol Suite
+R1	10.1.1.10.324	On the Performance, Feasibility, and Use of Forward-Secure Signatures
+R1	10.1.1.125.165	A forward-secure digital signature scheme
+R1	10.1.1.9.6975	Origin Authentication in Interdomain Routing
+R1	10.1.1.4.3193	Listen and Whisper: Security Mechanisms for BGP
+R1	10.1.1.10.6011	Highly Secure and Efficient Routing
+R1	10.1.1.22.979	Digital Signatures for Flows and Multicasts
+R1	10.1.1.108.762	Secure Border Gateway Protocol (S-BGP
+R1	10.1.1.136.8266	Beware of BGP Attacks
+R1	10.1.1.134.6171	Efficient Security Mechanisms for The Border Gateway Routing Protocol
+R1	10.1.1.228.1119	Optimizing BGP security by exploiting path stability
+R1	10.1.1.129.5024	Accurate Real-time Identification of IP Prefix Hijacking
+R1	10.1.1.134.370	PHAS: A Prefix Hijack Alert System
+R1	10.1.1.111.2179	Understanding the NetworkLevel Behavior of Spammers
+R1	10.1.1.383.3453	An Architecture for Describing Simple Network
+R1	10.1.1.374.88	The Transport Layer Security
+R1	10.1.1.12.63	A Framework for Incremental Deployment Strategies for Router-Assisted Services
+R1	10.1.1.128.7549	Pretty Good BGP: Improving BGP by cautiously adopting routes
+R1	10.1.1.115.6314	Don’t Secure Routing Protocols, Secure Data Delivery
+R1	10.1.1.118.5808	Slowing routing table growth by filtering based on address allocation policies. http://www.research.att.com/jrex
+R1	10.1.1.12.805	An Efficient Algorithm for Malicious Update Detection Recovery in Distance Vector Protocols
+R1	10.1.1.142.4432	Efficient and Secure Network Routing Algorithms. provisional patent filing
+R1	10.1.1.3.141	Securing the Border Gateway Protocol: A Status Update
+R1	10.1.1.108.6482	A framework for resilient internet routing protocols
+R1	10.1.1.20.9790	Sphere: A Binding Model and Middleware for Routing Protocols
+R1	10.1.1.106.4106	Evaluation of efficient security for BGP route announcements using parallel simulation
+R1	10.1.1.146.5616	AS relationships: Inference and validation
+R1	10.1.1.112.4963	Protecting BGP Routes to Top Level DNS Servers
+R1	10.1.1.72.8525	Experiences With DETER: A Testbed for Security Research
+R1	10.1.1.368.1857	BGP routing policies in ISP networks
+R1	10.1.1.129.4588	Aggregated path authentication for efficient bgp security
+R1	10.1.1.216.5155	On Interdomain Routing Security and Pretty Secure BGP (psBGP
+R1	10.1.1.133.4004	How small groups can secure interdomain routing
+R1	10.1.1.139.3971	Autonomous security for autonomous systems
+R1	10.1.1.141.5935	On the Impact of Route Monitor Selection

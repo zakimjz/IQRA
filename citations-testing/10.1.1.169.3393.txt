@@ -1,0 +1,21 @@
+10.1.1.169.3393	2010	Formalizing Domains, Ultrametric Spaces and Semantics of Programming Languages
+R1	10.1.1.158.5275	Notions of Computation and Monads
+R1	10.1.1.43.3075	Infinite Objects in Type Theory
+R1	10.1.1.32.1976	Relational Properties of Domains
+R1	10.1.1.35.4051	HOLCF: Higher Order Logic of Computable Functions
+R1	10.1.1.30.9270	Winskel is (almost) Right - Towards a Mechanized Semantics Textbook
+R1	10.1.1.16.5987	LCF Examples in HOL
+R1	10.1.1.31.8817	Computational Adequacy via `Mixed' Inductive Definitions
+R1	10.1.1.317.1763	Proofs of randomized algorithms in Coq
+R1	10.1.1.136.1448	A constructive denotational semantics for Kahn networks in Coq
+R1	10.1.1.175.9556	First-class type classes
+R1	10.1.1.144.181	A Model of Cooperative Threads
+R1	10.1.1.146.2953	Biorthogonality, Step-Indexing and Compiler Correctness
+R1	10.1.1.146.4690	Some domain theory and denotational semantics in Coq
+R1	10.1.1.298.8907	Realizability semantics of parametric polymorphism, general references, and recursive types
+R1	10.1.1.153.5299	A theory of indirection via approximation
+R1	10.1.1.148.7837	A Semantic Foundation for Hidden State
+R1	10.1.1.150.509	Strongly typed term representations in Coq
+R1	10.1.1.148.4353	The Category-Theoretic Solution of Recursive Metric-Space Equations
+R1	10.1.1.155.3164	Kripke Models over Recursively Defined Metric Worlds: Steps and Domains
+R1	10.1.1.190.2081	Step-indexed Kripke models over recursive worlds

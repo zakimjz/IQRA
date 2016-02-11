@@ -1,0 +1,37 @@
+10.1.1.12.305	2002	Volume Graphics: Field-Based Modelling and Rendering
+R1	10.1.1.418.2533	Data structure for soft objects
+R1	10.1.1.17.5902	Optical Models for Direct Volume Rendering
+R1	10.1.1.156.1458	Visual simulation of clouds
+R1	10.1.1.320.776	Cubic convolution interpolation for digital image processing
+R1	10.1.1.128.1599	Volume Rendering
+R1	10.1.1.141.8008	FAST VOLUME RENDERING USING A SHEAR-WARP FACTORIZATION OF THE VIEWING TRANSFORMATION
+R1	10.1.1.43.7565	Optimal Isosurface Extraction from Irregular Volume Data (Addendum)
+R1	10.1.1.38.1714	Hardware Assisted Volume Rendering of Unstructured Grids by Incremental Slicing
+R1	10.1.1.10.8251	Display of Surfaces from Volume Data
+R1	10.1.1.112.4406	On visible surface generation by a priori tree structures
+R1	10.1.1.26.9684	Semi-Automatic Generation of Transfer Functions for Direct Volume Rendering
+R1	10.1.1.4.8035	Frequency Analysis of Gradient Estimators in Volume Rendering
+R1	10.1.1.26.6953	Generation of Transfer Functions with Stochastic Search Techniques
+R1	10.1.1.147.4337	A survey of algorithms for volume visualization
+R1	10.1.1.39.6080	Classification and Local Error Estimation of Interpolation and. . .
+R1	10.1.1.49.5207	Frequency Domain Volume Rendering
+R1	10.1.1.132.3930	Marching cubes: A high resolution 3D surface construction algorithm
+R1	10.1.1.12.1301	vlib: A Volume Graphics API
+R1	10.1.1.26.774	Swept Volumes: Foundations, Perspectives, and Applications
+R1	10.1.1.33.9726	Volume Modelling
+R1	10.1.1.102.7706	Modelling and rendering graphics scenes composed of multiple volumetric datasets
+R1	10.1.1.104.4264	3D distance from a point to a triangle
+R1	10.1.1.25.6625	Cube-3: A Real-Time Architecture for High-Resolution Volume Visualization
+R1	10.1.1.122.8137	Calculation of reference frames along a space curve
+R1	10.1.1.131.5850	Fast Rendering of Irregular Grids
+R1	10.1.1.106.818	An efficient shadow detection algorithm and the direct surface rendering volume visualisation model
+R1	10.1.1.29.1744	Constructive Hypervolume Modelling
+R1	10.1.1.14.1793	Refraction in Discrete Ray Tracing
+R1	10.1.1.55.1891	BMRT: A Global Illumination Implementation of the RenderMan Standard
+R1	10.1.1.36.9653	Realistic Volume Animation With Alias
+R1	10.1.1.26.1798	Closed-Form Swept Volume Of Implicit Surfaces
+R1	10.1.1.55.5878	Data Shader Language and Interface Specification
+R1	10.1.1.54.4625	Data Shaders
+R1	10.1.1.31.3878	3D Shape Representation: Transforming Polygons into Voxels
+R1	10.1.1.83.2863	f3d — a file format and tools for storage and manipulation of volumetric data sets
+R1	10.1.1.41.1891	Direct Ray Tracing of Displacement Mapped Triangles

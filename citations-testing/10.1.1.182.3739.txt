@@ -1,0 +1,25 @@
+10.1.1.182.3739	2010	Posterior Sparsity in Unsupervised Dependency Parsing
+R1	10.1.1.133.4884	Maximum likelihood from incomplete data via the EM algorithm
+R1	10.1.1.14.9706	Building a Large Annotated Corpus of English: The Penn Treebank
+R1	10.1.1.33.2557	A View Of The Em Algorithm That Justifies Incremental, Sparse, And Other Variants
+R1	10.1.1.19.4104	The TIGER Treebank
+R1	10.1.1.118.2752	Corpus-based induction of syntactic structure: Models of dependency and constituency
+R1	10.1.1.294.6145	floresta sintá(c)tica”: a treebank for Portuguese
+R1	10.1.1.131.4650	Contrastive estimation: Training log-linear models on unlabeled data
+R1	10.1.1.20.4475	Building a Linguistically Interpreted Corpus of Bulgarian: the BulTreeBank
+R1	10.1.1.64.2528	Annealing structural bias in multilingual weighted grammar induction
+R1	10.1.1.145.2273	Towards a Slovene dependency treebank
+R1	10.1.1.124.5192	The infinite PCFG using hierarchical Dirichlet processes
+R1	10.1.1.143.8853	The infinite tree
+R1	10.1.1.75.4186	2004. An application of the variational Bayesian approach to probabilistic contextfree grammars
+R1	10.1.1.161.7564	Novel Estimation Methods for Unsupervised Discovery of Latent Structure in Natural Language Text
+R1	10.1.1.259.8084	Expectation maximization and posterior constraints
+R1	10.1.1.141.6402	Logistic Normal Priors for Unsupervised Probabilistic Grammar Induction
+R1	10.1.1.149.6522	Learning From Measurements in Exponential Families
+R1	10.1.1.156.9941	Automatic Selection of High Quality Parses Created By a Fully Unsupervised Parser
+R1	10.1.1.216.3727	Alternating projections for learning with expectation constraints
+R1	10.1.1.163.5013	Modeling Valence Effects in Unsupervised Grammar Induction
+R1	10.1.1.168.6287	Posterior Regularization for Structured Latent Variable Models
+R1	10.1.1.184.9184	Learning tractable word alignment models with complex constraints
+R1	10.1.1.182.495	From Baby Steps to Leapfrog: How “Less is More” in unsupervised dependency parsing
+R1	10.1.1.184.1207	The shared logistic normal distribution for grammar induction

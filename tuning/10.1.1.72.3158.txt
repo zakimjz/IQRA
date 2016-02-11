@@ -1,0 +1,54 @@
+10.1.1.72.3158	2006	Performance Modeling of Storage Devices using Machine Learning
+R1	10.1.1.12.2253	Web Caching and Zipf-like Distributions: Evidence and Implications
+R1	10.1.1.1.1526	Triage: Performance Isolation and Differentiation for Storage Systems
+R1	10.1.1.2.1314	Generating Representative Web Workloads for Network and Server Performance Evaluation
+R1	10.1.1.25.2466	On the Relevance of Long-Range Dependence in Network Traffic
+R1	10.1.1.50.5535	Analysis, Modeling and Generation of Self-Similar VBR Video Traffic
+R1	10.1.1.227.3074	A multifractal wavelet model with application to TCP network traffic
+R1	10.1.1.201.2359	Characterizing Reference Locality in the WWW
+R1	10.1.1.18.2930	Ergastulum: Quickly Finding Near-Optimal Storage System Designs
+R1	10.1.1.12.5287	The DiskSim Simulation Environment Version 3.0 Reference Manual
+R1	10.1.1.111.8732	Generating representative synthetic workloads: An unsolved problem
+R1	10.1.1.2.9355	Self-* Storage: Brick-based storage with automated administration
+R1	10.1.1.87.6833	Disk array models in Minerva
+R1	10.1.1.54.3790	An Analytic Behavior Model for Disk Drives With Readahead Caches and Request Reordering
+R1	10.1.1.29.478	A Modular, Analytical Throughput Model for Modern Disk Arrays
+R1	10.1.1.29.6289	The Pantheon storage-system simulator
+R1	10.1.1.20.7675	Traveling to Rome: QoS specifications for automated storage system management
+R1	10.1.1.1.2798	Input/Output Behavior of Supercomputing Applications
+R1	10.1.1.308.5720	Memory resource management in vmware esx server
+R1	10.1.1.114.7135	Hippodrome: Running Circles around Storage Administration
+R1	10.1.1.22.1618	Efficient Representation and Abstractions for Quantifying and Exploiting Data Reference Locality
+R1	10.1.1.126.8147	Memory System Characterization of Commercial Workloads
+R1	10.1.1.124.4026	DB2 Advisor: An optimizer smart enough to recommend its own indexes
+R1	10.1.1.117.589	Automating physical database design in a parallel database
+R1	10.1.1.15.3654	Measurements of a Distributed File System
+R1	10.1.1.48.4592	A Trace-Driven Analysis of the UNIX 4.2 BSD File System
+R1	10.1.1.123.7219	Microbenchmark-based Extraction of Local and Global Disk Characteristics
+R1	10.1.1.35.9260	Rethinking Database System Architecture: Towards a Self-tuning RISC-style Database System
+R1	10.1.1.10.594	Synthesizing Representative I/O Workloads Using Iterative Distillation
+R1	10.1.1.18.8384	Self-Similarity in File Systems
+R1	10.1.1.114.9640	The relevance of long-range dependence in disk traffic and implications for trace synthesis
+R1	10.1.1.14.7186	Techniques for File System Simulation
+R1	10.1.1.121.9559	Minerva: an automated resource provisioning tool for large-scale storage systems
+R1	10.1.1.55.2453	Analysis of an ATM Buffer with Self-Similar ("Fractal") Input Traffic
+R1	10.1.1.357.8026	Adaptive Sampling
+R1	10.1.1.111.9898	Towards self-configuring hardware for distributed computer systems
+R1	10.1.1.4.3649	Issues and Challenges in the Performance Analysis of Real Disk Arrays
+R1	10.1.1.29.5431	Capacity Planning With Phased Workloads
+R1	10.1.1.60.5985	Towards self-predicting systems: What if you could ask "what-if"?
+R1	10.1.1.90.4127	Fractal traffic: measurements, modelling and performance evaluation
+R1	10.1.1.61.7181	Resource Allocation for Autonomic Data Centers Using Analytic Performance Models
+R1	10.1.1.47.6696	On Resource Management and QoS Guarantees For Long Range Dependent Traffic
+R1	10.1.1.160.2935	RAID 5 performance with distributed sparing
+R1	10.1.1.107.4982	Benchmarking autonomic capabilities: Promises and pitfalls
+R1	10.1.1.64.8728	Autopart: Automating schema design for large scientific databases using data partitioning
+R1	10.1.1.3.3310	The Rubicon workload characterization tool
+R1	10.1.1.13.295	Analysis of Methods for Scheduling Low Priority Disk Drive Tasks
+R1	10.1.1.23.9379	A Transactional Approach to Redundant Disk Array Implementation
+R1	10.1.1.57.6402	A Human Organization Analogy for Self-* Systems
+R1	10.1.1.112.1503	Scheduling Revisited
+R1	10.1.1.94.9528	Yaksha: A self-tuning controller for managing the performance of 3-tiered web sites
+R1	10.1.1.143.5934	Deconstructing Storage Arrays
+R1	10.1.1.65.7551	Inducing models of black-box storage arrays
+R1	10.1.1.229.538	Automatic Arima Time Series Modeling for Adaptive I/O Prefetching

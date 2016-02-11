@@ -1,0 +1,22 @@
+10.1.1.190.6021	2009	Online Empirical Evaluation of Tracking Algorithms
+R1	10.1.1.36.8357	CONDENSATION - conditional density propagation for visual tracking
+R1	10.1.1.138.588	Real-Time Tracking of Non-Rigid Objects using Mean Shift
+R1	10.1.1.135.7147	Good features to track
+R1	10.1.1.142.3645	A particle filter without dynamics for robust 3d face tracking
+R1	10.1.1.10.3365	A Novel Method for Video Tracking Performance Evaluation
+R1	10.1.1.24.739	Metrics For Performance Evaluation Of Video Object Segmentation And Tracking Without Ground-Truth
+R1	10.1.1.20.6253	Particle Methods for Bayesian Modeling and Enhancement of Speech Signals
+R1	10.1.1.11.1454	Visual Tracking and Recognition Using Appearance-Adaptive Models in Particle Filters
+R1	10.1.1.8.3177	Consistent Image Registration
+R1	10.1.1.59.234	Use of an Evaluation and Diagnosis Method to Improve Tracking Performances
+R1	10.1.1.165.315	R.Ma, “A New Evaluation Approach for Video Processing Algorithms
+R1	10.1.1.103.2087	An efficient image similarity measure based on approximations of KL-divergence between two gaussian mixtures
+R1	10.1.1.49.4777	Diagnostics for Time Series Analysis.
+R1	10.1.1.63.91	Performance evaluating the evaluator
+R1	10.1.1.61.2868	Particle Methods for Change Detection, System Identification, and Control
+R1	10.1.1.61.3270	Fast Particle Smoothing: If I Had a Million Particles
+R1	10.1.1.84.2502	In situ evaluation of tracking algorithms using time reversed chain
+R1	10.1.1.97.4845	Performance Evaluation for Object Detection Algorithms for Video Surveillance
+R1	10.1.1.323.1351	Additive change detection in nonlinear systems with unknown change parameters
+R1	10.1.1.154.8233	Object Tracking by Asymmetric Kernel Mean Shift with Automatic Scale and Orientation Selection
+R1	10.1.1.164.6380	ETISEO Performance Evaluation for Video Surveillance Systems

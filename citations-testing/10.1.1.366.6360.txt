@@ -1,0 +1,27 @@
+10.1.1.366.6360	2009	An Iterative Bayesian Algorithm for Sparse Component Analysis in Presence of Noise
+R1	10.1.1.135.1907	Atomic decomposition by basis pursuit
+R1	10.1.1.348.5735	Orthogonal matching pursuit: Recursive function approximation with applications to wavelet decomposition
+R1	10.1.1.125.5610	Stable recovery of sparse overcomplete representations in the presence of noise
+R1	10.1.1.16.5173	Matching Pursuit With Time-Frequency Dictionaries
+R1	10.1.1.229.3127	Visual reconstruction
+R1	10.1.1.10.180	Nonlinear Approximation Based Image Recovery Using Adaptive Sparse Reconstructions and Iterated Denoising: Part I - Theory
+R1	10.1.1.164.7690	Learning Overcomplete Representations
+R1	10.1.1.36.4566	Blind Source Separation by Sparse Decomposition in a Signal Dictionary
+R1	10.1.1.212.6447	Compressed sensing
+R1	10.1.1.121.4983	Gradient projection for sparse reconstruction: Application to compressed sensing and other inverse problems
+R1	10.1.1.5.1195	Image Decomposition via the Combination of Sparse Representations and a Variational Approach
+R1	10.1.1.91.9526	For Most Large Underdetermined Systems of Linear Equations the Minimal ℓ1-norm Solution is also the Sparsest Solution
+R1	10.1.1.101.8462	Low Bit-Rate Compression of Facial Images
+R1	10.1.1.154.6861	Sparse Bayesian learning for basis selection
+R1	10.1.1.117.9756	MPTK: Matching pursuit made tractable
+R1	10.1.1.107.19	A bayesian approach for blind separation of sparse sources
+R1	10.1.1.11.6396	Underdetermined Blind Source Separation Using A Probabilistic Source Sparsity Model
+R1	10.1.1.233.6409	A Fast Method for Sparse Component Analysis Based on Iterative Detection-Estimation
+R1	10.1.1.62.6283	Gradient Pursuits
+R1	10.1.1.64.8625	Linear Regression With a Sparse Parameter Vector
+R1	10.1.1.154.7694	Bayesian Compressive Sensing
+R1	10.1.1.154.7730	Complex-valued sparse representation based on smoothed ℓ0 norm
+R1	10.1.1.318.3010	Decoding real-field codes by an iterative expectation-maximizaion algorithm
+R1	10.1.1.154.4291	A fast approach for overcomplete sparse decomposition based on smoothed ℓ0 norm
+R1	10.1.1.308.172	On Sparsity, Redundancy and Quality of Frame Representations
+R1	10.1.1.178.1259	Oversampled filter banks as error correction codes: Theory and impulse noise correction

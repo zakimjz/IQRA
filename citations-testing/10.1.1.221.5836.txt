@@ -1,0 +1,27 @@
+10.1.1.221.5836	2000	Volume measurement . . . sequential freehand 3D ultrasound
+R1	10.1.1.28.5468	Automatic Registration Of 3-D Ultrasound Images
+R1	10.1.1.124.5318	Snakes: Active contour models
+R1	10.1.1.41.7644	Surface Simplification Using Quadric Error Metrics
+R1	10.1.1.153.4735	Surface reconstruction from unorganized points
+R1	10.1.1.28.4153	Shape Transformation Using Variational Implicit Functions
+R1	10.1.1.224.5596	Using distance maps for accurate surface representation in sampled volumes
+R1	10.1.1.117.7311	Interactive surface decomposition for polyhedral morphing
+R1	10.1.1.21.2192	Merging Polyhedral Shapes with Scattered Features
+R1	10.1.1.30.5674	Wavelet-Based Volume Morphing
+R1	10.1.1.28.5681	Stradx: Real-time Acquisition and Visualisation of Freehand 3D Ultrasound
+R1	10.1.1.36.1376	Multiresolution Mesh Morphing
+R1	10.1.1.101.1095	Reconstructing surfaces and functions on surfaces from unorganized 3d data
+R1	10.1.1.100.3587	Arbitrary topology shape reconstruction from planar cross sections
+R1	10.1.1.30.7453	Piecewise-Linear Interpolation between Polygonal Slices
+R1	10.1.1.132.3930	Marching cubes: A high resolution 3D surface construction algorithm
+R1	10.1.1.50.9788	Feature-Based Volume Metamorphosis
+R1	10.1.1.90.8974	Fast and intuitive generation of geometric shape transitions
+R1	10.1.1.104.1036	Incremental volume reconstruction and rendering for 3D ultrasound imaging
+R1	10.1.1.48.2815	Interactive Live-Wire Boundary Extraction
+R1	10.1.1.31.74	Multilevel Sensitive Reconstruction of Polyhedral Surfaces from Parallel Slices
+R1	10.1.1.34.5450	Deformed Cross-Dissolves for Image Interpolation in Scientific Visualization
+R1	10.1.1.47.3411	Volume Distortion and Morphing Using Disk Fields
+R1	10.1.1.2.6636	3D Freehand Ultrasound: Reconstruction and Spatial Compounding
+R1	10.1.1.28.6337	Non-planar Reslicing for Freehand 3D Ultrasound
+R1	10.1.1.49.547	Generating Shaded Offset Surfaces with Distance, Closest-Point and Color Volumes
+R1	10.1.1.28.7251	Body-Centered Visualisation for Freehand 3D Ultrasound

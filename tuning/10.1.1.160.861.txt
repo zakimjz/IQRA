@@ -1,0 +1,21 @@
+10.1.1.160.861	2008	Eigenvalues of a Linear Transformation
+R1	10.1.1.31.3016	Finite Sequences and Tuples of Elements of a Non-empty Sets
+R1	10.1.1.73.6957	The fundamental properties of natural numbers
+R1	10.1.1.76.3832	Functions and their basic properties
+R1	10.1.1.79.8366	Functions from a set to a set
+R1	10.1.1.64.3381	Properties of subsets
+R1	10.1.1.77.4087	Relations and their basic properties
+R1	10.1.1.73.8056	Finite sets
+R1	10.1.1.73.6841	Domains and their Cartesian products
+R1	10.1.1.22.8024	Partial Functions
+R1	10.1.1.77.5110	Binary operations applied to finite sequences
+R1	10.1.1.30.3498	Basis of Real Linear Space
+R1	10.1.1.78.830	Basis of vector space
+R1	10.1.1.74.8647	Linear combinations in vector space
+R1	10.1.1.76.6140	Subspaces and cosets of subspaces in vector space
+R1	10.1.1.80.7994	Lattice of subgroups of a group. Frattini subgroup
+R1	10.1.1.15.8151	Associated Matrix of Linear Map
+R1	10.1.1.79.4057	Operations on subspaces in vector space
+R1	10.1.1.160.20	Basic Properties of the Rank of Matrices over a Field
+R1	10.1.1.159.9645	Linear Map of Matrices
+R1	10.1.1.160.4634	The rank+nullity theorem

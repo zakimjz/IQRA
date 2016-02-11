@@ -1,0 +1,56 @@
+10.1.1.107.5772	2005	Towards Formal Structural Representation of Spoken Language: An Evolving Transformation System (ETS) Approach
+R1	10.1.1.332.356	The Nature of Statistical Learning Theory
+R1	10.1.1.69.9657	Generalized Feature Extraction for Structural Pattern Recognition in Time-Series Data
+R1	10.1.1.28.6293	On The Use Of Support Vector Machines For Phonetic Classification
+R1	10.1.1.113.3636	Finite-State Transducers
+R1	10.1.1.297.8738	Weighted finite-state transducers in speech recognition
+R1	10.1.1.12.3015	Pronunciation Modeling Using a Finite-State Transducer Representation
+R1	10.1.1.26.6216	SVMTorch: Support Vector Machines for Large-Scale Regression Problems
+R1	10.1.1.135.4372	From HMM's to Segment Models: A Unified View  of Stochastic Modeling for Speech Recognition
+R1	10.1.1.74.7180	Properties of embedding methods for similarity searching in metric spaces
+R1	10.1.1.11.9908	What is a Knowledge Representation?
+R1	10.1.1.30.7806	A Formal Framework for Linguistic Annotation
+R1	10.1.1.58.8769	A Probabilistic Framework For Segment-Based Speech Recognition
+R1	10.1.1.12.7333	Training Of Finite-State Transducers and its Application to Pronunciation Modeling
+R1	10.1.1.51.2911	Representation is Representation of Similarities
+R1	10.1.1.32.4227	Moving Beyond the `Beads-On-A-String' Model of Speech
+R1	10.1.1.30.1502	Detection And Remediation Of Stagnation In The Nelder-Mead Algorithm Using A Sufficient Decrease Condition
+R1	10.1.1.27.9996	Concept-to-Speech Synthesis by Phonological Structure Matching
+R1	10.1.1.19.9698	A New Algorithm for the Alignment of Phonetic Sequences
+R1	10.1.1.43.2981	An Efficient k-Means Clustering Algorithm: Analysis and Implementation
+R1	10.1.1.82.256	Graphical models and automatic speech recognition
+R1	10.1.1.154.6412	Hidden feature models for speech recognition using dynamic bayesian networks
+R1	10.1.1.201.4127	Heterogeneous acoustic measurements for phonetic classification
+R1	10.1.1.369.8744	Speech recognition via phonetically-featured syllables
+R1	10.1.1.46.2269	Matching for Run-Length Encoded Strings
+R1	10.1.1.11.5953	A Generalized Kernel Approach to Dissimilarity Based Classification
+R1	10.1.1.64.5782	Framewise phone classification using support vector machines
+R1	10.1.1.189.3813	2004), Learning with distance substitution kernels
+R1	10.1.1.105.1108	International Standards Organization - ISO. Information technology - open systems interconnection - common management information protocol - part 1: Speci cation. volume ISO/IEC 9596
+R1	10.1.1.102.8119	Approximate String Matching: A Simpler Faster Algorithm
+R1	10.1.1.5.1312	What is a Structural Representation? (Second Version)
+R1	10.1.1.21.7220	What Is a Structural Measurement Process?
+R1	10.1.1.21.27	What is a structural representation
+R1	10.1.1.124.7771	Combining MRI, EMA and EPG measurements in a three-dimensional tongue model
+R1	10.1.1.32.4025	Bottom-up and Top-down Tree Series Transformations
+R1	10.1.1.16.2384	On the Use of Normalized Edit Distances and an Efficient k-NN Search Technique (k-AESA) for Fast and Accurate String Classification
+R1	10.1.1.107.519	Complexities of the centre and median string problems
+R1	10.1.1.22.704	Hidden Markov Models and other Finite State Automata for Sequence Processing
+R1	10.1.1.119.1442	A Wavelet and Filter Bank Framework For Phonetic Classification
+R1	10.1.1.62.3804	From real-time MRI to 3D tongue movements
+R1	10.1.1.2.3708	String Averages and Self-Organizing Maps for Strings
+R1	10.1.1.119.5647	What is a structural representation? Fourth variation
+R1	10.1.1.67.6717	Beyond the phoneme – A juncture-accent model for spoken language
+R1	10.1.1.61.5091	Log-Linear Interpolation of Language Models
+R1	10.1.1.123.829	2004), “On the Articulatory Representation of Speech within the Evolving Transformation System Formalism
+R1	10.1.1.61.5221	Structural Representation of Speech for Phonetic Classification
+R1	10.1.1.62.8955	Detection of Symbolic Gestural Events in Articulatory Data for Use
+R1	10.1.1.17.9941	Fast k-Nearest-Neighbours searching through extended versions of the Approximating and Eliminating Search Algorithm (AESA)
+R1	10.1.1.29.6883	An Algorithm for Deriving an Articulatory-Phonetic Representation
+R1	10.1.1.88.303	On pattern, categories, and alternative realities
+R1	10.1.1.173.4916	Learning pattern classification -- A survey
+R1	10.1.1.88.6830	Feature discovery in non-metric pairwise data
+R1	10.1.1.48.312	Convergence Of The Nelder-Mead Simplex Method To A Nonstationary Point
+R1	10.1.1.19.1719	Prototype Selection for Finding Efficient Representations of Dissimilarity Data
+R1	10.1.1.195.1846	A Multichannel Articulatory Database and its Application for Automatic Speech Recognition
+R1	10.1.1.330.9827	Phone classification with segmental features and a binarypair partitioned neural network classifier

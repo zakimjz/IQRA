@@ -1,0 +1,23 @@
+10.1.1.99.6925	2006	How practical are intrusion-tolerant distributed systems?
+R1	10.1.1.81.2133	Transparent Runtime Randomization for Security
+R1	10.1.1.3.1123	Randomized Instruction Set Emulation To Disrupt Binary . . .
+R1	10.1.1.126.9257	The Protection of Information in Computer Systems
+R1	10.1.1.11.7793	Small Byzantine Quorum Systems
+R1	10.1.1.1.4522	Paxos At War
+R1	10.1.1.29.363	An Experimental Evaluation Of The Assumption Of Independence In Multi-Version Programming *
+R1	10.1.1.12.1697	The Byzantine Generals Problem
+R1	10.1.1.10.9515	COCA: A Secure Distributed Online Certification Authority
+R1	10.1.1.131.3961	Building Diverse Computer Systems
+R1	10.1.1.56.9968	Intrusion Tolerance in Distributed Computing Systems
+R1	10.1.1.12.2426	Intrusion-Tolerant Architectures: Concepts and Design
+R1	10.1.1.20.2828	Secure Intrusion-tolerant Replication on the Internet
+R1	10.1.1.23.414	Some Recent Research Aspects of Threshold Cryptography
+R1	10.1.1.140.3711	Checking for Race Conditions in File Accesses
+R1	10.1.1.64.3146	Randomized intrusion-tolerant asynchronous services
+R1	10.1.1.118.4638	On the effectiveness of address-space randomization
+R1	10.1.1.61.5600	Fast Byzantine consensus
+R1	10.1.1.144.872	Cache missing for fun and profit
+R1	10.1.1.109.2075	Redundancy and Diversity in Security
+R1	10.1.1.58.3514	How to Tolerate Half Less One Byzantine Nodes in Practical Distributed Systems
+R1	10.1.1.96.8184	An intrusiontolerant web server based on the DISTRACT architecture
+R1	10.1.1.120.9901	Security vulnerabilities: From analysis to detection and masking techniques

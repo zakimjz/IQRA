@@ -1,0 +1,26 @@
+10.1.1.50.102	1998	GpH: An Architecture-independent Functional Language
+R1	10.1.1.141.5884	Programming Parallel Algorithms
+R1	10.1.1.56.9665	Prototyping a parallel vision system in Standard ML
+R1	10.1.1.17.3894	MPI: A Message-Passing Interface Standard
+R1	10.1.1.29.9325	Questions And Answers About BSP
+R1	10.1.1.33.8146	How to Declare an Imperative
+R1	10.1.1.28.1801	Models and Languages for Parallel Computation
+R1	10.1.1.17.101	Lazy Task Creation: A Technique for Increasing the Granularity of Parallel Programs
+R1	10.1.1.55.4431	Compiling Haskell by program transformation: a report from the trenches
+R1	10.1.1.34.3727	Visualising Granularity in Parallel Programs: A Graphical Winnowing System for Haskell
+R1	10.1.1.65.6779	Granularity in Large-Scale Parallel Functional Programming
+R1	10.1.1.34.4524	GUM: a portable parallel implementation of Haskell
+R1	10.1.1.44.733	Algorithm + Strategy = Parallelism
+R1	10.1.1.30.8705	Concurrent Haskell
+R1	10.1.1.369.367	Parallel Programming using Functional Languages
+R1	10.1.1.34.2909	The Eden Coordination Model for Distributed Memory Systems
+R1	10.1.1.31.401	Shapely Types and Shape Polymorphism
+R1	10.1.1.43.6277	Time and Space Profiling for Non-Strict, Higher-Order Functional Languages
+R1	10.1.1.37.6069	Parallel Skeletons for Structured Composition
+R1	10.1.1.149.6058	Profiling Large-Scale Lazy Functional Programs
+R1	10.1.1.36.3678	Constructing Skeletons in Clean The Bare Bones
+R1	10.1.1.25.9921	GOFFIN: Higher-Order Functions Meet Concurrent Constraints
+R1	10.1.1.221.3788	An implementation of static functional process networks
+R1	10.1.1.31.978	Application of a Para-Functional Language to Problems in Computer Algebra
+R1	10.1.1.31.1070	Parallel Distributed Programming with Haskell+PVM
+R1	10.1.1.54.4494	The Design and Implementation of the Caliban Compiler Phases

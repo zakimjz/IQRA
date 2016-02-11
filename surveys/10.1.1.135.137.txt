@@ -1,0 +1,30 @@
+10.1.1.135.137	2001	Inconsistency management in software engineering: Survey and open research issues
+R1	10.1.1.134.7596	The model checker SPIN
+R1	10.1.1.39.148	Co-ordinating Distributed ViewPoints: the anatomy of a consistency check
+R1	10.1.1.1.8070	Using ViewPoints for Inconsistency Management
+R1	10.1.1.2.2619	Viewpoints: A Framework for Integrating Multiple Perspectives in System Development
+R1	10.1.1.17.6363	Automated Consistency Checking of Requirements Specifications
+R1	10.1.1.132.4212	A Field Study of the Software Design Process for Large Systems
+R1	10.1.1.1.7533	Inconsistency Handling in Multi-Perspective Specifications
+R1	10.1.1.51.2976	ViewPoints: A Vehicle for Method and Tool Integration
+R1	10.1.1.1.7488	A Framework for Expressing the Relationships Between Multiple Views in Requirements Specification
+R1	10.1.1.31.5717	A Framework for Formalizing Inconsistencies and Deviations in Human-Centered Systems
+R1	10.1.1.51.7694	Analysing Inconsistent Specifications
+R1	10.1.1.30.3503	Telos: Representing Knowledge About Information Systems
+R1	10.1.1.1.8130	Managing Inconsistent Specifications: Reasoning, Analysis, and Action
+R1	10.1.1.18.26	Model Checking Complete Requirements Specifications Using Abstraction
+R1	10.1.1.10.6264	The Software Information Base: A Server for Reuse
+R1	10.1.1.27.2905	Software Requirements Negotiation and Renegotiation Aids: A Theory-W Based Spiral Approach
+R1	10.1.1.137.5052	An Analysis of the Requirements Traceability Problem
+R1	10.1.1.49.1151	An Integrated Formal Model of Scenarios Based on Statecharts
+R1	10.1.1.131.928	Model checking large software specifications
+R1	10.1.1.43.7144	Consistency Checking of SCR-Style Requirements Specifications
+R1	10.1.1.36.9976	Managing Standards Compliance
+R1	10.1.1.54.1664	A Semi-Automatic Process of Identifying Overlaps and Inconsistencies Between Requirements Specifications
+R1	10.1.1.21.495	Managing Requirements Inconsistency with Development Goal Monitors
+R1	10.1.1.29.1848	The Ontological Level
+R1	10.1.1.25.8636	Software Requirements Negotiation: Some Lessons Learned
+R1	10.1.1.8.8105	Making Inconsistency Respectable: Part 2 - Meta-level handling of inconsistency
+R1	10.1.1.27.4751	Constructive consistency checking for partial specification in Z
+R1	10.1.1.61.6138	Comparing Software System Requirements Negotiation Patterns
+R1	10.1.1.2.6696	Integrating Specifications: A Similarity Reasoning Approach

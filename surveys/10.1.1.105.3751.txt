@@ -1,0 +1,21 @@
+10.1.1.105.3751	2006	Constraint-based Natural Language Generation: A Survey
+R1	10.1.1.14.9312	Centering: A Framework for Modeling the Local Coherence Of Discourse
+R1	10.1.1.24.2780	Building Natural Language Generation Systems
+R1	10.1.1.14.3583	The Practical Value of N-Grams in Generation
+R1	10.1.1.141.4165	Aggregation in Natural Language Generation
+R1	10.1.1.4.6419	Document Structure
+R1	10.1.1.14.1543	Planning Texts by Constraint Satisfaction
+R1	10.1.1.27.4337	Towards A Computational Model of Poetry Generation
+R1	10.1.1.27.3027	A Flexible Integrated Architecture For Generating Poetic Texts
+R1	10.1.1.28.7642	Fast Decoding and Optimal Decoding for Machine Translation
+R1	10.1.1.330.4243	Some aspects of optimality in natural language interpretation
+R1	10.1.1.45.7538	Possibility theory in constraint satisfaction problems: Handling priority, preference and uncertainty
+R1	10.1.1.12.6658	On Identifying Sets
+R1	10.1.1.16.9107	Generating Minimal Definite Descriptions
+R1	10.1.1.19.8894	Generating with a Grammar Based on Tree Descriptions: a Constraint-Based Approach
+R1	10.1.1.324.3959	Optimising referential coherence in text generation
+R1	10.1.1.14.4188	A Head-Driven Approach to Incremental and Parallel Generation of Syntactic Structures
+R1	10.1.1.14.4781	Self-Monitoring with Reversible Grammars
+R1	10.1.1.124.6767	Towards a Probabilistic Version of Bidirectional OT Syntax and Semantics
+R1	10.1.1.23.4864	Context Modeling and the Generation of Spoken Discourse
+R1	10.1.1.10.9241	Language Choice Models for Microplanning and Readability

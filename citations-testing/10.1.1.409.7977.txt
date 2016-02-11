@@ -1,0 +1,29 @@
+10.1.1.409.7977	2008	Absence of evidence as evidence of absence: A simple mechanism for p2p search
+R1	10.1.1.139.1580	Mapping the Gnutella network: Properties of large-scale peer-to-peer systems and implications for system design
+R1	10.1.1.10.5444	Making Gnutella-like P2P Systems Scalable
+R1	10.1.1.1.3782	The Case for a Hybrid P2P Search Infrastructure
+R1	10.1.1.132.970	Search and replication in unstructured peer-to-peer networks
+R1	10.1.1.1.6174	Enhancing P2P File-Sharing with an Internet-Scale Query Processor
+R1	10.1.1.109.3848	A proof of Alon’s second eigenvalue conjecture
+R1	10.1.1.2.6329	Random Walks in Peer-to-Peer Networks
+R1	10.1.1.12.8045	Distributed Construction of Random Expander Networks
+R1	10.1.1.3.1183	Measuring and Analyzing the Characteristics of Napster and Gnutella Hosts
+R1	10.1.1.100.8258	Characterizing files in the modern gnutella network: A measurement study
+R1	10.1.1.138.5545	Characterizing unstructured overlay topologies in modern p2p file-sharing systems
+R1	10.1.1.137.3883	Towards a Better Understanding of Churn in Peer-to-Peer Networks
+R1	10.1.1.110.1304	Models of Random Regular Graphs
+R1	10.1.1.111.5316	Improving search in peer-to-peer networks
+R1	10.1.1.69.7246	Really truly trackerless bittorrent
+R1	10.1.1.19.9873	Replication Strategies in Unstructured Peer-to-Peer Networks
+R1	10.1.1.58.3445	Efficient Lookup on Unstructured Topologies
+R1	10.1.1.58.6792	Crawling Gnutella: Lessons Learned
+R1	10.1.1.137.4725	Search with Probabilistic Guarantees in Unstructured Peer-to-Peer Networks
+R1	10.1.1.67.4153	Peer-to-peer overlays: structured, unstructured, or both
+R1	10.1.1.131.1081	BubbleStorm: Resilient, probabilistic and exhaustive
+R1	10.1.1.71.3765	Understanding the practical limits of the gnutella p2p system: An analysis of query terms and object name distributions
+R1	10.1.1.153.2983	Gossip-based search selection in hybrid peer-to-peer networks
+R1	10.1.1.59.9027	Proportional Replication in Peer-to-Peer Networks
+R1	10.1.1.81.5667	Finding content in file-sharing networks when you can’t even spell
+R1	10.1.1.113.1551	Searching for Rare Objects using Index Replication
+R1	10.1.1.169.6683	Boudec, “A class of mean field interaction models for computer and communication systems
+R1	10.1.1.409.7977	Absence of evidence as evidence of absence: A simple mechanism for p2p search

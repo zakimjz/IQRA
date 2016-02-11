@@ -1,0 +1,23 @@
+10.1.1.310.7267	2013	A toolkit for ring-LWE cryptography
+R1	10.1.1.134.2183	Generalized compact knapsacks are collision resistant
+R1	10.1.1.106.5202	On Lattices, Learning with Errors, Random Linear Codes, and Cryptography
+R1	10.1.1.65.7082	Lattices that admit logarithmic worst-case to averagecase connection factors
+R1	10.1.1.110.4697	SWIFFT: A Modest Proposal for FFT Hashing
+R1	10.1.1.207.1767	Asymptotically efficient lattice-based digital signatures
+R1	10.1.1.155.5535	Algebraic Signal Processing Theory: Cooley-Tukey Type Algorithms  for DCTs and DSTs
+R1	10.1.1.362.7592	Fully homomorphic encryption using ideal lattices
+R1	10.1.1.158.9879	Public-Key Cryptographic Primitives Provably as Secure as Subset Sum
+R1	10.1.1.190.1040	GENERATING SHORTER BASES FOR HARD RANDOM LATTICES
+R1	10.1.1.371.8983	A fully homomorphic encryption scheme
+R1	10.1.1.211.5156	An efficient and parallel Gaussian sampler for lattices
+R1	10.1.1.366.5525	Lattice mixing and vanishing trapdoors – a framework for fully secure short signatures and more
+R1	10.1.1.296.3781	Efficient Fully Homomorphic Encryption from (Standard
+R1	10.1.1.296.4811	Fully Homomorphic Encryption from Ring-LWE and Security for Key Dependent Messages
+R1	10.1.1.400.5908	Fully homomorphic encryption without bootstrapping
+R1	10.1.1.225.2603	Pseudorandom Functions and Lattices
+R1	10.1.1.400.5651	Homomorphic evaluation of the AES circuit
+R1	10.1.1.400.8463	Fully homomorphic encryption with polylog overhead, Cryptology ePrint Archive
+R1	10.1.1.261.2312	Ring Switching in BGV-Style Homomorphic Encryption (Preliminary Version)
+R1	10.1.1.298.1147	Practical lattice-based cryptography: A signature scheme for embedded systems
+R1	10.1.1.400.7966	Ring-LWE in polynomial rings
+R1	10.1.1.352.8950	Trapdoors for lattices: Simpler, tighter, faster, smaller

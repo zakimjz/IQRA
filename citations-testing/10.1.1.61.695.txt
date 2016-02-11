@@ -1,0 +1,21 @@
+10.1.1.61.695	2006	Photoflux Maximizing Shapes
+R1	10.1.1.124.5318	Snakes: Active contour models
+R1	10.1.1.26.9808	Approximate N-View Stereo
+R1	10.1.1.150.3609	On implementing the push-relabel method for the maximum flow problem
+R1	10.1.1.163.250	A theory of shape by space carving
+R1	10.1.1.17.1907	Photorealistic Scene Reconstruction by Voxel Coloring
+R1	10.1.1.123.6433	Computing geodesics and minimal surfaces via graph cuts
+R1	10.1.1.21.1181	Object Recognition from Local Scale-Invariant Features
+R1	10.1.1.99.5337	Silhouette and Stereo Fusion for 3D Object Modeling
+R1	10.1.1.103.726	Regularized laplacian zero crossings as optimal edge integrators
+R1	10.1.1.295.8592	Convergent Tree-Reweighted Message Passing for Energy Minimization
+R1	10.1.1.214.6279	Multi-view Stereo via Volumetric Graph-cuts and Occlusion Robust Photo-Consistency
+R1	10.1.1.16.2288	Pseudo-Boolean Optimization
+R1	10.1.1.37.2185	Complete Dense Stereovision using Level Set Methods
+R1	10.1.1.399.3048	Efficiently Solving Dynamic Markov Random Fields using Graph Cuts
+R1	10.1.1.159.3919	Digital tapestry
+R1	10.1.1.329.6417	Tales of Shape and Radiance in Multi-view Stereo
+R1	10.1.1.1.3505	A Discrete Global Minimization Algorithm for Continuous Variational Problems
+R1	10.1.1.132.3633	A multilevel banded graph cuts method for fast image segmentation
+R1	10.1.1.117.9349	Active graph cuts
+R1	10.1.1.110.8456	What metrics can be approximated by geo-cuts, or global optimization of length/area and flux

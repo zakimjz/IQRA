@@ -1,0 +1,24 @@
+10.1.1.301.1630	2012	Modeling and exploiting heterogeneous bibliographic networks for expertise ranking
+R1	10.1.1.120.3875	Authoritative Sources in a Hyperlinked Environment
+R1	10.1.1.109.4049	The Anatomy of a Large-Scale Hypertextual Web Search Engine
+R1	10.1.1.54.6410	A Language Modeling Approach to Information Retrieval
+R1	10.1.1.14.4312	Semi-Supervised Learning Using Gaussian Fields and Harmonic Functions
+R1	10.1.1.115.3219	Learning with local and global consistency
+R1	10.1.1.224.4115	A practical guide to support vector classification
+R1	10.1.1.219.2268	Overview of the TREC 2006 Enterprise Track
+R1	10.1.1.59.4829	Object-Level Ranking: Bringing Order to Web Objects
+R1	10.1.1.68.7482	Expertise identification using email communications
+R1	10.1.1.152.589	Regularizing ad hoc retrieval  scores
+R1	10.1.1.368.1492	Retrieval evaluation with incomplete information
+R1	10.1.1.69.6702	Expert finding in a social networks
+R1	10.1.1.220.2843	Co-ranking authors and documents in a heterogeneous network
+R1	10.1.1.114.3088	Topic modeling with network regularization
+R1	10.1.1.144.4529	Learning multiple graphs for document recommendations
+R1	10.1.1.155.1932	Learning to Recognize Reliable Users and Content in Social Media with Coupled Mutual Reinforcement
+R1	10.1.1.215.6258	Ranking-based clustering of heterogeneous information networks with star network schema
+R1	10.1.1.153.1877	Enhancing Expert Finding Using Organizational Hierarchies
+R1	10.1.1.330.6257	Personalized tag recommendation using graph-based ranking on multi-type interrelated objects
+R1	10.1.1.215.5819	Formal models for expert finding on dblp bibliography data
+R1	10.1.1.183.8465	Exploiting Social Context for Review Quality Prediction
+R1	10.1.1.220.2467	Probabilistic Topic Models with Biased Propagation on Heterogeneous Information Networks
+R1	10.1.1.364.9390	Enhanced models for expertise retrieval using community-aware strategies

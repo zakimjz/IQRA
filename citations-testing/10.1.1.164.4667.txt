@@ -1,0 +1,23 @@
+10.1.1.164.4667	2008	Refunctionalization at Work
+R1	10.1.1.202.3797	Control-Flow Analysis of Higher-Order Languages
+R1	10.1.1.110.5892	Definitional interpreters for higher-order programming languages
+R1	10.1.1.169.9577	A tail-recursive semantics for stack inspections
+R1	10.1.1.33.6545	From ML to Ada: Strongly-typed Language Interoperability via Source Translation
+R1	10.1.1.22.8034	Automatically Restructuring Programs for the Web
+R1	10.1.1.16.4687	Back to Direct Style II: First-Class Continuations
+R1	10.1.1.100.4883	A functional correspondence between monadic evaluators and abstract machines for languages with computational effects
+R1	10.1.1.197.3493	A functional correspondence between evaluators and abstract machines
+R1	10.1.1.59.7417	A Functional Correspondence between Call-by-Need Evaluators and Lazy Abstract Machines
+R1	10.1.1.19.312	A Compiled Implementation of Strong Reduction
+R1	10.1.1.164.1540	A Rational Deconstruction of Landin’s SECD Machine
+R1	10.1.1.59.7886	From Interpreter to Logic Engine by Defunctionalization
+R1	10.1.1.83.332	Definitional interpreters revisited
+R1	10.1.1.59.7383	Lambda-Lifting in Quadratic Time
+R1	10.1.1.165.1113	A Denotational Investigation of Defunctionalization
+R1	10.1.1.341.5093	An operational foundation for delimited continuations in the CPS hierarchy
+R1	10.1.1.164.8441	On the Dynamic Extent of Delimited Continuations
+R1	10.1.1.68.6288	State-Transition Machines, Revisited
+R1	10.1.1.164.1380	A Dynamic Continuation-Passing Style for Dynamic Delimited Continuations
+R1	10.1.1.164.4667	Refunctionalization at Work
+R1	10.1.1.96.122	Proof-directed debugging” revisited for a first-order version
+R1	10.1.1.164.9540	A concrete framework for environment machines

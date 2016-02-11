@@ -1,0 +1,21 @@
+10.1.1.112.5787	2000	Iterative Solution of Linear Systems in the 20th Century
+R1	10.1.1.331.239	An iterative method for the solution of the eigenvalue problem of linear differential and integral
+R1	10.1.1.38.4540	Any Nonincreasing Convergence Curve is Possible for GMRES
+R1	10.1.1.113.8310	Orderings for incomplete factorization preconditioning of nonsymmetric problems
+R1	10.1.1.217.3718	LSQR: An Algorithm for Sparse Linear Equations and Sparse Least Squares
+R1	10.1.1.113.8121	A sparse approximate inverse preconditioner for nonsymmetric linear systems
+R1	10.1.1.55.177	A Two-Level Parallel Preconditioner Based on Sparse Approximate Inverses
+R1	10.1.1.54.4964	Row Projection Methods For Large Nonsymmetric Linear Systems
+R1	10.1.1.39.1134	Approximate Inverse Preconditioners Via Sparse-Sparse Iterations
+R1	10.1.1.130.3118	Solution of systems of linear equations by minimized iterations
+R1	10.1.1.117.2955	Krylov subspace methods on supercomputers
+R1	10.1.1.53.2157	GMRESR: A family of nested GMRES methods
+R1	10.1.1.377.6932	T.: Accelerated projection methods for computing pseudoinverse solutions of systems of linear equations
+R1	10.1.1.40.849	An Analysis Of The Composite Step Biconjugate Gradient Method
+R1	10.1.1.25.3597	Variable Metric Conjugate Gradient Methods
+R1	10.1.1.35.6882	Approximate Inverse Techniques for Block-Partitioned Matrices
+R1	10.1.1.329.5193	A theoretical overview of Krylov subspace methods
+R1	10.1.1.42.9769	Matrices that Generate the Same Krylov Residual Spaces
+R1	10.1.1.29.1403	Look-Ahead In Bi-CGSTAB And Other Product Methods For Linear Systems
+R1	10.1.1.30.3441	SOR as a Preconditioner
+R1	10.1.1.35.6306	An evaluation of parallel multigrid as a solver and a preconditioner for singular perturbed problems Part I: The standard grid sequence

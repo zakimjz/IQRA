@@ -1,0 +1,21 @@
+10.1.1.153.2675	2002	A Cache-Friendly Liquid Load Balancer
+R1	10.1.1.118.2962	Cache memories
+R1	10.1.1.114.4215	Compiler Transformations for High-Performance Computing
+R1	10.1.1.130.5005	Graph partitioning models for parallel computing
+R1	10.1.1.38.9155	Data Transformations for Eliminating Conflict Misses
+R1	10.1.1.133.892	The Cache Performance and Optimizations of Blocked Algorithms
+R1	10.1.1.46.206	Forecasting Network Performance to Support Dynamic Scheduling Using the Network Weather Service
+R1	10.1.1.145.1248	A Comparison of Compiler Tiling Algorithms
+R1	10.1.1.46.7525	Efficient Schemes for Nearest Neighbor Load Balancing
+R1	10.1.1.54.7987	On Partitioning Dynamic Adaptive Grid Hierarchies
+R1	10.1.1.42.8977	Dynamic Load Balancing in Computational Mechanics
+R1	10.1.1.21.7830	Efficient Run-time Support for Irregular Block-Structured Applications
+R1	10.1.1.21.7323	A Programming Methodology for Dual-tier Multicomputers
+R1	10.1.1.42.9026	Scalable Load Balancing Techniques for Parallel Computers
+R1	10.1.1.17.5517	Tiling Optimizations for 3D Scientific Computations
+R1	10.1.1.31.6040	Dynamic Partitioning of Non-Uniform Structured Workloads with Spacefilling Curves
+R1	10.1.1.30.8362	The Quality Of Partitions Produced By An Iterative Load Balancer
+R1	10.1.1.39.4937	Architecture-Cognizant Divide and Conquer Algorithms
+R1	10.1.1.55.9550	A Hierarchical Partition Model for Adaptive Finite Element Computation
+R1	10.1.1.30.245	Empirical Evaluation of the CRAY-T3D: A Compiler Perspective
+R1	10.1.1.39.4320	Cache-aware Multigrid Methods for Solving Poisson's Equation in Two Dimensions

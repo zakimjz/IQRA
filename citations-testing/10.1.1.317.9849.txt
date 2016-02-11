@@ -1,0 +1,49 @@
+10.1.1.317.9849	2008	Moving object detection in spatial domain using background removal techniques -- State-of-art
+R1	10.1.1.20.215	Background and Foreground Modeling Using Nonparametric Kernel Density Estimation for Visual Surveillance
+R1	10.1.1.54.7209	W4: Who? When? Where? What? A Real Time System for Detecting and Tracking People
+R1	10.1.1.215.296	Pfinder: Real-time tracking of the human body
+R1	10.1.1.20.663	A Probabilistic Background Model for Tracking
+R1	10.1.1.121.4539	A framework for high-level feedback to adaptive, per-pixel, mixture-of-gaussian background models
+R1	10.1.1.332.5361	Background modeling and subtraction of dynamic scenes
+R1	10.1.1.15.225	Dynamic Textures
+R1	10.1.1.10.9828	Direct least Square Fitting of Ellipses
+R1	10.1.1.381.8106	Small vision system: Hardware and implementation
+R1	10.1.1.24.3528	Topology Free Hidden Markov Models: Application to Background Modeling
+R1	10.1.1.300.3958	A Bayesian Framework for Gaussian Mixture Background Modeling
+R1	10.1.1.24.39	Foreground Segmentation Using Adaptive Mixture Models in Color and Depth
+R1	10.1.1.43.1926	A Noise Robust Method For 2D Shape Estimation Of Moving Objects In Video Sequences Considering A Moving Camera
+R1	10.1.1.21.935	Fast Lighting Independent Background Subtraction
+R1	10.1.1.10.3365	A Novel Method for Video Tracking Performance Evaluation
+R1	10.1.1.6.3100	Evaluation of Global Image Thresholding for change detection
+R1	10.1.1.21.963	Statistical Modeling and Performance Characterization of a Real-Time Dual Camera Surveillance System
+R1	10.1.1.165.4530	Statistical modelbased change detection in moving video
+R1	10.1.1.10.480	Motion-Based Background Subtraction Using Adaptive Kernel Density Estimation
+R1	10.1.1.21.1649	Error Analysis of Background Adaption
+R1	10.1.1.83.6834	Detection and location of people in video images using adaptive fusion of color and edge information
+R1	10.1.1.87.1244	A statistical approach for real-time robust background subtraction and shadow detection
+R1	10.1.1.18.8876	Into the Woods: Visual Surveillance of Non-Cooperative and camouflaged targets in complex outdoor settings
+R1	10.1.1.86.8364	Image registration methods: a survey
+R1	10.1.1.140.2860	Detecting Moving Objects, Ghosts and Shadows in Video Streams
+R1	10.1.1.100.9509	A real-time system for monitoring of cyclists and pedestrians
+R1	10.1.1.16.5281	On-Line Adaptive Learning Of The Correlated Continuous Density Hidden Markov Models For Speech Recognition
+R1	10.1.1.35.3574	Adaptive Change Detection for Real-Time Surveillance Applications
+R1	10.1.1.214.6703	Robust techniques for background subtraction in urban traffic video
+R1	10.1.1.115.7974	Efficient Kernel Density Estimation using the Fast Gauss Transform with Applications to Color Modeling and Tracking
+R1	10.1.1.4.9347	Survey over Image Thresholding Techniques and Quantitative Performance Evaluation
+R1	10.1.1.83.5308	Bayesian illumination-invariant motion detection
+R1	10.1.1.31.8951	An Integrated Traffic and Pedestrian Model-Based Vision System
+R1	10.1.1.55.3591	Statistical Approaches to Feature-Based Object Recognition
+R1	10.1.1.18.4835	Background Estimation and Removal Based on Range and Color
+R1	10.1.1.12.7825	Evaluation of Local Models of Dynamic Backgrounds
+R1	10.1.1.145.1079	A perturbation method for evaluating background subtraction algorithms
+R1	10.1.1.115.7242	Efficient non-parametric adaptive color modeling using fast gauss transform
+R1	10.1.1.68.4752	Frame-rate omnidirectional surveillance and tracking of camouflaged and occluded targets
+R1	10.1.1.379.8215	Objective evaluation of video segmentation quality
+R1	10.1.1.331.477	Objective evaluation of segmentation masks in video sequences
+R1	10.1.1.20.4374	Why Table Ground-Truthing is Hard
+R1	10.1.1.134.2179	View-Based Detection and Analysis of Periodic Motion
+R1	10.1.1.25.6363	Mixture Splitting Technic and Temporal Control in a HMM-Based Recognition System
+R1	10.1.1.3.7287	A Novel Probability Model for Background Maintenance and Subtraction
+R1	10.1.1.54.495	Active Surveillance Using Dynamic Background Subtraction.
+R1	10.1.1.97.4845	Performance Evaluation for Object Detection Algorithms for Video Surveillance
+R1	10.1.1.58.3899	Targeting: Principles And Practice

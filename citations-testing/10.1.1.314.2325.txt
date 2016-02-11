@@ -1,0 +1,30 @@
+10.1.1.314.2325	2008	Overview of some general results in combinatorial enumeration
+R1	10.1.1.226.3175	Formal Languages
+R1	10.1.1.10.3477	Counting pattern-free set partitions I: A generalization of Stirling numbers of the second kind
+R1	10.1.1.11.2326	Counting pattern-free set partitions. II: Noncrossing and other hypergraphs
+R1	10.1.1.122.6815	Extensions of the linear bound in the Füredi-Hajnal conjecture
+R1	10.1.1.34.9260	On the Stanley-Wilf conjecture for the number of permutations avoiding a given pattern
+R1	10.1.1.10.2717	Simple Permutations and Pattern Restricted Permutations
+R1	10.1.1.127.2673	Simple permutations and algebraic generating functions
+R1	10.1.1.235.8966	On the Wilf-Stanley limit of 4231-avoiding permutations and a conjecture of Arratia
+R1	10.1.1.140.744	Oligomorphic permutation groups
+R1	10.1.1.101.8160	Some relational structures with polynomial growth and their associated algebras
+R1	10.1.1.65.5991	The insertion encoding of permutations
+R1	10.1.1.104.7740	Grid Classes and the Fibonacci Dichotomy for Restricted Permutations
+R1	10.1.1.105.1644	Permutation classes of polynomial growth
+R1	10.1.1.106.6712	AUTOMATIC ENUMERATION OF REGULAR OBJECTS
+R1	10.1.1.240.3583	Hereditary properties of combinatorial structures: posets and oriented graphs
+R1	10.1.1.157.5277	Hereditary properties of tournaments
+R1	10.1.1.95.3092	Measures on monotone properties of graphs
+R1	10.1.1.239.8102	Extremal problems for ordered (hyper) graphs: applications of Davenport–Schinzel sequences
+R1	10.1.1.54.3508	Some Counting Problems Related to Permutation Groups
+R1	10.1.1.127.3072	Enumeration Schemes for Restricted Permutations
+R1	10.1.1.81.2934	The complexity of generating functions for integer points in polyhedra and beyond
+R1	10.1.1.97.5991	Growth and ergodicity of context-free languages
+R1	10.1.1.85.4018	Growth-sensitivity of context-free languages
+R1	10.1.1.192.3926	Context-free languages of subexponential growth, unpublished
+R1	10.1.1.237.9275	Short rational generating functions for lattice point problems
+R1	10.1.1.239.102	Hereditary properties of ordered graphs
+R1	10.1.1.211.9157	Growing at a Perfect Speed
+R1	10.1.1.251.1704	Generalizations of Khovanskiĭ’s theorems on growth of sumsets in abelian semigroups
+R1	10.1.1.308.166	GROWTH AND ERGODICITY OF CONTEXT-FREE LANGUAGES II: THE LINEAR CASE

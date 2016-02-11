@@ -1,0 +1,23 @@
+10.1.1.1.4491	2004	Analyzing Correlation Between Trust and User Similarity In Online Communities
+R1	10.1.1.212.5185	Using information content to evaluate semantic similarity in a taxonomy
+R1	10.1.1.136.4322	GroupLens: An Open Architecture for Collaborative Filtering of Netnews
+R1	10.1.1.295.6894	Trust networks on the semantic Web
+R1	10.1.1.39.2552	Recommender Systems in E-Commerce
+R1	10.1.1.217.1056	Attack resistant trust metrics for public key certification
+R1	10.1.1.23.7883	Supporting Trust in Virtual Communities
+R1	10.1.1.102.8227	Formalising trust as a computational concept
+R1	10.1.1.95.1425	Computing and using reputations for internet ratings
+R1	10.1.1.104.3739	Using collaborative filtering to weave an information tapestry
+R1	10.1.1.215.2782	Open rating systems
+R1	10.1.1.43.8948	Optimism and Pessimism in Trust
+R1	10.1.1.26.1459	Modelling a Public-Key Infrastructure
+R1	10.1.1.155.1213	The Meanings of Trust
+R1	10.1.1.117.849	Exploiting synergy between ontologies and recommender systems
+R1	10.1.1.16.5248	Capturing Knowledge of User Preferences: Ontologies in Recommender Systems
+R1	10.1.1.11.4939	Opinion-Based Filtering Through Trust
+R1	10.1.1.116.6001	A computational model of trust and reputation
+R1	10.1.1.12.5584	Implicit Rating and Filtering
+R1	10.1.1.29.8381	Application of Dimensionality Reduction in Recommender System -- A Case Study
+R1	10.1.1.30.6583	Social Information Filtering: Algorithms for Automating "Word of Mouth"
+R1	10.1.1.144.444	Semantic web recommender systems
+R1	10.1.1.58.4691	Spreading Activation Models for Trust Propagation

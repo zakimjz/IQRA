@@ -1,0 +1,23 @@
+10.1.1.393.9715	2012	Segmentation using superpixels: A bipartite graph partitioning approach
+R1	10.1.1.13.6524	Learning the Kernel Matrix with Semi-Definite Programming
+R1	10.1.1.108.5214	Fast Multiscale Image Segmentation
+R1	10.1.1.14.3601	Normalized Cuts and Image Segmentation
+R1	10.1.1.129.7150	Graph Partition by Swendsen-Wang Cuts
+R1	10.1.1.160.3832	Mean shift: A robust approach toward feature space analysis
+R1	10.1.1.129.2941	A database of human segmented natural images and its application to evaluating segmentation algorithms and measuring ecological statistics
+R1	10.1.1.105.506	Popular ensemble methods: an empirical study
+R1	10.1.1.17.8667	Unsupervised Segmentation of Color-Texture Regions in Images and Video
+R1	10.1.1.324.4538	Multiclass spectral clustering
+R1	10.1.1.103.1465	Spectral segmentation with multiscale graph decomposition
+R1	10.1.1.11.2222	Efficient Graph-Based Image Segmentation
+R1	10.1.1.77.7341	Comparing clusterings: an axiomatic view
+R1	10.1.1.58.6852	Solving Cluster Ensemble Problems by Bipartite Graph Partitioning
+R1	10.1.1.115.3292	Learning a classification model for segmentation
+R1	10.1.1.140.4858	Automatic image segmentation by positioning a seed
+R1	10.1.1.71.4322	Toward Objective Evaluation of Image Segmentation Algorithms
+R1	10.1.1.113.4221	Unsupervised Segmentation of Natural Images via Lossy Data Compression
+R1	10.1.1.153.4065	From Contours to Regions: An Empirical Evaluation
+R1	10.1.1.154.6645	Saliency Driven Total Variation Segmentation
+R1	10.1.1.225.1256	Normalized tree partitionning for image segmentation
+R1	10.1.1.170.2083	Large Graph Construction for Scalable Semi-Supervised Learning
+R1	10.1.1.423.5754	Image segmentation by figure-ground composition into maximal cliques

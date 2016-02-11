@@ -1,0 +1,21 @@
+10.1.1.161.280	2005	Cashmere: Resilient anonymous routing
+R1	10.1.1.307.2520	Security for structured peer-to-peer overlay networks
+R1	10.1.1.160.7346	A measurement study of peer-to-peer file sharing systems
+R1	10.1.1.140.3129	A Scalable Content-Addressable Network
+R1	10.1.1.28.5987	Pastry: Scalable, distributed object location and routing for large-scale peer-to-peer systems
+R1	10.1.1.105.3673	Chord: A Scalable Peer-to-Peer Lookup Service for Internet Applications
+R1	10.1.1.10.7268	Measurement, Modeling, and Analysis of a Peer-to-Peer File-Sharing Workload
+R1	10.1.1.128.8210	Untraceable electronic mail, return addresses, and digital pseudonyms
+R1	10.1.1.16.3291	Introducing Tarzan, a Peer-to-Peer Anonymizing Network Layer
+R1	10.1.1.2.5823	Asymptotically Efficient Approaches to Fault-Tolerance in Peer-to-Peer Networks
+R1	10.1.1.11.8056	Analysis of the Evolution of Peer-to-Peer Systems
+R1	10.1.1.10.5979	Handling Churn in a DHT
+R1	10.1.1.10.983	Performance and Dependability of Structured Peer-to-Peer Overlays
+R1	10.1.1.13.2911	Enforcing Fair Sharing of Peer-to-Peer Resources
+R1	10.1.1.30.3785	Crowds: Anonymity for Web Transactions
+R1	10.1.1.12.6726	Mix-networks with Restricted Routes
+R1	10.1.1.144.2492	Tor: The Second-Generation Onion Router
+R1	10.1.1.10.6059	Exploiting Routing Redundancy via Structured Peer-to-Peer Overlays
+R1	10.1.1.129.3214	Towards an Analysis of Onion Routing Security
+R1	10.1.1.331.3883	Anonymous connections and onion routing
+R1	10.1.1.61.6219	AP3: Cooperative, decentralized anonymous communication

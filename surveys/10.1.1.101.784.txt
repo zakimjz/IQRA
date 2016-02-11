@@ -1,0 +1,49 @@
+10.1.1.101.784	2005	Semantic integration research in the database community: A brief survey
+R1	10.1.1.122.4181	Using Schema Matching to Simplify Heterogeneous Data Translation
+R1	10.1.1.118.6768	Federated database systems for managing distributed, heterogeneous, and autonomous databases
+R1	10.1.1.38.7636	Querying Heterogeneous Information Sources Using Source Descriptions
+R1	10.1.1.32.9330	The Use of Classifiers in Sequential Inference
+R1	10.1.1.31.157	An Adaptive Query Execution System for Data Integration
+R1	10.1.1.17.4650	Generic Schema Matching with Cupid
+R1	10.1.1.107.7214	A Comparative Analysis of Methodologies for Database Schema Integration
+R1	10.1.1.33.2176	Wrapper Induction for Information Extraction
+R1	10.1.1.18.4360	Representing and Reasoning about Mappings between Domain Models
+R1	10.1.1.154.5622	Category translation: learning to understand information on the internet
+R1	10.1.1.91.9907	Data Integration: A Theoretical Perspective
+R1	10.1.1.13.49	Merging Models Based on Given Correspondences
+R1	10.1.1.29.8523	Modeling Web Sources for Information Integration
+R1	10.1.1.1.5288	Interactive Deduplication using Active Learning
+R1	10.1.1.21.3842	Learning to Match and Cluster Entity Names
+R1	10.1.1.34.4329	Efficient Clustering of High-Dimensional Data Sets with Application to Reference Matching
+R1	10.1.1.23.9685	The field matching problem: Algorithms and applications
+R1	10.1.1.204.572	On matching schemas automatically
+R1	10.1.1.12.2729	Applying Model Management to Classical Meta Data Problems
+R1	10.1.1.12.1545	Crossing the Structure Chasm
+R1	10.1.1.8.557	Statistical Schema Matching across Web Query Interfaces
+R1	10.1.1.127.2920	Corpus-based schema matching
+R1	10.1.1.330.5989	Machine learning for information extraction in informal domains
+R1	10.1.1.135.2192	Similarity Flooding: A Versatile Graph Matching Algorithm and Its Application to Schema Matching
+R1	10.1.1.58.6828	Discovering Complex Matchings across Web Query Interfaces: A Correlation Mining Approach
+R1	10.1.1.89.3036	An interactive clustering-based approach to integrating source query interfaces on the deep web
+R1	10.1.1.18.5755	PROMPT: Algorithm and Tool for Automated Ontology Merging and Alignment
+R1	10.1.1.88.7593	Data integration: Where does the time go
+R1	10.1.1.363.2258	Issues and approaches of database integration
+R1	10.1.1.55.2700	The Merge/Purge Problem for Large Databases
+R1	10.1.1.11.6470	Database Schema Matching Using Machine Learning with Feature Selection
+R1	10.1.1.18.7666	Anchor-PROMPT: Using Non-Local Context for Semantic Matching
+R1	10.1.1.2.9029	Mapping Adaptation under Evolving Schemas
+R1	10.1.1.158.3281	Attribute Classification Using Feature Analysis
+R1	10.1.1.111.7190	On Schema Matching with Opaque Column Names and Data Values
+R1	10.1.1.34.3301	Experience with a Combined Approach to Attribute-Matching Across Heterogeneous Databases
+R1	10.1.1.77.858	From Semantic Integration to Semantics Management: Case Studies and a Way Forward
+R1	10.1.1.19.9539	Eliminating Fuzzy Duplicates in Data Warehouses
+R1	10.1.1.14.3773	Text Joins for Data Cleansing and Integration in an RDBMS
+R1	10.1.1.13.2186	Learning Domain-Independent String Transformation Weights for High Accuracy Object Identification
+R1	10.1.1.158.8535	SEMINT: A tool for identifying attribute correspondences in heterogeneous databases using neural networks
+R1	10.1.1.321.6115	Information-theoretic tools for mining database structure from large data sets
+R1	10.1.1.104.5208	Semex: Toward on-the-fly personal information integration
+R1	10.1.1.106.878	Multifaceted exploitation of metadata for attribute match discovery in information integration
+R1	10.1.1.38.769	Efficiently Executing Information-Gathering Plans
+R1	10.1.1.11.879	Optimizing Recursive Information Gathering Plans
+R1	10.1.1.14.3554	Wrapper Maintenance: A Machine Learning Approach
+R1	10.1.1.4.9964	Building Data Integration Systems via Mass Collaboration

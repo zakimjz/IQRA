@@ -1,0 +1,23 @@
+10.1.1.336.1104	2005	Fractal Approach to Large-Scale Galaxy
+R1	10.1.1.49.512	The Las Campanas Redshift Survey
+R1	10.1.1.338.1767	The three-dimensional power spectrum of galaxies from the Sloan Digital Sky Survey
+R1	10.1.1.337.6356	A Comparison of Estimators for the Two-Point Correlation Function,” ApJ 535
+R1	10.1.1.336.4053	Making sense of the new cosmology
+R1	10.1.1.336.2688	2000b Phase information and the evolution of cosmological density perturbations
+R1	10.1.1.254.9447	The power spectrum in a strongly inhomogeneous Universe
+R1	10.1.1.49.9478	Angular Projections of Fractal Sets
+R1	10.1.1.254.2751	The Local Group as a test of cosmological models
+R1	10.1.1.337.9250	Conceptual problems of fractal cosmology
+R1	10.1.1.317.6703	The Luminosity and Color Dependence of the Galaxy Correlation Function
+R1	10.1.1.249.68	Bias Properties of Extragalactic Distance Indicators XII: Bias Effects of Slope Differences and Intrinsic Dispersion on Tully-Fisher Distances to Galaxy Clusters with Application to the Virgo Cluster
+R1	10.1.1.336.2366	The richness-dependent cluster correlation function: early sloan digital sky survey data
+R1	10.1.1.255.4792	Why is the Hubble flow so quiet?
+R1	10.1.1.256.666	The large-scale smoothness of the universe
+R1	10.1.1.255.5415	Nature of Clustering in the Las Campanas Redshift Survey
+R1	10.1.1.256.572	FRACTAL STRUCTURES DRIVEN by SELF-GRAVITY: Molecular clouds and the Universe
+R1	10.1.1.256.1616	The Kinematic State of the Local Volume
+R1	10.1.1.256.4195	Constrained Simulations of the Real Universe: the Local
+R1	10.1.1.258.2980	THE HUBBLE FLOW: WHY DOES THE COSMOLOGICAL EXPANSION PRESERVE ITS KINEMATICAL IDENTITY FROM A FEW MPC DISTANCE TO THE OBSERVATION HORIZON?
+R1	10.1.1.316.3503	From Messier to Abell: 200 Years of Science with Galaxy Clusters
+R1	10.1.1.315.2148	The 2dF Galaxy Redshift Survey: luminosity dependence of galaxy clustering
+R1	10.1.1.316.2528	The signature of dark energy on the local Hubble flow

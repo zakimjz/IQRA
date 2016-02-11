@@ -1,0 +1,36 @@
+10.1.1.101.9896	2003	Cache Memory Design Trade-offs for Current and Emerging Workloads
+R1	10.1.1.222.3671	Drowsy Caches: Simple Techniques for Reducing Leakage Power
+R1	10.1.1.152.2300	Cache Decay: Exploiting Generational Behavior to Reduce Cache Leakage Power
+R1	10.1.1.34.7057	Selective Cache Ways: On-Demand Cache Resource Allocation
+R1	10.1.1.55.4061	A Data Cache with Multiple Caching Strategies Tuned to Different Types of Locality
+R1	10.1.1.14.7207	Reducing Set-Associative Cache Energy via Way-Prediction and Selective Direct-Mapping
+R1	10.1.1.178.4113	Piranha: A scalable architecture based on single-chip multiprocessing
+R1	10.1.1.22.3694	Clock Rate versus IPC: The End of the Road for Conventional Microarchitectures
+R1	10.1.1.129.1383	Simultaneous Multithreading: Maximizing On-Chip Parallelism
+R1	10.1.1.1.3293	A Highly Configurable Cache Architecture for Embedded Systems
+R1	10.1.1.301.3351	Organization and performance of a two-level virtual-real cache hierarchy
+R1	10.1.1.44.8078	Efficient Simulation of Caches under Optimal Replacement with Applications to Miss Characterization
+R1	10.1.1.14.9050	An Integrated Circuit/Architecture Approach to Reducing Leakage in Deep-Submicron High-Performance I-Caches
+R1	10.1.1.13.653	Variability in Architectural Simulations of Multi-threaded Workloads
+R1	10.1.1.126.8147	Memory System Characterization of Commercial Workloads
+R1	10.1.1.121.9133	SimICS/sun4m: A virtual workstation
+R1	10.1.1.118.3322	Pipeline gating: speculation control for energy reduction
+R1	10.1.1.104.6469	The SPLASH-2 programs: Characterization and methodological considerations
+R1	10.1.1.119.5559	An analysis of database workload performance on simultaneous multithreaded processors
+R1	10.1.1.103.8641	DBMSs on a modern processor: Where does time go
+R1	10.1.1.77.9232	Utilizing reuse information in data cache management
+R1	10.1.1.375.1836	Evaluation of a Split Scalar/Array Cache Architecture
+R1	10.1.1.136.951	The Case for a Single-Chip Multiprocessor
+R1	10.1.1.23.3720	Characterizing the Memory Behavior of Java Workloads: A Structured View and Opportunities for Optimizations
+R1	10.1.1.104.6607	TLB and snoop energy-reduction using virtual caches
+R1	10.1.1.20.6892	Locality vs. Criticality
+R1	10.1.1.180.1608	Randomized cache placement for eliminating conflicts
+R1	10.1.1.113.5785	Power considerations in the design of the Alpha 21264 microprocessor
+R1	10.1.1.66.1706	An architectural evaluation of Java TPC-W
+R1	10.1.1.36.8311	Improvement of Energy-Efficiency in Off-Chip Caches by Selective Prefetching
+R1	10.1.1.141.3453	Run-time adaptive cache management
+R1	10.1.1.12.9346	Memory System Behavior of Java-Based Middleware
+R1	10.1.1.9.151	Memory Characterization of the ECperf Benchmark
+R1	10.1.1.21.3754	Workload Characterization of Multithreaded Java Servers
+R1	10.1.1.37.2630	Cache Replacement with Dynamic Exclusion
+R1	10.1.1.43.2939	A New Case for Skewed-Associativity

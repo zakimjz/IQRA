@@ -1,0 +1,58 @@
+10.1.1.102.3146	2004	Total order broadcast and multicast algorithms: Taxonomy and survey
+R1	10.1.1.142.3682	Time, Clocks, and the Ordering of Events in a Distributed System
+R1	10.1.1.14.6961	The Timed Asynchronous Distributed System Model
+R1	10.1.1.17.1012	Specifying and Using a Partitionable Group Communication Service
+R1	10.1.1.13.3423	Consensus in the Presence of Partial Synchrony
+R1	10.1.1.19.346	An Indulgent Uniform Total Order Algorithm with Optimistic Delivery
+R1	10.1.1.12.1697	The Byzantine Generals Problem
+R1	10.1.1.106.6258	Reliable Communication in the Presence of Failures
+R1	10.1.1.125.8216	Lightweight causal and atomic group multicast
+R1	10.1.1.138.8072	RTCAST: Lightweight Multicast for Real-Time Process Groups
+R1	10.1.1.39.5749	The Transis Approach to High Availability Cluster Communication
+R1	10.1.1.36.5618	Newtop: A Fault-Tolerant Group Communication Protocol
+R1	10.1.1.19.5347	Probabilistic Atomic Broadcast
+R1	10.1.1.17.6341	The Weakest Failure Detector for Solving Consensus
+R1	10.1.1.164.3636	From group communication to transactions in distributed systems
+R1	10.1.1.37.5	Don't be lazy, be consistent: Postgres-R, A new way to implement Database Replication
+R1	10.1.1.42.7185	Phoenix -- A Toolkit for Building Fault-Tolerant, Distributed Applications in Large Scale
+R1	10.1.1.17.5958	Failure Detection and Consensus in the Crash-Recovery Model
+R1	10.1.1.2.2788	Atomic Broadcast in Asynchronous Crash-Recovery Distributed Systems
+R1	10.1.1.116.4996	Understanding the Limitations of Causally and Totally Ordered Communication
+R1	10.1.1.31.430	Totally Ordered Broadcast in the Face of Network Partitions. Exploiting Group Communication for Replication in Partitionable Networks
+R1	10.1.1.37.7426	Processing Transactions over Optimistic Atomic Broadcast Protocols
+R1	10.1.1.160.4709	Understanding replication in databases and distributed systems
+R1	10.1.1.110.3165	Totem: A fault-tolerant multicast group communication system
+R1	10.1.1.106.766	Secure agreement protocols: Reliable and atomic group multicast in Rampart
+R1	10.1.1.25.2944	A High Performance Totally Ordered Multicast Protocol
+R1	10.1.1.56.3906	Exploiting Atomic Broadcast in Replicated Databases
+R1	10.1.1.38.4715	Consul: A Communication Substrate for Fault-Tolerant Distributed Programs
+R1	10.1.1.24.1984	Using Optimistic Atomic Broadcast in Transaction Processing Systems ∗
+R1	10.1.1.126.8895	Modeling consensus in a process calculus
+R1	10.1.1.54.9773	Atomic Broadcast: From Simple Message Diffusion to Byzantine Agreement
+R1	10.1.1.10.6270	Solving Agreement Problems with Weak Ordering Oracles
+R1	10.1.1.29.1292	Thrifty Generic Broadcast
+R1	10.1.1.10.6922	Early-Delivery Dynamic Atomic Broadcast (Extended Abstract)
+R1	10.1.1.48.1961	xAMp: a Multi-primitive Group Communications Service
+R1	10.1.1.53.7524	A Performance Comparison of Asynchronous Atomic Broadcast Protocols
+R1	10.1.1.26.2584	A Modular Approach to Fault-Tolerant Broadcasts and Related Problems
+R1	10.1.1.119.685	Automatically increasing the fault-tolerance of distributed algorithms
+R1	10.1.1.39.8896	Early Delivery Totally Ordered Multicast in Asynchronous Environments
+R1	10.1.1.38.4511	Preserving and Using Context Information in Interprocess Communication
+R1	10.1.1.52.8729	Totally ordered multicast in large-scale systems
+R1	10.1.1.19.8323	Optimistic Total Order in Wide Area Networks
+R1	10.1.1.27.6456	Revisiting the Relationship Between Non-Blocking Atomic Commitment and Consensus
+R1	10.1.1.37.767	The Totem Single-Ring Ordering and Membership Protocol
+R1	10.1.1.142.3731	Backoff protocols for distributed mutual exclusion and ordering
+R1	10.1.1.107.6237	Efficient atomic broadcast using deterministic merge
+R1	10.1.1.47.3703	Reservation-Based Totally Ordered Multicasting
+R1	10.1.1.103.3026	A note on total ordering multicast using propagation trees
+R1	10.1.1.131.4288	Asynchronous atomic broadcast
+R1	10.1.1.19.121	Optimistic Active Replication
+R1	10.1.1.40.652	Scalable Atomic Multicast
+R1	10.1.1.360.9174	A.: Genuine atomic multicast in asynchronous distributed systems
+R1	10.1.1.52.7958	Consistency Algorithms for Optimistic Replication
+R1	10.1.1.38.4130	An Evaluation of the Amoeba Group Communication System
+R1	10.1.1.147.743	Protocol switching: Exploiting meta-properties
+R1	10.1.1.30.7914	Contention-Aware Metrics for Distributed Algorithms: Comparison of Atomic Broadcast Algorithms
+R1	10.1.1.13.5461	Comparison of Failure Detectors and Group Membership: Performance Study of Two Atomic Broadcast Algorithms
+R1	10.1.1.34.8727	A Hierarchy of Totally Ordered Multicasts

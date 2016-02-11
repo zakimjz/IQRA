@@ -1,0 +1,28 @@
+10.1.1.13.2240	2002	On the Need for Time Series Data Mining Benchmarks: A Survey and Empirical  Demonstration
+R1	10.1.1.332.2187	An enhanced representation of time series which allows fast and accurate classification, clustering and relevance feedback
+R1	10.1.1.330.7506	Rule discovery from time series
+R1	10.1.1.295.9811	Efficient time series matching by wavelets
+R1	10.1.1.219.5983	Efficient similarity search in sequence databases
+R1	10.1.1.190.9625	Querying Shapes of Histories
+R1	10.1.1.19.1542	Pattern Extraction for Time Series Classification
+R1	10.1.1.2.2731	On Similarity Queries for Time-Series Data: Constraint Specification and Implementation
+R1	10.1.1.13.4827	Locally Adaptive Dimensionality Reduction for Indexing Large Time Series Databases
+R1	10.1.1.34.7427	A Comparison of DFT and DWT Based Similarity Search in Time-Series Databases
+R1	10.1.1.104.9016	Similarity search over time series data using wavelets
+R1	10.1.1.21.3579	Variable Length Queries for Time Series Data
+R1	10.1.1.342.6976	Efficient Retrieval of Similar Time Sequences Using DFT
+R1	10.1.1.127.9748	Adaptive query processing for time-series data
+R1	10.1.1.186.6264	Approximare Queries and Representation for Large Data Sequences
+R1	10.1.1.125.798	Mining the Stock Market: Which Measure is Best
+R1	10.1.1.18.2509	Supporting Content-based Searches on Time Series via Approximation
+R1	10.1.1.111.9730	Approximate nearest neighbor searching in multimedia databases
+R1	10.1.1.138.6270	Fast retrieval of similar subsequences in long sequence databases
+R1	10.1.1.18.6436	Supporting Fast Search in Time Series for Movement Patterns in Multiple Scales
+R1	10.1.1.50.1181	A Signature Technique for Similarity-Based Queries (Extended Abstract)
+R1	10.1.1.30.7844	Efficiently Supporting Ad Hoc Queries in Large Datasets of Time Sequences
+R1	10.1.1.17.6455	Efficient Searches for Similar Subsequences of Different Lengths in Sequence Databases
+R1	10.1.1.119.8727	The Haar Wavelet Transform in the Time Series Similarity Paradigm
+R1	10.1.1.110.8492	Discovering similar patterns in time series
+R1	10.1.1.37.8327	Similarity Search for Multidimensional Data Sequences
+R1	10.1.1.108.3548	Segment-based approach for subsequence searches in sequence databases
+R1	10.1.1.128.1223	An efficient index structure for shift and scale invariant search of multi-attribute time sequences

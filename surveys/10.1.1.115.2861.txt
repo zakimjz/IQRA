@@ -1,0 +1,67 @@
+10.1.1.115.2861	2004	A survey on visual surveillance of object motion and behaviors
+R1	10.1.1.94.642	Natural language description of human activities from video images based on concept hierarchy of actions
+R1	10.1.1.381.2924	Learning the Distribution of Object Trajectories for Event Recognition
+R1	10.1.1.37.1434	Contour Tracking By Stochastic Propagation of Conditional Density
+R1	10.1.1.78.2338	Multiple Camera Tracking of Interacting and Occluded Human Motion
+R1	10.1.1.125.8443	Real-time american sign language recognition using desk and wearable  computer based video
+R1	10.1.1.215.296	Pfinder: Real-time tracking of the human body
+R1	10.1.1.21.513	The Recognition of Human Movement Using Temporal Templates
+R1	10.1.1.16.1604	Silhouette-based Human Identification from Body Shape and Gait
+R1	10.1.1.128.1804	Cardboard people: A parameterized model of articulated image motion
+R1	10.1.1.21.1000	Geodesic Active Contours and Level Sets for the Detection and Tracking of Moving Objects
+R1	10.1.1.22.24	Wallflower: Principles and Practice of Background Maintenance
+R1	10.1.1.106.192	Covariance scaled sampling for monocular 3D body tracking
+R1	10.1.1.3.3539	EigenGait: Motion-based Recognition of People using Image Self-Similarity
+R1	10.1.1.16.2163	Gait Classification with HMMs for Trajectories of Body Parts Extracted by Mixture Densities
+R1	10.1.1.86.7827	Integrated face and gait recognition from multiple views
+R1	10.1.1.160.7507	A co-inference approach to robust visual tracking
+R1	10.1.1.132.3753	A Bayesian computer vision system for modeling human interactions
+R1	10.1.1.86.2891	Multi-camera multi-person tracking for EasyLiving
+R1	10.1.1.31.611	Coupled hidden Markov models for complex action recognition
+R1	10.1.1.38.9041	Moving Target Classification and Tracking from Real-time Video
+R1	10.1.1.208.258	Object Detection in Images by Components
+R1	10.1.1.1.8327	Path Detection in Video Surveillance
+R1	10.1.1.86.8820	Using adaptive tracking to classify and monitor activities in a site
+R1	10.1.1.10.9963	Gait Analysis for Recognition and Classification
+R1	10.1.1.93.727	Gait recognition using static activity-specific parameters
+R1	10.1.1.76.7130	Spatio-temporal alignment of sequences
+R1	10.1.1.48.645	A Generic Deformable Model for Vehicle Recognition
+R1	10.1.1.10.2423	Gait-based Recognition of Humans Using Continuous HMMs
+R1	10.1.1.29.6686	Analyzing Gait With Spatiotemporal Surfaces
+R1	10.1.1.30.3289	Using Gait as a Biometric, via Phase-Weighted Magnitude Spectra
+R1	10.1.1.112.8904	Robust real-time periodic motion detection, analysis, and applications
+R1	10.1.1.101.508	Extended model-based automatic gait recognition of walking and running
+R1	10.1.1.113.6035	W4: Real-time surveillance of people and their activities
+R1	10.1.1.13.8901	A Real-Time Computer Vision System for Vehicle Tracking and Traffic Surveillance
+R1	10.1.1.50.6184	Beyond Eigenfaces: Probabilistic Matching for Face Recognition
+R1	10.1.1.41.8079	Comparison of Approaches to Egomotion Computation
+R1	10.1.1.33.4325	Learning and Recognizing Human Dynamics in Video Sequences
+R1	10.1.1.120.5142	Automatic gait recognition
+R1	10.1.1.33.4844	Modeling Geometric Structure and Illumination Variation of a Scene from Real Images
+R1	10.1.1.16.7993	On Probabilistic Combination of Face and Gait Cues for Identification
+R1	10.1.1.13.1733	Algorithms for Cooperative Multisensor Surveillance
+R1	10.1.1.55.6429	Clinical Gait Analysis by Neural Networks: Issues and Experiences
+R1	10.1.1.51.2091	Model Based Extraction of Articulated Objects in Image Sequences for Gait Analysis
+R1	10.1.1.134.7190	Recent Developments in Human Motion Analysis
+R1	10.1.1.101.5661	A hierarchical model of dynamics for tracking people with a single video camera
+R1	10.1.1.5.1270	Motion-based Recognition of People in EigenGait Space
+R1	10.1.1.170.7261	Articulated soft objects for video-based body modeling
+R1	10.1.1.14.6565	M2Tracker: A Multi-View Approach to Segmenting and Tracking People in a Cluttered Scene Using Region-Based Stereo
+R1	10.1.1.408.6789	Multiresolution image sensor
+R1	10.1.1.57.4334	Extraction and Classification of Visual Motion Patterns for Hand Gesture Recognition
+R1	10.1.1.53.6804	Tracking Human Motion Using Multiple Cameras
+R1	10.1.1.7.3127	Constructing Qualitative Event Models Automatically from Video Input
+R1	10.1.1.10.3749	Stride and Cadence as a Biometric in Automatic Person Identification and Verification
+R1	10.1.1.183.329	Viewpoint invariance in automatic gait recognition
+R1	10.1.1.24.6176	Learning A Highly Structured Motion Model for 3D Human Tracking (Draft)
+R1	10.1.1.309.5862	Tracking Multiple People under Occlusion using Multiple Cameras
+R1	10.1.1.145.1837	Optical flow-based person tracking by multiple cameras
+R1	10.1.1.31.3694	Face Recognition by Support Vector Machines
+R1	10.1.1.125.8815	Traffic surveillance and detection technology development: New sensor technology final report
+R1	10.1.1.47.4715	Discriminant Analysis and Eigenspace Partition Tree for Face and Object Recognition from Views
+R1	10.1.1.97.114	Morphological change detection algorithms for surveillance applications
+R1	10.1.1.28.471	Scenario Recognition in Airborne Video Imagery
+R1	10.1.1.16.1122	A Dynamic Human Model using Hybrid 2D-3D Representations in Hierarchical PCA Space
+R1	10.1.1.132.8981	Visual vehicle tracking using an improved ekf
+R1	10.1.1.23.6745	Dynamic Image Sequence Analysis Using Fuzzy Measures
+R1	10.1.1.32.1895	Camera Handoff: Tracking in Multiple Uncalibrated Stationary Cameras

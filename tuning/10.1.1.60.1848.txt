@@ -1,0 +1,23 @@
+10.1.1.60.1848	2004	Generating Cache Hints for Improved Program Efficiency
+R1	10.1.1.190.6833	Cache-Conscious Structure Layout
+R1	10.1.1.38.9155	Data Transformations for Eliminating Conflict Misses
+R1	10.1.1.81.349	A data locality optimizing algorithm
+R1	10.1.1.17.1228	Design and Evaluation of a Compiler Algorithm for Prefetching
+R1	10.1.1.137.5086	Data Prefetch Mechanisms
+R1	10.1.1.44.5061	Counting Solutions to Linear and Nonlinear Constraints through Ehrhart Polynomials: Applications to Analyze and Transform Scientific Programs
+R1	10.1.1.32.4749	Maximizing Loop Parallelism and Improving Data Locality via Loop Fusion and Distribution
+R1	10.1.1.128.5773	HPL-PD architecture specification: Version 1.1
+R1	10.1.1.22.1897	Counting Solutions to Presburger Formulas: How and Why
+R1	10.1.1.24.2187	Nonlinear Array Layouts for Hierarchical Memory Systems
+R1	10.1.1.30.5396	Data-centric Multi-level Blocking
+R1	10.1.1.113.3460	A Matrix-Based Approach to Global Locality Optimization
+R1	10.1.1.128.1244	Synthesizing transformations for locality enhancement of imperfectly-nested loop nests
+R1	10.1.1.114.2405	Reuse distance as a metric for cache behavior
+R1	10.1.1.60.6525	Analytical Computation of Ehrhart Polynomials: Enabling more Compiler Analyses and Optimizations
+R1	10.1.1.36.7405	MIST: An Algorithm for Memory Miss Traffic Management.
+R1	10.1.1.123.6472	Reuse-distance-based Miss-rate Prediction on a Per Instruction Basis
+R1	10.1.1.118.9177	Machine-description driven compilers for EPIC and VLIW processors. Design Automation for Embedded Systems
+R1	10.1.1.4.6499	Predicting Whole-Program Locality Through Reuse Distance Analysis
+R1	10.1.1.10.9837	Software Methods to Improve Data Locality and Cache Behavior
+R1	10.1.1.5.8278	A Compiler Tool to Predict Memory Hierarchy Performance of Scientific Codes
+R1	10.1.1.70.6464	Using hammock graphs to structure programs

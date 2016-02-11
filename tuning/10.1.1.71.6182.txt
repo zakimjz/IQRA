@@ -1,0 +1,21 @@
+10.1.1.71.6182	2005	Scalable parallel octree meshing for terascale applications
+R1	10.1.1.27.79	Provably Good Mesh Generation
+R1	10.1.1.41.4404	Parallel Structures and Dynamic Load Balancing for Adaptive Finite Element Computation
+R1	10.1.1.20.7568	Predictive Performance and Scalability Modeling of a Large-Scale Application
+R1	10.1.1.33.3758	Parallel Construction of Quadtrees and Quality Triangulations
+R1	10.1.1.47.5103	Scalable Problems and Memory-Bounded Speedup
+R1	10.1.1.30.5842	A Parallel Hashed Oct-Tree N-Body Algorithm
+R1	10.1.1.38.3287	Quality Mesh Generation in Three Dimensions
+R1	10.1.1.100.8262	Adaptive dynamic projection-based partitioning for parallel Delaunay mesh generation algorithms
+R1	10.1.1.8.1471	High Resolution Forward and Inverse Earthquake Modeling on Terascale Computers
+R1	10.1.1.29.6901	A Coarse-Grain Parallel Formulation of Multilevel k-way  Graph Partitioning Algorithm
+R1	10.1.1.103.7138	Dynamic octree load balancing using space-filling curves
+R1	10.1.1.50.9226	Parallel Domain Decomposition and Load Balancing Using Space-Filling Curves
+R1	10.1.1.103.8436	Parallel mesh generation
+R1	10.1.1.110.6535	Large scale parallel structured AMR calculations using the SAMRAI framework
+R1	10.1.1.409.8227	A computational database system for generating unstructured hexahedral meshes with billions of elements
+R1	10.1.1.12.823	Etree - A Database-Oriented Method for Generating Large Octree Meshes
+R1	10.1.1.32.8039	High-Performance Reactive Fluid Flow Simulations Using Adaptive Mesh Refinement on Thousands of Processors
+R1	10.1.1.134.4339	Truly distribution-independent algorithms for the n-body problem
+R1	10.1.1.59.4349	A New Parallel Kernel-Independent Fast Multipole Method
+R1	10.1.1.378.5064	From physical model to scientific understanding: An end-to-end approach to parallel supercomputing. Working paper

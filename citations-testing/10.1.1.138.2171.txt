@@ -1,0 +1,25 @@
+10.1.1.138.2171	2007	Region-Based Hierarchical Image Matching
+R1	10.1.1.14.3601	Normalized Cuts and Image Segmentation
+R1	10.1.1.15.4278	Matching Hierarchical Structures Using Association Graphs
+R1	10.1.1.73.7847	A metric for distributions with applications to image databases
+R1	10.1.1.1.5943	Many-to-Many Graph Matching via Metric Embedding
+R1	10.1.1.17.70	The Earth Mover's Distance under Transformation Sets
+R1	10.1.1.17.3080	Approximate Tree Matching and Shape Similarity
+R1	10.1.1.389.4520	Multiscale Image Segmentation by Integrated Edge and Region Detection
+R1	10.1.1.160.7669	Generic model abstraction from examples
+R1	10.1.1.130.323	Computing approximate tree edit distance using relaxation labeling
+R1	10.1.1.122.8861	Spectral grouping using the Nyström method
+R1	10.1.1.100.6395	Polynomial-Time Metrics for Attributed Trees
+R1	10.1.1.309.8129	Segment-based stereo matching
+R1	10.1.1.17.5821	The Maximum Clique Problem
+R1	10.1.1.139.6572	Extraction of 2d motion trajectories and its application to hand gesture recognition
+R1	10.1.1.35.4540	Approximating the Maximum Weight Clique Using Replicator Dynamics
+R1	10.1.1.157.6789	Replicator Equations, Maximal Cliques, and Graph Isomorphism
+R1	10.1.1.186.4373	Recognition of Shapes by Editing Their Shock Graphs
+R1	10.1.1.38.5945	Recognition Using Region Correspondences
+R1	10.1.1.59.8766	Indexing Hierarchical Structures Using Graph Spectra
+R1	10.1.1.41.5116	Hierarchical Region Based Stereo Matching
+R1	10.1.1.15.7574	Matching Free Trees, Maximal Cliques, and Monotone Game Dynamics
+R1	10.1.1.2.770	Many-to-Many Feature Matching Using Spherical Coding of Directed Graphs
+R1	10.1.1.87.6450	Analysis of ramp discontinuity model for multiscale image segmentation
+R1	10.1.1.389.6199	Learning Multiscale Image Models of 2D Object Classes

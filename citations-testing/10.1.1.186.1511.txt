@@ -1,0 +1,21 @@
+10.1.1.186.1511	2008	Salient local visual features for shape-based 3d model retrieval
+R1	10.1.1.27.7690	Modern Information Retrieval
+R1	10.1.1.14.4660	Rotation Invariant Spherical Harmonic Representation of 3D Shape Descriptors
+R1	10.1.1.14.4931	Distinctive Image Features from Scale-Invariant Keypoints
+R1	10.1.1.10.3613	PCA-SIFT: A more distinctive representation for local image descriptors
+R1	10.1.1.65.4908	Learning object categories from google’s image search
+R1	10.1.1.323.9793	Video google: A text retrieval approach to object matching in videos
+R1	10.1.1.93.8714	Object categorization by learned universal visual dictionary
+R1	10.1.1.384.2889	Pose-oblivious shape signature
+R1	10.1.1.72.604	Visual categorization with bags of keypoints
+R1	10.1.1.214.7355	Three-Dimensional Shape Searching: State-of-the-Art Review and Future Trends
+R1	10.1.1.120.9145	3D Model Retrieval
+R1	10.1.1.10.2022	Surflet-Pair-Relation Histograms: A Statistical 3D-Shape Representation for Rapid Classification
+R1	10.1.1.87.1473	A spectral approach to shape-based retrieval of articulated 3D models
+R1	10.1.1.144.5016	Tools for 3D-object retrieval: Karhunen-Loeve Transform and spherical harmonics
+R1	10.1.1.127.6327	F.: Augmented Reeb Graphs for Content-Based Retrieval of 3D Mesh Models
+R1	10.1.1.13.5935	Shape-Similarity Search of 3D Models by using Enhanced Shape Functions
+R1	10.1.1.10.7525	Parts-based 3D object classification
+R1	10.1.1.6.1900	Mesh Retrieval by Components
+R1	10.1.1.372.3855	Shape topics: A compact representation and new algorithm for 3D partial shape retrieval
+R1	10.1.1.383.6709	Retrieving 3D shapes based on their appearance

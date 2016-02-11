@@ -1,0 +1,26 @@
+10.1.1.118.9231	2005	A survey on condensed representations for frequent sets
+R1	10.1.1.217.4132	Mining Association Rules between Sets of Items in Large Databases
+R1	10.1.1.10.7611	Generating Non-Redundant Association Rules
+R1	10.1.1.107.1120	Efficiently mining long patterns from databases
+R1	10.1.1.407.8401	Integrating classification and association rule mining
+R1	10.1.1.23.2928	Efficient Mining Of Association Rules Using Closed Itemset Lattices
+R1	10.1.1.103.5437	An efficient algorithm for mining association rules in large databases
+R1	10.1.1.3.2424	Mining Frequent Patterns  without Candidate Generation: A Frequent-Pattern Tree Approach
+R1	10.1.1.102.6569	Theoretical foundations of association rules
+R1	10.1.1.7.7785	A Theory of Inductive Query Answering
+R1	10.1.1.47.9189	Levelwise Search and Borders of Theories in Knowledge Discovery
+R1	10.1.1.10.3422	Minimal k-Free Representations of Frequent Sets
+R1	10.1.1.124.8257	Approximation of frequency queries by means of free-sets
+R1	10.1.1.27.6266	CLOSET: An Efficient Algorithm for Mining Frequent Closed Itemsets
+R1	10.1.1.111.520	CHARM: An efficient algorithm for closed itemset mining
+R1	10.1.1.121.8985	Free-sets: a condensed representation of Boolean data for the approximation of frequency queries
+R1	10.1.1.12.9662	How to Quickly Find a Witness
+R1	10.1.1.111.7831	Inductive databases and multiple uses of frequent itemsets: the cInQ approach
+R1	10.1.1.215.7914	Depth-first non-derivable itemset mining
+R1	10.1.1.125.3118	On closed constrained frequent pattern mining
+R1	10.1.1.423.6162	Dbc: a condensed representation of frequent patterns for efficient mining
+R1	10.1.1.6.2704	BIDE: Efficient Mining of Frequent Closed Sequences
+R1	10.1.1.104.664	Mining free itemsets under constraints
+R1	10.1.1.2.1738	Generalized Version Space Trees
+R1	10.1.1.115.6212	Using condensed representations for interactive association rule mining
+R1	10.1.1.215.2494	Mining non derivable association rules

@@ -1,0 +1,24 @@
+10.1.1.186.8328	2010	Relational Duality: Unsupervised Extraction of Semantic Relations between Entities on the Web
+R1	10.1.1.33.1827	Extracting Relations from Large Plain-Text Collections
+R1	10.1.1.101.3197	Extracting patterns and relations from the world wide web
+R1	10.1.1.14.5614	Automatic Acquisition of Hyponyms from Large Text Corpora
+R1	10.1.1.1.1690	A Linear Programming Formulation for Global Inference in Natural Language Tasks
+R1	10.1.1.1.2064	A Generalized Maximum Entropy Approach to Bregman Co-clustering and Matrix Approximation
+R1	10.1.1.215.3307	Minimum sumsquared residue co-clustering of gene expression data
+R1	10.1.1.12.4257	Finding Parts in Very Large Corpora
+R1	10.1.1.19.5294	Learning Surface Text Patterns for a Question Answering System
+R1	10.1.1.11.6316	DIRT - Discovery of Inference Rules from Text
+R1	10.1.1.143.7364	Preemptive information extraction using unrestricted relation discovery
+R1	10.1.1.143.3831	Expressing implicit semantic relations without supervision
+R1	10.1.1.330.2469	POLYPHONET: An advanced social network extraction system
+R1	10.1.1.98.326	Shallow semantics for relation extraction
+R1	10.1.1.127.3113	Mining sequential patterns by pattern-growth: The PrefixSpan approach
+R1	10.1.1.114.5379	Integrating probabilistic extraction models and data mining to discover relations and patterns in text
+R1	10.1.1.76.3628	Measuring semantic similarity by latent relational analysis
+R1	10.1.1.81.145	Feature selection, l1 vs. l2 regularization, and rotational invariance
+R1	10.1.1.145.9972	WordNet sits the S.A.T.: A Knowledge-Based Approach to Lexical Analogy. The proceedings
+R1	10.1.1.60.8142	Exploiting Shallow Linguistic Information for Relation Extraction from Biomedical Literature
+R1	10.1.1.80.5042	Tree Kernel-based Relation Extraction with Context-Sensitive Structured Parse Tree Information
+R1	10.1.1.158.4284	Approximation algorithms for co-clustering
+R1	10.1.1.150.4724	StatSnowball: a Statistical Approach to Extracting Entity Relationships
+R1	10.1.1.215.3117	Measuring the Similarity between Implicit Semantic Relations from the Web

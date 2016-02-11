@@ -1,0 +1,24 @@
+10.1.1.152.6095	2007	Infrastructure-less Content-Based Publish/Subscribe
+R1	10.1.1.140.3129	A Scalable Content-Addressable Network
+R1	10.1.1.28.5987	Pastry: Scalable, distributed object location and routing for large-scale peer-to-peer systems
+R1	10.1.1.118.8846	Skipnet: A scalable overlay network with practical locality properties
+R1	10.1.1.54.2169	Modeling Internet Topology
+R1	10.1.1.20.299	SCRIBE: A large-scale and decentralized application-level multicast infrastructure
+R1	10.1.1.22.2142	Bayeux: An architecture for scalable and fault-tolerant wide-area data dissemination
+R1	10.1.1.69.7664	An efficient multicast protocol for content-based publish-subscribe systems
+R1	10.1.1.108.3438	Achieving scalability and expressiveness in an Internet-scale event notification service
+R1	10.1.1.11.7643	Chord: A Scalable Peer-to-Peer Lookup Protocol for Internet Applications
+R1	10.1.1.10.1904	Tapestry: A Resilient Global-scale Overlay for Service Deployment
+R1	10.1.1.131.4319	Proximity neighbor selection in tree-based structured peer-to-peer overlays
+R1	10.1.1.124.386	Yfilter: Efficient and scalable filtering of XML documents
+R1	10.1.1.10.1076	The many faces of Publish/Subscribe
+R1	10.1.1.189.3836	Matching events in a content-based subscription system
+R1	10.1.1.102.473	Mercury: Supporting scalable multi-attribute range queries
+R1	10.1.1.360.9017	Building Content-Based Publish/Subscribe Systems with Distributed Hash Tables
+R1	10.1.1.10.3378	A Peer-to-Peer Approach to Content-Based Publish/Subscribe
+R1	10.1.1.11.1973	Application-Level Multicast Using Content-Addressable Networks
+R1	10.1.1.4.8188	Peer-to-Peer Overlay Broker Networks In An Event-Based Midlleware
+R1	10.1.1.59.7332	Indexing Data-Oriented Overlay Networks
+R1	10.1.1.2.4502	The Architecture of PIER: an Internet-Scale Query Processor
+R1	10.1.1.146.3970	Content-based publish-subscribe over structured overlay networks
+R1	10.1.1.19.7365	Probabilistic Multicast

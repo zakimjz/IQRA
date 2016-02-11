@@ -1,0 +1,21 @@
+10.1.1.210.3860	2010	Graph Walks and Graphical Models
+R1	10.1.1.31.1768	The PageRank Citation Ranking: Bringing Order to the Web
+R1	10.1.1.12.1400	Topic-Sensitive PageRank
+R1	10.1.1.10.9849	Shallow Parsing with Conditional Random Fields
+R1	10.1.1.32.5538	Loopy Belief Propagation for Approximate Inference: An Empirical Study
+R1	10.1.1.14.7963	Early Results for Named Entity Recognition with Conditional Random Fields, Feature Induction and Web-Enhanced Lexicons
+R1	10.1.1.128.4966	Diffusion kernels on graphs and other discrete structures
+R1	10.1.1.67.1471	Semi-Supervised Learning with Graphs
+R1	10.1.1.81.5524	Contextual Search and Name Disambiguation in Email using Graphs
+R1	10.1.1.122.4983	Markov Logic Networks
+R1	10.1.1.163.6528	The link-prediction problem for social networks
+R1	10.1.1.102.4741	Keyword searching and browsing in databases using BANKS
+R1	10.1.1.12.4975	SimRank: A Measure of Structural-Context Similarity
+R1	10.1.1.2.4614	Learning Random Walk Models for Inducing Word Dependency Distributions
+R1	10.1.1.121.8053	Inference in binary pair-wise markov random field through self-avoiding walk
+R1	10.1.1.131.9272	Dynamic Personalized Pagerank in Entity-Relation Graphs
+R1	10.1.1.111.7793	Learning to rank networked entities
+R1	10.1.1.61.5479	Walk-Sums and Belief Propagation in Gaussian Graphical Models
+R1	10.1.1.129.1610	Fast random walk with restart and its applications
+R1	10.1.1.67.3485	Learning to rank typed graph walks: Local and global approaches
+R1	10.1.1.123.9657	Counting independent sets up to the tree threshold

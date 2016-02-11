@@ -1,0 +1,23 @@
+10.1.1.142.5919	2006	BAYESIAN MODELING OF MUSICAL EXPECTATIONS VIA MAXIMUM ENTROPY STOCHASTIC GRAMMARS
+R1	10.1.1.133.4884	Maximum likelihood from incomplete data via the EM algorithm
+R1	10.1.1.131.2084	A tutorial on hidden markov models and selected applications in speech recognition
+R1	10.1.1.107.3613	Independent Component Analysis
+R1	10.1.1.125.4164	Inference in belief networks: A procedural guide
+R1	10.1.1.419.6326	2000. “Estimating the Plucking Point on a Guitar String
+R1	10.1.1.41.4403	Adaptive Statistical Language Modeling: A Maximum Entropy Approach
+R1	10.1.1.20.5237	Automatic Segmentation of Acoustic Musical Signals Using Hidden Markov Models
+R1	10.1.1.122.2808	Bayes-ball: The rational pastime (for determining irrelevance and requisite information in belief networks and influence diagrams
+R1	10.1.1.227.6085	Segmentation of musical signals using hidden markov models
+R1	10.1.1.131.3506	A simple introduction to maximum entropy models for natural language processing
+R1	10.1.1.68.206	Folk music classification using hidden Markov models
+R1	10.1.1.92.1375	Bayesian Models of Musical Structure and Cognition
+R1	10.1.1.3.3629	Chord Segmentation and Recognition using EM-Trained Hidden Markov Models
+R1	10.1.1.6.997	The Continuator: Musical Interaction with Style
+R1	10.1.1.406.5077	Opening the black box – data driven visualization of neural networks
+R1	10.1.1.21.5247	A Comparison of Language Modeling and Probabilistic Text Information Retrieval Approaches to Monophonic Music Retrieval
+R1	10.1.1.4.7035	Generative Model Based Polyphonic Music Transcription
+R1	10.1.1.24.87	Probabilistic Grammars for Music
+R1	10.1.1.3.2086	Music Generation from Statistical Models
+R1	10.1.1.5.9579	Techniques for the Automated Analysis of Musical Audio
+R1	10.1.1.66.1792	BAYESIAN COMPUTATIONAL MODELS FOR INHARMONICITY IN MUSICAL INSTRUMENTS
+R1	10.1.1.142.5480	An iterative filterbank approach for extracting sinusoidal parameters from quasiharmonic sounds

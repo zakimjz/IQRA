@@ -1,0 +1,21 @@
+10.1.1.152.8499	2007	Techniques for clustering gene expression data
+R1	10.1.1.18.2720	Data Clustering: A Review
+R1	10.1.1.308.8619	Some methods for classification and analysis of multivariate observations
+R1	10.1.1.26.5045	Biclustering of Expression Data
+R1	10.1.1.34.5341	Clustering Gene Expression Patterns
+R1	10.1.1.40.9045	Validating Clustering for Gene Expression Data
+R1	10.1.1.20.1908	Exploring the Conditional Coregulation of Yeast Gene Expression Through Fuzzy K-Means Clustering
+R1	10.1.1.10.9752	K-ary Clustering with Optimal Leaf Ordering for Gene Expression Data
+R1	10.1.1.125.2575	Judging the quality of gene expression-based clustering methods using gene annotation
+R1	10.1.1.12.3288	Missing value estimation methods for DNA microarrays
+R1	10.1.1.128.1289	Biclustering algorithms for biological data analysis: a survey
+R1	10.1.1.25.5002	Applications of Resampling Methods to Estimate the Number of Clusters and to Improve the Accuracy of a Clustering Method
+R1	10.1.1.112.2596	Discovering Local Structure in Gene Expression Data: The Order-Preserving Submatrix Problem
+R1	10.1.1.36.4763	Plaid Models for Gene Expression Data
+R1	10.1.1.13.1274	Enhanced Biclustering on Expression Data
+R1	10.1.1.137.508	Clustering of Diverse Genomic Data using Information Fusion
+R1	10.1.1.131.9282	Gene ontology friendly biclustering of expression profiles
+R1	10.1.1.97.5414	Gene Expression Profile Classification: A Review
+R1	10.1.1.109.6679	Analysis of microarray gene expression data
+R1	10.1.1.107.3873	Minimum Entropy Clustering and Applications to Gene Expression Analysis
+R1	10.1.1.3.1645	Clustering of Gene Expression Time-Series Data

@@ -1,0 +1,21 @@
+10.1.1.12.4508	2003	A Model-Based Mediator System for Scientific Data Management
+R1	10.1.1.205.8363	The TSIMMIS Approach to Mediation: Data Models and Languages
+R1	10.1.1.38.7636	Querying Heterogeneous Information Sources Using Source Descriptions
+R1	10.1.1.36.3650	Using an Expressive Description Logic: FaCT or Fiction?
+R1	10.1.1.25.3265	Managing Semistructured Data With Florid: A Deductive Object-Oriented Perspective
+R1	10.1.1.21.9062	Navigation-Driven Evaluation of Virtual Mediated Views
+R1	10.1.1.105.4755	Description logic framework for information integration
+R1	10.1.1.12.7606	Optimizing Queries across Diverse Data Sources
+R1	10.1.1.20.8880	Part-Whole Relations in Object-Centered Systems: An Overview
+R1	10.1.1.29.8523	Modeling Web Sources for Information Integration
+R1	10.1.1.1.5982	Capability Based Mediation in TSIMMIS
+R1	10.1.1.49.4923	Semantic Integration of Semistructured and Structured Data Sources
+R1	10.1.1.35.3626	XML-Based Information Mediation with MIX
+R1	10.1.1.16.3636	Query Processing with Description Logic Ontologies Over Object-Wrapped Databases
+R1	10.1.1.202.2245	A graph-oriented model for articulation of ontology interdependencies
+R1	10.1.1.21.373	Model-Based Mediation with Domain Maps
+R1	10.1.1.10.4144	Registering Scientific Information Sources for Semantic Mediation
+R1	10.1.1.3.3882	Federation of Brain Data through Knowledge-guided Mediation
+R1	10.1.1.177.2269	Towards a Comprehensive Methodological Framework for
+R1	10.1.1.21.1621	An Extensible Model-Based Mediator System with Domain Maps
+R1	10.1.1.16.8565	A System for Managing Alternate Models in Model-based Mediation

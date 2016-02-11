@@ -1,0 +1,21 @@
+10.1.1.115.4544	2005	Finding narrow passages with probabilistic roadmaps: The small step retraction method
+R1	10.1.1.211.5870	MAPRM: A probabilistic roadmap planner with sampling on the medial axis of the free space
+R1	10.1.1.31.2802	Path Planning in Expansive Configuration Spaces
+R1	10.1.1.56.9474	OBPRM: An Obstacle-Based PRM for 3D Workspaces
+R1	10.1.1.52.2983	A Randomized Roadmap Method for Path and Manipulation Planning
+R1	10.1.1.53.9623	Local Motion Planning for Manipulators Based on Shrinking and Growing Geometry Models
+R1	10.1.1.19.1989	Path Planning Using Lazy PRM
+R1	10.1.1.139.265	I-COLLIDE: An interactive and exact collision detection system for large-scale environments
+R1	10.1.1.294.8962	OBB-Tree: A hierarchical structure for rapid interference detection
+R1	10.1.1.18.9588	A Probabilistic Roadmap Planner for Flexible Objects with a Workspace Medial-Axis-Based Sampling Approach
+R1	10.1.1.211.5969	A kinematics-based probabilistic roadmap method for closed chain systems
+R1	10.1.1.15.4500	Planning Motions Compliant to Complex Contact States
+R1	10.1.1.19.2191	Analysis of Probabilistic Roadmaps for Path Planning
+R1	10.1.1.116.7476	A Probabilistic Roadmap Approach for Systems with Closed Kinematic Chains
+R1	10.1.1.1.9866	The Power Crust
+R1	10.1.1.29.1865	Randomized Kinodynamic Motion Planning with Moving Obstacles
+R1	10.1.1.8.1280	Constructing Probabilistic Roadmaps with Powerful Local Planning and Path Optimization
+R1	10.1.1.298.6217	Efficient computation of a simplified medial axis
+R1	10.1.1.100.8001	The bridge test for sampling narrow passages with probabilistic roadmap planners
+R1	10.1.1.19.7284	Randomized Planning for Short Inspection Paths
+R1	10.1.1.130.9040	A General Framework for Sampling on the Medial Axis of the Free Space

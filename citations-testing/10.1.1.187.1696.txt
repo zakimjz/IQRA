@@ -1,0 +1,26 @@
+10.1.1.187.1696	2010	Controlled Multi-Path Routing in Sensor Networks Using Bézier Curves
+R1	10.1.1.112.2772	GPSR: Greedy perimeter stateless routing for wireless networks
+R1	10.1.1.221.2247	Wireless sensor networks: a survey
+R1	10.1.1.1.3020	Trajectory Based Forwarding and Its Applications
+R1	10.1.1.1.5548	Load Balanced Short Path Routing in Wireless Networks
+R1	10.1.1.102.8542	Localized algorithms for energy efficient topology in wireless ad hoc networks
+R1	10.1.1.11.9708	Coverage in Wireless Ad-hoc Sensor Networks
+R1	10.1.1.121.4863	Tributaries and deltas: Efficient and robust aggregation in sensor network streams
+R1	10.1.1.183.5854	Scalable coordination for wireless sensor networks: self-configuring localization systems
+R1	10.1.1.298.274	Dynamic conflictfree query scheduling for wireless sensor networks
+R1	10.1.1.126.9437	Power aware routing for sensor databases
+R1	10.1.1.85.3616	A survey on routing protocols for wireless sensor networks
+R1	10.1.1.74.3590	A beacon-less location discovery scheme for wireless sensor networks
+R1	10.1.1.16.2914	Highly-Resilient, Energy-Efficient Multipath Routing in Wireless Sensor Networks
+R1	10.1.1.121.5317	Towards optimal sleep scheduling in sensor networks for rare-event detection
+R1	10.1.1.14.5655	Combining Paging with Dynamic Power Management
+R1	10.1.1.77.5504	Dynamic wake-up and topology maintenance protocols with spatiotemporal guarantees
+R1	10.1.1.62.9905	Maximum Lifetime Routing In Wireless Sensor Networks ∗
+R1	10.1.1.141.1402	Multi-path Routing Protocols in Wireless Mobile Ad Hoc Networks: A Quantitative Comparison
+R1	10.1.1.81.6870	Boundary recognition in sensor networks by topological methods
+R1	10.1.1.89.6670	Disjoint multipath routing to two distinct drains in a multi-drain sensor network
+R1	10.1.1.99.52	Optimal Energy-Efficient Routing for Wireless Sensor Networks
+R1	10.1.1.120.7241	Power-Aware Single- and Multipath Geographic Routing in Sensor Networks
+R1	10.1.1.140.7302	ABSTRACT Scheduling Continuous Queries in Data Stream Management Systems
+R1	10.1.1.149.5991	On the Lifetime of Wireless Sensor Networks
+R1	10.1.1.333.2378	Performance analysis of reactive shortest single-path and multipath routing mechanism with load balance

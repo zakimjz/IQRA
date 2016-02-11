@@ -1,0 +1,21 @@
+10.1.1.252.7534	2005	Quantum Search Algorithms
+R1	10.1.1.124.6053	Quantum amplitude amplification and estimation
+R1	10.1.1.144.6148	Polynomial-Time Algorithms for Prime Factorization and Discrete Logarithms on a Quantum Computer
+R1	10.1.1.205.7920	Strengths and Weaknesses of quantum computing
+R1	10.1.1.107.106	Quantum search of spatial regions
+R1	10.1.1.32.629	Complexity Measures and Decision Tree Complexity: A Survey
+R1	10.1.1.132.6306	A probabilistic algorithm for k-SAT and constraint satisfaction problems
+R1	10.1.1.252.6914	Grover’s Quantum Searching Algorithm is Optimal” Phys
+R1	10.1.1.251.3594	2006, Quantum verification of matrix products
+R1	10.1.1.101.8356	Quantum algorithms for the triangle problem
+R1	10.1.1.127.8731	The quantum query complexity of approximating the median and related statistics
+R1	10.1.1.104.6171	Quantum counting
+R1	10.1.1.114.7384	Quantum Algorithms for Element Distinctness
+R1	10.1.1.205.7082	Quantum lower bounds by quantum arguments
+R1	10.1.1.252.5932	Lower Bounds for Local Search by Quantum Arguments
+R1	10.1.1.252.5480	Quantum query complexity of some graph problems
+R1	10.1.1.115.8600	Quantum random walks - an introductory overview
+R1	10.1.1.101.7090	Quantum walks and their algorithmic applications
+R1	10.1.1.252.6501	Coins make quantum walks faster
+R1	10.1.1.251.7146	A quantum adiabatic evolution algorithm applied to random instances of an NPcomplete problem
+R1	10.1.1.251.5919	Exact quantum query complexity for total Boolean functions. Available at http: //arxiv.org/abs/quant-ph/0403168

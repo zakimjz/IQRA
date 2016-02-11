@@ -1,0 +1,26 @@
+10.1.1.112.3798	2007	A survey of recent results in networked control systems
+R1	10.1.1.320.4348	Control under communication constraints
+R1	10.1.1.146.4581	A cone Complementarity Linearization Algorithm for Static Output-Feedback and Related Problems
+R1	10.1.1.12.4215	Control in an Information Rich World
+R1	10.1.1.50.3927	Stochastic Analysis and Control of Real-Time Systems with Random Time Delays
+R1	10.1.1.137.6495	Cooperative control of mobile sensor networks: Adaptive gradient climbing in a distributed environment
+R1	10.1.1.24.7253	Stability of Networked Control Systems
+R1	10.1.1.12.2139	Feedback Control Utilizing Packet Dropping Network Links
+R1	10.1.1.132.3552	Control of Asynchronous Dynamical Systems with Rate Constraints on Events
+R1	10.1.1.110.573	Towards the control of linear systems with minimum bit-rate
+R1	10.1.1.329.7933	Systems with finite communication bandwidth constraints—I: State estimation problems
+R1	10.1.1.22.3842	Asymptotic Behavior of Nonlinear Networked Control Systems
+R1	10.1.1.56.2025	LQG Control Over a Markov Communication Network
+R1	10.1.1.32.2363	Haptic Collaboration over the Internet
+R1	10.1.1.55.4583	Analysis of Real-Time Control Systems with Time Delays
+R1	10.1.1.129.8561	Kalman filtering with intermittent observations
+R1	10.1.1.116.3047	Stability of model-based networked control systems with time-varying transmission times
+R1	10.1.1.76.3801	Kalman filtering with partial observation losses
+R1	10.1.1.114.7949	Stabilization of nonlinear systems with limited information feedback
+R1	10.1.1.63.7259	Evaluating Decorators for Haptic Collaboration over Internet
+R1	10.1.1.124.4964	Communication logics for networked control systems
+R1	10.1.1.414.4853	On a stochastic sensor selection algorithm with applications in sensor scheduling and sensor coverage,” Submitted to Automatica
+R1	10.1.1.131.4120	Robust stability and disturbance attenuation analysis of a class of networked control systems
+R1	10.1.1.136.9832	Stability and H∞ performance preserving scheduling policy for networked control systems
+R1	10.1.1.131.6789	Input-to-state stability of networked control systems
+R1	10.1.1.116.9051	Estimation under uncontrolled and controlled communications in networked control systems

@@ -1,0 +1,28 @@
+10.1.1.184.3892	2003	Modeling of Internet Traffic: Internet Access Influence, User Interference, and TCP Behavior
+R1	10.1.1.128.8078	On Inferring TCP Behavior
+R1	10.1.1.41.6586	Web Server Workload Characterization: The Search for Invariants (Extended Version)
+R1	10.1.1.31.3480	An Empirical Model of HTTP Network Traffic
+R1	10.1.1.50.5535	Analysis, Modeling and Generation of Self-Similar VBR Video Traffic
+R1	10.1.1.25.4747	Analysis and Comparison of TCP Reno and Vegas
+R1	10.1.1.155.483	Long-lasting transient conditions in simulations with heavy-tailed workloads
+R1	10.1.1.139.6676	TCP Vegas: End to End Congestion Avoidance on a Global Internet
+R1	10.1.1.17.9330	Empirically-Derived Analytic Models of Wide-Area TCP Connections: Extended Report
+R1	10.1.1.305.730	Changes in web client access patterns: Characteristics and caching implications
+R1	10.1.1.2.1361	Characteristics of WWW Client-based Traces
+R1	10.1.1.4.2118	A Proposal to add Explicit Congestion Notification (ECN) to IP
+R1	10.1.1.374.2798	The NewReno Modification to TCP’s Fast Recovery Algorithm", RFC 3782
+R1	10.1.1.22.3220	Characteristics of Wide-Area TCP/IP Conversations
+R1	10.1.1.3.6038	Trends in Wide Area IP Traffic Patterns - A View from Ames Internet Exchange
+R1	10.1.1.28.5352	Measurement and Modelling of Internet Traffic at Access Networks
+R1	10.1.1.420.1442	Internet Control Message Protocol
+R1	10.1.1.420.1013	Domain Names - Concepts and Facilities
+R1	10.1.1.89.543	Models of WWW-traffic: a comparison of pareto and logarithmic histogram models
+R1	10.1.1.13.2998	Organization-Based Analysis of Web-Object Sharing and Caching
+R1	10.1.1.36.2724	Web Facts and Fantasy
+R1	10.1.1.38.2203	World-Wide Web
+R1	10.1.1.26.3109	A Survey of Proxy Cache Evaluation Techniques
+R1	10.1.1.98.4474	HTTP/TCP connection and flow characteristics
+R1	10.1.1.14.1825	Variable Heavy Tailed Durations in Internet Traffic
+R1	10.1.1.28.1546	Subexponential Distributions
+R1	10.1.1.57.9584	The Double Pareto-Lognormal Distribution - A New Parametric Model for Size Distributions
+R1	10.1.1.376.1238	D.: Point-to-Point Protocol for the transmission of multi-protocol datagrams over Point-to-Point links

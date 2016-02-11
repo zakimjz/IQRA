@@ -1,0 +1,21 @@
+10.1.1.127.854	2007	An efficient earth mover’s distance algorithm for robust histogram comparison
+R1	10.1.1.136.1990	A NEW POLYNOMIAL-TIME ALGORITHM FOR LINEAR PROGRAMMING
+R1	10.1.1.12.9732	Recognizing Objects in Adversarial Clutter: Breaking a Visual CAPTCHA
+R1	10.1.1.14.4931	Distinctive Image Features from Scale-Invariant Keypoints
+R1	10.1.1.116.8559	Learning low-level vision
+R1	10.1.1.180.2535	Using spin images for efficient object recognition in cluttered 3D scenes
+R1	10.1.1.17.70	The Earth Mover's Distance under Transformation Sets
+R1	10.1.1.79.151	The earth mover’s distance as a metric for image retrieval
+R1	10.1.1.13.8743	A Computational Framework for Determining Stereo Correspondence from a Set of Linear Spatial Filters
+R1	10.1.1.127.9167	Divergence measures based on the Shannon entropy
+R1	10.1.1.10.3613	PCA-SIFT: A more distinctive representation for local image descriptors
+R1	10.1.1.100.5507	A PERFORMANCE EVALUATION OF LOCAL DESCRIPTORS
+R1	10.1.1.100.253	The pyramid match kernel: Discriminative classification with sets of image features
+R1	10.1.1.107.3339	Fast contour matching using approximate earth mover’s distance
+R1	10.1.1.106.2070	A Sparse Texture Representation Using Affine-Invariant Regions
+R1	10.1.1.38.7003	Perceptual Metrics For Image Database Navigation
+R1	10.1.1.125.8910	Using the Inner-Distance for Classification of Articulated Shapes
+R1	10.1.1.104.7081	Distance sets for shape filters and shape recognition
+R1	10.1.1.13.4266	Shape Descriptors for Non-rigid Shapes with a Single Closed Contour
+R1	10.1.1.15.6182	1-norm Support Vector Machines
+R1	10.1.1.117.2111	EMD-L1: An Efficient and Robust Algorithm for Comparing Histogram-Based Descriptors

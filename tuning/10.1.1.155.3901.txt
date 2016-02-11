@@ -1,0 +1,26 @@
+10.1.1.155.3901	2006	Stream computations organized for reconfigurable execution
+R1	10.1.1.22.3694	Clock Rate versus IPC: The End of the Road for Conventional Microarchitectures
+R1	10.1.1.118.3853	A Framework for Comparing Models of Computation
+R1	10.1.1.47.1042	A High-Performance Microarchitecture with Hardware-Programmable Functional Units
+R1	10.1.1.22.1909	Route Packets, Not Wires: On-Chip Interconnection Networks
+R1	10.1.1.21.5165	PipeRench: A Coprocessor for Streaming Multimedia Acceleration
+R1	10.1.1.221.564	The Chimera Reconfigurable Functional Unit
+R1	10.1.1.144.7822	Bounded Scheduling of Process Networks
+R1	10.1.1.18.3383	A Tightly-Coupled Processor-Network Interface
+R1	10.1.1.49.1512	Scheduling Dynamic Dataflow Graphs With Bounded Memory Using The Token Flow Model
+R1	10.1.1.10.3230	Compilation tools for run-time reconfigurable designs
+R1	10.1.1.101.9445	YAPI: Application modeling for signal processing systems
+R1	10.1.1.161.4811	and André DeHon. Hardware-assisted simulated annealing with application for fast FPGA placement
+R1	10.1.1.100.5468	Design of FPGA Interconnect for Multilevel Metalization
+R1	10.1.1.17.7187	The Message-Driven Processor: A Multicomputer Processing Node with Efficient Mechanisms
+R1	10.1.1.21.8820	RaPiD - Reconfigurable Pipelined Datapath
+R1	10.1.1.152.3604	Concurrent Models of computation for Embedded Software
+R1	10.1.1.126.9970	An Architecture and Compiler for Scalable On-Chip Communication
+R1	10.1.1.132.4857	Hardware-assisted fast routing
+R1	10.1.1.128.5555	Configurable computing solutions for automatic target recognition
+R1	10.1.1.43.3999	Sequencing Run-Time Reconfigured Hardware with Software
+R1	10.1.1.43.8585	Density Enhancement of a Neural Network Using FPGAs and Run-Time Reconfiguration
+R1	10.1.1.23.2521	Dynamic Runtime Scheduler Support for SCORE
+R1	10.1.1.37.319	Balancing Computation and Memory in High Capacity Reconfigurable Arrays
+R1	10.1.1.155.5438	The sfra: A corner-turn FPGA architecture
+R1	10.1.1.129.3001	Quasi-Static Scheduling for SCORE

@@ -1,0 +1,21 @@
+10.1.1.115.5046	2008	Challenges in Mapping of Syntactic Representations for Framework-Independent Parser Evaluation
+R1	10.1.1.12.1238	Parsing English with a Link Grammar
+R1	10.1.1.14.9706	Building a Large Annotated Corpus of English: The Penn Treebank
+R1	10.1.1.21.700	Parser Evaluation: a Survey and a New Proposal
+R1	10.1.1.19.9180	A Maximum-Entropy-Inspired Parser
+R1	10.1.1.26.1659	Three New Probabilistic Models for Dependency Parsing: An Exploration
+R1	10.1.1.10.7470	Accurate Unlexicalized Parsing
+R1	10.1.1.11.945	Parsing With Generative Models of Predicate-Argument Structure
+R1	10.1.1.15.3277	The PARC 700 Dependency Bank
+R1	10.1.1.61.3530	Coarse-to-fine n-best parsing and MaxEnt discriminative reranking
+R1	10.1.1.105.3789	Parsing the WSJ using CCG and log-linear models
+R1	10.1.1.135.4155	Parsing biomedical literature
+R1	10.1.1.103.2555	The second release of the RASP system
+R1	10.1.1.110.7828	Speed and accuracy in shallow and deep stochastic parsing
+R1	10.1.1.229.775	Generating typed dependency parses from phrase structure parses
+R1	10.1.1.115.428	Formalism-independent parser evaluation with CCG and DepBank
+R1	10.1.1.4.7634	Towards Holistic Grammar Engineering and Testing -- Grafting Treebank Maintenance into . . .
+R1	10.1.1.117.3100	Probabilistic disambiguation models for wide-coverage HPSG parsing
+R1	10.1.1.18.8247	Acquiring Compact Lexicalized Grammars from a Cleaner Treebank
+R1	10.1.1.374.807	Using grammatical relations to compare parsers
+R1	10.1.1.123.5639	A log-linear model with an n-gram reference distribution for accurate HPSG parsing

@@ -1,0 +1,36 @@
+10.1.1.182.2306	1998	The approximability of NP-hard problems
+R1	10.1.1.35.8576	A Threshold of ln n for Approximating Set Cover
+R1	10.1.1.38.2537	Designing Programs That Check Their Work
+R1	10.1.1.406.395	The complexity of theorem-proving procedures
+R1	10.1.1.33.558	Cut Problems And Their Application To Divide-And-Conquer
+R1	10.1.1.129.7422	The geometry of graphs and some of its algorithmic applications
+R1	10.1.1.133.6107	THE PRIMAL-DUAL METHOD FOR APPROXIMATION ALGORITHMS AND ITS APPLICATION TO NETWORK DESIGN PROBLEMS
+R1	10.1.1.35.900	Hardness Of Approximations
+R1	10.1.1.159.7685	The complexity of approximating a nonlinear program
+R1	10.1.1.114.3864	The NP-completeness column: an ongoing guide
+R1	10.1.1.35.6097	Property Testing and its connection to Learning and Approximation
+R1	10.1.1.104.8371	Interactive proofs and the hardness of approximating cliques
+R1	10.1.1.130.9311	Non-Deterministic Exponential Time has Two-Prover Interactive Protocols
+R1	10.1.1.324.4243	Two-prover one-round proof systems: their power and their problems
+R1	10.1.1.42.5554	On the Power of Multi-Prover Interactive Protocols
+R1	10.1.1.17.5556	A Parallel Repetition Theorem
+R1	10.1.1.51.1351	A 7/8-Approximation Algorithm for MAX 3SAT?
+R1	10.1.1.125.5753	Using dual approximation algorithms for scheduling problems: theoretical and practical results
+R1	10.1.1.32.1401	Polynomial Time Approximation Schemes for Dense Instances of NP-Hard Problems
+R1	10.1.1.145.2644	Improved low-degree testing and its applications
+R1	10.1.1.36.82	A Sub-Constant Error-Probability Low-Degree Test, and a Sub-Constant Error-Probability PCP Characterization of NP
+R1	10.1.1.19.4312	Approximating Maximum Independent Sets by Excluding Subgraphs
+R1	10.1.1.172.7641	Approximate graph coloring by semidefinite programming
+R1	10.1.1.44.1065	Guillotine Subdivisions Approximate Polygonal Subdivisions: A Simple Polynomial-Time Approximation Scheme for Geometric TSP, k-MST, and Related Problems
+R1	10.1.1.126.760	A public-key cryptosystem with worst-case/average-case equivalence
+R1	10.1.1.11.8391	The Hardness of Approximate Optima in Lattices, Codes, and Systems of Linear Equations
+R1	10.1.1.172.1406	Constraint satisfaction: The approximability of minimization problems
+R1	10.1.1.398.2753	A still better performance guarantee for approximate graph coloring
+R1	10.1.1.172.7605	On syntactic versus computational views of approximability
+R1	10.1.1.52.8469	On Approximating the Longest Path in a Graph
+R1	10.1.1.52.966	The Power Of Interaction
+R1	10.1.1.32.1249	Nearly Linear Time Approximation Schemes for Euclidean TSP and other Geometric Problems
+R1	10.1.1.35.7924	Random Debaters and the Hardness of Approximating Stochastic Functions
+R1	10.1.1.46.6267	Probabilistically Checkable Debate Systems and Nonapproximability of PSPACE-Hard Functions
+R1	10.1.1.16.3955	A taxonomy of proof systems
+R1	10.1.1.39.717	Transparent Proofs and Limits to Approximation

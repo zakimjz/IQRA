@@ -1,0 +1,24 @@
+10.1.1.143.2926	2002	A Survey on Customizability in Operating Systems Research
+R1	10.1.1.127.6750	Self-Monitoring and Self-Adapting Operating Systems
+R1	10.1.1.142.6054	Safe Kernel Extensions Without Run-Time Checking
+R1	10.1.1.225.8767	Dealing with disaster: Surviving misbehaved kernel extensions
+R1	10.1.1.142.4639	Java operating systems: Design and implementation
+R1	10.1.1.116.4110	Exterminate All Operating System Abstractions
+R1	10.1.1.192.7605	Extensible security architecture for Java
+R1	10.1.1.118.534	The Flux OSKit: A substrate for kernel and language research
+R1	10.1.1.100.6047	Exokernel: An Operating System Architecture for Application-Level Resource Management
+R1	10.1.1.17.1226	Making Paths Explicit in the Scout Operating System
+R1	10.1.1.161.5384	A caching model of operating system kernel functionality
+R1	10.1.1.394.5802	EROS: a fast capability system
+R1	10.1.1.26.4581	On µ-kernel construction
+R1	10.1.1.132.2720	Open implementation design guidelines
+R1	10.1.1.29.4752	The Need for Customizable Operating Systems
+R1	10.1.1.25.9120	Toward Real Microkernels
+R1	10.1.1.190.7046	Microkernels meet recursive virtual machines
+R1	10.1.1.29.4871	Synthesis: An Efficient Implementation of Fundamental Operating System Services
+R1	10.1.1.52.4534	Fast Concurrent Dynamic Linking for an Adaptive Operating System
+R1	10.1.1.126.7890	The Pebble component-based operating system
+R1	10.1.1.48.5938	Designing Meta-Interfaces For Object-Oriented Operating Systems
+R1	10.1.1.37.4180	Escort: A Path-Based OS Security Architecture
+R1	10.1.1.43.6195	Efficient Cross-domain Mechanisms for Building Kernel-less Operating Systems
+R1	10.1.1.54.9285	Using Meta-Interfaces to Support Secure Dynamic System Reconfiguration

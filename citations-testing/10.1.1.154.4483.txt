@@ -1,0 +1,24 @@
+10.1.1.154.4483	2008	Deblurring from highly incomplete measurements for remote sensing
+R1	10.1.1.155.4265	The curvelet transform for image denoising
+R1	10.1.1.122.4429	Robust Uncertainty Principles: Exact Signal Reconstruction From Highly Incomplete Frequency Information
+R1	10.1.1.212.6447	Compressed sensing
+R1	10.1.1.121.4983	Gradient projection for sparse reconstruction: Application to compressed sensing and other inverse problems
+R1	10.1.1.162.1548	New tight frames of curvelets and optimal representations of objects with piecewise C² singularities
+R1	10.1.1.112.7317	Signal recovery from random measurements via Orthogonal Matching Pursuit
+R1	10.1.1.103.6507	Deconvolution by thresholding in mirror wavelet bases
+R1	10.1.1.140.6027	Deterministic constructions of compressed sensing matrices
+R1	10.1.1.177.6767	Compressed Sensing and Redundant Dictionaries
+R1	10.1.1.92.6387	A wide-angle view at iterated shrinkage algorithms
+R1	10.1.1.160.7482	A Segmentation-based regularization term for image deconvolution
+R1	10.1.1.138.5372	Optimized projections for compressed sensing
+R1	10.1.1.151.1786	Random lens imaging
+R1	10.1.1.145.2861	Compressive sensing
+R1	10.1.1.136.8269	Sparse recovery using sparse random matrices
+R1	10.1.1.332.2288	Best Basis Compressive Sensing
+R1	10.1.1.141.3900	Compressed sensing  in astronomy
+R1	10.1.1.154.7922	Iterative hard thresholding for compressed sensing
+R1	10.1.1.154.7622	Fast compressive imaging using scrambled block Hadamard ensemble, preprint
+R1	10.1.1.154.7537	Single-Pixel Remote Sensing
+R1	10.1.1.154.5848	Simply denoise: wavefield reconstruction via jittered undersampling
+R1	10.1.1.314.5923	Toeplitz block matrices in compressed sensing and their applications
+R1	10.1.1.154.6636	Learning to Sense Sparse Signals: Simultaneous Sensing Matrix and Sparsifying Dictionary Optimization

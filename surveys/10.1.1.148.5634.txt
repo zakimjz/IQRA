@@ -1,0 +1,31 @@
+10.1.1.148.5634	2008	A systematic survey of program comprehension through dynamic analysis
+R1	10.1.1.112.847	Visualizing interactions in program executions
+R1	10.1.1.47.4100	Modeling Object-Oriented Program Execution
+R1	10.1.1.1.9753	DiscoTect: A System for Discovering Architectures from Running Systems
+R1	10.1.1.39.3487	Visualizing Dynamic Software System Information through High-level Models
+R1	10.1.1.352.3145	Testing using log file analysis: Tools, methods and issues
+R1	10.1.1.2.3628	Static and Dynamic Analysis: Synergy and Duality
+R1	10.1.1.20.1753	Using Dynamic Information for the Iterative Recovery of Collaborations and Roles
+R1	10.1.1.387.7724	A Survey of Controlled Experiments in Software Engineering
+R1	10.1.1.100.1984	Scalability Solutions for Program Comprehension through Dynamic Analysis
+R1	10.1.1.100.4083	Feature Location Using Probabilistic Ranking of Methods Based on Execution Scenarios and Information Retrieval
+R1	10.1.1.100.7312	Combining Static and Dynamic Analyses to Detect Interaction Patterns
+R1	10.1.1.4.6317	Execution Patterns in Object-Oriented Visualization
+R1	10.1.1.89.3386	Towards the Reverse Engineering of UML Sequence Diagrams for Distributed, Multithreaded Java software
+R1	10.1.1.102.1498	Regaining lost knowledge through dynamic analysis and aspect orientation - an industrial experience report
+R1	10.1.1.148.9340	Managing trace data volume through a heuristical clustering process based on event execution frequency
+R1	10.1.1.186.5700	Encoding program executions
+R1	10.1.1.88.2729	Automatic design pattern detection
+R1	10.1.1.44.4749	Architecture-Oriented Visualization
+R1	10.1.1.207.5469	A Review and Evaluation of Dynamic Visualisation Tools
+R1	10.1.1.27.9422	Understanding Distributed Systems via Execution Trace Data
+R1	10.1.1.142.4470	A comparison of methods for locating features in legacy software
+R1	10.1.1.72.6439	Analyzing feature traces to incorporate the semantics of change in software evolution analysis
+R1	10.1.1.67.3804	Efficient checkpointing of java software using context-sensitive capture and replay
+R1	10.1.1.84.4575	ABSTRACT Software Engineering for Multicore Systems – An Experience Report
+R1	10.1.1.120.9351	Feature Location via Information Retrieval based Filtering of a Single Scenario Execution Trace
+R1	10.1.1.129.4063	Visual Representations of Executing Programs
+R1	10.1.1.133.5442	Reducing Program Comprehension Effort in Evolving Software by Recognizing Feature Implementation Convergence Abstract
+R1	10.1.1.133.7821	CERBERUS: Tracing Requirements to Source Code Using Information Retrieval, Dynamic Analysis, and Program Analysis
+R1	10.1.1.148.6496	An Assessment Methodology for Trace Reduction Techniques
+R1	10.1.1.136.9753	Dynamic Protocol Recovery

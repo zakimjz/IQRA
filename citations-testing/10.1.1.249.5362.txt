@@ -1,0 +1,22 @@
+10.1.1.249.5362	906	DOUBLE SHUFFLE RELATIONS AND RENORMALIZATION OF MULTIPLE ZETA VALUES
+R1	10.1.1.234.9071	Quasi-shuffle products
+R1	10.1.1.111.7691	Special Values of Multiple Polylogarithms
+R1	10.1.1.154.7016	Analytic continuation of multiple zeta functions
+R1	10.1.1.263.7723	Rota-Baxter algebras in renormalization of perturbative quantum field theory
+R1	10.1.1.167.5485	Renormalization in quantum field theory and the Riemann-Hilbert problem. II. The β-function, diffeomorphisms and the renormalization group
+R1	10.1.1.108.9138	Spitzer’s Identity and the Algebraic Birkhoff Decomposition in pQFT
+R1	10.1.1.237.1004	Renormalization of multiple zeta values
+R1	10.1.1.106.1443	ON THE SUM FORMULA FOR THE q-ANALOGUE OF NON-STRICT MULTIPLE ZETA VALUES
+R1	10.1.1.236.2324	Combinatorial aspects of multiple zeta values
+R1	10.1.1.235.5846	Mixed Tate motives and multiple zeta values
+R1	10.1.1.238.204	Multiple q-zeta values
+R1	10.1.1.234.6786	Baxter algebras and shuffle products
+R1	10.1.1.238.195	A q-analog of Euler’s decomposition formula for the double zeta function
+R1	10.1.1.164.1440	On motives associated to graph polynomials
+R1	10.1.1.265.5521	Vishik: Determinants of elliptic pseudo–differential operators
+R1	10.1.1.145.1329	Motivic renormalization and singularities
+R1	10.1.1.145.2453	ALGEBRO-GEOMETRIC FEYNMAN RULES
+R1	10.1.1.145.4623	DIFFERENTIAL ALGEBRAIC BIRKHOFF DECOMPOSITION AND THE RENORMALIZATION OF MULTIPLE ZETA VALUES
+R1	10.1.1.239.1781	The Sum Formula of Multiple Zeta Values and Connection Problem of the Formal Knizhnik-Zamolodchikov Equation
+R1	10.1.1.313.5979	Explicit double shuffle relations and a generalization of Euler’s decomposition formula
+R1	10.1.1.311.7217	Weighted sum formula for multiple zeta values

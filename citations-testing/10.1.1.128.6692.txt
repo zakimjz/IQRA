@@ -1,0 +1,37 @@
+10.1.1.128.6692	1999	Architectures for Synchronous Groupware
+R1	10.1.1.142.3682	Time, Clocks, and the Ordering of Events in a Distributed System
+R1	10.1.1.38.1298	Tcl and the Tk Toolkit
+R1	10.1.1.135.5430	Foundations for the Study of Software Architecture
+R1	10.1.1.20.5696	Operating System Support for Mobile Agents
+R1	10.1.1.11.2141	A Component- and Message-Based Architectural Style for GUI Software
+R1	10.1.1.45.2135	DOLPHIN: Integrated Meeting Support across LiveBoards, Local and Remote Desktop Environments
+R1	10.1.1.164.3103	A calculus for concurrent update
+R1	10.1.1.53.9216	A High-Level and Flexible Framework for Implementing Multi-User User-Interfaces
+R1	10.1.1.217.5146	Groupware Toolkits for Synchronous Work
+R1	10.1.1.50.967	Designing object-oriented synchronous groupware with COAST
+R1	10.1.1.39.9869	Tools for Implementing Groupware: Survey and Evaluation
+R1	10.1.1.116.4753	Working Apart Together: Foundations for Component Groupware
+R1	10.1.1.136.4728	Real time groupware as a distributed system: Concurrency control and its effect on the interface
+R1	10.1.1.10.2201	Migratory Applications
+R1	10.1.1.36.2363	Access Control for Collaborative Environments
+R1	10.1.1.103.9804	Fine-grained Mobility in the Emerald System
+R1	10.1.1.17.7473	Groupdesign: Shared Editing In Heterogeneous Environment
+R1	10.1.1.217.2067	Building Real Time Groupware with GroupKit, A Groupware Toolkit
+R1	10.1.1.32.7810	PAC-ing the Architecture of Your User Interface
+R1	10.1.1.34.4453	Efficient Distributed Implementation of Semi-Replicated Synchronous Groupware
+R1	10.1.1.147.3932	Distribution and abstract types in emerald
+R1	10.1.1.17.7114	An Architecture for Tailoring Cooperative Multi-User Displays
+R1	10.1.1.32.9345	From Single-User Architectural Design to PAC*: a Generic Software Architecture Model for CSCW
+R1	10.1.1.50.3261	Coupling the User Interfaces of a Multiuser Program
+R1	10.1.1.54.4917	Accommodating Latecomers in Shared Window Systems
+R1	10.1.1.15.9719	External Requirements of Groupware Development Tools
+R1	10.1.1.36.546	Flexibly Mapping Synchronous Groupware Architectures to Distributed Implementations
+R1	10.1.1.31.5902	Open Implementation and Flexibility in CSCW Toolkits
+R1	10.1.1.31.3008	A Framework For Shared Applications With A Replicated Architecture
+R1	10.1.1.129.7397	Consistency Guarantees: Exploiting Application Semantics for Consistency Management in a Collaboration Toolkit
+R1	10.1.1.27.4115	Concurrency Control and View Notification Algorithms for Collaborative Replicated Objects
+R1	10.1.1.21.5023	Promondia: A Java-Based Framework for Real-Time Group Communication in the Web
+R1	10.1.1.53.4685	Java-based Multimedia Collaboration and Application Sharing Environment
+R1	10.1.1.23.7458	Relational Views as a Model for Automatic Distributed Implementation of Multi-User Applications
+R1	10.1.1.28.3344	Frameworks and patterns for synchronous groupware: AMF-C approach
+R1	10.1.1.217.2957	Simplifying Component Development in an Integrated Groupware Environment

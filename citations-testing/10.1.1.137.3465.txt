@@ -1,0 +1,22 @@
+10.1.1.137.3465	2002	A type system for certified binaries
+R1	10.1.1.186.1082	A semantic model of types and machine instructions for proof-carrying code
+R1	10.1.1.24.6526	From System F to Typed Assembly Language
+R1	10.1.1.41.548	Dependent Types in Practical Programming
+R1	10.1.1.126.9884	The Design and Implementation of a Certifying Compiler
+R1	10.1.1.142.6054	Safe Kernel Extensions Without Run-Time Checking
+R1	10.1.1.21.1152	A Linear Logical Framework
+R1	10.1.1.123.266	A Dependently Typed Assembly Language
+R1	10.1.1.141.6471	Compiling polymorphism using intensional type analysis
+R1	10.1.1.1.3704	Typed Memory Management in a Calculus of Capabilities
+R1	10.1.1.11.1273	Explicit Polymorphism and CPS Conversion
+R1	10.1.1.141.7192	Typed closure conversion
+R1	10.1.1.37.8235	Flexible Type Analysis
+R1	10.1.1.27.295	Fully Reflexive Intensional Type Analysis
+R1	10.1.1.12.8063	Intensional Polymorphism in Type-Erasure Semantics
+R1	10.1.1.17.5985	Resource Bound Certification
+R1	10.1.1.11.6732	Implementing Typed Intermediate Languages
+R1	10.1.1.218.7554	Principled scavenging
+R1	10.1.1.137.3465	A type system for certified binaries
+R1	10.1.1.38.2661	Constructions, Inductive Types and Strong Normalization
+R1	10.1.1.54.9101	An Overview of the FLINT/ML Compiler
+R1	10.1.1.24.3351	CPS Translations and Applications: The Cube and Beyond

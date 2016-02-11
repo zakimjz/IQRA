@@ -1,0 +1,69 @@
+10.1.1.109.6124	2005	A Survey and Comparison of Peer-to-Peer Overlay Network Schemes
+R1	10.1.1.12.2253	Web Caching and Zipf-like Distributions: Evidence and Implications
+R1	10.1.1.15.3743	A Game Theoretic Framework for Incentives in P2P Systems
+R1	10.1.1.130.2771	Incentives For Sharing in Peer-to-Peer Networks
+R1	10.1.1.160.7346	A measurement study of peer-to-peer file sharing systems
+R1	10.1.1.140.3129	A Scalable Content-Addressable Network
+R1	10.1.1.28.5987	Pastry: Scalable, distributed object location and routing for large-scale peer-to-peer systems
+R1	10.1.1.10.7268	Measurement, Modeling, and Analysis of a Peer-to-Peer File-Sharing Workload
+R1	10.1.1.298.1586	A Scalable Location Service for Geographic Ad Hoc Routing
+R1	10.1.1.1.1674	PAST: A large-scale, persistent peer-to-peer storage utility
+R1	10.1.1.380.6242	Feasibility of a Serverless Distributed File System Deployed on an Existing Set of Desktop PCs
+R1	10.1.1.10.4919	Freenet: A Distributed Anonymous Information Storage and Retrieval System
+R1	10.1.1.115.4299	Oceanstore: An architecture for global-scale persistent storage
+R1	10.1.1.38.1850	Accessing Nearby Copies of Replicated Objects in a Distributed Environment
+R1	10.1.1.110.5867	Storage management and caching in PAST, a large-scale, persistent peer-to-peer storage utility
+R1	10.1.1.125.3017	Publius: A robust, tamper-evident, censorship-resistant, web publishing system
+R1	10.1.1.117.7097	The Small-World Phenomenon: An Algorithmic Perspective
+R1	10.1.1.17.4065	Viceroy: A Scalable and Dynamic Emulation of the Butterfly
+R1	10.1.1.118.8846	Skipnet: A scalable overlay network with practical locality properties
+R1	10.1.1.14.443	Efficient Routing in Networks with Long Range Contacts (Extended Abstract)
+R1	10.1.1.115.6586	YAPPERS: A Peer-to-Peer Lookup Service over Arbitrary Topology
+R1	10.1.1.11.7175	Security Considerations for Peer-to-Peer Distributed Hash Tables
+R1	10.1.1.12.1959	A Simple Fault Tolerant Distributed Hash Table
+R1	10.1.1.37.234	On Power-Law Relationships of the Internet Topology
+R1	10.1.1.20.299	SCRIBE: A large-scale and decentralized application-level multicast infrastructure
+R1	10.1.1.16.1445	Predicting Internet Network Distance with Coordinates-Based Approaches
+R1	10.1.1.10.1322	Topologically-aware overlay construction and server selection
+R1	10.1.1.22.2142	Bayeux: An architecture for scalable and fault-tolerant wide-area data dissemination
+R1	10.1.1.118.1870	Secure routing for structured peer-to-peer overlay networks
+R1	10.1.1.1.4196	SCRIBE: The design of a large-scale event notification infrastructure
+R1	10.1.1.11.7643	Chord: A Scalable Peer-to-Peer Lookup Protocol for Internet Applications
+R1	10.1.1.10.1904	Tapestry: A Resilient Global-scale Overlay for Service Deployment
+R1	10.1.1.1.2361	Towards a Common API for Structured Peer-to-Peer Overlays
+R1	10.1.1.125.41	Wide-area cooperative storage with CFS
+R1	10.1.1.16.4785	Kademlia: A Peer-to-peer Information System Based on the XOR Metric
+R1	10.1.1.147.1879	Consistent hashing and random trees: Distributed caching protocols for relieving hot spots on the World Wide Web
+R1	10.1.1.11.8056	Analysis of the Evolution of Peer-to-Peer Systems
+R1	10.1.1.140.2918	Efficient search in peer-to-peer networks
+R1	10.1.1.109.4681	A blueprint for introducing disruptive technology into the internet
+R1	10.1.1.1.4602	Squirrel: A decentralized peer-to-peer web cache
+R1	10.1.1.1.3606	Vivaldi: A Decentralized Network Coordinate System
+R1	10.1.1.10.4466	PIC: Practical Internet Coordinates for Distance Estimation
+R1	10.1.1.10.2243	Big-Bang Simulation for Embedding Network Distances in Euclidean Space
+R1	10.1.1.5.990	Virtual Landmarks for the Internet
+R1	10.1.1.19.7338	Efficient Topology-Aware Overlay Network
+R1	10.1.1.67.2281	Exploiting network proximity in peer-to-peer overlay networks
+R1	10.1.1.10.5444	Making Gnutella-like P2P Systems Scalable
+R1	10.1.1.1.3782	The Case for a Hybrid P2P Search Infrastructure
+R1	10.1.1.14.1949	Incentives for Cooperation in Peer-to-Peer Networks
+R1	10.1.1.11.9491	Finding Nearest Neighbors in Growth-restricted Metrics
+R1	10.1.1.10.5979	Handling Churn in a DHT
+R1	10.1.1.10.983	Performance and Dependability of Structured Peer-to-Peer Overlays
+R1	10.1.1.10.9497	SplitStream: High-Bandwidth Multicast in Cooperative Environments
+R1	10.1.1.11.1521	Constructing Internet Coordinate System Based on Delay Measurement
+R1	10.1.1.20.7326	Early Measurements of a Cluster-based Architecture for P2P Systems
+R1	10.1.1.16.3696	Probabilistic Location and Routing
+R1	10.1.1.105.5048	DKS(N,k,f): a family of low communication, scalable and fault-tolerant infrastructures for P2P applications
+R1	10.1.1.11.7193	Novel Architectures for P2P Applications: the Continuous-Discrete Approach
+R1	10.1.1.106.2691	Finding similar files in a large file system
+R1	10.1.1.12.7553	Approximate Object Location and Spam Filtering on Peer-to-peer Systems
+R1	10.1.1.10.9130	Can Heterogeneity Make Gnutella Scalable?
+R1	10.1.1.101.3227	Pastiche: making backup cheap and easy
+R1	10.1.1.220.3145	Graph-Theoretic Analysis of Structured Peer-to-Peer Systems: Routing Distances and Fault Resilience
+R1	10.1.1.18.1296	Using the Small-World Model to Improve Freenet Performance
+R1	10.1.1.10.8444	A Low-bandwidth Network File System
+R1	10.1.1.390.5945	Modeling and performance analysis of bittorrentlike peer-to-peer networks
+R1	10.1.1.3.4761	A Measurement Study of the BitTorrent Peer-to-Peer File-Sharing System
+R1	10.1.1.61.5727	Defending against Eclipse attacks on overlay networks
+R1	10.1.1.329.7915	Highways: Proximity Clustering for Scalable Peer-to-Peer Networks

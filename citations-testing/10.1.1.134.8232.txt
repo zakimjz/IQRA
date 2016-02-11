@@ -1,0 +1,23 @@
+10.1.1.134.8232	2001	Understanding the performance of many tcp flows
+R1	10.1.1.114.2460	A Fluid-based Analysis of a Network of AQM Routers Supporting TCP Flows with an Application to RED
+R1	10.1.1.128.5092	Random Early Detection Gateways for Congestion Avoidance
+R1	10.1.1.143.9137	Modeling TCP Throughput: A Simple Model and its Empirical Validation
+R1	10.1.1.31.3480	An Empirical Model of HTTP Network Traffic
+R1	10.1.1.136.6022	A control theoretic analysis of RED
+R1	10.1.1.123.4075	Tuning RED for Web Traffic
+R1	10.1.1.143.6798	Modeling TCP latency
+R1	10.1.1.41.5337	Analytic Evaluation of RED Performance
+R1	10.1.1.4.2118	A Proposal to add Explicit Congestion Notification (ECN) to IP
+R1	10.1.1.332.9375	Dynamics of Random Early Detection
+R1	10.1.1.37.237	SRED: Stabilized RED
+R1	10.1.1.160.6569	Explicit Congestion Notification
+R1	10.1.1.41.9306	A Study of Active Queue Management for Congestion Control
+R1	10.1.1.41.3200	Time-stepped Hybrid Simulation (TSHS) For Large Scale Networks
+R1	10.1.1.299.2673	Observations on the dynamics of a congestion control algorithm: The effects of two-way traffic
+R1	10.1.1.11.5801	BLUE: A New Class of Active Queue Management Algorithms
+R1	10.1.1.37.3828	Understanding the Performance of TCP Pacing
+R1	10.1.1.19.2808	A RED discard strategy for ATM networks and its performance evaluation with TCP/IP traffic
+R1	10.1.1.32.4874	Understanding the End-to-End Performance Impact of RED in a Heterogeneous Environment
+R1	10.1.1.183.5172	Enabling large-scale simulations: selective abstraction approach to the study of multicast protocols
+R1	10.1.1.41.816	Stochastic Modeling of TCP over Lossy Links
+R1	10.1.1.57.1325	Fluid Simulation for High Speed Networks

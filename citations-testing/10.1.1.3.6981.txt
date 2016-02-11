@@ -1,0 +1,25 @@
+10.1.1.3.6981	2004	Re-synchronization and Controllability of Bursty Service Requests
+R1	10.1.1.128.5092	Random Early Detection Gateways for Congestion Avoidance
+R1	10.1.1.342.2422	Fast, Approximate Synthesis of Fractional Gaussian Noise for Generating Self-Similar Network Traffic
+R1	10.1.1.144.7995	Wide-Area Traffic: The Failure of Poisson Modeling
+R1	10.1.1.146.1122	RSVP: A New Resource Reservation Protocol
+R1	10.1.1.143.9137	Modeling TCP Throughput: A Simple Model and its Empirical Validation
+R1	10.1.1.399.4722	Resource Containers: A New Facility for Resource Management in Server Systems
+R1	10.1.1.2.1314	Generating Representative Web Workloads for Network and Server Performance Evaluation
+R1	10.1.1.142.1211	Connection-level Analysis and Modeling of Network Traffic
+R1	10.1.1.37.157	Defending against Denial of Service Attacks in Scout
+R1	10.1.1.136.4408	Equation-based congestion control for unicast applications
+R1	10.1.1.15.521	Variance of Aggregated Web Traffic
+R1	10.1.1.227.3074	A multifractal wavelet model with application to TCP network traffic
+R1	10.1.1.136.6022	A control theoretic analysis of RED
+R1	10.1.1.143.6798	Modeling TCP latency
+R1	10.1.1.123.5505	On the constancy of Internet path properties
+R1	10.1.1.27.8825	QGuard: Protecting Internet Servers from Overload
+R1	10.1.1.160.6569	Explicit Congestion Notification
+R1	10.1.1.104.4578	A measurement-based admission control algorithm for integrated services packet networks
+R1	10.1.1.17.4514	On the Dynamics and Significance of Low Frequency Components of Internet Load
+R1	10.1.1.135.4673	Lazy Receiver Processing (LRP): A Network Subsystem Architecture for Server Systems
+R1	10.1.1.27.927	A Study of Internet Round-trip Delay
+R1	10.1.1.30.7986	Statistical Characterization of a World Wide Web Browsing Session
+R1	10.1.1.33.6996	The Case For Prediction-based Best-effort Real-time Systems
+R1	10.1.1.6.2771	Persistent Dropping: An Efficient Control of Traffic Aggregates

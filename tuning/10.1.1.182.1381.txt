@@ -1,0 +1,22 @@
+10.1.1.182.1381	2004	Adaptive data placement for wide-area sensing services
+R1	10.1.1.160.3726	A survey of web caching schemes for the internet
+R1	10.1.1.110.6985	Deriving Traffic Demands for Operational IP networks: Methodology and Experience
+R1	10.1.1.136.6228	TAG: a Tiny AGgregation service for ad-hoc sensor networks
+R1	10.1.1.16.1445	Predicting Internet Network Distance with Coordinates-Based Approaches
+R1	10.1.1.14.7680	Querying the Internet with PIER
+R1	10.1.1.13.2446	Astrolabe: A Robust and Scalable Technology for Distributed System Monitoring, Management, and Data Mining
+R1	10.1.1.12.1793	Object Replication Strategies in Content Distribution Networks
+R1	10.1.1.129.1970	On the Placement of Web Server Replicas
+R1	10.1.1.12.2344	Taming aggressive replication in the Pangaea wide-area file system
+R1	10.1.1.114.8708	Cache-and-Query for Wide Area Sensor Databases
+R1	10.1.1.106.4101	A fast and high quality multilevel scheme for partitioning irregular graphs
+R1	10.1.1.119.567	Ivy: A Read/Write Peer-to-Peer File System
+R1	10.1.1.34.3745	Interpreting Stale Load Information
+R1	10.1.1.102.5823	Data allocation in distributed database systems
+R1	10.1.1.29.9281	Competitive Distributed File Allocation
+R1	10.1.1.144.8598	Static and adaptive data replication algorithms for fast information access in large distributed systems
+R1	10.1.1.90.7390	Design Considerations for High Fan-in Systems: The HiFi Approach
+R1	10.1.1.102.9010	Experimental Evaluation of Dynamic Data Allocation Strategies in a Distributed Database With Changing Workloads
+R1	10.1.1.21.1466	Data Replication in Mariposa
+R1	10.1.1.182.1381	Adaptive data placement for wide-area sensing services
+R1	10.1.1.120.4881	IrisNet: An Architecture for Internet-Scale Sensing

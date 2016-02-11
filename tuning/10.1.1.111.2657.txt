@@ -1,0 +1,24 @@
+10.1.1.111.2657	2005	Dynamine: Finding Common Error Patterns by Mining Software Revision Histories
+R1	10.1.1.137.4260	Dynamically discovering likely program invariants to support program evolution
+R1	10.1.1.14.8279	Mining Specifications
+R1	10.1.1.131.1043	Bugs as Deviant Behavior: A General Approach to Inferring Errors in Systems Code
+R1	10.1.1.119.2014	A First Step towards Automated Detection of Buffer Overrun Vulnerabilities
+R1	10.1.1.199.7754	Detection of Logical Coupling Based on Product Release History
+R1	10.1.1.112.1518	Mining version histories to guide software changes
+R1	10.1.1.40.2201	Efficient Algorithms for Discovering Association Rules
+R1	10.1.1.18.6621	A System and Language for Building System-Specific, Static Analyses
+R1	10.1.1.25.123	Detecting Format String Vulnerabilities with Type
+R1	10.1.1.132.3368	SLAM and static driver verifier: Technology transfer of formal methods inside Microsoft
+R1	10.1.1.100.7966	Synthesis of interface specifications for Java classes
+R1	10.1.1.67.5488	Lightweight defect localization for java
+R1	10.1.1.12.4329	A Static Analyzer for Large Safety-Critical Software
+R1	10.1.1.154.4031	Precise and scalable static program analysis of NASA flight software
+R1	10.1.1.14.7608	How History Justifies System Architecture (or not)
+R1	10.1.1.90.9987	Preprocessing CVS data for fine-grained analysis
+R1	10.1.1.115.3535	Mining Temporal Specifications for Error Detection
+R1	10.1.1.12.4157	Data Mining Library Reuse Patterns using Generalized Association Rules
+R1	10.1.1.186.4808	Predicting source code changes by mining change history
+R1	10.1.1.3.9897	Identification of Software Instabilities
+R1	10.1.1.40.3130	Data Mining Library Reuse Patterns in User-Selected Applications
+R1	10.1.1.81.6718	Towards understanding the rhetoric of small changes
+R1	10.1.1.85.6313	Recovering system specific rules from software repositories

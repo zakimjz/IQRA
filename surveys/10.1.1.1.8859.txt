@@ -1,0 +1,52 @@
+10.1.1.1.8859	1997	Multiagent Systems: A Survey from a Machine Learning Perspective
+R1	10.1.1.29.6467	Communicative Actions for Artificial Agents
+R1	10.1.1.44.4918	Soccer Server: a tool for research on multi-agent systems
+R1	10.1.1.11.812	Task Decomposition, Dynamic Role Assignment, and Low-Bandwidth Communication for Real-Time Strategic Teamwork
+R1	10.1.1.102.5130	Towards flexible teamwork
+R1	10.1.1.37.7970	BDI Agents: From Theory to Practice
+R1	10.1.1.18.9182	Creatures: Entertainment Software Agents with Artificial Life
+R1	10.1.1.330.1300	purposive behavior acquisition on a real robot by vision-based reinforcement learning
+R1	10.1.1.21.1405	Bayesian Learning in Negotiation
+R1	10.1.1.50.9021	Adaptive Load Balancing: A Study in Multi-Agent Learning
+R1	10.1.1.55.8066	Multi-Agent Reinforcement Learning: Independent vs. Cooperative Agents
+R1	10.1.1.1.5959	Towards Collaborative and Adversarial Learning: A Case Study in Robotic Soccer
+R1	10.1.1.30.1584	Methods for Competitive Co-evolution: Finding Opponents Worth Beating
+R1	10.1.1.216.8108	CONRO: Toward deployable robots with inter-robot metamorphic capabilities
+R1	10.1.1.16.6931	Deciding When to Commit To Action During Observation-based Coordination
+R1	10.1.1.57.1412	Learning of Cooperative actions in multi-agent systems: a case study of pass play in Soccer
+R1	10.1.1.48.758	Learning Organizational Roles in a Heterogeneous Multi-agent System
+R1	10.1.1.125.9772	Real-time control of soccer-playing robots using off-board vision: the dynamite testbed
+R1	10.1.1.28.5892	Recursive Agent and Agent-group Tracking in a Real-time, Dynamic Environment
+R1	10.1.1.14.9263	Recursive Agent Modeling Using Limited Rationality
+R1	10.1.1.16.3358	Cooperative Mobile Robotics: Antecedents and Directions
+R1	10.1.1.30.9028	Advantages of a Leveled Commitment Contracting Protocol
+R1	10.1.1.40.3357	Learning from an Automated Training Agent
+R1	10.1.1.108.2094	Evolving team Darwin United
+R1	10.1.1.44.9137	Coordination Of Multiple Behaviors Acquired By A Vision-Based Reinforcement Learning
+R1	10.1.1.110.3459	Communication in reactive multiagent robotic systems
+R1	10.1.1.119.5048	Hierarchic social entropy: An information theoretic measure of robot group diversity
+R1	10.1.1.114.1457	DYNAMO: Real-time experiments with multiple mobile robots
+R1	10.1.1.269.3859	Character design for soccer commentary
+R1	10.1.1.30.7541	From Roles to Teamwork: a framework and architecture
+R1	10.1.1.37.4451	Environment Centered Analysis and Design of Coordination Mechanisms
+R1	10.1.1.45.6375	Task Environment Centered Simulation
+R1	10.1.1.2.3152	A taxonomy for multi-agent robotics
+R1	10.1.1.40.5782	Trends in Cooperative Distributed Problem Solving
+R1	10.1.1.53.2228	Multiagent Learning and Adaptation in an Information Filtering Market
+R1	10.1.1.31.3588	Emergent Coordination through the Use of Cooperative State-Changing Rules
+R1	10.1.1.42.9641	Heterogeneous Teams of Modular Robots for Mapping and Exploration
+R1	10.1.1.35.8154	The CS Freiburg Team
+R1	10.1.1.164.4218	Strongly typed genetic programming in evolving cooperation strategies
+R1	10.1.1.31.1000	Grounded Symbolic Communication between Heterogeneous Cooperating Robots
+R1	10.1.1.24.5401	On Seeing Robots
+R1	10.1.1.30.848	Learning to Behave Socially
+R1	10.1.1.30.253	Time and the Prisoner's Dilemma
+R1	10.1.1.47.7241	A Metalevel Coordination Strategy for Reactive Cooperative Planning
+R1	10.1.1.38.6434	A Coevolutionary Approach to Learning Sequential Decision Rules
+R1	10.1.1.48.7515	Reactive Deliberation: An Architecture for Real-time Intelligent Control in Dynamic Environments
+R1	10.1.1.9.4250	On Multiagent Q-Learning in a Semi-competitive Domain
+R1	10.1.1.34.6775	On-Line Learning of Coordination Plans
+R1	10.1.1.36.7025	Distributed Intelligent Agents
+R1	10.1.1.21.3424	Generalizing Adversarial Reinforcement Learning
+R1	10.1.1.2.848	Individual and Collaborative Behaviors  in a Team of Homogeneous Robotic Soccer Agents
+R1	10.1.1.324.2544	Planning while learning operators

@@ -1,0 +1,24 @@
+10.1.1.25.2158	1999	Design and Analysis of Cellular Mobile Data Networks
+R1	10.1.1.27.4085	A Two-bit Differentiated Services Architecture for the Internet
+R1	10.1.1.38.1298	Tcl and the Tk Toolkit
+R1	10.1.1.125.5511	I-TCP: Indirect TCP for mobile hosts
+R1	10.1.1.299.5227	Genetic Algorithms Applied to the Cellular Call Admission Problem: Local Policies
+R1	10.1.1.43.7849	The BSD Packet Filter: A New Architecture for User-level Packet Capture
+R1	10.1.1.113.2393	A comparison of mechanisms for improving TCP performance over wireless links
+R1	10.1.1.10.4942	Improving Reliable Transport and Handoff Performance in Cellular Wireless Networks
+R1	10.1.1.329.6251	Cellular IP: A New Approach to Internet Host Mobility
+R1	10.1.1.51.1793	Feasibility of Fluid Event-Driven Simulation for ATM Networks
+R1	10.1.1.141.1912	Efficient TCP over networks with wireless links
+R1	10.1.1.114.3597	Effective bandwidths at multi-class queues
+R1	10.1.1.30.8441	Handling Mobile Clients: A Case for Indirect Interaction
+R1	10.1.1.42.7762	Fast and Scalable Handoffs for Wireless Internetworks
+R1	10.1.1.54.6425	Optimal Call Admission to a Mobile Cellular Network
+R1	10.1.1.37.2629	The Shadow Cluster Concept for Resource Allocation and Call Admission in ATM-Based Wireless Networks
+R1	10.1.1.22.9990	Fast and scalable wireless handoffs in support of mobile Internet audio
+R1	10.1.1.137.1215	An Efficient Transport Service for Slow Wireless Telephone Links
+R1	10.1.1.11.6492	A Performance Evaluation of Internet Access via the General Packet Radio Service of GSM
+R1	10.1.1.219.3934	Call Admission Control Algorithms for a Cellular System
+R1	10.1.1.31.477	Local Call Admission Policies for Cellular Networks Using Genetic Algorithms
+R1	10.1.1.36.490	Perspectives in Performance Evaluation of Large ATM Networks
+R1	10.1.1.26.9125	Performance of Cellular IP Access Networks
+R1	10.1.1.30.2956	Near-Optimal Call Admission Policies for Cellular Networks Using Genetic Algorithms

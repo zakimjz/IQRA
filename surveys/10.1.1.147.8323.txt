@@ -1,0 +1,36 @@
+10.1.1.147.8323	1998	NICHOLS:A Survey of Applications of CSCW for Digital Libraries
+R1	10.1.1.78.3284	Design perspectives in visualising complex information
+R1	10.1.1.90.6573	Interfaces for End-User Information Seeking
+R1	10.1.1.104.3739	Using collaborative filtering to weave an information tapestry
+R1	10.1.1.12.5584	Implicit Rating and Filtering
+R1	10.1.1.30.6583	Social Information Filtering: Algorithms for Automating "Word of Mouth"
+R1	10.1.1.107.6409	Supporting Groupware Conventions through Contextual Awareness
+R1	10.1.1.151.405	Office procedure as practical action: Models of work and system design
+R1	10.1.1.147.7153	Talking in the library: Implications for the design of digital libraries
+R1	10.1.1.44.4856	Sociologists can be Surprisingly Useful in Interactive Systems Design
+R1	10.1.1.116.783	What are Workplace Studies for?
+R1	10.1.1.1.8662	Student Readers' Use of Library Documents: Implications for Library Technologies
+R1	10.1.1.29.2013	Annotation: From Paper Books to the Digital Library
+R1	10.1.1.109.6332	Grouplens: Applying collaborative filtering to usenet news
+R1	10.1.1.103.8264	PHOAKS: a system for sharing recommendations
+R1	10.1.1.336.237	Do categories have politics? The language/action perspective reconsidered
+R1	10.1.1.17.2685	Experiences with Workflow Management: Issues for the Next Generation
+R1	10.1.1.144.8224	Organizational Usability of Digital Libraries: Case Study of Legal Research in Civil and Criminal Courts
+R1	10.1.1.16.362	Where Should The Person Stop And The Information Search Interface Start?
+R1	10.1.1.89.5005	From Ethnographic Record to System Design: Some Experiences from the Field
+R1	10.1.1.136.2940	Answer Garden 2: Merging Organizational Memory with Collaborative Help
+R1	10.1.1.29.6239	Metadata for Multimedia Documents
+R1	10.1.1.82.206	Techniques for Addressing Fundamental Privacy and Disruption Tradeoffs in Awareness Support Systems
+R1	10.1.1.49.9361	The Session Capture and Replay Paradigm for Asynchronous Collaboration
+R1	10.1.1.150.7014	Patterns of contact and communication in scientific research collaboration
+R1	10.1.1.12.589	Augmenting Organizational Memory: A Field Study of Answer Garden
+R1	10.1.1.11.4244	Taking CSCW Seriously: Supporting Articulation Work
+R1	10.1.1.17.8628	Support for Workflows in a Ministerial Environment
+R1	10.1.1.200.3849	Turning Information into Knowledge: Information Finding as a Collaborative Activity
+R1	10.1.1.152.1087	DistView: support for building efficient collaborative applications using replicated objects
+R1	10.1.1.44.7588	Integrating Ethnography Into the Requirements Engineering Process
+R1	10.1.1.10.6296	A Collaborative Medium for the Support of Conversational Props
+R1	10.1.1.28.4782	Matchmaking and Privacy in the Digital Library: Striking the right balance
+R1	10.1.1.52.1955	Information Needs in Technical Work Settings and their Implications for the Design of Computer Tools
+R1	10.1.1.133.3063	Hypermedia Use in group Work: Changing the product, Process, and strategy
+R1	10.1.1.123.5807	Groupware and Authoring

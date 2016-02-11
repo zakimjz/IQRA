@@ -1,0 +1,26 @@
+10.1.1.78.7630	2006	A Framework for the Static Verification of API Calls
+R1	10.1.1.193.479	Preliminary design of JML: A behavioral interface specification language for Java
+R1	10.1.1.131.1043	Bugs as Deviant Behavior: A General Approach to Inferring Errors in Systems Code
+R1	10.1.1.147.2820	Getting Started with AspectJ
+R1	10.1.1.10.8374	ESC/Java2: Uniting ESC/Java and JML - Progress and issues in building and using ESC/Java2
+R1	10.1.1.137.5123	Larch: Languages and tools for formal specification
+R1	10.1.1.103.5769	Modular verification of software components in C
+R1	10.1.1.29.3872	Bandera: Extracting Finite-state Models from Java Source Code
+R1	10.1.1.225.9648	The SLAM project: debugging system software via static analysis
+R1	10.1.1.18.6621	A System and Language for Building System-Specific, Static Analyses
+R1	10.1.1.14.7406	Enforcing High-Level Protocols in Low-Level Software
+R1	10.1.1.1.1525	An Overview of JML Tools and Applications
+R1	10.1.1.15.1304	TestEra: A Novel Framework for Automated Testing of Java Programs
+R1	10.1.1.1.8329	LCLint: A Tool for Using Specifications to Check Code
+R1	10.1.1.113.9957	Extended Static Checking for Java
+R1	10.1.1.130.4995	DrScheme: A programming environment for Scheme
+R1	10.1.1.132.3368	SLAM and static driver verifier: Technology transfer of formal methods inside Microsoft
+R1	10.1.1.103.8299	Byte Code Engineering
+R1	10.1.1.188.8442	Jungloid Mining: Helping To Navigate the API Jungle
+R1	10.1.1.113.8120	Finding bugs is easy
+R1	10.1.1.154.7740	An Overview of the Runtime Verification Tool Java PathExplorer
+R1	10.1.1.12.4329	A Static Analyzer for Large Safety-Critical Software
+R1	10.1.1.59.2182	Check 'n' Crash: Combining Static Checking and Testing
+R1	10.1.1.14.312	The Fugue protocol checker: Is your software Baroque?
+R1	10.1.1.205.3511	ESP: Path-Sensitive Program Verification in Polynomial Time
+R1	10.1.1.19.8640	Houdini, an Annotation Assistant for ESC/Java

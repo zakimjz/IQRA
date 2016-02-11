@@ -1,0 +1,21 @@
+10.1.1.143.5714	2008	Efficient Query Routing by Improved Peer Description
+R1	10.1.1.160.7346	A measurement study of peer-to-peer file sharing systems
+R1	10.1.1.105.3673	Chord: A Scalable Peer-to-Peer Lookup Service for Internet Applications
+R1	10.1.1.20.2080	Space/Time Trade-offs in Hash Coding with Allowable Errors
+R1	10.1.1.153.5656	Summary cache: A scalable wide-area web cache sharing protocol
+R1	10.1.1.308.8619	Some methods for classification and analysis of multivariate observations
+R1	10.1.1.140.2918	Efficient search in peer-to-peer networks
+R1	10.1.1.123.8939	Routing indices for peer-to-peer systems
+R1	10.1.1.26.106	Searching Distributed Collections With Inference Networks
+R1	10.1.1.127.9167	Divergence measures based on the Shannon entropy
+R1	10.1.1.64.5500	Content-based routing of path queries in peer-to-peer systems
+R1	10.1.1.10.678	A language modeling framework for resource selection and results merging
+R1	10.1.1.4.8363	Peer-to-Peer Information Retrieval Using Self-Organizing Semantic Overlay Networks
+R1	10.1.1.43.2981	An Efficient k-Means Clustering Algorithm: Analysis and Implementation
+R1	10.1.1.304.7346	D1HT: A Distributed One Hop Hash Table
+R1	10.1.1.329.9175	Correlation clustering with a fixed number of clusters
+R1	10.1.1.360.8555	Scalable Peer-to-Peer Web Retrieval with Highly Discriminative Keys
+R1	10.1.1.69.3454	User modeling for full-text federated search in peer-to-peer networks
+R1	10.1.1.110.6744	An Efficient Eigenvalue-based P2P XML Routing Framework
+R1	10.1.1.111.508	Web Text Retrieval with a P2P Query-Driven Index
+R1	10.1.1.151.8477	The Dynamic Bloom Filters

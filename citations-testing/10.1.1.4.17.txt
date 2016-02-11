@@ -1,0 +1,28 @@
+10.1.1.4.17	2003	Provisioning IP Backbone Networks Based on Measurements
+R1	10.1.1.110.6985	Deriving Traffic Demands for Operational IP networks: Methodology and Experience
+R1	10.1.1.110.8872	Traffic engineering with traditional IP routing protocols
+R1	10.1.1.115.4795	Internet routing instability
+R1	10.1.1.134.5136	End-to-End Routing Behavior in the Internet
+R1	10.1.1.135.8154	Issues and trends in router design
+R1	10.1.1.11.6628	Impact of link failures on VoIP performance
+R1	10.1.1.120.2064	Characterizing the Internet hierarchy from multiple vantage points
+R1	10.1.1.134.20	End-to-End Internet Packet Dynamics
+R1	10.1.1.22.46	Multicast-Based Inference of Network-Internal Characteristics: Accuracy of Packet Loss Estimation
+R1	10.1.1.54.3813	Bayesian Inference on Network Traffic Using Link Count Data
+R1	10.1.1.13.5250	IGP Link Weight Assignment for Transient Link Failures
+R1	10.1.1.33.1084	Measurements and analysis of end-to-end Internet dynamics
+R1	10.1.1.17.2405	Measuring Bottleneck Link Speed in Packet-Switched Networks
+R1	10.1.1.14.3528	What Do Packet Dispersion Techniques Measure?
+R1	10.1.1.114.728	Internet traffic engineering by optimizing OSPF weights
+R1	10.1.1.32.2507	Experimental Study of Internet Stability and Wide-Area Backbone Failures
+R1	10.1.1.143.2487	Inter-AS traffic patterns and their implications
+R1	10.1.1.145.9062	Data networks as cascades: investigating the multifractal nature
+R1	10.1.1.36.7418	Using pathchar to estimate Internet link characteristics
+R1	10.1.1.47.3588	Measuring Bandwidth
+R1	10.1.1.1.6696	Assessment of VoIP Quality over Internet Backbones
+R1	10.1.1.124.6726	NetScope: Traffic Engineering for IP Networks
+R1	10.1.1.131.4407	Surveyor: An infrastructure for Internet performance measurements
+R1	10.1.1.27.6898	The Past and Future History of the Internet
+R1	10.1.1.137.8232	POP-level and Access-link-level Traffic Dynamics in a Tier-1
+R1	10.1.1.21.8258	Monitoring Very High Speed Links
+R1	10.1.1.154.2615	Fortifying OSPF/IS-IS against link failures” Technical Report available from http://www.research.att.com/ mthorup/PAPERS/papers.html

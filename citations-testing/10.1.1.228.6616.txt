@@ -1,0 +1,27 @@
+10.1.1.228.6616	2012	Formalizing the LLVM Intermediate Representation for Verified Program Transformations
+R1	10.1.1.29.2076	Foundational Proof-Carrying Code
+R1	10.1.1.113.4649	A machine-checked model for a Java-like language, virtual machine and compiler
+R1	10.1.1.100.6361	Efficiently computing static single assignment form and the control dependence graph
+R1	10.1.1.102.3450	A unified approach to global program optimization
+R1	10.1.1.12.2113	Toward a Foundational Typed Assembly Language
+R1	10.1.1.131.1243	LLVM: A compilation framework for lifelong program analysis & transformation
+R1	10.1.1.12.2368	A Provably Sound TAL for Back-end Optimization
+R1	10.1.1.122.5996	Automated Soundness Proofs for Dataflow Analyses and Transformations Via Local Rules
+R1	10.1.1.110.9838	A theory of platform-dependent low-level software
+R1	10.1.1.103.5948	Engineering formal metatheory
+R1	10.1.1.35.1838	Reasoning with the Formal Definition of Standard ML in HOL
+R1	10.1.1.110.4673	Ott: Effective tool support for the working semanticist
+R1	10.1.1.230.7839	Formal Verification of Translation Validators -- A Case Study on Instruction Scheduling Optimizations
+R1	10.1.1.143.7079	Automatic Transformation of Bit-Level C Code to Support Multiple Equivalent Data Layouts
+R1	10.1.1.139.2258	A formally verified compiler backend
+R1	10.1.1.140.3595	Verified Validation of Lazy Code Motion
+R1	10.1.1.146.5187	Compiling functional types to relational specifications for low level imperative code
+R1	10.1.1.151.7670	A simple, verified validator for software pipelining (verification pearl)
+R1	10.1.1.348.3828	Proving optimizations correct using parameterized program equivalence
+R1	10.1.1.232.8266	Formal functional verification of device drivers
+R1	10.1.1.152.9599	SoftBound: Highly Compatible and Complete Spatial Memory Safety for C
+R1	10.1.1.153.2833	A Verified Compiler for an Impure Functional Language
+R1	10.1.1.177.5843	Bringing Extensibility to Verified Compilers
+R1	10.1.1.186.2538	Verified Software Toolchain
+R1	10.1.1.220.6932	ARMor: Fully Verified Software Fault Isolation
+R1	10.1.1.363.292	Equality-Based translation validator for LLVM

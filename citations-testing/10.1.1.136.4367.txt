@@ -1,0 +1,36 @@
+10.1.1.136.4367	2006	Reducing Time and Space Costs of Memory Tracing
+R1	10.1.1.104.3829	The nas parallel benchmarks
+R1	10.1.1.18.7813	Basic Block Distribution Analysis to Find Periodic Behavior and Simulation Points in Applications
+R1	10.1.1.118.8921	A universal algorithm for sequential data compression
+R1	10.1.1.414.8695	Eel: Machine-independent executable editing
+R1	10.1.1.22.1618	Efficient Representation and Abstractions for Quantifying and Exploiting Data Reference Locality
+R1	10.1.1.170.2233	Identifying hierarchical structure in sequences: A linear-time algorithm
+R1	10.1.1.118.6150	Automatically characterizing large scale program behavior
+R1	10.1.1.110.4852	Cache Performance for Multimedia Applications
+R1	10.1.1.12.7138	Dynamo: A Transparent Dynamic Optimization System
+R1	10.1.1.137.2900	System Support for Automatic Profiling and Optimization
+R1	10.1.1.32.4749	Maximizing Loop Parallelism and Improving Data Locality via Loop Fusion and Distribution
+R1	10.1.1.37.6485	Cache-Conscious Data Placement
+R1	10.1.1.36.8435	An API for Runtime Code Patching
+R1	10.1.1.18.9055	SIGMA: A Simulator Infrastructure to Guide Memory Analysis
+R1	10.1.1.145.7886	Dynamic hot data stream prefetching for general-purpose programs
+R1	10.1.1.21.7454	Vulcan Binary transformation in a distributed environment
+R1	10.1.1.23.7528	Modeling Application Performance by Convolving Machine Signatures with Application Profiles
+R1	10.1.1.2.747	Trace-Driven Memory Simulation: A Survey
+R1	10.1.1.10.6942	Using SimPoint for Accurate and Efficient Simulation
+R1	10.1.1.19.221	Modeling Superscalar Processors via Statistical Simulation
+R1	10.1.1.101.2291	Retargetable and reconfigurable software dynamic translation
+R1	10.1.1.159.5115	Pin: building customized program analysis tools with dynamic instrumentation
+R1	10.1.1.107.8451	Validation of dimemas communication model for MPI collective operations
+R1	10.1.1.37.368	FLASH vs. (Simulated) FLASH: Closing the Simulation Loop
+R1	10.1.1.122.2814	Dynamic instrumentation of production systems
+R1	10.1.1.102.4905	Transition phase classification and prediction
+R1	10.1.1.27.7784	Compression and Explanation using Hierarchical Grammars
+R1	10.1.1.50.5747	Cache Performance Analysis of Traversals and Random Accesses
+R1	10.1.1.42.6518	Improving the Accuracy vs. Speed Tradeoff for Simulating Shared-Memory Multiprocessors with ILP Processors
+R1	10.1.1.13.113	Compressing Extended Program Traces Using Value Predictors
+R1	10.1.1.161.2781	Phase-aware remote profiling
+R1	10.1.1.63.371	Dynamic Phase Analysis for Cycle-Close Trace Generation
+R1	10.1.1.64.295	Path grammar guided trace compression and trace approximation. Submitted for publication
+R1	10.1.1.66.3740	ALITER: An asynchronous lightweight instrumentation tool for event recording
+R1	10.1.1.59.6424	Whole Execution Traces

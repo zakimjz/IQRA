@@ -1,0 +1,84 @@
+10.1.1.37.2631	1996	Building Secure and Reliable Network Applications
+R1	10.1.1.14.3607	Memory Coherence in Shared Virtual Memory Systems
+R1	10.1.1.132.3407	Multicast Routing in Datagram Internetworks and Extended LANs
+R1	10.1.1.142.3682	Time, Clocks, and the Ordering of Events in a Distributed System
+R1	10.1.1.142.5315	Linearizability: a correctness condition for concurrent objects
+R1	10.1.1.121.1027	A reliable multicast framework for light-weight sessions and application level framing
+R1	10.1.1.38.1298	Tcl and the Tk Toolkit
+R1	10.1.1.117.5365	The Design and Implementation of a Log-Structured File System
+R1	10.1.1.134.4847	Implementing remote procedure calls
+R1	10.1.1.12.448	Disconnected Operation in the Coda File System
+R1	10.1.1.12.15	Exploiting Weak Connectivity for Mobile File Access
+R1	10.1.1.40.6686	Software Overhead in Messaging Layers: Where Does the Time Go?
+R1	10.1.1.147.2638	Horus: A flexible group communication system
+R1	10.1.1.20.5696	Operating System Support for Mobile Agents
+R1	10.1.1.130.4550	The Zebra striped network file system
+R1	10.1.1.45.195	Weak-Consistency Group Communication and Membership
+R1	10.1.1.161.563	TCP Vegas: New techniques for congestion detection and avoidance
+R1	10.1.1.126.8912	Orca: A language for parallel programming of distributed systems
+R1	10.1.1.23.716	Active Messages: a Mechanism for Integrated Communication and Computation
+R1	10.1.1.119.7694	Distributed Snapshots: Determining Global States of Distributed Systems
+R1	10.1.1.368.3752	The Definition of Standard ML
+R1	10.1.1.30.591	Understanding Fault-Tolerant Distributed Systems
+R1	10.1.1.131.2105	Why Aren't Operating Systems Getting Faster As Fast as Hardware
+R1	10.1.1.47.6559	Transaction Support in a Log-Structured File System
+R1	10.1.1.23.8150	Adding Group Communication and Fault-Tolerance to CORBA
+R1	10.1.1.22.2842	Reliable Multicast between Microkernels
+R1	10.1.1.31.5990	Reaching Agreement on Processor Group Membership in Synchronous Distributed Systems
+R1	10.1.1.36.8755	The Packet Filter: An Efficient Mechanism for User-level Network Code
+R1	10.1.1.110.7161	Serverless Network File Systems
+R1	10.1.1.39.5749	The Transis Approach to High Availability Cluster Communication
+R1	10.1.1.36.5618	Newtop: A Fault-Tolerant Group Communication Protocol
+R1	10.1.1.52.9688	Fbufs: A High-Bandwidth Cross-Domain Transfer Facility
+R1	10.1.1.103.3021	Consistent global states of distributed systems: Fundamental concepts and mechanisms
+R1	10.1.1.2.2620	Virtual Time and Global States of Distributed Systems
+R1	10.1.1.136.3125	Using Process Groups to Implement Failure Detection in Asynchronous Environments
+R1	10.1.1.43.7923	Exploiting Locality in Maintaining Potential Causality
+R1	10.1.1.207.8929	Hints for Computer Systems Design
+R1	10.1.1.142.5562	The importance of Non-Data Touching Processing Overheads
+R1	10.1.1.116.4996	Understanding the Limitations of Causally and Totally Ordered Communication
+R1	10.1.1.36.6684	Replication Using Group Communication Over a Partitioned Network
+R1	10.1.1.118.901	Caching in the Sprite Network File System
+R1	10.1.1.110.3165	Totem: A fault-tolerant multicast group communication system
+R1	10.1.1.100.6047	Exokernel: An Operating System Architecture for Application-Level Resource Management
+R1	10.1.1.106.766	Secure agreement protocols: Reliable and atomic group multicast in Rampart
+R1	10.1.1.117.9392	How to make replicated data secure
+R1	10.1.1.32.7977	Increasing Network Throughput by Integrating Protocol Layers
+R1	10.1.1.14.8906	Reimplementing the Cedar File System Using Logging and Group Commit
+R1	10.1.1.361.2695	Lightweight remote procedure call
+R1	10.1.1.27.9133	Manetho: Transparent Rollback-Recovery with Low Overhead, Limited Rollback and Fast Output Commit
+R1	10.1.1.54.9773	Atomic Broadcast: From Simple Message Diffusion to Byzantine Agreement
+R1	10.1.1.36.1580	RELACS: A Communications Infrastructure for Constructing Reliable Applications in Large-Scale Distributed Systems
+R1	10.1.1.36.8617	Extended Virtual Synchrony
+R1	10.1.1.48.1961	xAMp: a Multi-primitive Group Communications Service
+R1	10.1.1.49.5028	Logged Virtual Memory
+R1	10.1.1.56.4580	Performance of Cache Coherence in Stackable Filing
+R1	10.1.1.159.5909	Toueg, “Checkpointing and Rollback-Recovery for Disitributed Systems
+R1	10.1.1.20.4966	Byzantine Generals in Action: Implementing Fail-Stop Processors
+R1	10.1.1.38.4511	Preserving and Using Context Information in Interprocess Communication
+R1	10.1.1.134.1839	How to securely replicate services
+R1	10.1.1.27.6456	Revisiting the Relationship Between Non-Blocking Atomic Commitment and Consensus
+R1	10.1.1.38.5543	Revolution 89 or "Distributing UNIX Brings it Back to its Original Virtues"
+R1	10.1.1.52.4028	Totem: A Reliable Ordered Delivery Protocol for Interconnected Local-Area Networks
+R1	10.1.1.17.8983	Handling Audio and Video Streams in a Distributed Environment
+R1	10.1.1.331.3105	Group membership in the epidemic style
+R1	10.1.1.20.5409	Synchronization in Distributed Programs
+R1	10.1.1.39.7394	Efficient Distributed Shared Memory Based On Multi-Protocol Release Consistency
+R1	10.1.1.17.2519	Integration of Message Passing and Shared Memory in the Stanford FLASH Multiprocessor
+R1	10.1.1.33.7106	A Highly Available Network File Server
+R1	10.1.1.45.6404	A Continuous Media Player
+R1	10.1.1.127.5905	Tools for Monitoring and Controlling Distributed Applications
+R1	10.1.1.30.5430	Path IDs: A Mechanism for Reducing Network Software Latency
+R1	10.1.1.51.4337	Gamma Accurate Failure Detectors
+R1	10.1.1.37.305	A Highly Available Application in the Transis Environment
+R1	10.1.1.35.8383	A Structured TCP in Standard ML
+R1	10.1.1.20.5699	Supporting Broad Internet Access to TACOMA *
+R1	10.1.1.133.5096	Network Objects
+R1	10.1.1.51.6565	A Low-Level Processor Group Membership Protocol for LANS
+R1	10.1.1.14.2078	Experience with Modularity in Consul
+R1	10.1.1.23.3445	Impossibility of (Repeated) Reliable Broadcast
+R1	10.1.1.50.5845	Relaxing the Limitations of Serializable Transactions in Distributed Systems
+R1	10.1.1.39.1195	An Approach to Verification and Validation of a Reliable Multicasting Protocol
+R1	10.1.1.32.869	Tools for Constructing Distributed Reactive Systems
+R1	10.1.1.132.6295	Performance Experiments with the StormView Distributed Parallel Volume Renderer. Computer Science
+R1	10.1.1.165.4408	The Primary-Backup Approach

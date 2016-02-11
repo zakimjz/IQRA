@@ -1,0 +1,46 @@
+10.1.1.15.2472	2003	Computational Models of Perceptual Organization
+R1	10.1.1.1.5684	Text Classification from Labeled and Unlabeled Documents using EM
+R1	10.1.1.112.6806	Fast approximate energy minimization via graph cuts
+R1	10.1.1.20.7784	Geometric Hashing: An Overview
+R1	10.1.1.207.7208	Segmentation using eigenvectors: A unifying view
+R1	10.1.1.214.8532	An optimal graph theoretic approach to data clustering: Theory and its application to image segmentation
+R1	10.1.1.108.5214	Fast Multiscale Image Segmentation
+R1	10.1.1.14.3601	Normalized Cuts and Image Segmentation
+R1	10.1.1.420.3300	A computational approach to edge detection
+R1	10.1.1.124.5318	Snakes: Active contour models
+R1	10.1.1.125.8692	Filters, Random Fields and  Maximum Entropy . . .
+R1	10.1.1.118.3857	Markov random fields with efficient approximations
+R1	10.1.1.40.4349	A Maximum-Flow Formulation of the N-camera Stereo Correspondence Problem
+R1	10.1.1.15.8999	Multi-camera Scene Reconstruction via Graph Cuts
+R1	10.1.1.25.1955	Partially labeled classification with Markov random walks
+R1	10.1.1.19.8312	Learning Image Statistics for Bayesian Tracking
+R1	10.1.1.129.2941	A database of human segmented natural images and its application to evaluating segmentation algorithms and measuring ecological statistics
+R1	10.1.1.17.8935	A Factorization Approach to Grouping
+R1	10.1.1.300.5892	Some informational aspects of visual perception
+R1	10.1.1.229.3127	Visual reconstruction
+R1	10.1.1.136.6790	Deformable models in medical image analysis: A survey
+R1	10.1.1.14.1476	Contour and Texture Analysis for Image Segmentation
+R1	10.1.1.189.4778	Spectral Partitioning: The More Eigenvectors, the Better
+R1	10.1.1.11.4772	Interpreting and Extending Classical Agglomerative Clustering Algorithms Using a Model-Based Approach
+R1	10.1.1.227.6771	Clustering with instance-level constraints
+R1	10.1.1.21.1429	A Generic Grouping Algorithm and its Quantitative Analysis
+R1	10.1.1.106.8689	Exact optimization for markov random fields with convex priors
+R1	10.1.1.34.54	Unsupervised Texture Segmentation in a Deterministic Annealing Framework
+R1	10.1.1.25.171	The Perception of Shading and Reflectance
+R1	10.1.1.118.2575	Learning to detect natural image boundaries using local brightness, color, and texture cues
+R1	10.1.1.44.4316	Multi-Way Partitioning Via Geometric Embeddings, Orderings, and Dynamic Programming
+R1	10.1.1.33.3291	Self Inducing Relational Distance and its Application to Image Segmentation
+R1	10.1.1.128.3125	Image segmentation using deformable models
+R1	10.1.1.69.980	Figure-ground organization and object recognition processes: An interactive account
+R1	10.1.1.12.8605	Concurrent Object Recognition and Segmentation by Graph Partitioning
+R1	10.1.1.387.647	Fast approximate maximum a posteriori restoration of multicolour images
+R1	10.1.1.296.9216	On Lagrangian relaxation of quadratic matrix constraints
+R1	10.1.1.23.2182	Lightness Perception and Lightness Illusion
+R1	10.1.1.36.552	The Role of the Primary Visual Cortex in Higher Level Vision
+R1	10.1.1.48.9583	Robust and Efficient Detection of Convex Groups
+R1	10.1.1.51.381	Quantitative Analysis of Grouping Processes
+R1	10.1.1.26.2570	Pre-Attentive Segmentation in the Primary Visual Cortex
+R1	10.1.1.20.372	A Hierarchical Markov Random Field Model for Figure-Ground Segregation
+R1	10.1.1.20.9572	Perceiving Shapes through Region and Boundary Interaction
+R1	10.1.1.29.806	Segmentation with Pairwise Attraction and Repulsion
+R1	10.1.1.27.78	Coding of Border Ownership in Monkey Visual Cortex

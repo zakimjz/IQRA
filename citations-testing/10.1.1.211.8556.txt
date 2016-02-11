@@ -1,0 +1,21 @@
+10.1.1.211.8556	2010	Inspector Gadget: Automated extraction of proprietary gadgets from malware binaries
+R1	10.1.1.114.612	Obfuscation of Executable Code to Improve Resistance to Static Disassembly
+R1	10.1.1.307.8389	Dynamic taint analysis for automatic detection, analysis, and signature generation of exploits on commodity software
+R1	10.1.1.60.7584	TTAnalyze: A Tool for Analyzing Malware
+R1	10.1.1.119.9205	Precise Dynamic Slicing Algorithms
+R1	10.1.1.104.7391	One-way isolation: An effective approach for realizing safe execution environments
+R1	10.1.1.149.2410	Exploring multiple execution paths for malware analysis
+R1	10.1.1.121.9699	Replayer: Automatic Protocol Replay by Binary Analysis
+R1	10.1.1.114.8224	Panorama: Capturing system-wide information flow for malware detection and analysis
+R1	10.1.1.179.775	The geometry of innocent flesh on the bone: Return-into-libc without function calls (on the x86
+R1	10.1.1.131.784	Limits of Static Analysis for Malware Detection
+R1	10.1.1.129.861	Binary Obfuscation Using Signals
+R1	10.1.1.111.6689	On the Limits of Information Flow Techniques for Malware Analysis and Containment
+R1	10.1.1.140.188	Measuring and Detecting Fast-Flux Service Networks
+R1	10.1.1.147.8202	Your Botnet is My Botnet: Analysis of a Botnet Takeover
+R1	10.1.1.148.5325	Learning More About the Underground Economy: A Case-Study of Keyloggers and Dropzones
+R1	10.1.1.148.6286	Studying Spamming Botnets Using Botlab
+R1	10.1.1.154.5237	Reformat: Automatic Reverse Engineering of Encrypted Messages
+R1	10.1.1.153.3946	BitBlaze: A new approach to computer security via binary analysis
+R1	10.1.1.168.4136	Reuse-Oriented Camouflaging Trojan: Vulnerability Detection and Attack Construction
+R1	10.1.1.189.4921	Dispatcher: Enabling active botnet infiltration using automatic protocol reverse-engineering

@@ -1,0 +1,29 @@
+10.1.1.84.1688	2004	Regularized image up-sampling
+R1	10.1.1.3.9922	Restoration of a Single Superresolution Image from Several Blurred, Noisy, and Undersampled Measured Images
+R1	10.1.1.108.2553	Scale-space and edge detection using anisotropic diffusion
+R1	10.1.1.118.8498	Limits on super-resolution and how to break them
+R1	10.1.1.320.776	Cubic convolution interpolation for digital image processing
+R1	10.1.1.86.6241	Image magnification using level set reconstruction
+R1	10.1.1.140.9599	Sampling—50 years after Shannon
+R1	10.1.1.49.8700	Color TV: Total Variation Methods for Restoration of Vector Valued Images
+R1	10.1.1.118.383	A generalized Gaussian image model for edge-preserving MAP estimation
+R1	10.1.1.43.7032	A Spatial Extension of CIELAB for Digital Color Image Reproduction
+R1	10.1.1.52.4700	Explicit Algorithms For A New Time Dependent Model Based On Level Set Motion For Nonlinear Deblurring And Noise Removal
+R1	10.1.1.56.4126	Regularity-Preserving Image Interpolation
+R1	10.1.1.19.6706	Splines: A Perfect Fit for Signal/Image Processing
+R1	10.1.1.59.9594	New Edge-Directed Interpolation
+R1	10.1.1.364.2873	A new direction adaptive scheme for image interpolation
+R1	10.1.1.6.5906	A Block-Iterative Surrogate Constraint Splitting Method for Quadratic Signal Recovery
+R1	10.1.1.116.8477	Color plane interpolation using alternating projections
+R1	10.1.1.41.9707	Image Processing: Flows under Min/Max Curvature and Mean Curvature
+R1	10.1.1.160.8505	Efficient generalized cross-validation with applications to parametric image restoration and resolution enhancement
+R1	10.1.1.28.9387	Resolution Enhancement of Monochrome and Color Video Using Motion Compensation
+R1	10.1.1.6.6172	An Adaptive Level Set Method for Nondifferentiable Constrained Image Recovery
+R1	10.1.1.389.9584	POCS based adaptive image magnification
+R1	10.1.1.21.4276	Color Imaging for Multimedia
+R1	10.1.1.129.2579	On the Level Lines and Geometry of Vector-Valued Images
+R1	10.1.1.149.7033	Generalized spatio-chromatic diffusion
+R1	10.1.1.2.9361	Edge-Preserving Image Resizing Using Modified B-Splines
+R1	10.1.1.4.7678	Generation of Super-Resolution Images from Blurred Observations Using Markov Random Fields
+R1	10.1.1.24.6914	Least-Squares Image Resizing Using Finite Differences
+R1	10.1.1.94.221	How a simple shift can significantly improve the performance of linear interpolation

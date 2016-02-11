@@ -1,0 +1,36 @@
+10.1.1.101.8605	2005	A survey of GPU-Based volume rendering of unstructured grids
+R1	10.1.1.17.5902	Optical Models for Direct Volume Rendering
+R1	10.1.1.11.3763	TetFusion: An Algorithm For Rapid Tetrahedral Mesh Simplification
+R1	10.1.1.29.6262	Progressive Tetrahedralizations
+R1	10.1.1.132.8222	A characterization of ten hidden-surface algorithms
+R1	10.1.1.24.830	Fast Isocontouring for Improved Interactivity
+R1	10.1.1.40.2060	Sorting and Hardware Assisted Rendering for Volume Visualization
+R1	10.1.1.38.1714	Hardware Assisted Volume Rendering of Unstructured Grids by Incremental Slicing
+R1	10.1.1.112.4406	On visible surface generation by a priori tree structures
+R1	10.1.1.17.8730	Area and Volume Coherence for Efficient Visualization of 3D Scalar Functions
+R1	10.1.1.1.7514	Hardware-Accelerated Volume and Isosurface Rendering Based on Cell-Projection
+R1	10.1.1.210.5497	The A-buffer, an Antialiased Hidden Surface Method
+R1	10.1.1.7.6445	Efficient Implementation of Multi-Triangulations
+R1	10.1.1.125.1860	A solution to the hidden surface problem
+R1	10.1.1.37.1109	Accelerating Time-Varying Hardware Volume Rendering Using TSP Trees and Color-Based Error Metrics
+R1	10.1.1.115.7834	Compression and accelerated rendering of time-varying volume data
+R1	10.1.1.364.9764	Texture hardware assisted rendering of time-varying volume data
+R1	10.1.1.129.4632	Interactive rendering of large unstructured grids using dynamic level-of-detail
+R1	10.1.1.132.3930	Marching cubes: A high resolution 3D surface construction algorithm
+R1	10.1.1.100.737	Texture-Encoded Tetrahedral Strips
+R1	10.1.1.67.4858	Gpu-based tiled ray casting using depth peeling
+R1	10.1.1.114.80	An Architecture for Interactive Tetrahedral Volume Rendering
+R1	10.1.1.29.4990	Z³: An Economical Hardware Technique for High-Quality Antialiasing and Transparency
+R1	10.1.1.18.9286	Interactive Order-Independent Transparency
+R1	10.1.1.14.4934	Delay Streams for Graphics Hardware
+R1	10.1.1.32.6028	A Hardware-Assisted Visibility-Ordering Algorithm with Applications to Volume Rendering
+R1	10.1.1.36.7825	An Exact Interactive Time Visibility Ordering Algorithm for Polyhedral Cell Complexes
+R1	10.1.1.375.7690	Quadric-based simplification in any dimension
+R1	10.1.1.409.1293	Volume rendering of time-varying scalar fields on unstructured meshes
+R1	10.1.1.92.7981	On the Convexification of Unstructured Grids From A Scientific Visualization Perspective
+R1	10.1.1.36.8198	ZSWEEP: An Efficient and Exact Projection Algorithm for Unstructured Volume Rendering
+R1	10.1.1.83.2182	Hardware-accelerated reconstruction of polygonal isosurface representations on unstructured grids
+R1	10.1.1.352.4602	Projecting tetrahedra without rendering artifacts
+R1	10.1.1.105.7938	A streaming narrow-band algorithm: Interactive computation and visualization of level sets
+R1	10.1.1.121.388	Tetsplat: Real-time rendering and volume clipping of large unstructured tetrahedral meshes
+R1	10.1.1.63.5702	Implicit occluders

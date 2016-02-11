@@ -1,0 +1,25 @@
+10.1.1.100.2378	2002	Adaptive methods for blind equalization and signal separation in MIMO systems
+R1	10.1.1.297.8229	Fast and robust fixed-point algorithms for independent component analysis
+R1	10.1.1.107.3613	Independent Component Analysis
+R1	10.1.1.40.1433	A New Learning Algorithm for Blind Signal Separation
+R1	10.1.1.110.696	An information-maximization approach to blind separation and blind deconvolution
+R1	10.1.1.49.7924	Equivariant Adaptive Source Separation
+R1	10.1.1.43.9497	Multichannel Blind Deconvolution: Fir Matrix Algebra And Separation Of Multipath Mixtures
+R1	10.1.1.404.7145	Rayleigh Fading Channels in Mobile Digital Communication Systems Part I: Characterization
+R1	10.1.1.33.4853	Multichannel Blind Identification: From Subspace to Maximum Likelihood Methods
+R1	10.1.1.49.62	Independent Factor Analysis
+R1	10.1.1.30.5555	A Unifying Review of Linear Gaussian Models
+R1	10.1.1.309.1631	Adaptive blind signal processing-neural network approaches
+R1	10.1.1.1.3364	On the Existence of Universal Nonlinearities for Blind Source Separation
+R1	10.1.1.8.5684	Blind Beamforming for Non Gaussian Signals
+R1	10.1.1.8.5483	Source Separation Using Higher Order Moments
+R1	10.1.1.117.1144	A tutorial on particle filters for online nonlinear/non-Gaussian Bayesian tracking
+R1	10.1.1.131.165	A fast fixed-point algorithm for independent component analysis
+R1	10.1.1.38.8514	Multichannel Blind Deconvolution and Equalization Using the Natural Gradient
+R1	10.1.1.29.2911	Blind Separation of Mixture of Independent Sources Through a Maximum Likelihood Approach
+R1	10.1.1.132.3957	Algorithm for blind signal separation and recovery in static and dynamics environments
+R1	10.1.1.56.2430	An Experimental Comparison of Neural ICA Algorithms
+R1	10.1.1.4.1490	The Nonlinear PCA Criterion in Blind Source Separation: Relations with Other Approaches
+R1	10.1.1.29.361	Comparison Of Pca And Ica Based Clutter Reduction In Gpr Systems For Anti- Personal Landmine Detection
+R1	10.1.1.15.6707	Multi-Input Multi-Output Fading Channel Tracking and Equalization Using Kalman Estimation
+R1	10.1.1.38.5292	On-line Blind Equalization via On-line Blind Separation

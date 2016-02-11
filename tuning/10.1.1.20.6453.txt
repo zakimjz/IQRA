@@ -1,0 +1,22 @@
+10.1.1.20.6453	2002	Estimating Rarity and Similarity over Data Stream Windows
+R1	10.1.1.102.5483	The space complexity of approximating the frequency moments
+R1	10.1.1.145.538	Finding interesting associations without support pruning
+R1	10.1.1.15.6799	Fjording the Stream: An Architecture for Queries over Streaming Sensor Data
+R1	10.1.1.106.9846	Models and issues in data stream systems
+R1	10.1.1.19.9554	Computing on Data Streams
+R1	10.1.1.24.7941	Maintaining Stream Statistics over Sliding Windows (Extended Abstract)
+R1	10.1.1.22.7715	QuickSAND: Quick Summary and Analysis of Network Data
+R1	10.1.1.36.5401	Stable Distributions, Pseudorandom Generators, Embeddings and Data Stream Computation
+R1	10.1.1.119.5031	Surfing wavelets on streams: One-pass summaries for approximate aggregate queries
+R1	10.1.1.121.5868	Similarity search in high dimensions via hashing
+R1	10.1.1.121.8215	Min-wise Independent Permutations
+R1	10.1.1.132.6104	Mining time-changing data streams
+R1	10.1.1.5.686	A Data Stream Management System for Network Traffic Management
+R1	10.1.1.295.8777	Filtering near-duplicate documents
+R1	10.1.1.112.2702	Approximating a Data Stream for Querying and Estimation: Algorithms and Performance Evaluation
+R1	10.1.1.124.6726	NetScope: Traffic Engineering for IP Networks
+R1	10.1.1.385.6069	Size-estimation framework with applications to transitive closure and reachability
+R1	10.1.1.43.9451	A Small Approximately Min-Wise Independent Family of Hash Functions
+R1	10.1.1.103.6142	Estimating simple functions on the union of data streams
+R1	10.1.1.123.3496	Mining database structure; or, how to build a data quality browser
+R1	10.1.1.128.2357	Fast Mining of Tabular  Data via Approximate . . .

@@ -1,0 +1,21 @@
+10.1.1.74.1914	2005	Periodic motion detection and segmentation via approximate sequence alignment
+R1	10.1.1.1.3276	A Unified Algebraic Approach to 2-D and 3-D Motion Segmentation
+R1	10.1.1.34.3878	Geometric Motion Segmentation and Model Selection
+R1	10.1.1.30.656	Layered Representation for Motion Analysis
+R1	10.1.1.105.9692	Synchronizing image sequences of non-rigid objects
+R1	10.1.1.15.8999	Multi-camera Scene Reconstruction via Graph Cuts
+R1	10.1.1.21.1181	Object Recognition from Local Scale-Invariant Features
+R1	10.1.1.157.3782	Robust multiresolution estimation of parametric motion models
+R1	10.1.1.76.7130	Spatio-temporal alignment of sequences
+R1	10.1.1.112.8904	Robust real-time periodic motion detection, analysis, and applications
+R1	10.1.1.50.4320	Detection and Recognition of Periodic, Nonrigid Motion
+R1	10.1.1.10.8341	A Closed-Form Solution to Non-Rigid Shape and Motion Recovery
+R1	10.1.1.4.4359	Space-time Interest Points
+R1	10.1.1.41.6945	View-Invariant Analysis of Cyclic Motion
+R1	10.1.1.4.5663	Learning Non-Rigid 3D Shape from 2D Motion
+R1	10.1.1.8.6098	View-invariant Alignment and Matching of Video Sequences
+R1	10.1.1.173.6790	Recognizing human actions: A local SVM approach
+R1	10.1.1.307.8351	Sequence-to-Sequence Alignment
+R1	10.1.1.79.2268	Motion-Model-Based Boundary Extraction and a Real-Time Implementation
+R1	10.1.1.63.7923	Galileancorrected spatio-temporal interest operators
+R1	10.1.1.310.6663	Structure from periodic motion

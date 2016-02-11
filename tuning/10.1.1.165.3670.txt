@@ -1,0 +1,24 @@
+10.1.1.165.3670	2010	On-the-fly inlining of dynamic security monitors
+R1	10.1.1.10.3979	Language-Based Information-Flow Security
+R1	10.1.1.13.6815	A Language-Based Approach to Security
+R1	10.1.1.118.9460	A SOUND TYPE SYSTEM FOR SECURE FLOW ANALYSIS
+R1	10.1.1.13.1840	Java Bytecode Verification: Algorithms and Formalizations
+R1	10.1.1.114.6074	Edit automata: Enforcement mechanisms for run-time security policies
+R1	10.1.1.101.7731	Secure information flow as a safety problem
+R1	10.1.1.122.3163	Automata-based Confidentiality Monitoring
+R1	10.1.1.129.4843	Dynamic dependency monitoring to secure information flow
+R1	10.1.1.132.8953	Automaton-based Confidentiality Monitoring of Concurrent Programs
+R1	10.1.1.205.3507	BrowserShield: Vulnerability-driven filtering of dynamic HTML
+R1	10.1.1.117.6526	Cross-Site Scripting Prevention with Dynamic Data Tainting and Static Analysis
+R1	10.1.1.80.7999	Provably Correct Runtime Enforcement of Non-Interference Properties
+R1	10.1.1.306.6704	Caja: Safe active content in sanitized JavaScript. Google white paper. http://google-caja.googlecode.com
+R1	10.1.1.151.8680	Language-based isolation of untrusted Javascript
+R1	10.1.1.148.9935	Tight Enforcement of Information-Release Policies for Dynamic Languages
+R1	10.1.1.149.268	Securing timeout instructions in web applications
+R1	10.1.1.153.5981	Tracking information flow in dynamic tree structures
+R1	10.1.1.149.6765	From dynamic to static and back: Riding the roller coaster of information-flow control research
+R1	10.1.1.165.3384	Dynamic vs. static flow-sensitive security analysis
+R1	10.1.1.153.6508	Information Flow Monitor Inlining
+R1	10.1.1.158.641	Isolating JavaScript with Filters, Rewriting, and Wrappers
+R1	10.1.1.158.2133	A Lattice-based Approach to Mashup Security
+R1	10.1.1.297.9422	Permissive dynamic information flow analysis

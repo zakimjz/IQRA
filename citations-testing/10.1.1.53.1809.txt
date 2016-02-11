@@ -1,0 +1,21 @@
+10.1.1.53.1809	1996	Formal Methods in VLSI System Design
+R1	10.1.1.1.5124	Graph-Based Algorithms for Boolean Function Manipulation
+R1	10.1.1.32.420	Monotone Complexity
+R1	10.1.1.111.7245	Compositional Model Checking
+R1	10.1.1.29.6959	Model Checking and Modular Verification
+R1	10.1.1.374.8378	Exact and heuristic algorithms for the minimization of incompletely specified state machines
+R1	10.1.1.381.681	A fully implicit algorithm for exact state minimization
+R1	10.1.1.26.9097	Protocol Verification as a Hardware Design Aid
+R1	10.1.1.10.6141	Verification of Arithmetic Circuits with Binary Moment Diagrams
+R1	10.1.1.29.9654	Verification of Fair Transition Systems
+R1	10.1.1.28.2313	Hybrid Automata with Finite Bisimulations
+R1	10.1.1.43.1671	Formal Verification by Symbolic Evaluation of Partially-Ordered Trajectories
+R1	10.1.1.35.1633	Design Replacements for Sequential Circuits
+R1	10.1.1.31.1615	High Performance BDD Package Based on Exploiting Memory Hierarchy
+R1	10.1.1.35.4489	Complexity of Automata on Infinite Objects
+R1	10.1.1.31.3572	Synthesizing Interacting Finite State Machines
+R1	10.1.1.318.8141	Heuristic minimization of BDDs using don’t cares
+R1	10.1.1.52.7336	Modeling Hierarchical Combinational Circuits
+R1	10.1.1.114.9187	Equivalences for fair kripke structures
+R1	10.1.1.53.2320	Efficient Formal Design Verification: Data Structure + Algorithms
+R1	10.1.1.380.9083	Permissible Observability Relations in FSM Networks

@@ -1,0 +1,31 @@
+10.1.1.39.9565	2000	Mesh Generation
+R1	10.1.1.165.6272	LOCALLY ADAPTED TETRAHEDRAL MESHES USING BISECTION
+R1	10.1.1.27.79	Provably Good Mesh Generation
+R1	10.1.1.308.2549	Quality local refinement of tetrahedral meshes based on bisection
+R1	10.1.1.39.7447	Mesh Generation And Optimal Triangulation
+R1	10.1.1.31.5583	Anisotropic Mesh Transformations and Optimal Error Control
+R1	10.1.1.308.3842	On the shape of tetrahedra from bisection
+R1	10.1.1.117.405	The Quickhull algorithm for convex hulls
+R1	10.1.1.1.6545	Adaptive Precision Floating-Point Arithmetic and Fast Robust Geometric Predicates
+R1	10.1.1.123.5307	Convex partitions of polyhedra: a lower bound and worst-case optimal algorithm
+R1	10.1.1.145.2291	PLTMG: a software package for solving elliptic partial differential equations -- user's guide 10.0
+R1	10.1.1.38.3287	Quality Mesh Generation in Three Dimensions
+R1	10.1.1.31.2542	A Delaunay Refinement Algorithm for Quality 2-Dimensional Mesh Generation
+R1	10.1.1.43.5399	Medials For Meshing And More
+R1	10.1.1.41.3446	A Comparison of Tetrahedral Mesh Improvement Techniques
+R1	10.1.1.51.2672	Adaptive Refinement Of Unstructured Finite-Element Meshes
+R1	10.1.1.39.189	Linear Complexity Hexahedral Mesh Generation
+R1	10.1.1.104.8617	A characterization of the quadrilateral meshes of a surface which admit a compatible hexahedral mesh of the enclosed volume
+R1	10.1.1.29.9578	Dihedral Bounds for Mesh Generation in High Dimensions
+R1	10.1.1.36.513	An Upper Bound for Conforming Delaunay Triangulations
+R1	10.1.1.42.3282	Mesh Smoothing Using A Posteriori Error Estimates
+R1	10.1.1.46.8970	An Efficient Parallel Algorithm for Mesh Smoothing
+R1	10.1.1.42.1253	A Delaunay Based Numerical Method for Three Dimensions: generation, formulation, and partition
+R1	10.1.1.39.9384	Optimal Point Placement for Mesh Smoothing
+R1	10.1.1.36.2028	Delaunay Tetrahedralization using an Advancing-Front Approach
+R1	10.1.1.35.4703	An Adaptively-Refined, Cartesian, Cell-Based Scheme for the Euler and Navier-Stokes Equations
+R1	10.1.1.43.6250	New Progress in Anisotropic Grid Adaptation for Inviscid and Viscous Flows Simulations
+R1	10.1.1.22.1710	Numerical Conformal Mapping Using Cross-Ratios And Delaunay Triangulation
+R1	10.1.1.51.2401	Anisotropic Mesh Generation with Particles
+R1	10.1.1.49.8366	Multigrid Acceleration of an Upwind Euler Solver on Unstructured Meshes
+R1	10.1.1.45.3549	An Aspect Ratio Bound for Triangulating a d-Grid Cut by a Hyperplane

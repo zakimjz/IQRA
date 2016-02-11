@@ -1,0 +1,21 @@
+10.1.1.331.8223	2006	Ensemble-based discriminant learning with boosting for face recognition
+R1	10.1.1.332.356	The Nature of Statistical Learning Theory
+R1	10.1.1.47.3791	View-Based and Modular Eigenspaces for Face Recognition
+R1	10.1.1.32.8918	A Decision-Theoretic Generalization of on-Line Learning and an Application to Boosting
+R1	10.1.1.219.1572	Boosting the margin: A new explanation for the effectiveness of voting methods
+R1	10.1.1.10.3247	Eigenfaces vs. Fisherfaces: Recognition Using Class Specific Linear Projection
+R1	10.1.1.33.2824	Boosting in the limit: Maximizing the margin of learned ensembles
+R1	10.1.1.24.5565	The Boosting Approach to Machine Learning: An Overview
+R1	10.1.1.115.3644	An introduction to kernel-based learning algorithms
+R1	10.1.1.1.7675	Gabor Feature Based Classification Using the Enhanced Fisher Linear Discriminant Model for Face Recognition
+R1	10.1.1.70.3507	A direct lda algorithm for high-dimensional data with application to face recognition
+R1	10.1.1.10.4061	Detecting Pedestrians Using Patterns of Motion and Appearance
+R1	10.1.1.32.7922	Why Recognition in a Statistics-based Face Recognition System Should be based on the Pure Face Portion: a Probabilistic Decision-based Proof
+R1	10.1.1.44.3721	Subspace Linear Discriminant Analysis for Face Recognition
+R1	10.1.1.102.9805	Robust real-time face detection
+R1	10.1.1.50.4153	Mixtures of Local Linear Subspaces for Face Recognition
+R1	10.1.1.167.3271	Ingrid Daubechies. Boosting based on a smooth margin
+R1	10.1.1.127.1387	Enhanced fmam based on empirical kernel map
+R1	10.1.1.318.2219	Survey of clustering algorithms
+R1	10.1.1.205.9310	ALGORITHMIC STABILITY AND ENSEMBLE-BASED LEARNING
+R1	10.1.1.94.7964	Boosting face recognition on a large-scale database

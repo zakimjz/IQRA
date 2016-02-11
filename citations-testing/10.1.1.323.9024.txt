@@ -1,0 +1,45 @@
+10.1.1.323.9024	2009	Cross-lingual annotation projection for semantic roles
+R1	10.1.1.1.2789	Hierarchical Recognition of Propositional Arguments with Perceptrons
+R1	10.1.1.13.8919	The Mathematics of Statistical Machine Translation: Parameter Estimation
+R1	10.1.1.14.8513	Machine Translation Divergences: A Formal Description and Proposed Solution
+R1	10.1.1.137.1060	Automatic labeling of semantic roles
+R1	10.1.1.2.6514	Using Predicate-Argument Structures for Information Extraction
+R1	10.1.1.10.1288	A Systematic Comparison of Various Statistical Alignment Models
+R1	10.1.1.19.9615	Models of Translational Equivalence among Words
+R1	10.1.1.21.3594	Inducing Multilingual Text Analysis Tools via Robust Projection across Aligned Corpora
+R1	10.1.1.19.5694	Evaluating Translational Correspondence using Annotation Projection
+R1	10.1.1.131.901	Hmm-based word alignment in statistical translation
+R1	10.1.1.10.2798	Annotating Discourse Connectives and Their Arguments
+R1	10.1.1.12.9928	An Unsupervised Method for Word Sense Tagging using Parallel Corpora
+R1	10.1.1.136.8985	The Proposition Bank: An Annotated Corpus of Semantic Roles
+R1	10.1.1.180.5821	Towards a Resource for Lexical Semantics: A Large German Corpus with Extensive Semantic Annotation
+R1	10.1.1.103.3464	Hierarchical phrase alignment harmonized with parsing
+R1	10.1.1.125.308	Calibrating features for semantic role labeling
+R1	10.1.1.108.7612	Clause restructuring for statistical machine translation
+R1	10.1.1.101.6797	A Semantic Approach to Recognizing Textual Entailment
+R1	10.1.1.329.8934	BiFrameNet: Bilingual frame semantics resources construction by cross-lingual induction
+R1	10.1.1.143.5186	A backoff model for bootstrapping resources for non-English languages
+R1	10.1.1.104.3639	A discriminative matching approach to word alignment
+R1	10.1.1.143.6657	What to do when lexicalization fails: parsing German with suffix analysis and smoothing
+R1	10.1.1.106.7617	Evaluating WordNet-based measures of lexical semantic relatedness
+R1	10.1.1.59.7784	Introduction to the CoNLL-2005 Shared Task: Semantic Role Labeling
+R1	10.1.1.147.5586	Maximum entropy models for FrameNet classification
+R1	10.1.1.108.8575	Semantic Role Labeling via FrameNet, VerbNet and PropBank
+R1	10.1.1.20.3954	Using Parallel Corpora to enrich Multilingual Lexical Resources
+R1	10.1.1.115.2724	Inducing information extraction systems for new languages via cross-language projection
+R1	10.1.1.80.4033	Bootstrapping Parsers via Syntactic Projection across Parallel Texts
+R1	10.1.1.309.8846	Approaching textual entailment with LFG and FrameNet frames. RTE2 Workshop
+R1	10.1.1.73.4671	Using Semantic Role to Improve Question Answering
+R1	10.1.1.172.6126	Unsupervised discovery of a statistical verb lexicon
+R1	10.1.1.143.6671	Exploiting a Verb Lexicon in Automatic Semantic Role Labelling
+R1	10.1.1.92.3868	Cross-lingual bootstrapping for semantic lexicons
+R1	10.1.1.111.405	Transferring Coreference Chains through Word Alignment
+R1	10.1.1.124.6084	Projection-based Acquisition of a Temporal Labeller
+R1	10.1.1.143.7776	Exploiting syntactic and shallow semantic kernels for question answer classification
+R1	10.1.1.146.4182	Linguistic Features for Automatic Evaluation of Heterogenous MT Systems
+R1	10.1.1.147.6645	Polylingual Topic Models
+R1	10.1.1.148.6092	Cross-Lingual Projection of LFG F-Structures: Resource Induction for Polish
+R1	10.1.1.157.6546	Can Semantic Role Labeling Improve SMT?
+R1	10.1.1.294.2298	Ancora: Multi level annotated corpora for Catalan and
+R1	10.1.1.329.1852	Detecting errors in semantic annotation
+R1	10.1.1.180.7650	Background to Spanish FrameNet

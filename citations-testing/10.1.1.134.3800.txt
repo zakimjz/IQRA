@@ -1,0 +1,25 @@
+10.1.1.134.3800	1998	Building An Extensible Operating System
+R1	10.1.1.12.7323	Managing Update Conflicts in Bayou, a Weakly Connected Replicated Storage System
+R1	10.1.1.26.7944	Interface and Execution Models in the Fluke Kernel
+R1	10.1.1.361.4009	The performance of µ-kernel-based systems
+R1	10.1.1.102.7051	lmbench: Portable Tools for Performance Analysis
+R1	10.1.1.11.4188	Automatic Compiler-Inserted I/O Prefetching for Out-of-Core Applications
+R1	10.1.1.117.5365	The Design and Implementation of a Log-Structured File System
+R1	10.1.1.43.7849	The BSD Packet Filter: A New Architecture for User-level Packet Capture
+R1	10.1.1.142.6054	Safe Kernel Extensions Without Run-Time Checking
+R1	10.1.1.44.7778	ACTA: A Framework for Specifying and Reasoning about Transaction Structure and Behavior
+R1	10.1.1.129.159	Lottery Scheduling: Flexible Proportional-Share Resource Management
+R1	10.1.1.225.8767	Dealing with disaster: Surviving misbehaved kernel extensions
+R1	10.1.1.33.1261	File System Design for an NFS File Server Appliance
+R1	10.1.1.118.6273	Informed Prefetching and Caching
+R1	10.1.1.15.3654	Measurements of a Distributed File System
+R1	10.1.1.30.4428	A Trace-Driven Comparison of Algorithms for Parallel Prefetching and Caching
+R1	10.1.1.36.8755	The Packet Filter: An Efficient Mechanism for User-level Network Code
+R1	10.1.1.52.9688	Fbufs: A High-Bandwidth Cross-Domain Transfer Facility
+R1	10.1.1.19.7348	Evolving Mach 3.0 to a Migrating Thread Model
+R1	10.1.1.1.6259	An Implementation of a Log-Structured File System for UNIX
+R1	10.1.1.100.6047	Exokernel: An Operating System Architecture for Application-Level Resource Management
+R1	10.1.1.361.2695	Lightweight remote procedure call
+R1	10.1.1.17.6095	Implementation and Performance of Application-Controlled File Caching
+R1	10.1.1.203.4028	Vino: an integrated platform for operating systems and database research
+R1	10.1.1.31.3969	HiPEC: High Performance External Virtual Memory Caching

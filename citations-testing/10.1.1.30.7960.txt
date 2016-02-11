@@ -1,0 +1,40 @@
+10.1.1.30.7960	1998	A Consideration of the Biological and Psychological Foundations of Autonomous Robotics
+R1	10.1.1.12.1680	Intelligence Without Representation
+R1	10.1.1.10.7878	The Symbol Grounding Problem
+R1	10.1.1.393.8917	Being There -- Putting Brain, Body, and World Together Again
+R1	10.1.1.99.9907	Understanding Intelligence
+R1	10.1.1.52.7017	Robot Shaping: Experiment In Behavior Engineering
+R1	10.1.1.30.5678	Co-evolving predator and prey robots: Do `arms races' arise in artificial evolution?
+R1	10.1.1.110.6657	Elephants don't play chess
+R1	10.1.1.133.9324	Automatic creation of an autonomous agent: Genetic evolution of a neural-network driven robot
+R1	10.1.1.153.9160	Evolution of Homing Navigation in a Real Mobile Robot
+R1	10.1.1.39.9871	Challenges in Evolving Controllers for Physical Robots
+R1	10.1.1.26.6609	An Incremental Approach to Developing Intelligent Neural Network Controllers for Robots
+R1	10.1.1.33.3131	Evolving non-Trivial Behaviors on Real Robots: an Autonomous Robot that Picks up Objects
+R1	10.1.1.33.3621	How to Evolve Autonomous Robots: Different Approaches  . . .
+R1	10.1.1.161.2398	Toward a Modern Theory of Adaptive Networks: Expectation and Presiction
+R1	10.1.1.137.2934	Visual navigation in insects: Coupling of egocentric and geocentric information
+R1	10.1.1.30.775	Computer Evolution of Buildable Objects
+R1	10.1.1.49.2047	The Animat Path to AI
+R1	10.1.1.29.526	Connectionism and Cognitive Architecture: A Critical Analysis
+R1	10.1.1.331.3765	Better Living Through Chemistry: Evolving GasNets for Robot Control
+R1	10.1.1.41.3873	The Minimal Simulation Approach to Evolutionary Robotics
+R1	10.1.1.49.7177	Co-evolution of Pursuit and Evasion II: Simulation Methods and Results
+R1	10.1.1.115.9306	Honeybee Navigation en route to the Goal: Visual Flight Control and Odometry
+R1	10.1.1.33.4528	Evolutionary Robotics: Exploiting the full power of self-organization
+R1	10.1.1.177.6476	Construction of a hexapod robot with cockroach kinematics benefits both robotics and biology
+R1	10.1.1.40.1866	Shaping Robot Behavior Using Principles from Instrumental Conditioning
+R1	10.1.1.114.8476	Path integration in mammals and its interaction with visual landmarks
+R1	10.1.1.143.5331	Rethinking Grounding
+R1	10.1.1.125.6034	Subsymbolic computation and the chinese room
+R1	10.1.1.48.8809	Connectionism, Symbol Grounding, and Autonomous Agents
+R1	10.1.1.26.6491	Evolving Robot Morphology
+R1	10.1.1.43.9129	Neural Networks for Coordination and Control: The Portability of Experiential Representations
+R1	10.1.1.31.446	The Neural Mind and the Robot
+R1	10.1.1.43.8325	Learning from innate behaviors: A Quantitative Evaluation of Neural Network Controllers
+R1	10.1.1.26.6560	Evolving and Breeding Robots
+R1	10.1.1.42.5922	Evolution and Development of Modular Control Architectures for 1-D Locomotion in Six-Legged Animats
+R1	10.1.1.29.4516	The `Environmental Puppeteer' Revisited: A Connectionist Perspective on `Autonomy'
+R1	10.1.1.52.4071	Cognition's Coming Home: the Reunion of Life and Mind
+R1	10.1.1.70.3826	Adaptive Behavior in Autonomous Agents
+R1	10.1.1.54.3358	Middle Scale Robot Navigation - A Case Study

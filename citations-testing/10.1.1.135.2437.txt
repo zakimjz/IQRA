@@ -1,0 +1,41 @@
+10.1.1.135.2437	2001	Dynamic Software Updating
+R1	10.1.1.24.6526	From System F to Typed Assembly Language
+R1	10.1.1.110.9916	The click modular router
+R1	10.1.1.10.7480	A Secure PLAN
+R1	10.1.1.142.6054	Safe Kernel Extensions Without Run-Time Checking
+R1	10.1.1.51.4800	httperf - A Tool for Measuring Web Server Performance
+R1	10.1.1.126.9257	The Protection of Information in Computer Systems
+R1	10.1.1.35.5706	Dynamic Typing in Polymorphic Languages
+R1	10.1.1.141.6471	Compiling polymorphism using intensional type analysis
+R1	10.1.1.1.5638	Alias Types for Recursive Data Structures
+R1	10.1.1.10.8472	Program Fragments, Linking, and Modularization
+R1	10.1.1.29.2060	Cheat-Proof Playout for Centralized and Distributed Online Games
+R1	10.1.1.141.7192	Typed closure conversion
+R1	10.1.1.33.3468	TALx86: A Realistic Typed Assembly Language
+R1	10.1.1.126.9642	The development of Erlang
+R1	10.1.1.12.8063	Intensional Polymorphism in Type-Erasure Semantics
+R1	10.1.1.14.3595	A Type-Theoretic Approach to Higher-Order Modules with Sharing
+R1	10.1.1.141.7329	A Simplified Account of Polymorphic References
+R1	10.1.1.17.9345	Simple Type-Theoretic Foundations for Object-Oriented Programming
+R1	10.1.1.48.1642	Constructing Distributed Systems In Conic
+R1	10.1.1.51.2366	A Generalized Computing Model of Active Networks
+R1	10.1.1.156.6205	Issues in the Runtime Modification of Software Architectures
+R1	10.1.1.110.1724	PLAN: A packet language for active networks
+R1	10.1.1.3.6392	Libckpt: Transparent Checkpointing under Unix
+R1	10.1.1.47.2023	A Formal Framework for On-line Software Version Change
+R1	10.1.1.14.4663	Units: Cool Modules for HOT Languages
+R1	10.1.1.36.8435	An API for Runtime Code Patching
+R1	10.1.1.18.9525	A Practical Subtyping System For Erlang
+R1	10.1.1.394.5802	EROS: a fast capability system
+R1	10.1.1.15.5992	MDL: A Language and Compiler for Dynamic Program Instrumentation
+R1	10.1.1.36.7429	Bowman and CANEs: Implementation of an Active Network
+R1	10.1.1.14.1977	An Approach to Genuine Dynamic Linking
+R1	10.1.1.112.9444	On low-cost error containment and recovery methods for guarded software upgrading
+R1	10.1.1.23.5548	DITools: Application-level Support for Dynamic Extension and Flexible Composition
+R1	10.1.1.64.34	Type-safe cast
+R1	10.1.1.147.806	Safe dynamic linking in an extensible operating system
+R1	10.1.1.161.3137	Dynamic ML without dynamic types
+R1	10.1.1.141.5654	Semantics of memory management for polymorphic languages
+R1	10.1.1.29.3632	A Calculus for Dynamic Loading
+R1	10.1.1.42.6188	Hot-Sliding in ML
+R1	10.1.1.67.8600	Implementing orthogonal persistence: A simple optimization using replicating collection

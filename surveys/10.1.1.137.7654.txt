@@ -1,0 +1,21 @@
+10.1.1.137.7654	2005	Combination testing strategies: A survey
+R1	10.1.1.23.5347	The AETG System: An Approach to Testing Based on Combinatorial Design
+R1	10.1.1.131.1218	Using Formal Methods To Derive Test Frames In Category-Partition Testing
+R1	10.1.1.1.8868	Automated Robustness Testing of Off-the-Shelf Software Components
+R1	10.1.1.41.4894	Model-Based Testing in Practice
+R1	10.1.1.375.2949	Antirandom testing: GETTING THE MOST OUT OF BLACK-BOX TESTING
+R1	10.1.1.146.5070	The automatic efficient test generator (aetg) system
+R1	10.1.1.145.7674	An Investigation of the Applicability of Design of Experiments to Software Testing
+R1	10.1.1.95.5094	Software fault interactions and implications for software testing
+R1	10.1.1.65.6988	Covering arrays for efficient fault characterization in complex configuration spaces
+R1	10.1.1.133.7455	Partition testing vs. random testing: the influence of uncertainty
+R1	10.1.1.54.3892	A Practical Strategy for Testing Pair-wise Coverage of Network Interfaces
+R1	10.1.1.137.7064	Factor-covering designs for testing software
+R1	10.1.1.40.6431	Model-Based Testing of a Highly Programmable System
+R1	10.1.1.375.58	Automatic Test Generation  using Checkpoint Encoding and Antirandom Testing
+R1	10.1.1.218.6399	Selecting software test data using data flow information
+R1	10.1.1.147.2844	An empirical analysis of equivalence partitioning, boundary value analysis and random testing
+R1	10.1.1.46.8863	SYS/3 - a Software Development Tool
+R1	10.1.1.145.8887	Reducing time to market with combinatorial design method testing
+R1	10.1.1.87.3249	Formulation of the interaction test coverage problem as an integer problem
+R1	10.1.1.93.9097	An Evaluation of Combination Strategies for Test Case Selection

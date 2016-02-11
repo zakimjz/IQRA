@@ -1,0 +1,30 @@
+10.1.1.130.8031	2005	A Survey on Versatility for Publish/Subscribe Infrastructures
+R1	10.1.1.132.7232	On the Criteria To Be Used in Decomposing Systems into Modules
+R1	10.1.1.69.7664	An efficient multicast protocol for content-based publish-subscribe systems
+R1	10.1.1.1.6741	Content-Based Networking: A New Communication Infrastructure
+R1	10.1.1.113.9679	Generative communication in Linda
+R1	10.1.1.147.2820	Getting Started with AspectJ
+R1	10.1.1.10.1076	The many faces of Publish/Subscribe
+R1	10.1.1.20.672	Herald: Achieving a Global Event Notification Service
+R1	10.1.1.11.2141	A Component- and Message-Based Architectural Style for GUI Software
+R1	10.1.1.129.1023	Composing crosscutting concerns using composition filters
+R1	10.1.1.54.8561	GEM - A Generalised Event Monitoring Language for Distributed Systems
+R1	10.1.1.211.5617	A Design Framework for Internet-Scale Event Observation and Notification
+R1	10.1.1.146.5686	Evolving object-oriented designs with refactorings
+R1	10.1.1.50.2145	Quarterware for Middleware
+R1	10.1.1.26.9	Solving the Modeling Problems of Object-Oriented Languages By Composing Multiple Aspects Using Composition Filters
+R1	10.1.1.18.3145	The Role of Event Description in Architecting Dependable Systems
+R1	10.1.1.117.315	No Silver Bullet: Essence and Accidents of Software Engineering
+R1	10.1.1.5.6667	Modular Event-Based Systems
+R1	10.1.1.30.8003	Applying a Pattern Language to Develop Extensible ORB Middleware
+R1	10.1.1.58.7760	Aspect-Oriented Programming: An Historical Perspective (What's in a Name?)
+R1	10.1.1.187.9158	JTS: Tools for implementing domain-specific languages
+R1	10.1.1.127.5841	Software Reuse
+R1	10.1.1.11.5602	Lightweight Plug-in-Based Application Development
+R1	10.1.1.81.3734	Using mixins to build flexible widgets
+R1	10.1.1.12.9531	Palantír: Raising Awareness among Configuration Management Workspaces
+R1	10.1.1.40.7675	An Approach to Large-Scale Collection of Application Usage Data Over the Internet
+R1	10.1.1.106.5457	Fulcrum – An Open-Implementation Approach to Context-Aware Publish/Subscribe
+R1	10.1.1.23.1794	Creating an Infrastructure for Ubiquitous Awareness
+R1	10.1.1.6.858	The Design of a Configurable, Extensible and Dynamic Notification Service
+R1	10.1.1.58.9038	The Aspect Oriented Markup Language and Its Support of Aspect Plugins

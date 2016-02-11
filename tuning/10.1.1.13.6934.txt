@@ -1,0 +1,22 @@
+10.1.1.13.6934	2003	Inter-Domain Routing: Problems and Solutions
+R1	10.1.1.119.6140	Resilient Overlay Networks
+R1	10.1.1.110.6928	Stable Internet Routing Without Global Coordination
+R1	10.1.1.319.4862	An analysis of BGP convergence properties
+R1	10.1.1.117.8308	Delayed Internet Routing Convergence
+R1	10.1.1.115.4795	Internet routing instability
+R1	10.1.1.134.5136	End-to-End Routing Behavior in the Internet
+R1	10.1.1.12.8378	Observation and Analysis of BGP Behavior Under Stress - A Study of BGP's Reaction to the Nimda Worm Attack
+R1	10.1.1.111.4043	An empirical study of router response to large BGP routing table load
+R1	10.1.1.12.6435	Route Flap Damping Exacerbates Internet Routing Convergence
+R1	10.1.1.111.6247	Improving BGP Convergence Through Consistency Assertions
+R1	10.1.1.120.4717	Persistent route oscillations in inter-domain routing
+R1	10.1.1.1.3529	QoS Extension to BGP
+R1	10.1.1.127.3153	SPAND: Shared Passive Network Performance Discovery
+R1	10.1.1.32.2507	Experimental Study of Internet Stability and Wide-Area Backbone Failures
+R1	10.1.1.36.7418	Using pathchar to estimate Internet link characteristics
+R1	10.1.1.133.3305	A Control-Theoretic Approach to Flow Control
+R1	10.1.1.38.7155	Detour: a Case for Informed Internet Routing and Transport
+R1	10.1.1.24.3972	On Routing Table Growth
+R1	10.1.1.101.5212	An Experimental Analysis of BGP Convergence Time
+R1	10.1.1.16.7639	Real-time Model and Convergence Time of BGP
+R1	10.1.1.19.1550	Using Redistribution Communities for Interdomain Traffic Engineering

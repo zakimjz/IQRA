@@ -1,0 +1,50 @@
+10.1.1.14.6120	2003	A Survey of Dependability Issues in Mobile Wireless Networks
+R1	10.1.1.10.1548	Ad-hoc On-Demand Distance Vector Routing
+R1	10.1.1.38.2784	Mobility Prediction and Routing in Ad Hoc Wireless Networks
+R1	10.1.1.10.4397	Information Dissemination in Partitionable Mobile Ad Hoc Networks
+R1	10.1.1.129.426	Dynamic source routing in ad hoc wireless networks
+R1	10.1.1.221.2247	Wireless sensor networks: a survey
+R1	10.1.1.117.2921	A Performance Comparison of Multi-Hop Wireless Ad Hoc Network Routing Protocols
+R1	10.1.1.117.4330	A survey of context-aware mobile computing research
+R1	10.1.1.18.9834	GPS-free positioning in mobile ad hoc networks
+R1	10.1.1.24.1736	Research Challenges in Wireless Networks of Biomedical Sensors
+R1	10.1.1.37.5539	Topology Control of Multihop Wireless Networks using Transmit Power Adjustment
+R1	10.1.1.10.4428	A Review of Current Routing Protocols for Ad-Hoc Mobile Wireless Networks
+R1	10.1.1.120.9398	Analysis of a local-area wireless network
+R1	10.1.1.20.5356	A Highly Adaptive Distributed Routing Algorithm for Mobile Wireless Networks
+R1	10.1.1.107.7720	Energy Conserving Routing in Wireless Ad-hoc Networks
+R1	10.1.1.132.8742	A survey of energy efficient network protocols for wireless networks
+R1	10.1.1.192.7018	Location-Aided Routing (LAR) in mobile ad hoc networks
+R1	10.1.1.14.6961	The Timed Asynchronous Distributed System Model
+R1	10.1.1.17.1012	Specifying and Using a Partitionable Group Communication Service
+R1	10.1.1.13.268	A Survey of Mobility Models for Ad Hoc Network Research
+R1	10.1.1.12.7918	A Review of Geocasting Protocols for a Mobile Ad Hoc Network
+R1	10.1.1.16.8988	Comparison of Broadcasting Techniques for Mobile Ad Hoc Networks
+R1	10.1.1.13.1177	Design and analysis of low-power access protocols for wireless and mobile ATM networks
+R1	10.1.1.13.794	Efficient and Guaranteed Service Coverage in Partitionable Mobile Ad-Hoc
+R1	10.1.1.100.8022	The Jgroup Reliable Distributed Object Model
+R1	10.1.1.76.4211	Architecture for group communication in mobile systems
+R1	10.1.1.365.501	A mobility-based framework for adaptive clustering in wireless ad hoc networks
+R1	10.1.1.138.971	A group mobility model for ad hoc wireless networks
+R1	10.1.1.136.3125	Using Process Groups to Implement Failure Detection in Asynchronous Environments
+R1	10.1.1.22.1127	Signal Stability based Adaptive Routing (SSA) for Ad-Hoc Mobile Networks
+R1	10.1.1.11.9350	Software Strategies for Portable Computer Energy Management
+R1	10.1.1.12.5615	The Performance of Query Control Schemes for the Zone Routing Protocol
+R1	10.1.1.331.3458	Group mobility and partition prediction in wireless ad-hoc networks
+R1	10.1.1.130.6204	Sending Messages to Mobile Users in Disconnected Ad-Hoc Wireless Networks
+R1	10.1.1.41.8587	Virtual Backbone Generation and Maintenance in Ad Hoc Network Mobility Management
+R1	10.1.1.26.2751	On the Formal Specification of Group Membership Services
+R1	10.1.1.101.4347	Group communication in partitionable systems: Specification and algorithms
+R1	10.1.1.20.577	TCP-BuS: Improving TCP Performance in Wireless Ad Hoc Networks
+R1	10.1.1.44.7171	Multicluster, Mobile, Multimedia Radio Network
+R1	10.1.1.1.8372	Distributed Computing on the Move: From mobile Computing To Cooperative . . .
+R1	10.1.1.50.2881	Data Consistency in Intermittently Connected Distributed Systems
+R1	10.1.1.39.9372	An Asynchronous Membership Protocol that Tolerates Partitions
+R1	10.1.1.212.9686	Group communication as a base for a load-balancing replicated data service
+R1	10.1.1.28.4173	Content based multicast (CBM) in ad hoc networks
+R1	10.1.1.2.3113	Group Membership and Communication in Highly Mobile Ad Hoc Networks
+R1	10.1.1.23.7968	Survey On Unicast Routing in Mobile Ad Hoc Networks
+R1	10.1.1.12.909	Advances in Wireless Terminals
+R1	10.1.1.23.7383	Analysis and Experimental Evaluation of an Innovative and Efficient Routing Protocol for Ad-hoc Mobile Networks
+R1	10.1.1.31.4685	Agreeing on Processor Group Membership in Timed Asynchronous Distributed Systems
+R1	10.1.1.19.8084	A Mutual Exclusion Algorithm for Ad Hoc Mobile Networks

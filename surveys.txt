@@ -1,0 +1,100 @@
+10.1.1.1.2671	2002	A Survey of Web Metrics	web metrics
+10.1.1.1.7027	2004	A survey of AI-based meta-heuristics for dealing with local optima in local search	ai-based meta-heuristics dealing local optima local search
+10.1.1.1.8859	1997	Multiagent Systems: A Survey from a Machine Learning Perspective	multiagent systems machine learning perspective
+10.1.1.1.9321	2003	A Survey of Adaptive Middleware	adaptive middleware
+10.1.1.10.8524	2003	Secure Human-Computer Identification against Peeping Attacks (SecHCI): A Survey	secure human-computer identification peeping attacks sechci
+10.1.1.100.2982	2006	3D distance fields: A survey of techniques and applications	3d distance fields techniques applications
+10.1.1.100.8370	2006	A survey of imagebased relighting techniques	imagebased relighting techniques
+10.1.1.101.454	2006	OpenKnowledge ⋆ Deliverable 3.1.: Dynamic Ontology Matching: a Survey	dynamic ontology matching
+10.1.1.101.7806	2005	Diversity creation methods: A survey and categorisation	diversity creation methods
+10.1.1.101.784	2005	Semantic integration research in the database community: A brief survey	semantic integration research database community
+10.1.1.101.8605	2005	A survey of GPU-Based volume rendering of unstructured grids	gpu-based volume rendering unstructured grids
+10.1.1.102.3146	2004	Total order broadcast and multicast algorithms: Taxonomy and survey	total order broadcast multicast algorithms taxonomy
+10.1.1.103.1693	2006	Semi-Supervised Learning Literature Survey	semi-supervised learning literature
+10.1.1.104.5189	2006	A Survey on Computer Representations of Trees for Realistic and Efficient Rendering	computer representations trees realistic efficient rendering
+10.1.1.104.8806	2000	Content-based image retrieval systems: A survey	content-based image retrieval systems
+10.1.1.105.3751	2006	Constraint-based Natural Language Generation: A Survey	constraint-based natural language generation
+10.1.1.105.4560	2003	Evolving controllers for real robots: A survey of the literature	evolving controllers real robots
+10.1.1.105.7160	2007	A brief survey of self-organization in wireless sensor networks	self-organization wireless sensor networks
+10.1.1.106.1108	2005	Distributed Event Routing in Publish/Subscribe Communication Systems: a Survey	distributed event routing publish/subscribe communication systems
+10.1.1.106.3761	2005	Multimodal human computer interaction: A survey	multimodal human computer interaction
+10.1.1.106.5348	2005	On knowledge grid and grid intelligence: a survey	knowledge grid grid intelligence
+10.1.1.106.7207	2002	Recommendation and personalization: a survey	recommendation personalization
+10.1.1.107.2790	2005	Toward the next generation of recommender systems: A survey of the state-of-the-art and possible extensions	toward next generation recommender systems
+10.1.1.107.377	2007	EPISTURMIAN WORDS: A SURVEY	episturmian words
+10.1.1.107.8007	2006	Survey of Data Mining Approaches to User Modeling for Adaptive Hypermedia	data mining approaches user modeling adaptive hypermedia
+10.1.1.108.203	2001	A Survey of Computer Vision-Based Human Motion Capture	computer vision-based human motion capture
+10.1.1.108.8502	2007	Outlier Detection: A Survey	outlier detection
+10.1.1.109.1943	2004	A survey of outlier detection methodologies	outlier detection methodologies
+10.1.1.109.3026	2006	Medium access control protocols for ad hoc wireless networks: a survey	medium access control protocols ad hoc wireless networks
+10.1.1.109.3998	2002	Survey of qos routing	qos routing
+10.1.1.109.4033	1990	Integration of Disparate Information Sources: A Short Survey	integration disparate information sources
+10.1.1.109.6124	2005	A Survey and Comparison of Peer-to-Peer Overlay Network Schemes	comparison peer-to-peer overlay network schemes
+10.1.1.11.5182	2002	A Survey of Algorithms for Real-Time Bayesian Network Inference	algorithms real-time bayesian network inference
+10.1.1.11.5259	2002	A Survey of Socially Interactive Robots	socially interactive robots
+10.1.1.11.53	2004	Survey and Benchmark of Block Ciphers for Wireless Sensor Networks	benchmark block ciphers wireless sensor networks
+10.1.1.11.7703	2001	Integrating Diverse Information Management Systems: A Brief Survey	integrating diverse information management systems
+10.1.1.110.1072	2001	Survey of graph database models	graph database models
+10.1.1.112.3798	2007	A survey of recent results in networked control systems	recent results networked control systems
+10.1.1.112.5936	2004	A survey on private information retrieval	private information retrieval
+10.1.1.112.8588	2006	Object Tracking: A Survey	object tracking
+10.1.1.113.6199	2000	Web mining research: A survey	web mining research
+10.1.1.113.8356	2007	A Survey on Wireless Multimedia Sensor Networks	wireless multimedia sensor networks
+10.1.1.115.2861	2004	A survey on visual surveillance of object motion and behaviors	visual surveillance object motion behaviors
+10.1.1.116.9734	2004	A survey of collectives	collectives
+10.1.1.117.4330	2000	A survey of context-aware mobile computing research	context-aware mobile computing
+10.1.1.118.9231	2005	A survey on condensed representations for frequent sets	condensed representations frequent sets
+10.1.1.12.4358	2002	A Survey of Graph Layout Problems	graph layout problems
+10.1.1.12.8073	2001	Ontology-Based Integration of Information - A Survey of Existing Approaches	ontology-based integration information
+10.1.1.12.9079	1997	Performance Evaluation for Parallel Systems: A Survey	performance evaluation parallel systems
+10.1.1.120.3657	2007	A Survey of Named Entity Recognition and Classification	named entity recognition classification
+10.1.1.121.1896	2007	A survey of application-layer multicast protocols	application-layer multicast protocols
+10.1.1.122.7063	2004	Routing Techniques in Wireless Sensor Networks: A Survey	routing techniques wireless sensor networks
+10.1.1.125.2611	2007	Unsupervised Learning of Morphology: Survey, Model, Algorithm and Experiments	unsupervised learning morphology model algorithm experiments
+10.1.1.125.3701	2004	Cluster Analysis for Gene Expression Data: A Survey	cluster analysis gene expression data
+10.1.1.126.2845	2007	A survey of statistical machine translation	statistical machine translation
+10.1.1.13.2240	2002	On the Need for Time Series Data Mining Benchmarks: A Survey and Empirical  Demonstration	need time series data mining benchmarks empirical demonstration
+10.1.1.13.3950	2003	A Survey of Research on Context-Aware Homes	research context-aware homes
+10.1.1.13.5240	2000	From the Rosetta Stone to the Information Society: A Survey of parellel text processing	rosetta stone information society parellel text processing
+10.1.1.13.6025	1999	A Survey of Application Layer Techniques for Adaptive Streaming Of Multimedia	application layer techniques adaptive streaming multimedia
+10.1.1.130.8031	2005	A Survey on Versatility for Publish/Subscribe Infrastructures	versatility publish/subscribe infrastructures
+10.1.1.131.2072	1999	The Visual Analysis of Human Movement: A Survey	visual analysis human movement
+10.1.1.132.1734	2006	A survey on hair modeling: styling, simulation, and rendering	hair modeling styling simulation rendering
+10.1.1.132.516	2006	Spiking neuron networks: A survey	spiking neuron networks
+10.1.1.132.8742	2001	A survey of energy efficient network protocols for wireless networks	energy efficient network protocols wireless networks
+10.1.1.133.8156	2003	Data Stream Management Issues – A Survey	data stream management issues
+10.1.1.134.223	2002	Active Recognition through Next View Planning: A Survey	active recognition next view planning
+10.1.1.135.137	2001	Inconsistency management in software engineering: Survey and open research issues	inconsistency management software engineering open research issues
+10.1.1.135.1746	2005	Clock synchronization for wireless sensor networks: A Survey	clock synchronization wireless sensor networks
+10.1.1.135.5662	2007	Wireless sensor network security: A survey	wireless sensor network security
+10.1.1.135.9600	2005	Survey of Sparse and Non-Sparse Methods in Source Separation	sparse non-sparse methods source separation
+10.1.1.135.9750	2000	A survey of new research directions in microprocessors	new research directions microprocessors
+10.1.1.136.6790	1996	Deformable models in medical image analysis: A survey	deformable models medical image analysis
+10.1.1.137.7654	2005	Combination testing strategies: A survey	combination testing strategies
+10.1.1.138.2119	2004	Computer graphics for water modeling and rendering: a survey	computer graphics water modeling rendering
+10.1.1.138.6679	1999	A survey of image-based rendering techniques	image-based rendering techniques
+10.1.1.138.7951	2008	A Survey of Anonymous Communication Channels	anonymous communication channels
+10.1.1.139.5529	2004	A Survey of BGP Security Issues and Solutions	bgp security issues solutions
+10.1.1.14.6120	2003	A Survey of Dependability Issues in Mobile Wireless Networks	dependability issues mobile wireless networks
+10.1.1.141.1628	2006	A Survey of Web Information Extraction Systems	web information extraction systems
+10.1.1.142.4190	2007	A survey and taxonomy of approaches for mining software repositories in the context of software evolution	taxonomy approaches mining software repositories context software evolution
+10.1.1.143.2926	2002	A Survey on Customizability in Operating Systems Research	customizability operating systems research
+10.1.1.143.3277	2008	Service Discovery for Mobile Ad Hoc Networks: A Survey of Issues and Techniques	service discovery mobile ad hoc networks issues techniques
+10.1.1.143.5817	2008	A Survey of Security Techniques for the Border Gateway Protocol (BGP)	security techniques border gateway protocol bgp
+10.1.1.144.1871	2002	Vision for Mobile Robot Navigation: A Survey	vision mobile robot navigation
+10.1.1.144.1913	2008	Social Signal Processing: Survey of an Emerging Domain	social signal processing emerging domain
+10.1.1.144.217	2009	A Survey of Affect Recognition Methods: Audio, Visual, and Spontaneous Expressions	affect recognition methods audio visual spontaneous expressions
+10.1.1.144.3564	2008	Fitness functions in evolutionary robotics: A survey and analysis	fitness functions evolutionary robotics analysis
+10.1.1.144.7624	2008	Web Spam: a Survey with Vision for the Archivist	web spam vision archivist
+10.1.1.144.8462	2005	INTRUSION DETECTION: A SURVEY	intrusion detection
+10.1.1.147.3975	2007	Duplicate record detection: A survey	duplicate record detection
+10.1.1.147.8323	1998	NICHOLS:A Survey of Applications of CSCW for Digital Libraries	applications cscw digital libraries
+10.1.1.147.9871	2009	Survey on Directed Model Checking	directed model checking
+10.1.1.148.1428	2008	Algorithms and Approaches of Proxy Signature: A Survey	algorithms approaches proxy signature
+10.1.1.148.4589	2003	A survey of visibility for walkthrough applications	visibility walkthrough applications
+10.1.1.148.4704	2007	Ontology change: classification and survey	ontology change classification
+10.1.1.148.5634	2008	A systematic survey of program comprehension through dynamic analysis	systematic program comprehension dynamic analysis
+10.1.1.149.5794	2008	Monocular Pedestrian Detection: Survey and Experiments	monocular pedestrian detection experiments
+10.1.1.149.6037	2010	A Survey on Bio-inspired Networking	bio-inspired networking
+10.1.1.149.7996	2007	A Survey on Recognition of On-Line Handwritten Mathematical Notation	recognition on-line handwritten mathematical notation
+10.1.1.150.9748	2004	A Survey of Motion-Parallax-Based 3-D Reconstruction Algorithms	motion-parallax-based 3-d reconstruction algorithms

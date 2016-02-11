@@ -1,0 +1,22 @@
+10.1.1.365.1683	2005	Incremental methods for simple problems in time series: algorithms and experiments
+R1	10.1.1.14.3206	StatStream: Statistical Monitoring of Thousands of Data Streams in Real Time
+R1	10.1.1.16.5173	Matching Pursuit With Time-Frequency Dictionaries
+R1	10.1.1.36.5401	Stable Distributions, Pseudorandom Generators, Embeddings and Data Stream Computation
+R1	10.1.1.119.5031	Surfing wavelets on streams: One-pass summaries for approximate aggregate queries
+R1	10.1.1.13.8182	Bursty and Hierarchical Structure in Streams
+R1	10.1.1.219.5983	Efficient similarity search in sequence databases
+R1	10.1.1.11.4993	Dimensionality Reduction for Fast Similarity Search in Large Time Series Databases
+R1	10.1.1.114.8627	Data mining meets performance evaluation: Fast algorithms for modeling bursty traffic
+R1	10.1.1.342.500	Similarity-Based Queries for Time Series Data
+R1	10.1.1.44.1300	Efficient Search for Approximate Nearest Neighbor in High Dimensional Spaces
+R1	10.1.1.13.4827	Locally Adaptive Dimensionality Reduction for Indexing Large Time Series Databases
+R1	10.1.1.10.5191	Online Amnesic Approximation of Streaming Time Series
+R1	10.1.1.104.9016	Similarity search over time series data using wavelets
+R1	10.1.1.330.3873	Fast matching pursuit with a multiscale dictionary of gaussian chirps
+R1	10.1.1.36.8638	Matching Pursuit for Imaging High Contrast Conductivity
+R1	10.1.1.30.7844	Efficiently Supporting Ad Hoc Queries in Large Datasets of Time Sequences
+R1	10.1.1.4.1850	Rapid Detection of Significant Spatial Clusters
+R1	10.1.1.5.5235	Video Coding Using a Deformation Compensation Algorithm Based on Adaptive Matching Pursuit Image Decompositions
+R1	10.1.1.332.8243	Identifying similarities, periodicities and bursts for online search queries
+R1	10.1.1.133.7902	Detecting significant multidimensional spatial clusters
+R1	10.1.1.126.6978	Fast window correlations over uncooperative time series

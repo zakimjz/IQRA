@@ -1,0 +1,40 @@
+10.1.1.178.3420	2009	Unsupervised methods for determining object and relation synonyms on the web
+R1	10.1.1.26.6299	Learning Dictionaries for Information Extraction by Multi-Level Bootstrapping
+R1	10.1.1.11.31	Measures of Distributional Similarity
+R1	10.1.1.39.4336	The State of Record Linkage and Current Research Problems
+R1	10.1.1.105.1244	WordNet: An on-line lexical database
+R1	10.1.1.109.6628	An algorithm for pronominal anaphora resolution
+R1	10.1.1.112.8784	A comparison of string distance metrics for name-matching tasks
+R1	10.1.1.14.1729	Distributional Clustering Of English Words
+R1	10.1.1.34.4329	Efficient Clustering of High-Dimensional Data Sets with Application to Reference Matching
+R1	10.1.1.23.9685	The field matching problem: Algorithms and applications
+R1	10.1.1.187.9843	Extracting paraphrases from a parallel corpus
+R1	10.1.1.121.5868	Similarity search in high dimensions via hashing
+R1	10.1.1.55.2700	The Merge/Purge Problem for Large Databases
+R1	10.1.1.100.155	Word clustering and disambiguation based on co-occurrence data
+R1	10.1.1.13.2696	Syntax-based Alignment of Multiple Translations: Extracting Paraphrases and Generating New Sentences
+R1	10.1.1.14.1060	Noun Phrase Coreference as Clustering
+R1	10.1.1.54.1841	Probabilistic Coreference in Information Extraction
+R1	10.1.1.20.896	Improving Machine Learning Approaches to Coreference Resolution
+R1	10.1.1.295.7306	Cover trees for nearest neighbor
+R1	10.1.1.131.240	Word sense disambiguation: The state of the art
+R1	10.1.1.98.3748	The pascal recognising textual entailment challenge
+R1	10.1.1.108.3413	Reference reconciliation in complex information spaces
+R1	10.1.1.10.7097	Unsupervised Personal Name Disambiguation
+R1	10.1.1.108.9748	Unsupervised learning of contextual role knowledge for coreference resolution
+R1	10.1.1.318.2355	Identification and tracing of ambiguous names: Discriminative and generative approaches
+R1	10.1.1.114.730	Support Vector Machines for Paraphrase Identification and Corpus Construction
+R1	10.1.1.70.6326	2D conditional random fields for web information extraction
+R1	10.1.1.98.9382	The (non)utility of predicate-argument frequencies for pronoun interpretation
+R1	10.1.1.110.7942	An investigation of practical approximate nearest neighbor algorithms
+R1	10.1.1.130.8780	Sparse information extraction: Unsupervised language models to the rescue
+R1	10.1.1.142.3065	Query-time entity resolution
+R1	10.1.1.134.5647	Semantic taxonomy induction from heterogenous evidence
+R1	10.1.1.143.4617	Statistical predicate invention
+R1	10.1.1.3.3138	A Hierarchical Graphical Model for Record Linkage
+R1	10.1.1.77.6875	Entity Resolution with Markov Logic
+R1	10.1.1.105.9033	2007. Unsupervised Discrimination of Person Names in Web Contexts
+R1	10.1.1.230.3953	Paraphrase acquisition for information extraction
+R1	10.1.1.383.4674	Automatic paraphrase discovery based on context and keywords between ne pairs
+R1	10.1.1.120.1340	Unsupervised Resolution of Objects and Relations on the Web
+R1	10.1.1.145.5026	Web People Search- Results of the first evaluation and the plan for the second-

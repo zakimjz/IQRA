@@ -1,0 +1,22 @@
+10.1.1.11.2608	2003	Toward the Scientific Evaluation of Music Information Retrieval Systems
+R1	10.1.1.25.4039	MUSART: Music Retrieval Via Aural Queries
+R1	10.1.1.14.3320	Content-Based Playlist Generation: Exploratory
+R1	10.1.1.22.3984	An Audio Front End for Query-by-Humming Systems
+R1	10.1.1.103.2175	A Highly Robust Audio Fingerprinting System
+R1	10.1.1.103.361	PATS: Realization and user evaluation of an automatic playlist generator
+R1	10.1.1.18.7129	Matching Techniques for Large Music Databases
+R1	10.1.1.216.5053	Evaluation in information retrieval
+R1	10.1.1.103.7731	Toward a theory of music information retrieval queries: System design implications
+R1	10.1.1.115.99	User studies: A first step in designing an MIR testbed
+R1	10.1.1.104.3268	Comparing aural music information retrieval systems
+R1	10.1.1.223.264	Music information retrieval
+R1	10.1.1.133.9456	Interdisciplinary communities and research issues in music information retrieval
+R1	10.1.1.21.5247	A Comparison of Language Modeling and Probabilistic Text Information Retrieval Approaches to Monophonic Music Retrieval
+R1	10.1.1.141.2976	A comparative and fault-tolerance study of the use of n-grams with polyphonic music
+R1	10.1.1.122.8427	Music GRID: A Collaborative Virtual Organization for Music Information Retrieval Collaboration and Evaluation
+R1	10.1.1.9.2279	Three Criteria for the Evaluation of Music Information Retrieval Techniques Against Collections of Musical Material
+R1	10.1.1.14.5940	A Query by Example Music Retrieval Algorithm
+R1	10.1.1.15.9532	The JRing System for Computer-Assisted Musicological Analysis
+R1	10.1.1.216.2321	2002. ‘‘A Task-Oriented Approach for the Development of a Test Collection for
+R1	10.1.1.119.8209	Towards large databases for music information retrieval systems development and evaluation
+R1	10.1.1.132.9592	Towards a Workbench for Symbolic Music Information Retrieval

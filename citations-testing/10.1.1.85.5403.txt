@@ -1,0 +1,27 @@
+10.1.1.85.5403	2003	Video Content Modelling: An Overview
+R1	10.1.1.26.8589	Image Information Retrieval: An Overview of Current Research
+R1	10.1.1.49.4932	A Compressed Video Database Structured for Active Browsing and Search
+R1	10.1.1.8.2179	Comparison of Video Shot Boundary Detection Techniques
+R1	10.1.1.38.2935	Photobook: Content-Based Manipulation of Image Databases
+R1	10.1.1.25.6642	Multimedia Content Analysis Using Both Audio and Visual Cues
+R1	10.1.1.103.2752	A survey on content-based retrieval for multimedia databases
+R1	10.1.1.5.4510	MPEG-4 Standardized Methods for the Compression of Arbitrarily . . .
+R1	10.1.1.139.1036	A Probabilistic Framework for Semantic Indexing and Retrieval in Video
+R1	10.1.1.217.3063	Shot boundary detection using temporal statistics modeling
+R1	10.1.1.126.8899	Visual Information Retrieval from Large Distributed Online Repositories
+R1	10.1.1.138.2976	A factor graph framework for semantic video indexing
+R1	10.1.1.319.1351	Shot-Boundary Detection: Unraveled and Resolved
+R1	10.1.1.56.9692	Automatic Image Content Retrieval - Are We Getting Anywhere?
+R1	10.1.1.43.5296	A Critical Evaluation of Image and Video Indexing Techniques in the Compressed Domain
+R1	10.1.1.19.990	New Frontiers for Intelligent Content-Based Retrieval
+R1	10.1.1.87.5212	Searching for multimedia on the world wide web
+R1	10.1.1.20.3570	Semantic Reasoning based Video Database Systems
+R1	10.1.1.37.3158	Automatic Key Video Object Plane Selection Using the Shape Information in the MPEG-4 Compressed Domain
+R1	10.1.1.139.5508	A factor graph framework for semantic indexing and retrieval in video
+R1	10.1.1.46.4200	Indexing and Retrieval of MPEG Compressed Video
+R1	10.1.1.16.2278	Video Content Representation For Shot Retrieval And Scene Extraction
+R1	10.1.1.20.3258	VideoGraph: A Graphical Object-based Model for Representing and Querying Video Data
+R1	10.1.1.8.6503	Multimodal Pattern Matching for Audio-Visual Query and
+R1	10.1.1.158.4454	The vibe video database system: An update and further studies
+R1	10.1.1.51.5544	Vector-Wavelet Based Scalable Indexing And Retrieval System For Large Color Image Archives
+R1	10.1.1.37.3089	Partitioning of Video Objects into Temporal Segments Using Local Motion Information

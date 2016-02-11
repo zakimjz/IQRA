@@ -1,0 +1,27 @@
+10.1.1.59.7318	2004	Agent-Based Recommender Systems
+R1	10.1.1.26.2437	Beyond Recommender Systems: Helping People Help Each Other
+R1	10.1.1.29.5833	Context-Aware Computing Applications
+R1	10.1.1.36.1396	User Interactions with Everyday Applications as Context for Just-in-time Information Access
+R1	10.1.1.21.838	ReferralWeb: Combining Social Networks and Collaborative Filtering
+R1	10.1.1.21.522	Dynamic Service Matchmaking Among Agents in Open Information Environments
+R1	10.1.1.154.6415	A Concise Introduction to Multiagent Systems and Distributed AI
+R1	10.1.1.12.5584	Implicit Rating and Filtering
+R1	10.1.1.30.6583	Social Information Filtering: Algorithms for Automating "Word of Mouth"
+R1	10.1.1.44.1019	Agents for Expertise Location
+R1	10.1.1.151.5575	Yenta: A multi-agent, referral-based matchmaking system
+R1	10.1.1.7.6263	Emergent Properties of Referral Systems
+R1	10.1.1.118.5214	Searching Social Networks
+R1	10.1.1.36.7025	Distributed Intelligent Agents
+R1	10.1.1.208.1462	Social Capital in the Creation of Human Capital
+R1	10.1.1.6.6080	Distributed Reputation Management For Electronic Commerce
+R1	10.1.1.29.6272	Awareness - The Common Link Between Groupware and Communityware
+R1	10.1.1.226.2732	Implicit interest indicators
+R1	10.1.1.8.1102	Reputation and Social Network Analysis In Multi-Agent Systems
+R1	10.1.1.10.906	Implicit Feedback for Inferring User Preference: A Bibliography
+R1	10.1.1.15.1077	Extracting Reputation in Multi Agent Systems by Means of Social Network Topology
+R1	10.1.1.221.4365	Implicit Feedback for Recommender System
+R1	10.1.1.21.3412	Matchmaking among Heterogeneous Agents on the Internet
+R1	10.1.1.43.354	A Multiagent Referral System for Expertise Location
+R1	10.1.1.195.5011	IKNOW: A tool to assist and study the creation, maintenance, and dissolution of knowledge networks
+R1	10.1.1.106.4677	Exploiting User Models and Context-Awareness to Support Personal Daily Activities
+R1	10.1.1.30.7649	Combining Social Networks and Collaborative Learning in Distributed Organizations

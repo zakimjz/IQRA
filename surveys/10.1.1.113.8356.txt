@@ -1,0 +1,67 @@
+10.1.1.113.8356	2007	A Survey on Wireless Multimedia Sensor Networks
+R1	10.1.1.135.7213	Impulse radio: how it works
+R1	10.1.1.11.5121	Topology Management for Sensor Networks: Exploiting Latency And Density
+R1	10.1.1.221.2247	Wireless sensor networks: a survey
+R1	10.1.1.11.4436	Optimizing Sensor Networks in the Energy-Latency-Density Design Space
+R1	10.1.1.1.2975	Medium Access Control with Coordinated Adaptive Sleeping for Wireless Sensor Networks
+R1	10.1.1.333.8270	Ultra-wide bandwidth time-hopping spread spectrum impulse radio for wireless access communications
+R1	10.1.1.70.697	Radio resource sharing for ad hoc networking with uwb
+R1	10.1.1.3.4185	Making TCP/IP Viable for Wireless Sensor Networks
+R1	10.1.1.221.4654	Event-to-Sink Reliable Transport in Wireless Sensor Networks
+R1	10.1.1.65.6771	PSFQ: A Reliable Transport Protocol For Wireless Sensor Networks
+R1	10.1.1.127.9488	The nesC language: A holistic approach to networked embedded systems
+R1	10.1.1.42.1649	Fair Scheduling in Wireless Packet Networks
+R1	10.1.1.140.9034	Low power distributed MAC for ad hoc sensor radio networks
+R1	10.1.1.11.5057	Dynamic Packet Size Mechanism (DPSM) for Multimedia in Wireless Networks
+R1	10.1.1.24.3221	MPEG-TFRCP: Video Transfer with TCP-friendly Rate Control Protocol
+R1	10.1.1.149.5614	Joint source coding and transmission power managment for energy efficient wireless video communications
+R1	10.1.1.119.6213	CODA: Congestion detection and avoidance in sensor networks
+R1	10.1.1.10.3513	Sensor management policies to provide application QoS
+R1	10.1.1.137.494	The rate-distortion function for source coding with side information at the decoder
+R1	10.1.1.111.4153	Global clock synchronization in sensor networks
+R1	10.1.1.384.3893	D.: Distributed video coding
+R1	10.1.1.84.9939	Panoptes: Scalable Low-Power Video Sensor Networking Technologies
+R1	10.1.1.421.5867	Cognitive Radio: Brain-Empowered Wireless Communications
+R1	10.1.1.122.7063	Routing Techniques in Wireless Sensor Networks: A Survey
+R1	10.1.1.182.580	Irisnet: an internet-scale architecture for multimedia sensors
+R1	10.1.1.330.808	A MAC Protocol to Reduce Sensor Network Energy Consumption Using a Wakeup Radio
+R1	10.1.1.62.6043	MMSPEED: Multipath multi-SPEED protocol for QoS guarantee of reliability and timeliness in wireless sensor networks
+R1	10.1.1.85.3616	A survey on routing protocols for wireless sensor networks
+R1	10.1.1.129.1574	Capacity of Multi-Channel Wireless Networks with Random (c, f) Assignment
+R1	10.1.1.162.3199	On the interdependence of distributed topology control and geographical routing in ad hoc and sensor networks
+R1	10.1.1.96.3562	Spatio-temporal correlation: theory and applications for wireless sensor networks
+R1	10.1.1.332.4592	Towards practical wynerziv coding of video
+R1	10.1.1.110.6074	sdlib: a sensor network data and communications library for rapid and robust application development
+R1	10.1.1.135.1746	Clock synchronization for wireless sensor networks: A Survey
+R1	10.1.1.222.3809	A distributed TDMA slot assignment algorithm for wireless sensor networks
+R1	10.1.1.5.9823	ATP: A Reliable Transport Protocol for Ad-hoc Networks
+R1	10.1.1.93.7194	An energy-aware QoS routing protocol for wireless sensor networks
+R1	10.1.1.130.1852	Cross-layer design of ad hoc networks for real-time video streaming
+R1	10.1.1.93.566	Characterizing energy consumption in a visual sensor network testbed
+R1	10.1.1.106.2861	A distributed filtering architecture for multimedia sensors
+R1	10.1.1.92.671	A distributed coordination framework for wireless sensor and actor networks
+R1	10.1.1.323.9322	MRTP: A multi-flow real-time transport protocol
+R1	10.1.1.92.3772	Cyclops: In situ image sensing and interpretation in wireless sensor networks
+R1	10.1.1.14.8825	A Low Cost Embedded Color Vision System
+R1	10.1.1.11.3457	Power Efficient Multimedia Communication over Wireless Channels
+R1	10.1.1.19.5362	Advances in Channel-adaptive Video Streaming
+R1	10.1.1.86.6445	A framework for synchronous delivery of time-dependent multimedia data
+R1	10.1.1.3.7952	Energy Efficient Wireless Packet Scheduling and Fair Queuing
+R1	10.1.1.220.9073	Energy efficiency based packet size optimization in wireless sensor networks
+R1	10.1.1.374.9486	A joint PHY/MAC architecture for low-radiated power TH-UWB wireless ad-hoc networks
+R1	10.1.1.330.6847	Internal synchronization of drift-constraint clocks in ad-hoc sensor networks
+R1	10.1.1.79.4976	Medium Access Control in Wireless Sensor Networks
+R1	10.1.1.61.3454	NeXt generation/dynamic spectrum access/cognitive Radio Wireless Networks: A Survey
+R1	10.1.1.123.1890	Reliable transfer on wireless sensor networks
+R1	10.1.1.66.2984	Energy-Delay tradeoff for data collection
+R1	10.1.1.132.5908	PARM: A Power-Aware Message Scheduling Algorithm for Real-Time Wireless Networks
+R1	10.1.1.304.1797	Localization via ultra-wideband radios
+R1	10.1.1.77.6213	Distributed rate allocation for multi-stream video transmission over ad hoc networks
+R1	10.1.1.76.1066	A Spatiotemporal Communication Protocol for Wireless Sensor Networks
+R1	10.1.1.110.2522	STCP: A Generic Transport Layer Protocol for Wireless Sensor Networks
+R1	10.1.1.162.2449	A communication architecture for mobile wireless sensor and actor networks
+R1	10.1.1.92.9962	A survey of multimedia streaming in wireless sensor networks, submitted for publication
+R1	10.1.1.88.6897	802.11a Modeling and MAC enhancements for high speed rate adaptive networks
+R1	10.1.1.130.1066	An Energy-efficient Virtual MIMO Communications Architecture Based on V-BLAST Processing for Distributed Wireless Sensor Networks
+R1	10.1.1.116.1368	QoS-based geographic routing for event-driven image sensor networks, in
+R1	10.1.1.221.5276	Cross-layer analysis of error control in wireless sensor networks

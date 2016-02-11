@@ -1,0 +1,39 @@
+10.1.1.16.1697	1996	Power Minimization in IC Design: Principles and Applications
+R1	10.1.1.1.5124	Graph-Based Algorithms for Boolean Function Manipulation
+R1	10.1.1.123.7607	Optimization by simulated annealing
+R1	10.1.1.49.6390	Techniques for the Power Estimation of Sequential Logic Circuits Under User-Specified Input Sequences and Programs
+R1	10.1.1.46.8834	Towards a High-Level Power Estimation Capability
+R1	10.1.1.19.9998	Estimation of Average Switching Activity in Combinational and Sequential Circuits
+R1	10.1.1.324.9894	Efficient Power Estimation for Highly Correlated Input Streams
+R1	10.1.1.47.2545	Pattern-Independent Current Estimation For Reliability Analysis Of Cmos Circuits
+R1	10.1.1.17.5980	Transition Density, A New Measure of Activity in Digital Circuits
+R1	10.1.1.226.6517	Multilevel logic synthesis
+R1	10.1.1.381.2708	Improving the accuracy of circuit activity measurement
+R1	10.1.1.47.2678	Probabilistic Simulation for Reliability Analysis of CMOS VLSI Circuits
+R1	10.1.1.55.7517	Retiming Sequential Circuits for Low Power
+R1	10.1.1.330.7595	Guarded Evaluation: Pushing Power Management to Logic Synthesis/Design
+R1	10.1.1.50.6558	Low Power State Assignment Targeting Two- and Multi-level Logic Implementations
+R1	10.1.1.50.4742	Bus-Invert Coding for Low Power I/O
+R1	10.1.1.226.8246	GORDIAN: VLSI placement by quadratic programming and slicing optimization
+R1	10.1.1.39.7821	Power Estimation in Sequential Circuits
+R1	10.1.1.132.2682	Global communication and memory optimizing transformations for low power systems
+R1	10.1.1.51.518	Estimation of Energy Consumption in Speed-Independent Control Circuits
+R1	10.1.1.51.6469	Technology Mapping for Low Power
+R1	10.1.1.151.1639	Simulataneous Driver and Wire Sizing for Performance and Power Optimization
+R1	10.1.1.133.8270	A new algorithm for standard cell global routing
+R1	10.1.1.407.8842	N.Bhat, “Layout driven technology mapping
+R1	10.1.1.409.2406	Decomposition of logic functions for minimum transition activity
+R1	10.1.1.22.6840	Minimum-Cost Bounded-Skew Clock Routing
+R1	10.1.1.381.2255	Statistical estimation of the switching activity in digital circuits
+R1	10.1.1.387.6119	Transistor Sizing for Minimizing Power Consumption of CMOS Circuits under Delay Constraint
+R1	10.1.1.26.69	Techniques to Reduce Power in Fast Wide Memories
+R1	10.1.1.48.4913	Technology Decomposition and Mapping Targeting Low Power Dissipation
+R1	10.1.1.46.9957	Low-pass Filter for Computing the Transition Density in Digital Circuits
+R1	10.1.1.55.7946	Power Efficient Technology Decomposition and Mapping under an Extended Power Consumption Model
+R1	10.1.1.373.3056	Boolean Techniques for Low Power Driven Re-Synthesis
+R1	10.1.1.333.3385	Low delay-power product CMOS design using one-hot residue coding
+R1	10.1.1.45.509	PLA Minimization for Low Power VLSI Designs
+R1	10.1.1.408.3825	Floorplanning with pin assignment
+R1	10.1.1.30.6005	Optimal Sizing of High Speed Clock Networks Based on Distributed RC and Lossy Transmission Line Models
+R1	10.1.1.381.2112	Probabilistic Analysis of Large Finite State
+R1	10.1.1.25.7169	An Iterative Improvement Algorithm for Low Power Data Path Synthesis

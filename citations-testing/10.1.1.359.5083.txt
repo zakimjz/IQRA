@@ -1,0 +1,21 @@
+10.1.1.359.5083	2012	Variational Bayesian optimization for runtime risksensitive control
+R1	10.1.1.69.3173	Stochastic policy gradient reinforcement learning on a simple 3D biped
+R1	10.1.1.124.682	A Taxonomy of Global Optimization Methods Based on Response Surfaces
+R1	10.1.1.47.4999	Regression with Input-dependent Noise: A Gaussian Process Treatment
+R1	10.1.1.52.4169	SDO: A Statistical Method for Global Optimization
+R1	10.1.1.116.2	Automatic gait optimization with gaussian process regression
+R1	10.1.1.66.6881	Active policy learning for robot planning and exploration under uncertainty
+R1	10.1.1.142.4952	Policy gradient methods for robotics
+R1	10.1.1.73.6239	Most Likely Heteroscedastic Gaussian Process Regression
+R1	10.1.1.139.9315	Using Gaussian Processes to Optimize Expensive Functions.
+R1	10.1.1.148.7472	Policy Search for Motor Primitives in Robotics
+R1	10.1.1.148.8475	Policy Search via the Signed Derivative
+R1	10.1.1.208.5770	Signal-to-noise ratio analysis of policy gradient algorithms
+R1	10.1.1.159.2785	Reinforcement Learning of Motor Skills in High Dimensions: A Path Integral Approach
+R1	10.1.1.167.4854	Gaussian Process Optimization in the Bandit Setting: No Regret and Experimental Design
+R1	10.1.1.172.5841	Risk Sensitive Path Integral Control
+R1	10.1.1.207.9224	Using Response Surfaces and Expected Improvement to Optimize Snake Robot Gait Parameters
+R1	10.1.1.221.5023	Learning Dynamic Arm Motions for Postural Recovery
+R1	10.1.1.231.4074	Variational heteroscedastic Gaussian process regression
+R1	10.1.1.415.8534	Convergence rates of efficient global optimization algorithms
+R1	10.1.1.353.7623	A behavior based kernel for policy search via Bayesian optimization

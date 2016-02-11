@@ -1,0 +1,24 @@
+10.1.1.28.3119	2001	Sentence Processing and Linguistic Structure
+R1	10.1.1.319.3881	Toward a connectionist model of recursion in human linguistic performance
+R1	10.1.1.117.1928	Finding structure in time
+R1	10.1.1.212.3979	Distributed representations, simple recurrent networks, and grammatical structure
+R1	10.1.1.1.3412	A Recurrent Neural Network That Learns to Count
+R1	10.1.1.26.9411	Dynamical Recognizers: Real-time Language Recognition by Analog Computers
+R1	10.1.1.48.4755	Resonance and the Perception of Musical Meter
+R1	10.1.1.127.3083	A distributed, developmental model of word recognition and naming
+R1	10.1.1.30.6437	Recursive Distributed Representations
+R1	10.1.1.106.873	Forward models: Supervised learning with a distal teacher
+R1	10.1.1.50.7356	Language as a Dynamical System
+R1	10.1.1.23.4807	Understanding Normal and Impaired Word Reading: Computational Principles in Quasi-Regular Domains
+R1	10.1.1.160.7894	Gradient calculation for dynamic recurrent neural networks: a survey
+R1	10.1.1.211.3546	Eye movements in reading and information processing: 20 years of research
+R1	10.1.1.160.2984	Graded state machines: The representation of temporal contingencies in simple recurrent networks
+R1	10.1.1.2.7285	Linguistic Complexity: Locality of Syntactic Dependencies
+R1	10.1.1.22.5568	Language Acquisition in the Absence of Explicit Negative Evidence: How Important is Starting Small?
+R1	10.1.1.34.3968	The Dynamical Hypothesis in Cognitive Science
+R1	10.1.1.378.8533	Generalization and connectionist language learning
+R1	10.1.1.56.7941	An Efficient Gradient-Based Algorithm for On-Line Training of Recurrent Network Trajectories
+R1	10.1.1.41.3345	Interference in Short-term Memory: The Magical Number Two (or Three) in Sentence Processing
+R1	10.1.1.411.9737	The simple dynamics of super Turing theories
+R1	10.1.1.29.5801	Dynamical Automata
+R1	10.1.1.33.3148	Complex Behavior by means of Dynamical Systems for an Anthropomorphic Robot

@@ -1,0 +1,27 @@
+10.1.1.129.2216	2007	Automatic Acquisition of Lexical Knowledge about Multiword Predicates
+R1	10.1.1.14.5962	Accurate Methods for the Statistics of Surprise and Coincidence
+R1	10.1.1.15.227	Automatic Retrieval and Clustering of Similar Words
+R1	10.1.1.133.9990	Retrieving Collocations from Text: Xtract
+R1	10.1.1.38.6442	Semantic Similarity in a Taxonomy: An Information-Based Measure and its Application to Problems of Ambiguity in Natural Language
+R1	10.1.1.19.9615	Models of Translational Equivalence among Words
+R1	10.1.1.14.2316	Improved Alignment Models for Statistical Machine Translation
+R1	10.1.1.14.1612	Translating Collocations for Bilingual Lexicons: A Statistical Approach
+R1	10.1.1.19.3644	Multiword Expressions: A Pain in the Neck for NLP
+R1	10.1.1.161.3825	Verb Class Disambiguation Using Informative Priors
+R1	10.1.1.5.4609	An Empirical Model of Multiword Expression Decomposability
+R1	10.1.1.10.764	A Statistical Approach to the Semantics of Verb-Particles
+R1	10.1.1.13.8035	Automatic Identification of Non-compositional Phrases
+R1	10.1.1.136.6572	Using statistics in lexical analysis
+R1	10.1.1.11.3221	Automatic Discovery of Non-Compositional Compounds in Parallel Data
+R1	10.1.1.337.6023	Distributional measures as proxies for semantic relatedness
+R1	10.1.1.107.1587	Paradigmatic modifiability statistics for the extraction of complex multi-word terms
+R1	10.1.1.330.5863	CorMet: A computational, corpus-based conventional metaphor extraction system
+R1	10.1.1.115.5907	Death and lightness: Using a demographic model to find support verbs
+R1	10.1.1.68.2217	Determinants of event type in Persian complex predicates
+R1	10.1.1.307.1545	Automatically distinguishing literal and figurative usages of highly polysemous verbs
+R1	10.1.1.112.7788	Statistical measures of the semi-productivity of light verb constructions
+R1	10.1.1.130.2044	A clustering approach for nearly unsupervised recognition of nonliteral language
+R1	10.1.1.371.1174	Identifying morphosyntactic preferences in collocations
+R1	10.1.1.114.9231	Automatic identification of non-compositional multi-word expressions using latent semantic analysis
+R1	10.1.1.122.3454	Automatic extraction of idioms using graph analysis and asymmetric lexicosyntactic patterns
+R1	10.1.1.380.2418	Extraction tools for collocations and their morphosyntactic specificities

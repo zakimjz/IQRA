@@ -1,0 +1,31 @@
+10.1.1.333.7206	2006	Anatomy of a decision: Striato-orbitofrontal interactions in reinforcement learning, decision making, and reversal
+R1	10.1.1.117.1928	Finding structure in time
+R1	10.1.1.120.5790	On the control of automatic processes: A parallel distributed processing account of the Stroop effect
+R1	10.1.1.319.2711	Making working memory work: A computational model of learning in the prefrontal cortex and basal ganglia
+R1	10.1.1.55.8712	Biologically Plausible Error-driven Learning using Local Activation Differences: The Generalized Recirculation Algorithm
+R1	10.1.1.32.7775	Six Principles for Biologically-Based Computational Models of Cortical Cognition
+R1	10.1.1.129.8224	How the basal ganglia use parallel excitatory and inhibitory learning pathways to selectively respond to unexpected rewarding cues
+R1	10.1.1.129.1412	Predictive reward signal of dopamine neurons
+R1	10.1.1.32.8054	Interactions Between Frontal Cortex and Basal Ganglia in Working Memory: A Computational Model
+R1	10.1.1.418.7567	By carrot or by stick: Cognitive reinforcement learning in parkinsonism
+R1	10.1.1.321.5317	Dissociation of working memory from decision making within the human prefrontal cortex
+R1	10.1.1.322.4408	Orbitofrontal cortex and representation of incentive value in associative learning
+R1	10.1.1.335.121	Bilateral orbital prefrontal cortex lesions in rhesus monkeys disrupt choices guided by both reward value and reward contingency
+R1	10.1.1.322.4736	Model of cortical-basal ganglionic processing: encoding the serial order of sensory events
+R1	10.1.1.41.2959	Neural Mechanisms of Visual Working Memory in Prefrontal Cortex of the Macaque
+R1	10.1.1.335.6346	Bidirectional regulation of DARPP-32 phosphorylation by dopamine
+R1	10.1.1.112.7923	The neural basis of error detection: conflict monitoring and the error-related negativity
+R1	10.1.1.321.9683	Transitivity, flexibility, conjunctive representations and the hippocampus: II. A computational analysis
+R1	10.1.1.334.5138	The neural basis of human error processing: Reinforcement learning, dopamine, and the error-related negativity.” Psychological Review 109:679–709
+R1	10.1.1.319.9089	Dynamic Dopamine Modulation in the Basal Ganglia: A Neurocomputational Account of Cognitive Deficits      In Medicated and Nonmedicated Parkinsonism
+R1	10.1.1.320.2456	Synaptic and spiking dynamics underlying reward reversal in orbitofrontal cortex
+R1	10.1.1.116.7045	Defining the neural mechanisms of probabilistic reversal learning using event-related functional magnetic resonance imaging
+R1	10.1.1.335.9322	Control of response selection by reinforcer value requires interaction of amygdala and orbital prefrontal cortex
+R1	10.1.1.336.9248	Appetitive and aversive olfactory learning in humans studied using event-related functional magnetic resonance imaging
+R1	10.1.1.318.3418	Hold your horses: A dynamic computational role for the subthalamic nucleus in decision making
+R1	10.1.1.114.1001	The Somatic Marker Hypothesis: A Neural Theory of Economic Decision
+R1	10.1.1.335.8830	Spiking phineas gage: A neurocomputational theory of cognitive affective integration in decision making
+R1	10.1.1.319.8090	An fMRI study of reward-related probability learning
+R1	10.1.1.192.576	Ventromedial frontal cortex mediates affective shifting in humans: evidence from a reversal learning paradigm
+R1	10.1.1.318.1036	Cocaine makes actions insensitive to outcomes but not extinction: implications for altered orbitofrontalamygdalar function
+R1	10.1.1.321.2215	Dissociable contributions of the orbitofrontal and infralimbic cortex to Pavlovian autoshaping and discrimination reversal learning: further evidence for the functional heterogeneity of the rodent frontal cortex

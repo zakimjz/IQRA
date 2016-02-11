@@ -1,0 +1,21 @@
+10.1.1.89.3414	2006	Understanding the Causes of Packet Delivery Success and Failure in Dense Wireless Sensor Networks
+R1	10.1.1.112.2772	GPSR: Greedy perimeter stateless routing for wireless networks
+R1	10.1.1.1.2067	Beacon Vector Routing: Scalable Point-to-Point in Wireless Sensornets
+R1	10.1.1.16.1535	An Energy-Efficient MAC Protocol for Wireless Sensor Networks
+R1	10.1.1.1.5480	Taming the Underlying Challenges of Reliable Multihop Routing in Sensor Networks
+R1	10.1.1.15.3915	An Empirical Study of Epidemic Algorithms in Large Scale Multihop Wireless Networks
+R1	10.1.1.19.770	Complex Behavior at Scale: An Experimental Study of Low-Power Wireless Sensor Networks
+R1	10.1.1.113.8005	Understanding packet delivery performance in dense wireless sensor networks
+R1	10.1.1.323.9843	An analysis of a large scale habitat monitoring application
+R1	10.1.1.410.6966	A Macroscope in the Redwoods
+R1	10.1.1.377.4040	A dynamic operating system for sensor nodes
+R1	10.1.1.63.9233	The effects of ranging noise on multihop localization: an empirical study
+R1	10.1.1.3.5380	Link-level Measurements from an 802.11b Mesh Network
+R1	10.1.1.69.3012	Design of an application-cooperative management system for wireless sensor networks
+R1	10.1.1.162.943	Versatile Low Power Media Access for Wireless Sensor Networks
+R1	10.1.1.107.3034	Z-MAC: a Hybrid MAC for Wireless Sensor Networks
+R1	10.1.1.11.51	MANTIS: System Support For Multimodal Networks Of . . .
+R1	10.1.1.67.3968	Exploiting the Capture Effect for Collision Detection and Recovery
+R1	10.1.1.127.5361	Tenet: An Architecture for Tiered Embedded Networks
+R1	10.1.1.87.5522	Temporal properties of low power wireless links: Modeling and implications on multi-hop routing
+R1	10.1.1.6.1182	SCALE: A Tool for Simple Connectivity Assessment in Lossy Environments

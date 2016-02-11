@@ -1,0 +1,23 @@
+10.1.1.140.4148	2007	Overview of the ImageCLEF 2007 object retrieval task
+R1	10.1.1.14.3601	Normalized Cuts and Image Segmentation
+R1	10.1.1.114.4532	LIBSVM: a library for support vector machines
+R1	10.1.1.27.1819	Blobworld: Image segmentation using Expectation-Maximization and its application to image querying
+R1	10.1.1.14.4931	Distinctive Image Features from Scale-Invariant Keypoints
+R1	10.1.1.133.1040	Experiments with a New Boosting Algorithm
+R1	10.1.1.1.5285	Image Categorization by Learning and Reasoning with Regions
+R1	10.1.1.100.5507	A PERFORMANCE EVALUATION OF LOCAL DESCRIPTORS
+R1	10.1.1.65.4908	Learning object categories from google’s image search
+R1	10.1.1.81.6029	A novel log-based relevance feedback technique in content-based image retrieval
+R1	10.1.1.420.9886	A unified log-based relevance feedback scheme for image retrieval
+R1	10.1.1.100.3259	Local features and kernels for classification of texture and object categories: a comprehensive study
+R1	10.1.1.216.8569	Discriminative Training for Object Recognition using Image Patches
+R1	10.1.1.101.2604	The CLEF Cross Language Image Retrieval Track (ImageCLEF) 2004
+R1	10.1.1.101.6521	The 2005 pascal visual object classes challenge
+R1	10.1.1.130.1797	PicSOM—Self-organizing image retrieval with MPEG-7 content descriptions
+R1	10.1.1.11.2222	Efficient Graph-Based Image Segmentation
+R1	10.1.1.9.6367	Region-Based Image Retrieval Using Integrated Color, Shape and Location Index
+R1	10.1.1.32.7431	Differential Invariants for Color Images
+R1	10.1.1.59.5550	Edge and Corner Detection by Photometric Quasi-Invariants
+R1	10.1.1.212.7535	Boosting color saliency in image feature detection
+R1	10.1.1.332.1267	2007a. Overview of the ImageCLEFmed 2007 medical retrieval and annotation tasks. In: Working notes of the CLEF 2007 Workshop
+R1	10.1.1.295.8033	Image similarity search with compact data structures

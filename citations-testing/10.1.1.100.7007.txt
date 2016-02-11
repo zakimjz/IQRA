@@ -1,0 +1,25 @@
+10.1.1.100.7007	2006	A Peer-to-Peer Approach to Sharing Wireless Local Area Networks
+R1	10.1.1.1.3415	Robust Incentive Techniques for Peer-to-Peer Networks
+R1	10.1.1.160.7346	A measurement study of peer-to-peer file sharing systems
+R1	10.1.1.140.3129	A Scalable Content-Addressable Network
+R1	10.1.1.28.5987	Pastry: Scalable, distributed object location and routing for large-scale peer-to-peer systems
+R1	10.1.1.129.8850	The Anatomy of the Grid: Enabling Scalable Virtual Organizations
+R1	10.1.1.11.7643	Chord: A Scalable Peer-to-Peer Lookup Protocol for Internet Applications
+R1	10.1.1.10.1904	Tapestry: A Resilient Global-scale Overlay for Service Deployment
+R1	10.1.1.4.606	The EigenTrust Algorithm for Reputation Management in
+R1	10.1.1.16.4785	Kademlia: A Peer-to-peer Information System Based on the XOR Metric
+R1	10.1.1.150.3609	On implementing the push-relabel method for the maximum flow problem
+R1	10.1.1.147.9644	The Evolution of Cooperation
+R1	10.1.1.13.268	A Survey of Mobility Models for Ad Hoc Network Research
+R1	10.1.1.3.5649	P-Grid: A Self-organizing Structured P2P System
+R1	10.1.1.13.4399	Self-Organized Public-Key Management for Mobile Ad Hoc Networks
+R1	10.1.1.114.3963	Samsara: Honor among thieves in peer-to-peer storage
+R1	10.1.1.13.2911	Enforcing Fair Sharing of Peer-to-Peer Resources
+R1	10.1.1.132.3788	Guide to Elliptic Curve Cryptography
+R1	10.1.1.16.2068	Using the Fluhrer, Mantin, and Shamir Attack to Break WEP
+R1	10.1.1.3.9602	Exchange-based Incentive Mechanisms for Peer-to-Peer File Sharing
+R1	10.1.1.126.9799	PPay: Micropayments for peer-to-peer systems
+R1	10.1.1.59.5295	A Peer-to-Peer Approach to Wireless LAN Roaming
+R1	10.1.1.107.1190	Stimulating participation in wireless community networks
+R1	10.1.1.61.8786	Reputation-based Wi-Fi Deployment
+R1	10.1.1.324.884	SOWER: Self-Organizing Wireless Network for Messaging

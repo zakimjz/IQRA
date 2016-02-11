@@ -1,0 +1,23 @@
+10.1.1.74.1294	2000	Combinations of model checking and theorem proving
+R1	10.1.1.1.5124	Graph-Based Algorithms for Boolean Function Manipulation
+R1	10.1.1.17.3839	PVS: Combining Specification, Proof Checking, and Model Checking
+R1	10.1.1.111.7245	Compositional Model Checking
+R1	10.1.1.152.4499	Extended static checking
+R1	10.1.1.31.6057	Symbolic Model Checking of Infinite State Systems Using Presburger Arithmetic
+R1	10.1.1.133.1913	Symbolic Model Checking Using SAT Procedures instead of BDDs
+R1	10.1.1.36.3860	Experience with Predicate Abstraction
+R1	10.1.1.34.9630	A Platform for Combining Deductive with Algorithmic Verification
+R1	10.1.1.120.5202	Hybrid decision diagrams - overcoming the limitations of MTBDDs and BMDs
+R1	10.1.1.37.2503	An Integration of Model Checking with Automated Proof Checking
+R1	10.1.1.19.185	Reducing Manual Abstraction in Formal Verification of Out-of-Order Execution
+R1	10.1.1.142.2808	Deductive Model Checking
+R1	10.1.1.36.6943	Integrated Formal Verification: Using Model Checking With Automated Abstraction, Invariant Generation, and Theorem Proving
+R1	10.1.1.132.9599	HyTech: The Cornell HYbrid TECHnology Tool
+R1	10.1.1.141.104	Computing abstractions of infinite state systems compositionally and automatically
+R1	10.1.1.28.5715	Deductive Verification of Modular Systems
+R1	10.1.1.407.1079	Generating finite-state abstractions of reactive systems using decision procedures
+R1	10.1.1.29.8740	Generalized Temporal Verification Diagrams
+R1	10.1.1.29.7115	Modularization and Abstraction: The Keys to Practical Formal Verification
+R1	10.1.1.112.3922	Program analysis as model checking of abstract interpretations
+R1	10.1.1.16.5636	An Update on STeP: Deductive-Algorithmic Verification of Reactive Systems
+R1	10.1.1.30.3311	Temporal Verification by Diagram Transformations

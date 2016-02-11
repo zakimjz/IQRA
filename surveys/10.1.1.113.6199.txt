@@ -1,0 +1,70 @@
+10.1.1.113.6199	2000	Web mining research: A survey
+R1	10.1.1.32.8501	Information Extraction from HTML: Application of a General Machine Learning Approach
+R1	10.1.1.20.8120	Empirical Methods in Information Extraction
+R1	10.1.1.51.8159	Generating Finite-State Transducers For Semi-Structured Data Extraction From The Web
+R1	10.1.1.49.5728	Enhanced Hypertext Categorization Using Hyperlinks
+R1	10.1.1.120.3875	Authoritative Sources in a Hyperlinked Environment
+R1	10.1.1.14.46	Learning to Extract Symbolic Knowledge from the World Wide Web
+R1	10.1.1.41.8809	Learning Information Extraction Rules for Semi-structured and Free Text
+R1	10.1.1.46.5623	Scalable, Distributed Data Mining Using An Agent Based Architecture
+R1	10.1.1.161.6020	Inductive learning algorithms and representations for text categorization
+R1	10.1.1.148.3598	Domain-specific keyphrase extraction
+R1	10.1.1.109.4049	The Anatomy of a Large-Scale Hypertextual Web Search Engine
+R1	10.1.1.34.9263	WebOQL: Restructuring Documents, Databases and Webs
+R1	10.1.1.23.967	A Query Language and Optimization Techniques for Unstructured Data
+R1	10.1.1.48.1997	Extracting Semistructured Information from the Web
+R1	10.1.1.108.8490	Indexing by latent semantic analysis
+R1	10.1.1.27.3042	Web Mining: Information and Pattern Discovery on the World Wide Web
+R1	10.1.1.11.3835	Data Preparation for Mining World Wide Web Browsing Patterns
+R1	10.1.1.117.5869	Semistructured data
+R1	10.1.1.33.2985	A Query Language for a Web-Site Management System
+R1	10.1.1.15.9610	DataGuides: Enabling Query Formulation and Optimization in Semistructured Databases
+R1	10.1.1.33.2176	Wrapper Induction for Information Extraction
+R1	10.1.1.31.2544	Feature selection for unbalanced class distribution and Naive Bayes
+R1	10.1.1.29.8715	User Modeling in Adaptive Interfaces
+R1	10.1.1.44.8942	A Hybrid User Model for News Story Classification
+R1	10.1.1.1.4610	Topic Detection and Tracking Pilot Study Final Report
+R1	10.1.1.23.484	Data Mining of User Navigation Patterns
+R1	10.1.1.27.363	Knowledge Discovery and Data Mining: Towards a Unifying Framework
+R1	10.1.1.324.3059	Improved algorithms for topic distillation in a hyperlinked environment
+R1	10.1.1.1.7474	Using reinforcement learning to spider the Web efficiently
+R1	10.1.1.48.579	Intelligent Agents for Web-based Tasks: An Advice-Taking Approach
+R1	10.1.1.67.4784	Extraction Patterns for Information Extraction Tasks: A Survey
+R1	10.1.1.35.1637	About Knowledge Discovery in Texts: A Definition and an Example
+R1	10.1.1.2.4204	MultiMediaMiner: A System Prototype for MultiMedia Data Mining
+R1	10.1.1.57.3859	WEBSOM - Self-Organizing Maps of Document Collections
+R1	10.1.1.138.7826	On-line New Event Detection and Tracking
+R1	10.1.1.54.6608	A Neural Network Approach to Topic Spotting
+R1	10.1.1.11.3892	Querying the World Wide Web
+R1	10.1.1.52.5587	Little Words Can Make a Big Difference for Text Classification
+R1	10.1.1.32.7929	In Search of the Lost Schema
+R1	10.1.1.43.8263	Text-Learning and Related Intelligent Agents
+R1	10.1.1.50.2161	Learning approaches for Detecting and Tracking News Events
+R1	10.1.1.50.2010	Multimedia Database Systems
+R1	10.1.1.319.958	A mutually beneficial integration of data mining and information extraction
+R1	10.1.1.37.8942	The World Wide Web: quagmire or gold mine?
+R1	10.1.1.324.1404	Discovering Trends in Text Databases
+R1	10.1.1.105.8622	Text mining at the term level
+R1	10.1.1.17.8940	Text Mining - Knowledge extraction from unstructured textual data
+R1	10.1.1.330.7652	Mining association rules in hypertext databases
+R1	10.1.1.47.7462	Knowledge Discovery in Textual Databases (KDT)
+R1	10.1.1.17.3004	Learning for Text Categorization and Information Extraction with ILP
+R1	10.1.1.110.7043	Mining the Link Structure of the World Wide Web
+R1	10.1.1.132.6973	Text Mining: The state of the art and the challenges
+R1	10.1.1.34.4297	Data mining for hypertext: A tutorial survey
+R1	10.1.1.12.302	Extracting Schema from Semistructured Data
+R1	10.1.1.11.8370	Inferring Structure in Semistructured Data
+R1	10.1.1.108.4092	Fab: Content-based, collaborative recommendation
+R1	10.1.1.2.4745	Webml: Querying the world-wide web for resources and knowledge
+R1	10.1.1.9.5219	Medical Data Mining on the Internet: Research on a Cancer Information System
+R1	10.1.1.39.5584	Advances in Predictive Model Generation for Data Mining
+R1	10.1.1.21.8061	Navigation Pattern Discovery from Internet Data
+R1	10.1.1.51.2628	Information Extraction as a core language technology: What is IE?
+R1	10.1.1.195.6408	Software Agents: A Review
+R1	10.1.1.21.2282	Applying Data Mining Techniques for Descriptive Phrase Extraction in Digital Document Collections
+R1	10.1.1.414.467	Large-scale mining of usage data on web sites
+R1	10.1.1.36.4593	Automatic Labeling of Self-Organizing Maps: Making a Treasure--Map Reveal its Secrets
+R1	10.1.1.324.3889	An Overview of Issues in Developing Industrial Data Mining and Knowledge Discovery Applications
+R1	10.1.1.11.6944	Text Mining: A new frontier for lossless compression
+R1	10.1.1.21.1500	Report on the CONALD Workshop on Learning from Text and the Web
+R1	10.1.1.119.9638	A robust system architecture for mining semi-structured data

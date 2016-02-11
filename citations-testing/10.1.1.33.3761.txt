@@ -1,0 +1,24 @@
+10.1.1.33.3761	1998	Type-Theoretic Methodology For Practical Programming Languages
+R1	10.1.1.24.6526	From System F to Typed Assembly Language
+R1	10.1.1.141.7028	Relational interpretations of recursive types in an operational setting
+R1	10.1.1.21.5854	A Framework for Defining Logics
+R1	10.1.1.19.7620	A Type-Theoretic Interpretation of Standard ML
+R1	10.1.1.158.5275	Notions of Computation and Monads
+R1	10.1.1.11.1273	Explicit Polymorphism and CPS Conversion
+R1	10.1.1.14.3595	A Type-Theoretic Approach to Higher-Order Modules with Sharing
+R1	10.1.1.17.9345	Simple Type-Theoretic Foundations for Object-Oriented Programming
+R1	10.1.1.368.3752	The Definition of Standard ML
+R1	10.1.1.47.7683	Catenable Double-Ended Queues
+R1	10.1.1.142.4281	Compiling with Types
+R1	10.1.1.14.7518	On The Type Structure of Standard ML
+R1	10.1.1.2.9190	A Paradigmatic Object-Oriented Programming Language: Design, Static Typing and Semantics
+R1	10.1.1.22.3072	Using Dependent Types to Express Modular Structure
+R1	10.1.1.134.8272	Controlling Effects
+R1	10.1.1.39.4169	Formal Objects in Type Theory Using Very Dependent Types
+R1	10.1.1.37.3153	An Analysis of Girard's Paradox
+R1	10.1.1.21.9148	Equality In Lazy Computation Systems
+R1	10.1.1.46.1442	Foundations for the Implementation of Higher-Order Subtyping
+R1	10.1.1.29.9532	Semantic Foundations for Embedding HOL in Nuprl
+R1	10.1.1.38.8166	Type Checking with Universes
+R1	10.1.1.217.7892	A theory of primitive objects: Untyped and first-order systems
+R1	10.1.1.423.1623	Constructing type systems over an operational semantics

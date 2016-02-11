@@ -1,0 +1,29 @@
+10.1.1.122.1455	2002	What HMMs can do
+R1	10.1.1.133.4884	Maximum likelihood from incomplete data via the EM algorithm
+R1	10.1.1.332.356	The Nature of Statistical Learning Theory
+R1	10.1.1.20.9910	Understanding Speech Understanding: Towards A Unified Theory Of Speech Perception
+R1	10.1.1.38.3250	The Modulation Spectrogram: In Pursuit Of An Invariant Representation Of Speech
+R1	10.1.1.16.2929	The Infinite Hidden Markov Model
+R1	10.1.1.135.4372	From HMM's to Segment Models: A Unified View  of Stochastic Modeling for Speech Recognition
+R1	10.1.1.119.4856	A gentle tutorial on the EM algorithm and its application to parameter estimation for gaussian mixture and hidden markov models
+R1	10.1.1.49.4617	Mixed memory Markov models: decomposing complex stochastic processes as mixtures of simpler ones
+R1	10.1.1.56.8347	Speech Recognition with Dynamic Bayesian Networks
+R1	10.1.1.150.82	Probabilistic independence networks for hidden Markov probability models
+R1	10.1.1.49.1627	Multi Stream Speech Recognition
+R1	10.1.1.33.1794	Correctness of Local Probability Propagation in Graphical Models with Loops
+R1	10.1.1.122.2808	Bayes-ball: The rational pastime (for determining irrelevance and requisite information in belief networks and influence diagrams
+R1	10.1.1.62.7072	The theory of segmental hidden Markov models
+R1	10.1.1.129.4770	Learning the structure of dynamic probabilistic networks
+R1	10.1.1.27.8078	Dynamic Bayesian Multinets
+R1	10.1.1.27.6595	Hidden-Articulator Markov Models: Performance Improvements And Robustness To Noise
+R1	10.1.1.14.1603	Factorial HMMs for Acoustic Modeling
+R1	10.1.1.17.2491	Data-Driven Extensions To Hmm Statistical Dependencies
+R1	10.1.1.52.8576	REMAP: Recursive Estimation and Maximization of A Posteriori Probabilities in Connectionist Speech Recognition
+R1	10.1.1.12.4387	Joint Distributional Modeling with Cross-Correlation Based Features
+R1	10.1.1.18.8014	Mean Field Theory for Sigmoid Belief Networks
+R1	10.1.1.320.8742	A Minimum Discrimination Information Approach for
+R1	10.1.1.147.6552	Maximum mutual information based reduction strategies for cross-correlation based joint distributional modeling
+R1	10.1.1.26.8045	ACID/HNN: A Framework for Hierarchical Connectionist Acoustic Modeling
+R1	10.1.1.57.5435	Markov Processes on Curves for Automatic Speech Recognition
+R1	10.1.1.32.9156	Probabilistic Modeling with Bayesian Networks for Automatic Speech Recognition
+R1	10.1.1.27.5059	Dependency Modeling with Bayesian Networks in a Voicemail Transcription System

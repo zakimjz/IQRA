@@ -1,0 +1,32 @@
+10.1.1.118.1269	1999	A monte carlo algorithm for multi-robot localization
+R1	10.1.1.18.8488	Robust Monte Carlo Localization for Mobile Robots
+R1	10.1.1.36.8357	CONDENSATION - conditional density propagation for visual tracking
+R1	10.1.1.18.1128	A Probabilistic Approach to Concurrent Mapping and Localization for Mobile Robots
+R1	10.1.1.132.7911	Integrating global position estimation and position tracking for mobile robots: the dynamic markov localization approach
+R1	10.1.1.125.3822	Keeping track of position and orientation of moving indoor systems by correlation of range-finder scans
+R1	10.1.1.37.1434	Contour Tracking By Stochastic Propagation of Conditional Density
+R1	10.1.1.361.4361	On sequential simulation-based methods for bayesian filtering
+R1	10.1.1.30.8888	Globally Consistent Range Scan Alignment for Environment Mapping
+R1	10.1.1.40.2548	Bayesian Landmark Learning for Mobile Robot Localization
+R1	10.1.1.187.7438	Integrating topological and metric maps for mobile robot navigation: A statistical approach
+R1	10.1.1.114.5165	A Comparison of Position Estimation Techniques Using Occupancy Grids
+R1	10.1.1.1.7040	Finding Landmarks for Mobile Robot Navigation
+R1	10.1.1.100.6411	Active mobile robot localization
+R1	10.1.1.13.8764	Mobile Robot Localization Using Landmarks
+R1	10.1.1.16.3358	Cooperative Mobile Robotics: Antecedents and Directions
+R1	10.1.1.127.9683	The interactive museum tour-guide robot
+R1	10.1.1.6.4083	Directed Sonar Sensing for Mobile Robot Navigation
+R1	10.1.1.1.8418	Active Markov Localization for Mobile Robots
+R1	10.1.1.2.1477	Position Estimation for Mobile Robots in Dynamic Environments
+R1	10.1.1.54.8615	Position Refinement for a Navigating Robot Using Motion Information Based on Honey Bee Strategies
+R1	10.1.1.15.246	Approximate Reasoning Using Anytime Algorithms
+R1	10.1.1.48.7248	Stochastic simulation algorithms for dynamic probabilistic networks
+R1	10.1.1.108.999	Multi-robot exploration of an unknown environment, efficiently reducing the odometry error
+R1	10.1.1.127.6820	MINERVA: A second-generation museum tour-guide robot
+R1	10.1.1.32.3507	Efficient Locally Weighted Polynomial Regression Predictions
+R1	10.1.1.38.177	Bumptrees for Efficient Function, Constraint, and Classification Learning
+R1	10.1.1.41.4799	The Impact of Diversity on Performance in Multi-robot Foraging
+R1	10.1.1.22.5069	Control And Kinematic Design Of Multi-Degree-Of-Freedom Mobile Robots With Compliant Linkage
+R1	10.1.1.6.168	An Improved Particle Filter for Non-linear Problems
+R1	10.1.1.50.5706	The CS Freiburg Robotic Soccer Team: Reliable Self-Localization, Multirobot Sensor Integration, and Basic Soccer Skills
+R1	10.1.1.206.97	AMOS: Comparison of scan matching approaches for selflocalization in indoor environments

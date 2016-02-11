@@ -1,0 +1,24 @@
+10.1.1.2.4767	2004	Ranking the Web Frontier
+R1	10.1.1.31.1768	The PageRank Citation Ranking: Bringing Order to the Web
+R1	10.1.1.17.9866	Effective Site Finding using Link Anchor Information
+R1	10.1.1.14.1547	Searching the Workplace Web
+R1	10.1.1.22.3686	Efficient Crawling Through URL Ordering
+R1	10.1.1.130.3254	The stochastic approach for link-structure analysis (SALSA) and the TKC effect
+R1	10.1.1.43.3278	What is this Page Known for? Computing Web Page Reputations
+R1	10.1.1.18.5264	PageRank Computation and the Structure of the Web: Experiments and Algorithms
+R1	10.1.1.18.5084	Efficient Computation of PageRank
+R1	10.1.1.11.5848	Extrapolation Methods for Accelerating PageRank Computations
+R1	10.1.1.12.1400	Topic-Sensitive PageRank
+R1	10.1.1.14.1582	Untangling Compound Documents on the Web
+R1	10.1.1.105.686	PageRank, HITS and a Unified Framework for Link Analysis
+R1	10.1.1.13.42	Exploiting the Block Structure of the Web for Computing PageRank
+R1	10.1.1.16.811	Towards Exploiting Link Evolution
+R1	10.1.1.13.9589	Adaptive Methods for the Computation of PageRank
+R1	10.1.1.102.9301	Breadth-first search crawling yields high-quality pages
+R1	10.1.1.107.7614	What can you do with a web in your pocket
+R1	10.1.1.14.7489	Analysis of Anchor Text for Web Search
+R1	10.1.1.13.8611	On Deep Annotation
+R1	10.1.1.387.2573	A new paradigm for ranking pages on the world wide web
+R1	10.1.1.12.9599	The Decay and Failures of Web References
+R1	10.1.1.38.6514	Recognizing Nepotistic Links on the Web
+R1	10.1.1.14.9201	Locality, Hierarchy, and Bidirectionality in the Web

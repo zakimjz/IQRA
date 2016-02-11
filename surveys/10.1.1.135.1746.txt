@@ -1,0 +1,36 @@
+10.1.1.135.1746	2005	Clock synchronization for wireless sensor networks: A Survey
+R1	10.1.1.110.6935	Next century challenges: Scalable coordination in sensor networks
+R1	10.1.1.142.3682	Time, Clocks, and the Ordering of Events in a Distributed System
+R1	10.1.1.123.2014	Next Century Challenges: Mobile Networking for “Smart Dust”
+R1	10.1.1.134.4617	PAMAS -- Power Aware Multi-Access protocol with Signalling for Ad Hoc Networks
+R1	10.1.1.19.8648	Processing Complex Aggregate Queries over Data Streams
+R1	10.1.1.109.7382	Fine-grained network time synchronization using reference broadcasts
+R1	10.1.1.18.8881	Distributed Algorithms for Guiding Navigation across a Sensor Net
+R1	10.1.1.221.2247	Wireless sensor networks: a survey
+R1	10.1.1.17.339	The Active Badge Location System
+R1	10.1.1.16.1535	An Energy-Efficient MAC Protocol for Wireless Sensor Networks
+R1	10.1.1.12.4303	Computing Aggregates for Monitoring Wireless Sensor Networks
+R1	10.1.1.15.3507	Supporting Aggregate Queries over Ad-Hoc Wireless Sensor Networks
+R1	10.1.1.12.1378	Query Processing for Sensor Networks
+R1	10.1.1.14.6961	The Timed Asynchronous Distributed System Model
+R1	10.1.1.1.3484	A Taxonomy of Wireless Micro-Sensor Network Models
+R1	10.1.1.178.3686	Internet time synchronization: The Network Time Protocol
+R1	10.1.1.11.5064	Energy Aware Routing for Low Energy Ad Hoc Sensor Networks
+R1	10.1.1.143.9835	Network Time Protocol (Version 3) Specification, Implementation
+R1	10.1.1.45.4302	Estimation and Removal of Clock Skew from Network Delay Measurements
+R1	10.1.1.10.3096	TSync: A Lightweight Bidirectional Time Synchronization Service for Wireless Sensor Networks
+R1	10.1.1.18.8078	Wireless Sensor Networks: A New Regime for Time Synchronization
+R1	10.1.1.12.2423	Simple, Accurate Time Synchronization for Wireless Sensor Networks
+R1	10.1.1.27.1632	Continuous Clock Synchronization in Wireless Real-Time Applications
+R1	10.1.1.108.7847	Adaptive middleware for distributed sensor environments
+R1	10.1.1.318.9848	Timing-Sync Protocol for Sensor Networks
+R1	10.1.1.111.4153	Global clock synchronization in sensor networks
+R1	10.1.1.117.4146	Networking support for query processing in sensor networks
+R1	10.1.1.119.6732	The platforms enabling wireless sensor networks
+R1	10.1.1.18.2787	Locating tiny sensors in time and space: A case study
+R1	10.1.1.105.8008	A comparison of MAC protocols for wireless local networks based on battery power consumption
+R1	10.1.1.4.6822	Lightweight Time Synchronization for Sensor Networks
+R1	10.1.1.133.3308	Synchronization of multiple levels of data fusion in wireless sensor networks
+R1	10.1.1.54.2716	Revisiting Clock Synchronization Problems: Static and Dynamic Constraint Transformations for Correct Timing Enforcement
+R1	10.1.1.86.3760	A resource-efficient time estimation for wireless sensor networks
+R1	10.1.1.125.4252	Probabilistic Clock Synchronization Service in Sensor Networks

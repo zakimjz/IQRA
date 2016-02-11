@@ -1,0 +1,27 @@
+10.1.1.105.7160	2007	A brief survey of self-organization in wireless sensor networks
+R1	10.1.1.6.8430	Wavelet Analysis of Long Range Dependent Traffic
+R1	10.1.1.108.4327	ASCENT: Adaptive self-configuring sensor networks topologies
+R1	10.1.1.11.3734	Rumor Routing Algorithm for Sensor Networks
+R1	10.1.1.131.9058	The synchronization of periodic routing messages
+R1	10.1.1.11.3462	Constrained Random Walks on Random Graphs: Routing Algorithms for Large Scale Wireless Sensor Networks
+R1	10.1.1.19.7008	From Boolean to Probabilistic Boolean Networks as Models of Genetic Regulatory Networks
+R1	10.1.1.128.3684	Experiences Applying Game Theory to System Design
+R1	10.1.1.67.2603	Balancing Risk and Reward in a Market-based Task Service
+R1	10.1.1.100.3193	Metastability of CDMA cellular systems
+R1	10.1.1.13.5010	neuRFon Netform: A Self-Organizing Wireless Sensor Network
+R1	10.1.1.130.5048	ACE: An Emergent Algorithm for Highly Uniform Cluster Formation
+R1	10.1.1.9.6072	Entropy-based Sensor Selection Heuristic for Target Localization
+R1	10.1.1.11.540	Statistical En-route Filtering of Injected False Data in Sensor Networks
+R1	10.1.1.420.231	Attack-Resistant Cooperation Stimulation in Autonomous Ad Hoc Networks
+R1	10.1.1.134.5770	Fault-Tolerant Clustering of Wireless Sensor Networks
+R1	10.1.1.13.9820	SOTIS - A Self-Organizing Traffic Information System
+R1	10.1.1.28.3565	The Catallaxy as a new Paradigm for the Design of Information Systems
+R1	10.1.1.57.9664	On the Complexity of Distributed Self-Configuration in Wireless Networks
+R1	10.1.1.131.885	A catalog of biologically-inspired primitives for engineering self-organization. Engineering Self-Organising Systems: Nature-Inspired Approaches to Software Engineering (2003); 2977: 53–62
+R1	10.1.1.124.7706	An intelligent deployment and clustering algorithm for a distributed mobile sensor network
+R1	10.1.1.109.6605	Analysis of gradient-based routing protocols in sensor networks
+R1	10.1.1.144.6778	Practical lazy scheduling in sensor networks
+R1	10.1.1.12.4242	Service Emergence based on Relationship among Self-Organizing Entities
+R1	10.1.1.19.1282	Building an Artificial Immune Network for Decentralized Policy Negotiation in a Communication Endsystem: OpenWebServer/iNexus Study
+R1	10.1.1.136.9487	Firefly-inspired sensor network synchronicity with realistic radio effects
+R1	10.1.1.139.5353	Thermal-aware routing algorithm for implanted sensor networks

@@ -1,0 +1,63 @@
+10.1.1.106.1108	2005	Distributed Event Routing in Publish/Subscribe Communication Systems: a Survey
+R1	10.1.1.105.3673	Chord: A Scalable Peer-to-Peer Lookup Service for Internet Applications
+R1	10.1.1.142.752	Pastry: Scalable, decentralized object location, and routing for large-scale peer-to-peer systems
+R1	10.1.1.20.299	SCRIBE: A large-scale and decentralized application-level multicast infrastructure
+R1	10.1.1.11.9240	Internet Indirection Infrastructure
+R1	10.1.1.22.2142	Bayeux: An architecture for scalable and fault-tolerant wide-area data dissemination
+R1	10.1.1.1.2073	A Routing Scheme for Content-Based Networking
+R1	10.1.1.69.7664	An efficient multicast protocol for content-based publish-subscribe systems
+R1	10.1.1.108.3438	Achieving scalability and expressiveness in an Internet-scale event notification service
+R1	10.1.1.10.1904	Tapestry: A Resilient Global-scale Overlay for Service Deployment
+R1	10.1.1.13.2446	Astrolabe: A Robust and Scalable Technology for Distributed System Monitoring, Management, and Data Mining
+R1	10.1.1.123.2362	Exploiting IP Multicast in Content-Based Publish-Subscribe Systems
+R1	10.1.1.11.8056	Analysis of the Evolution of Peer-to-Peer Systems
+R1	10.1.1.18.8337	Hermes: A Distributed Event-Based Middleware Architecture
+R1	10.1.1.35.9899	Content Based Routing with Elvin4
+R1	10.1.1.11.3372	STEAM: Event-Based Middleware for Wireless Ad Hoc Networks
+R1	10.1.1.10.1076	The many faces of Publish/Subscribe
+R1	10.1.1.17.7959	Bimodal Multicast
+R1	10.1.1.194.5385	Index Structures for Selective Dissemination of Information
+R1	10.1.1.127.832	Flexible Update Propagation for Weakly Consistent Replication
+R1	10.1.1.189.3836	Matching events in a content-based subscription system
+R1	10.1.1.114.90	Efficient filtering in publish-subscribe systems using binary decision diagrams
+R1	10.1.1.47.8611	Efficient Recognition of Events in a Distributed System
+R1	10.1.1.164.8429	Building low-diameter p2p networks
+R1	10.1.1.30.8154	Exploiting an Event-Based Infrastructure to Develop Complex Distributed Systems
+R1	10.1.1.126.4233	On objects and events
+R1	10.1.1.12.2527	Efficient Content-Based Event Dispatching in the Presence of Topological Reconfiguration
+R1	10.1.1.38.9497	The Architecture of the READY Event Notification Service
+R1	10.1.1.10.3378	A Peer-to-Peer Approach to Content-Based Publish/Subscribe
+R1	10.1.1.146.5529	Publish/Subscribe Tree Construction in Wireless Ad-Hoc networks
+R1	10.1.1.6.1383	Generic Constraints for Content-Based Publish/Subscribe
+R1	10.1.1.10.5439	Evaluating Advanced Routing Algorithms for Content-Based Publish/Subscribe Systems
+R1	10.1.1.4.7872	SelectCast - A Scalable and Self-Repairing Multicast Overlay Routing Facility
+R1	10.1.1.11.1973	Application-Level Multicast Using Content-Addressable Networks
+R1	10.1.1.67.3753	Survey of publish subscribe event systems
+R1	10.1.1.102.7473	REDS: A reconfigurable dispatching system
+R1	10.1.1.60.552	Exactly-once Delivery in a Content-based Publish-Subscribe System
+R1	10.1.1.173.5677	Content-based Publish/Subscribe over Structured P2P Networks
+R1	10.1.1.4.8188	Peer-to-Peer Overlay Broker Networks In An Event-Based Midlleware
+R1	10.1.1.97.4016	Publish/subscribe scheme for mobile networks
+R1	10.1.1.149.5534	Publish/Subscribe in a Mobile Environment
+R1	10.1.1.18.5989	Clustering Algorithms for Content-Based Publication-Subscription Systems
+R1	10.1.1.127.7809	Medym: Match-early with dynamic multicast for content-based publish-subscribe networks
+R1	10.1.1.167.3996	Meghdoot: Content-based publish/subscribe over p2p networks
+R1	10.1.1.381.2462	From Epidemics to Distributed Computing
+R1	10.1.1.105.3876	Structure-less content-based routing in mobile ad hoc network s
+R1	10.1.1.146.3970	Content-based publish-subscribe over structured overlay networks
+R1	10.1.1.12.7519	Introducing Reliability in Content-Based Publish-Subscribe through Epidemic Algorithms
+R1	10.1.1.19.7365	Probabilistic Multicast
+R1	10.1.1.164.8604	Effects of routing computations in content-based routing networks with mobile data sources
+R1	10.1.1.184.4508	On the modelling of publish/subscribe communication systems. Concurrency and Computation: Practice and Experience
+R1	10.1.1.187.8059	Efficient event routing in content-based publish/subscribe service network
+R1	10.1.1.130.8031	A Survey on Versatility for Publish/Subscribe Infrastructures
+R1	10.1.1.130.78	Event Systems: How to Have Your Cake and Eat It Too
+R1	10.1.1.59.4293	XNET: A Reliable Content-Based Publish/Subscribe System
+R1	10.1.1.138.6704	Semantic Peer-to-Peer Overlays for Publish/Subscribe Networks
+R1	10.1.1.163.8268	On Introducing Location Awareness in Publish-Subscribe Middleware
+R1	10.1.1.304.7970	A content-based networking protocol for sensor networks
+R1	10.1.1.136.7083	Publish-subscribe on sensor networks: a semi-probabilistic approach
+R1	10.1.1.20.3045	Event Matching in Symmetric Subscription Systems
+R1	10.1.1.137.456	Analysis and algorithms for content-based event matching
+R1	10.1.1.187.4476	Publish-subscribe tree-maintenance over a DHT
+R1	10.1.1.331.6297	Subscription Propagation in Highly-Available  Publish/Subscribe Middleware

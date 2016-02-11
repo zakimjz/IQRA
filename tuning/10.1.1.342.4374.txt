@@ -1,0 +1,24 @@
+10.1.1.342.4374	2002	On the Feasibility of Large-Scale Wireless Sensor Networks
+R1	10.1.1.138.3623	The capacity of wireless networks
+R1	10.1.1.163.4922	On the interdependence of routing and data compression in multi-hop sensor networks
+R1	10.1.1.27.7164	Distributed Source Coding Using Syndromes (DISCUS): Design and Construction
+R1	10.1.1.1.2657	Capacity Regions for Wireless Ad Hoc Networks
+R1	10.1.1.19.2199	Spectral Efficiency in the Wideband Regime
+R1	10.1.1.239.5433	On the existence of similar sublattices
+R1	10.1.1.11.2501	On the Maximum Stable Throughput Problem in Random Networks with Directional Antennas
+R1	10.1.1.111.4133	Mobility increases the capacity of ad-hoc wireless networks
+R1	10.1.1.77.690	On Denoising and Best Signal Representation
+R1	10.1.1.137.494	The rate-distortion function for source coding with side information at the decoder
+R1	10.1.1.27.1654	Distributed source coding: Symmetric rates and applications to sensor networks.
+R1	10.1.1.93.691	Network Information Flow with Correlated Sources
+R1	10.1.1.113.610	Towards an Information Theory of Large Networks: An Achievable Rate Region
+R1	10.1.1.86.3018	The CEO Problem
+R1	10.1.1.419.502	The duality between information embedding and source coding with side information and some applications
+R1	10.1.1.35.6219	Multiple Description Vector Quantization with Lattice Codebooks: Design and Analysis
+R1	10.1.1.413.4056	A Deterministic Approach to Throughput Scaling in Wireless Networks
+R1	10.1.1.46.7975	Similarity Submodules and Semigroups
+R1	10.1.1.132.8214	Duality between channel capacity and rate distortion with two-sided state information
+R1	10.1.1.121.2873	Geometric programming duals of channel capacity and rate distortion
+R1	10.1.1.342.4374	On the Feasibility of Large-Scale Wireless Sensor Networks
+R1	10.1.1.11.3234	Design of Optimal Quantizers for Distributed Source Coding
+R1	10.1.1.37.4004	Lattice Quantization with Side Information

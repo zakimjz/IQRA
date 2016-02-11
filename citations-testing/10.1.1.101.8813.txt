@@ -1,0 +1,23 @@
+10.1.1.101.8813	2001	Explaining Scenarios for Information Personalization
+R1	10.1.1.11.3835	Data Preparation for Mining World Wide Web Browsing Patterns
+R1	10.1.1.136.7654	Automatic Personalization Based on Web Usage Mining
+R1	10.1.1.101.43	Silk from a sow’s ear: Extracting usable structures from the web
+R1	10.1.1.32.7743	Next Generation Web Search: Setting Our Sites
+R1	10.1.1.134.2016	An Introduction to Partial Evaluation
+R1	10.1.1.74.4855	Explanation-Based Learning: An Alternative View
+R1	10.1.1.123.6403	Inferring declarative requirements specifications from operational scenarios
+R1	10.1.1.23.5041	Horting Hatches an Egg: A New Graph-Theoretic Approach to Collaborative Filtering
+R1	10.1.1.109.6332	Grouplens: Applying collaborative filtering to usenet news
+R1	10.1.1.103.8264	PHOAKS: a system for sharing recommendations
+R1	10.1.1.17.1759	Designing Personalized Web Applications
+R1	10.1.1.151.3534	Helping people find what they don’t know
+R1	10.1.1.21.2755	Learning Information Extraction Patterns From Examples
+R1	10.1.1.100.1132	Mixed-Initiative Interaction = Mixed Computation
+R1	10.1.1.116.4594	The Partial Evaluation Approach to Information Personalization
+R1	10.1.1.112.7249	PIPE: Web Personalization by Partial Evaluation
+R1	10.1.1.108.4092	Fab: Content-based, collaborative recommendation
+R1	10.1.1.32.4515	A Broader Approach to Personalization
+R1	10.1.1.54.5564	Competition-Based Learning
+R1	10.1.1.57.850	Rerepresenting and Restructuring Domain Theories: A Constructive Induction Approach
+R1	10.1.1.25.6129	Explanation-based Scenario Generation for Reactive System Models
+R1	10.1.1.48.4933	Task Analysis and the Design of Functionality

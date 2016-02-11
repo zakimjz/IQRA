@@ -1,0 +1,30 @@
+10.1.1.416.8090	2008	Opportunism, backpressure, and stochastic optimization with the wireless broadcast advantage
+R1	10.1.1.12.5035	Dynamic Power Allocation and Routing for Time Varying Wireless Networks
+R1	10.1.1.322.860	Stability properties of constrained queueing systems and scheduling policies for maximum throughput in multihop radio networks
+R1	10.1.1.16.6561	Achieving 100% Throughput in an Input-Queued Switch
+R1	10.1.1.46.4050	Stability Of Queueing Networks And Scheduling Policies
+R1	10.1.1.12.8928	Communication over fading channels with delay constraints
+R1	10.1.1.56.5949	Dynamic Global Packet Routing in Wireless Networks
+R1	10.1.1.76.4506	Resource allocation and cross-layer control in wireless networks
+R1	10.1.1.422.263	Fairness and optimal stochastic control for heterogeneous networks
+R1	10.1.1.422.1222	Energy optimal control for time varying wireless networks
+R1	10.1.1.94.9895	Fair resource allocation in wireless networks using queue-length-based scheduling and congestion control
+R1	10.1.1.117.9105	Maximizing Queueing Network Utility subject to Stability: Greedy Primal-Dual Algorithm
+R1	10.1.1.122.8035	Opportunistic power scheduling for dynamic multiserver wireless systems
+R1	10.1.1.138.5117	Optimal Backpressure Routing for Wireless Networks with Multi-Receiver Diversity
+R1	10.1.1.135.5419	ExOR: Opportunistic Multi-Hop Routing for Wireless Networks
+R1	10.1.1.323.9324	Optimal pricing in a free market wireless network
+R1	10.1.1.110.3402	The impact of imperfect scheduling on cross-layer congestion  control in   wireless networks
+R1	10.1.1.331.1301	Super-fast delay tradeoffs for utility optimal fair scheduling in wireless networks
+R1	10.1.1.167.5726	Throughput and fairness guarantees through maximal scheduling in wireless networks
+R1	10.1.1.84.4746	Scheduling efficiency of distributed greedy scheduling algorithms in wireless networks
+R1	10.1.1.89.7476	Stability of the Max-Weight Routing and Scheduling Protocol in Dynamic Networks and at Critical Loads
+R1	10.1.1.122.5928	Low-complexity and distributed energy minimization in multi-hop wireless networks
+R1	10.1.1.114.95	Fast matching algorithms for repetitive optimization: An application to switch scheduling
+R1	10.1.1.329.9943	Optimal energy and delay tradeoffs for multi-user wireless downlinks
+R1	10.1.1.416.7730	Opportunistic scheduling with reliability guarantees in cognitive radio networks
+R1	10.1.1.422.3384	The optimality of two prices: Maximizing revenue in a stochastic network
+R1	10.1.1.422.3420	Intelligent packet dropping for optimal energy-delay tradeoffs in wireless downlinks
+R1	10.1.1.421.9674	Delay analysis for max weight opportunistic scheduling in wireless systems. arXiv:0806.2345v1
+R1	10.1.1.422.2438	Delay analysis for maximal scheduling in wireless networks with bursty traffic
+R1	10.1.1.422.2447	Distributed and secure computation of convex programs over a network of connected processors

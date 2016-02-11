@@ -1,0 +1,44 @@
+10.1.1.28.9369	2001	On-Line Sampling-Based Control For Network Queueing Problems
+R1	10.1.1.131.2084	A tutorial on hidden markov models and selected applications in speech recognition
+R1	10.1.1.106.7158	Approximate Planning in Large POMDPs via Reusable Trajectories
+R1	10.1.1.17.4565	Algorithms for Sequential Decision Making
+R1	10.1.1.43.4890	PEGASUS: A policy search method for large MDPs and POMDPs
+R1	10.1.1.128.5092	Random Early Detection Gateways for Congestion Avoidance
+R1	10.1.1.26.4175	A Framework for Simulation-based Network Control via Hindsight Optimization
+R1	10.1.1.54.1396	Closed-Loop Control with Delayed Information
+R1	10.1.1.159.80	Rollout algorithms for stochastic scheduling problems
+R1	10.1.1.112.8702	A generalized processor sharing approach to flow control in integrated services networks: The single-node case
+R1	10.1.1.138.4457	The linear programming approach to approximate dynamic programming
+R1	10.1.1.35.7251	Experimental Queueing Analysis with Long-Range Dependent Packet Traffic
+R1	10.1.1.28.3423	Average Reward Reinforcement Learning: Foundations, Algorithms, and Empirical Results
+R1	10.1.1.21.9520	REM: Active Queue Management
+R1	10.1.1.41.5337	Analytic Evaluation of RED Performance
+R1	10.1.1.332.9375	Dynamics of Random Early Detection
+R1	10.1.1.37.237	SRED: Stabilized RED
+R1	10.1.1.30.7647	Dynamics of TCP Traffic over ATM Networks
+R1	10.1.1.17.5519	Improving Elevator Performance Using Reinforcement Learning
+R1	10.1.1.183.4521	Pricing in computer networks: Motivation, formulation, and example
+R1	10.1.1.119.6111	Tractable inference for complex stochastic processes
+R1	10.1.1.3.6500	Policy Iteration for Factored MDPs
+R1	10.1.1.19.2808	A RED discard strategy for ATM networks and its performance evaluation with TCP/IP traffic
+R1	10.1.1.29.2518	On-line Scheduling via Sampling
+R1	10.1.1.52.2188	GIB: Steps Toward an Expert-Level Bridge-Playing Program
+R1	10.1.1.1.1796	Congestion Control via Online Sampling
+R1	10.1.1.153.5153	Optimal decentralized flow control of Markovian queueing networks with multiple controllers, part I: the team decision problem, in
+R1	10.1.1.31.3526	On the Undecidability of Probabilistic Planning and Infinite-Horizon Partially Observable Markov Decision Problems
+R1	10.1.1.381.4074	On the performance of early packet discard
+R1	10.1.1.40.8203	Maintaining High Throughput during Overload in ATM Switches
+R1	10.1.1.52.6	Model Predictive Control: Past, Present and Future
+R1	10.1.1.43.1071	Constrained Markov Decision Processes
+R1	10.1.1.39.9219	An Overview Of Tes Processes And Modeling Methodology
+R1	10.1.1.198.7218	Using Randomization to Break the Curse of Dimensionality
+R1	10.1.1.46.7424	Approximate Planning for Factored POMDPs using Belief State Simplification
+R1	10.1.1.3.9335	Efficiency Improvement And Variance Reduction
+R1	10.1.1.3.8454	Complexity of Finite-Horizon Markov Decision Process Problems
+R1	10.1.1.53.7256	Uniform versus Priority Dropping for Layered Video
+R1	10.1.1.34.4551	The Policy Iteration Algorithm for Average Reward Markov Decision Processes with General State Space
+R1	10.1.1.113.1680	A source traffic model and its transient analysis for network control
+R1	10.1.1.38.6713	Lex-Optimal Multiclass Scheduling with Deadlines
+R1	10.1.1.44.2126	On Causal Scheduling Of Multiclass Traffic With Deadlines
+R1	10.1.1.53.4716	On Submodular Value Functions and Complex Dynamic Programming
+R1	10.1.1.56.1326	A Sliding Horizon Feedback Control Problem with Feedforward and Disturbance

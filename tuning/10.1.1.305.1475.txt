@@ -1,0 +1,23 @@
+10.1.1.305.1475	2013	Mining requirements from closed-loop control models
+R1	10.1.1.14.8279	Mining Specifications
+R1	10.1.1.134.6332	The Benefits of Relaxing Punctuality
+R1	10.1.1.31.2686	What's Decidable about Hybrid Automata?
+R1	10.1.1.155.1584	The Daikon system for dynamic detection of likely invariants
+R1	10.1.1.100.7966	Synthesis of interface specifications for Java classes
+R1	10.1.1.102.2905	Monitoring temporal properties of continuous signals
+R1	10.1.1.103.3760	Static Specification Mining Using Automata-Based Abstractions
+R1	10.1.1.115.3535	Mining Temporal Specifications for Error Detection
+R1	10.1.1.86.5840	Z3: An Efficient SMT Solver
+R1	10.1.1.86.8249	Combinatorial sketching for finite programs
+R1	10.1.1.392.8858	Lazy Satisfiability Modulo Theories
+R1	10.1.1.333.1085	Mining library specifications using inductive logic programming
+R1	10.1.1.182.8910	Scalable Specification Mining for Verification and Diagnosis
+R1	10.1.1.212.9964	Robust Satisfaction of Temporal Logic over Real-Valued Signals
+R1	10.1.1.218.9649	Parameter Synthesis for Hybrid Systems with an Application to Simulink Models
+R1	10.1.1.227.1262	HybridSAL Relational Abstracter
+R1	10.1.1.228.7031	Parametric Identification of Temporal Properties
+R1	10.1.1.231.9060	S-TaLiRo: A Tool for Temporal Logic Falsification for Hybrid Systems ⋆
+R1	10.1.1.362.8161	Monte-carlo techniques for falsification of temporal properties of non-linear hybrid systems
+R1	10.1.1.363.608	H.: Verification of automotive control applications using s-taliro
+R1	10.1.1.363.450	Fainekos, “Falsification of temporal properties of hybrid systems using the cross-entropy method
+R1	10.1.1.361.8155	Querying parametric temporal logic properties on embedded systems

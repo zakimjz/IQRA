@@ -1,0 +1,57 @@
+10.1.1.133.8156	2003	Data Stream Management Issues – A Survey
+R1	10.1.1.13.6327	New Directions in Traffic Measurement and Accounting
+R1	10.1.1.102.5483	The space complexity of approximating the frequency moments
+R1	10.1.1.100.7878	Frequency estimation of internet packet streams with limited space
+R1	10.1.1.11.8839	TelegraphCQ: Continuous Dataflow Processing for an Uncertan World
+R1	10.1.1.1.8986	Adaptive Filters for Continuous Queries over Distributed Data Streams
+R1	10.1.1.130.1544	Chain: Operator Scheduling for Memory Minimization in Data Stream Systems
+R1	10.1.1.19.8648	Processing Complex Aggregate Queries over Data Streams
+R1	10.1.1.125.6785	Rate-Based Query Optimization for Streaming Information Sources
+R1	10.1.1.14.3206	StatStream: Statistical Monitoring of Thousands of Data Streams in Real Time
+R1	10.1.1.136.6228	TAG: a Tiny AGgregation service for ad-hoc sensor networks
+R1	10.1.1.15.6799	Fjording the Stream: An Architecture for Queries over Streaming Sensor Data
+R1	10.1.1.35.7968	XJoin: A Reactively-Scheduled Pipelined Join Operator
+R1	10.1.1.164.1864	Processing sliding window multi-joins in continuous queries over data streams
+R1	10.1.1.12.4794	Continuously Adaptive Continuous Queries over Streams
+R1	10.1.1.136.4253	NiagaraCQ: A Scalable Continuous Query System for Internet Databases
+R1	10.1.1.100.9170	Querying the physical world
+R1	10.1.1.15.3507	Supporting Aggregate Queries over Ad-Hoc Wireless Sensor Networks
+R1	10.1.1.12.1378	Query Processing for Sensor Networks
+R1	10.1.1.104.4432	Ripple Joins for Online Aggregation
+R1	10.1.1.131.3373	Finding frequent items in data streams
+R1	10.1.1.19.9554	Computing on Data Streams
+R1	10.1.1.24.7941	Maintaining Stream Statistics over Sliding Windows (Extended Abstract)
+R1	10.1.1.12.5023	Flux: An Adaptive Partitioning Operator for Continuous Query Systems
+R1	10.1.1.19.8866	Streaming Queries over Streaming Data
+R1	10.1.1.105.6486	Join synopses for approximate query answering
+R1	10.1.1.10.3686	Using State Modules for Adaptive Query Processing
+R1	10.1.1.22.7715	QuickSAND: Quick Summary and Analysis of Network Data
+R1	10.1.1.36.5401	Stable Distributions, Pseudorandom Generators, Embeddings and Data Stream Computation
+R1	10.1.1.19.8594	Approximate Frequency Counts over Data Streams
+R1	10.1.1.58.8875	Better Streaming Algorithms for Clustering Problems
+R1	10.1.1.114.8708	Cache-and-Query for Wide Area Sensor Databases
+R1	10.1.1.119.5031	Surfing wavelets on streams: One-pass summaries for approximate aggregate queries
+R1	10.1.1.331.2614	The design of an acquisitional query processor for sensor networks
+R1	10.1.1.161.424	Evaluating Window Joins over Unbounded Streams
+R1	10.1.1.146.51	Multi-Dimensional Regression Analysis of Time-Series Data Streams
+R1	10.1.1.132.6104	Mining time-changing data streams
+R1	10.1.1.123.6610	Comparing data streams using hamming norms (how to zero in)
+R1	10.1.1.145.2345	Distributed streams algorithms for sliding windows
+R1	10.1.1.131.3593	Wavelet synopses with error guarantees
+R1	10.1.1.103.6890	The design and implementation of a sequence database system
+R1	10.1.1.137.5792	An Abstract Semantics and Concrete Language for Continuous Queries over Streams and Relations
+R1	10.1.1.155.4	Exploiting k-Constraints to Reduce Memory Overhead in Continuous Queries over Data Streams
+R1	10.1.1.107.3349	Random sampling techniques for space efficient online computation of order statistics of large datasets
+R1	10.1.1.112.2702	Approximating a Data Stream for Querying and Estimation: Algorithms and Performance Evaluation
+R1	10.1.1.11.5901	Capturing Sensor-Generated Time Series with Quality Guarantees
+R1	10.1.1.15.8899	Online Data Mining for Co-Evolving Time Sequences
+R1	10.1.1.48.9277	Tribeca: A System for Managing Large Databases of Network Traffic
+R1	10.1.1.198.1702	SEQ: A Model for Sequence Databases
+R1	10.1.1.50.5267	The AQUA Approach to Querying Lists and Trees in Object-Oriented Databases
+R1	10.1.1.103.6142	Estimating simple functions on the union of data streams
+R1	10.1.1.217.103	Srql: Sorted relational query language
+R1	10.1.1.15.2457	Maintaining Variance and k-Medians over Data Stream Windows
+R1	10.1.1.11.1648	Optimization of Sequence Queries in Database Systems
+R1	10.1.1.11.4691	ATLaS: A Native Extension of SQL for Data Mining and Stream Computations
+R1	10.1.1.15.3140	Beyond Average: Toward Sophisticated Sensing with Queries
+R1	10.1.1.128.3390	Efficient Mid-Query Re-Optimization of Sub-Optimal Query Execution Plans

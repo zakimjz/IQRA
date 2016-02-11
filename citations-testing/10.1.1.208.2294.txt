@@ -1,0 +1,62 @@
+10.1.1.208.2294	2008	Computational voting theory: Of the agents, by the agents, for the agents
+R1	10.1.1.132.79	Rademacher and Gaussian complexities: risk bounds and structural results
+R1	10.1.1.123.3605	Coalition structure generation with worst case guarantees
+R1	10.1.1.33.2180	Truth Revelation in Rapid, Approximately Efficient Combinatorial Auctions
+R1	10.1.1.2.4197	Applying Learning Algorithms to Preference Elicitation in Combinatorial Auctions
+R1	10.1.1.193.2660	A TOPOLOGICAL APPROACH TO EVASIVENESS
+R1	10.1.1.19.288	Vote Elicitation: Complexity and Strategy-Proofness
+R1	10.1.1.24.2260	Can PAC Learning Algorithms Tolerate Random Attribute Noise?
+R1	10.1.1.36.82	A Sub-Constant Error-Probability Low-Degree Test, and a Sub-Constant Error-Probability PCP Characterization of NP
+R1	10.1.1.148.79	Social choice theory and recommender systems: Analysis of the axiomatic foundations of collaborative filtering
+R1	10.1.1.108.4687	Logical preference representation and combinatorial vote
+R1	10.1.1.135.5851	How hard is it to control an election
+R1	10.1.1.108.2231	Small Coalitions Cannot Manipulate Voting
+R1	10.1.1.112.1419	Multi-winner elections: Complexity of manipulation, control and winner-determination
+R1	10.1.1.134.2509	Exact analysis of Dodgson elections: Lewis Carroll’s 1876 voting system is complete for parallel access to NP
+R1	10.1.1.318.7172	Anyone but him: The complexity of precluding an alternative
+R1	10.1.1.101.8662	Hybrid elections broaden complexity-theoretic resistance to control
+R1	10.1.1.142.1363	Junta distributions and the average-case complexity of manipulating elections
+R1	10.1.1.108.9277	Guarantees for the success frequency of an algorithm for finding Dodgson-election winners
+R1	10.1.1.127.97	Single transferable vote resists strategic voting
+R1	10.1.1.72.4400	Can machine learning be secure
+R1	10.1.1.57.3548	Learning in the Presence of Malicious Errors
+R1	10.1.1.107.4199	The Complexity of Bribery in Elections
+R1	10.1.1.296.8422	Aggregating inconsistent information: ranking and clustering
+R1	10.1.1.99.3830	Ranking tournaments
+R1	10.1.1.105.3994	Extensive-Form Argumentation Games
+R1	10.1.1.105.6471	Approximability and Inapproximability of Dodgson and Young Elections
+R1	10.1.1.146.923	Parameterized computational complexity of Dodgson and Young elections
+R1	10.1.1.61.1538	Computing Slater Rankings Using Similarities Among Candidates
+R1	10.1.1.61.2174	Improved Bounds for Computing Kemeny Rankings
+R1	10.1.1.87.5602	How to rank with few errors
+R1	10.1.1.109.2214	Learning voting trees
+R1	10.1.1.107.2919	Pac learning with nasty noise
+R1	10.1.1.9.225	A Heuristic Technique for Multiagent Planning
+R1	10.1.1.61.1976	Nonexistence of Voting Rules That Are Usually Hard to Manipulate
+R1	10.1.1.112.8558	On approximating optimal weighted lobbying, and frequency of correctness versus average-case polynomial time
+R1	10.1.1.2.3374	An Algorithm for Automatically Designing Deterministic Mechanisms without Payments
+R1	10.1.1.128.8193	Issues in multiagent resource allocation
+R1	10.1.1.190.9573	Compilation complexity of common voting rules
+R1	10.1.1.62.4043	A short introduction to computational social choice
+R1	10.1.1.118.1094	The communication complexity of coalition formation among autonomous agents
+R1	10.1.1.196.8310	A social choice function implementable via backward induction with values in the . . .
+R1	10.1.1.83.1186	Strongly decomposable voting rules on multiattribute domains
+R1	10.1.1.149.7673	The Computational Complexity of Choice Sets
+R1	10.1.1.149.7426	A Computational Analysis of the Tournament Equilibrium Set
+R1	10.1.1.91.3821	Combining Information Extraction Systems Using Voting and Stacked Generalization
+R1	10.1.1.127.8980	On the robustness of preference aggregation in noisy environments
+R1	10.1.1.111.1096	Approximating Power Indices
+R1	10.1.1.113.2486	The distortion of cardinal preferences in voting
+R1	10.1.1.119.1282	Strategyproof Classification Under Constant Hypotheses: A Tale of Two Functions
+R1	10.1.1.122.6853	Incentive compatible regression learning
+R1	10.1.1.122.8017	Sequential voting rules and multiple elections paradoxes
+R1	10.1.1.121.2366	A Note on the Query Complexity of the Condorcet Winner Problem
+R1	10.1.1.127.7764	Nonuniform Bribery ∗
+R1	10.1.1.132.9537	A Broader Picture of the Complexity of Strategic Behaviorin Multi-Winner Elections
+R1	10.1.1.139.1397	Generalized scoring rules and the frequency of coalitional manipulability
+R1	10.1.1.139.1416	Determining Possible and Necessary Winners under Common Voting Rules Given Partial Orders
+R1	10.1.1.140.1726	A sufficient condition for voting rules to be frequently manipulable
+R1	10.1.1.208.5981	Frequent manipulability of elections: The case of two voters
+R1	10.1.1.207.9165	On the approximability of Dodgson and Young elections
+R1	10.1.1.206.795	The Learnability of Voting Rules
+R1	10.1.1.169.1941	A New Perspective on Implementation by Voting Trees

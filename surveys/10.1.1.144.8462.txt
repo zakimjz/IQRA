@@ -1,0 +1,77 @@
+10.1.1.144.8462	2005	INTRUSION DETECTION: A SURVEY
+R1	10.1.1.16.2012	Implementing Pushback: Router-Based Defense Against DDoS Attacks
+R1	10.1.1.118.3372	Practical network support for IP traceback
+R1	10.1.1.108.6701	On-line unsupervised outlier detection using finite mixtures with discounting learning algorithms
+R1	10.1.1.1.4897	Fusing a Heterogeneous Alert Stream into Scenarios
+R1	10.1.1.177.4016	StackGuard: Automatic adaptive detection and prevention of buffer-overflow attacks
+R1	10.1.1.13.6179	Anomaly Detection Using Call Stack Information
+R1	10.1.1.47.6145	A Sense of Self for Unix Processes
+R1	10.1.1.26.5910	Intrusion Detection via Static Analysis
+R1	10.1.1.134.4855	Data Mining Approaches for Intrusion Detection
+R1	10.1.1.137.5084	Intrusion detection using variable-length audit trail patterns
+R1	10.1.1.27.8469	Principles of a Computer Immune System
+R1	10.1.1.114.4122	EMERALD: Event monitoring enabling responses to anomalous live disturbances
+R1	10.1.1.43.7975	Automated System Monitoring and Notification With Swatch
+R1	10.1.1.1.6603	Intrusion Detection Systems: A Survey and Taxonomy
+R1	10.1.1.28.8387	Adaptive Intrusion Detection: a Data Mining Approach
+R1	10.1.1.12.4374	A Requires/Provides Model for Computer Attacks
+R1	10.1.1.17.9158	State Transition Analysis: A Rule-Based Intrusion Detection Approach
+R1	10.1.1.2.8640	Attacking DDoS at the Source
+R1	10.1.1.134.516	GrIDS - A Graph Based Intrusion Detection System For Large Networks
+R1	10.1.1.102.5127	An intrusion-detection model
+R1	10.1.1.158.7469	Temporal sequence learning and data reduction for anomaly detection
+R1	10.1.1.50.8529	Abstraction-Based Misuse Detection: High-Level Specifications and Adaptable Strategies
+R1	10.1.1.39.582	Detecting Computer and Network Misuse Through the Production-Based Expert System Toolset (P-BEST)
+R1	10.1.1.30.9900	USTAT: A Real-time Intrusion Detection System for UNIX
+R1	10.1.1.120.2778	Classification And Detection Of Computer Intrusions
+R1	10.1.1.160.6250	How to 0wn the Internet in Your Spare Time
+R1	10.1.1.72.3322	Fast portscan detection using sequential hypothesis testing
+R1	10.1.1.10.4743	A Taxonomy of Computer Worms
+R1	10.1.1.419.5036	Centertrack: An IP overlay network for tracking DoS floods
+R1	10.1.1.120.8255	MET: An Experimental System for Malicious Email Tracking
+R1	10.1.1.26.9564	Mobile Agents In Intrusion Detection And Response
+R1	10.1.1.40.1452	Learning Patterns from Unix Process Execution Traces for Intrusion Detection
+R1	10.1.1.12.7883	Learning Nonstationary Models of Normal Network Traffic for Detecting Novel Attacks
+R1	10.1.1.132.9776	Surveillance detection in high bandwidth environments
+R1	10.1.1.128.5495	NetSTAT: A Network-based Intrusion Detection Approach
+R1	10.1.1.113.7500	Robust classification for imprecise environments
+R1	10.1.1.131.2385	Outlier detection for high dimensional data
+R1	10.1.1.105.3327	An application of machine learning to network intrusion detection
+R1	10.1.1.29.2637	Mining Needles in a Haystack: Classifying Rare Classes via Two-Phase Rule Induction
+R1	10.1.1.25.4550	Improving intrusion detection performance using keyword selection and neural networks
+R1	10.1.1.35.1139	Integrating Fuzzy Logic With Data Mining Methods For Intrusion Detection
+R1	10.1.1.17.947	Efficient Algorithms for Mining Outliers from Large Data Sets
+R1	10.1.1.31.3570	Intrusion Detection with Neural Networks
+R1	10.1.1.10.3542	An Anomaly Detection Technique Based On A Chi-Square Statistic For Detecting Intrusions Into Information Systems
+R1	10.1.1.39.487	Experience with EMERALD to Date
+R1	10.1.1.11.5580	Detecting SYN Flooding Attacks
+R1	10.1.1.308.7424	Lightweight Agents for Intrusion Detection
+R1	10.1.1.5.7059	Mining Alarm Clusters to Improve Alarm Handling Efficiency
+R1	10.1.1.35.997	A Taxonomy of Computer Program Security Flaws, with Examples
+R1	10.1.1.39.5179	Artificial Neural Networks for Misuse Detection
+R1	10.1.1.14.9626	Fuzzy Data Mining And Genetic Algorithms Applied To Intrusion Detection
+R1	10.1.1.14.9651	An Improved Algorithm for Fuzzy Data Mining for Intrusion Detection
+R1	10.1.1.22.3801	A Hybrid Approach to the Profile Creation and Intrusion Detection
+R1	10.1.1.118.3532	Network firewalls
+R1	10.1.1.53.5296	Architecture Design of a Scalable Intrusion Detection System for the Emerging Network Infrastructure
+R1	10.1.1.134.4995	The design and implementation of Tripwire: A file system integrity checker
+R1	10.1.1.50.2666	Implementing a Generalized Tool for Network Monitoring
+R1	10.1.1.42.1814	The TAMU Security Package: An Ongoing Response to Internet Intruders in an Academic Environment
+R1	10.1.1.31.7285	ATP - Anti Tampering Program
+R1	10.1.1.12.3366	Outlier Detection Using Replicator Neural Networks
+R1	10.1.1.122.9927	Data mining methods for detection of new malicious executables
+R1	10.1.1.215.3893	A comparative study of anomaly detection schemes in network intrusion detection
+R1	10.1.1.102.8556	Data Mining for Network Intrusion Detection: How to Get Started
+R1	10.1.1.15.7178	Using Artificial Anomalies to Detect Unknown and Known Network Intrusions
+R1	10.1.1.12.5111	ADMIT: Anomaly-based Data Mining for Intrusions
+R1	10.1.1.39.9455	A Method of Tracing Intruders by Use of Mobile Agents
+R1	10.1.1.7.4062	Analysis of Distributed Intrusion Detection Systems Using Bayesian Methods
+R1	10.1.1.8.8201	A Tamper-Resistant Framework for Unambiguous Detection of Attacks in User Space Using Process Monitors
+R1	10.1.1.67.857	HIDE: a hierarchical network intrusion detection system using statistical preprocessing and neural network classification
+R1	10.1.1.31.1110	A Layered Framework For Placement Of Distributed Intrusion Detection Devices
+R1	10.1.1.13.8453	Intrusion Detection Systems Using Adaptive Regression Splines
+R1	10.1.1.117.6511	SOS: Secure overlay services
+R1	10.1.1.62.90	Intention Modelling: Approximating Computer User Intentions for Detection and Prediction of Intrusions
+R1	10.1.1.8.6289	Towards the Scalable Implementation of a User Level Anomaly Detection System
+R1	10.1.1.129.7001	Detecting novel scans through pattern anomaly detection
+R1	10.1.1.129.8446	CYBER THREAT ANALYSIS – A KEY ENABLING TECHNOLOGY FOR THE OBJECTIVE FORCE (A CASE STUDY IN NETWORK INTRUSION DETECTION)

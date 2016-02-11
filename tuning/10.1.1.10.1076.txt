@@ -1,0 +1,25 @@
+10.1.1.10.1076	2003	The many faces of Publish/Subscribe
+R1	10.1.1.121.1027	A reliable multicast framework for light-weight sessions and application level framing
+R1	10.1.1.16.8178	Scalable Application Layer Multicast
+R1	10.1.1.20.299	SCRIBE: A large-scale and decentralized application-level multicast infrastructure
+R1	10.1.1.11.9240	Internet Indirection Infrastructure
+R1	10.1.1.69.7664	An efficient multicast protocol for content-based publish-subscribe systems
+R1	10.1.1.108.3438	Achieving scalability and expressiveness in an Internet-scale event notification service
+R1	10.1.1.134.4847	Implementing remote procedure calls
+R1	10.1.1.113.9679	Generative communication in Linda
+R1	10.1.1.29.2817	Efficient Filtering of XML Documents for Selective Dissemination of Information
+R1	10.1.1.112.998	Efficient filtering of XML documents with XPath expressions
+R1	10.1.1.124.386	Yfilter: Efficient and scalable filtering of XML documents
+R1	10.1.1.35.9899	Content Based Routing with Elvin4
+R1	10.1.1.24.7159	Log-Based Receiver-Reliable Multicast Distributed Interactive Simulation
+R1	10.1.1.141.162	Reliable Multicast Transport Protocol (RMTP)
+R1	10.1.1.189.3836	Matching events in a content-based subscription system
+R1	10.1.1.114.90	Efficient filtering in publish-subscribe systems using binary decision diagrams
+R1	10.1.1.11.8038	Tree Pattern Aggregation for Scalable XML Data Dissemination
+R1	10.1.1.35.2444	Generic Support for Distributed Applications
+R1	10.1.1.34.1074	Towards a Method of Object-Oriented Concurrent Programming
+R1	10.1.1.28.1233	DCOM and CORBA Side by Side, Step by Step, and Layer by Layer
+R1	10.1.1.126.4233	On objects and events
+R1	10.1.1.151.7178	A component and communication model for push systems
+R1	10.1.1.138.2190	Strategies for integrating messaging and distributed object transactions
+R1	10.1.1.11.1973	Application-Level Multicast Using Content-Addressable Networks

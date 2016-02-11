@@ -1,0 +1,37 @@
+10.1.1.105.4560	2003	Evolving controllers for real robots: A survey of the literature
+R1	10.1.1.380.2734	Evolving Virtual Creatures
+R1	10.1.1.17.5046	Learning Sequential Decision Rules Using Simulation Models and Competition
+R1	10.1.1.17.661	Case-Based Initialization of Genetic Algorithms
+R1	10.1.1.18.378	An Overview of Evolutionary Computation
+R1	10.1.1.57.1285	Generating Adaptive Behavior using Function Regression within Genetic Programming and a Real Robot
+R1	10.1.1.133.9324	Automatic creation of an autonomous agent: Genetic evolution of a neural-network driven robot
+R1	10.1.1.153.9160	Evolution of Homing Navigation in a Real Mobile Robot
+R1	10.1.1.147.341	Artificial Evolution and Real Robots
+R1	10.1.1.39.9871	Challenges in Evolving Controllers for Physical Robots
+R1	10.1.1.53.5871	Evolving real-time behavioral modules for a robot with GP
+R1	10.1.1.219.6298	Punctuated Anytime Learning for Evolving a Team
+R1	10.1.1.51.8014	Competitive Co-Evolutionary Robotics: From Theory to Practice
+R1	10.1.1.140.7387	Evolution and co-evolution of computer programs to control independently-acting agents
+R1	10.1.1.45.240	Genetic Programming Approach to the Construction of a Neural Network for Control of a Walking Robot
+R1	10.1.1.52.9723	Increasing Adaptivity through Evolution Strategies
+R1	10.1.1.52.6310	Real Time Control of a Khepera Robot using Genetic Programming
+R1	10.1.1.17.5685	Case-Based Anytime Learning
+R1	10.1.1.154.2206	Evolution of plastic neurocontrollers for situated agents. Animals to Animats
+R1	10.1.1.49.5368	Noise and The Reality Gap: The Use of Simulation in Evolutionary Robotics
+R1	10.1.1.146.664	Alecsys and the AutonoMouse: Learning to Control a Real Robot by Distributed Classifier Systems
+R1	10.1.1.33.2913	Evolving Mobile Robots in Simulated and Real Environments
+R1	10.1.1.54.1211	Evolution of a World Model for a Miniature Robot using Genetic Programming
+R1	10.1.1.36.524	Evolving Robust Gaits with AIBO
+R1	10.1.1.39.2777	Embodied Evolution: A Response to Challenges in Evolutionary Robotics
+R1	10.1.1.219.4567	Cyclic Genetic Algorithms for the Locomotion of Hexapod Robots
+R1	10.1.1.127.4998	Co-Evolution and Ontogenetic Change in Competing Robots
+R1	10.1.1.17.7782	An Evolutionary Approach to Learning in Robots
+R1	10.1.1.122.7150	Active Vision and Feature Selection in Evolutionary Behavioral Systems
+R1	10.1.1.16.5036	Evolving Robot Morphology and Control
+R1	10.1.1.11.8547	Physically Embedded Genetic Algorithm Learning in Multi-Robot Scenarios: The PEGA algorithm
+R1	10.1.1.33.2368	Evolving Visually-Guided Robots Able to Discriminate Between Different Landmarks
+R1	10.1.1.219.5230	Evolving Leg Cycles to Produce Hexapod Gaits
+R1	10.1.1.219.5864	Learning Adaptive Leg Cycles Using Fitness Biasing
+R1	10.1.1.219.6937	Punctuated Anytime Learning For Evolutionary Robotics
+R1	10.1.1.220.6326	D.: Evolutionary Robotics: Coping with Environmental Change
+R1	10.1.1.170.4525	Evolutionary robots with fast adaptive behavior in new environments

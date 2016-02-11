@@ -1,0 +1,22 @@
+10.1.1.365.3258	2012	Kore: keyphrase overlap relatedness for entity disambiguation
+R1	10.1.1.38.249	Approximate Nearest Neighbors: Towards Removing the Curse of Dimensionality
+R1	10.1.1.1.3346	The Similarity Metric
+R1	10.1.1.121.5868	Similarity search in high dimensions via hashing
+R1	10.1.1.121.8215	Min-wise Independent Permutations
+R1	10.1.1.106.7617	Evaluating WordNet-based measures of lexical semantic relatedness
+R1	10.1.1.64.8557	Large-scale named entity disambiguation based on Wikipedia data
+R1	10.1.1.217.9371	P.M.B.: The Google similarity distance
+R1	10.1.1.210.5792	Knowledge derived from Wikipedia for computing semantic relatedness
+R1	10.1.1.140.4588	Using Wiktionary for Computing Semantic Relatedness
+R1	10.1.1.165.4954	An Effective, Low-Cost Measure of Semantic Relatedness Obtained from Wikipedia Links
+R1	10.1.1.148.3617	Learning to link with wikipedia
+R1	10.1.1.153.8457	Word sense disambiguation: a survey
+R1	10.1.1.151.1904	Collective Annotation of Wikipedia Entities in Web Text
+R1	10.1.1.169.2709	Entity Disambiguation for Knowledge Base Population
+R1	10.1.1.172.6883	Knowledge-rich Word Sense Disambiguation Rivaling Supervised Systems
+R1	10.1.1.367.3773	TAGME: On-the-fly annotation of short text fragents (by Wikipedia entities). Available on http://arxiv.org/abs/1006.3498
+R1	10.1.1.205.8373	EntityTagger: Automatically Tagging Entities With Descriptive Phrases
+R1	10.1.1.205.8607	A Word at a Time: Computing Word Relatedness using Temporal Semantic Analysis
+R1	10.1.1.207.5685	Jigs and Lures: Associating Web Queries with Structured Entities
+R1	10.1.1.221.2319	Semantic Relatedness Using Salient Semantic Analysis
+R1	10.1.1.297.1908	Tapping into Knowledge Base for Concept Feedback: Leveraging ConceptNet to Improve Search Results for Difficult Queries

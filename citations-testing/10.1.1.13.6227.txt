@@ -1,0 +1,30 @@
+10.1.1.13.6227	2002	Neighbor-Aware Control In Ad Hoc Networks
+R1	10.1.1.29.6379	Max-Min D-Cluster Formation in Wireless Ad Hoc Networks
+R1	10.1.1.142.3682	Time, Clocks, and the Ordering of Events in a Distributed System
+R1	10.1.1.37.5539	Topology Control of Multihop Wireless Networks using Transmit Power Adjustment
+R1	10.1.1.41.838	Medium Access Control Protocols Using Directional Antennas in Ad Hoc Networks
+R1	10.1.1.23.5186	Power Control in Ad-Hoc Networks: Theory, Architecture, Algorithm and Implementation of the COMPOW Protocol
+R1	10.1.1.377.5273	Routing in Ad Hoc Networks of Mobile Hosts
+R1	10.1.1.19.3876	Performance of Collision Avoidance Protocols in Single-Channel Ad Hoc Networks
+R1	10.1.1.3.1553	Directional Virtual Carrier Sensing for Directional Antennas in Mobile Ad Hoc Networks
+R1	10.1.1.36.922	Load-Balancing Clusters in Wireless Ad Hoc Networks
+R1	10.1.1.35.1255	A Cluster-based Approach for Routing in Dynamic Networks
+R1	10.1.1.60.6472	A Distance-Vector Routing Protocol for Networks with Unidirectional Links
+R1	10.1.1.6.3273	Link-State Routing in Networks with Unidirectional Links
+R1	10.1.1.21.5109	Unidirectional Link-State Routing with Propagation Control
+R1	10.1.1.55.8833	Dynamic Routing in Networks with Unidirectional Links
+R1	10.1.1.19.2897	Transmission Scheduling in Ad Hoc Networks with Directional Antennas
+R1	10.1.1.27.4453	A Clustering Scheme for Hierarchical Control in Multi-hop Wireless Networks
+R1	10.1.1.100.5145	Adaptive clustering for mobile wireless networks
+R1	10.1.1.19.6519	Hybrid Channel Access Scheduling in Ad Hoc Networks
+R1	10.1.1.322.9586	A Unified Framework and Algorithm for Channel Assignment
+R1	10.1.1.419.9645	Software radio architecture with smart antennas: a tutorial on algorithms and complexity
+R1	10.1.1.119.1998	A witness-aided routing protocol for mobile ad-hoc networks with unidirectional links
+R1	10.1.1.30.1428	Distributed algorithms for Unidirectional networks
+R1	10.1.1.37.4297	Domination and Its Applications in Ad Hoc Wireless Networks with Unidirectional Links
+R1	10.1.1.10.3699	Narrowbeam Cylindrical Antenna Array with Sparse Antenna Spacing
+R1	10.1.1.33.3975	Spread Spectrum Medium Access Protocol with Collision Avoidance in Mobile Ad-hoc Wireless Network
+R1	10.1.1.25.2112	A Tunneling Approach to Routing with Unidirectional Links in Mobile Ad-Hoc Networks
+R1	10.1.1.35.186	A Circuit-based Approach for Routing in Unidirectional Links Networks
+R1	10.1.1.30.934	A Five-Phase Reservation Protocol (FPRP) for Mobile Ad Hoc Networks
+R1	10.1.1.19.7223	Distributed Transmission Scheduling Using Code-Division Channelization

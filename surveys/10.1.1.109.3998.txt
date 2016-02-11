@@ -1,0 +1,24 @@
+10.1.1.109.3998	2002	Survey of qos routing
+R1	10.1.1.1.1727	An Overview of Quality-of-Service Routing for the Next Generation High-Speed Networks: Problems and Solutions
+R1	10.1.1.22.9449	QoS Routing: The Precomputation Perspective
+R1	10.1.1.144.7333	Distributed QoS Routing with Imprecise State Information
+R1	10.1.1.49.9519	QoS-based Routing in Networks with Inaccurate Information: Theory and Algorithms
+R1	10.1.1.12.8162	Multicast Routing for Multimedia Communication
+R1	10.1.1.101.1173	QoS Routing in Networks with Uncertain Parameters
+R1	10.1.1.135.8154	Issues and trends in router design
+R1	10.1.1.41.5996	The QoS Broker
+R1	10.1.1.24.8317	Scalable High Speed IP Routing Lookups
+R1	10.1.1.38.7678	Optimal Partition of QoS Requirements on Unicast Paths and Multicast Trees
+R1	10.1.1.28.1487	Internet QoS: A Big Picture
+R1	10.1.1.109.5576	Providing Guaranteed Services Without Per Flow Management
+R1	10.1.1.41.341	Intra-Domain QoS Routing in IP Networks: A Feasibility and Cost/Benefit Analysis
+R1	10.1.1.42.9427	Computing Shortest Paths for Any Number of Hops
+R1	10.1.1.45.5	The Trade-offs of Multicast Trees and Algorithms
+R1	10.1.1.105.431	On the Complexity of QoS Routing
+R1	10.1.1.42.372	On Scalable QoS Routing: Performance Evaluation of Topology Aggregation
+R1	10.1.1.38.7365	Do Faster Routers Imply Faster Communication?
+R1	10.1.1.40.7992	Networks With Advance Reservations: The Routing Perspective
+R1	10.1.1.35.9201	Providing a Differentiated Quality of Service in a World Wide Web Server
+R1	10.1.1.16.3407	Bandwidth Allocation Policies for Unicast and Multicast Flows
+R1	10.1.1.31.5422	Coexistence of QoS and Best-Effort Flows - Routing and Scheduling
+R1	10.1.1.37.6751	CHOKe -- A stateless mechanism for providing Quality of Service in the Internet

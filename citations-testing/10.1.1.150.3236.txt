@@ -1,0 +1,29 @@
+10.1.1.150.3236	2009	Ranking Distributed Probabilistic Data
+R1	10.1.1.108.6943	Evaluating Probabilistic Queries over Imprecise Data
+R1	10.1.1.112.869	Optimal Aggregation Algorithms for Middleware
+R1	10.1.1.13.8588	Optimizing top-k selection queries over multimedia repositories
+R1	10.1.1.1.6929	Model-Driven Data Acquisition in Sensor Networks
+R1	10.1.1.108.4136	Distributed top-k monitoring
+R1	10.1.1.134.3328	Efficient Query Evaluation on Probabilistic Databases
+R1	10.1.1.88.5501	Representing and querying correlated tuples in probabilistic databases
+R1	10.1.1.83.8731	Efficient Top-K Query Calculation in Distributed Networks
+R1	10.1.1.127.6971	Holistic Aggregates in a Networked World: Distributed Tracking of Approximate Quantiles
+R1	10.1.1.125.6494	A sampling-based approach to optimizing top-k queries in sensor networks
+R1	10.1.1.182.2684	From Complete to Incomplete Information and Back
+R1	10.1.1.89.231	Robust and efficient fuzzy match for online data cleaning
+R1	10.1.1.79.2589	Top-k query processing in uncertain databases
+R1	10.1.1.65.9802	A geometric approach to monitoring threshold functions over distributed data streams
+R1	10.1.1.108.9426	Trio: A system for data, uncertainty, and lineage
+R1	10.1.1.108.4682	Fast and Simple Relational Processing of Uncertain Data
+R1	10.1.1.115.5093	Top-k monitoring in wireless sensor networks
+R1	10.1.1.118.5817	Sharing aggregate computation for distributed queries
+R1	10.1.1.296.9175	Top-k spatial joins of probabilistic objects
+R1	10.1.1.124.6137	On the semantics and evaluation of top-k queries in probabilistic databases
+R1	10.1.1.86.9664	Efficient Constraint Monitoring Using Adaptive Thresholds
+R1	10.1.1.187.8746	Online filtering, smoothing and probabilistic modeling of streaming data
+R1	10.1.1.131.9634	Conditioning Probabilistic Databases
+R1	10.1.1.140.3843	Probabilistic Ranked Queries in Uncertain Databases
+R1	10.1.1.140.7782	Exploiting Shared Correlations in Probabilistic Databases
+R1	10.1.1.144.8130	Ranking Queries on Uncertain Data: A Probabilistic Threshold Approach
+R1	10.1.1.187.8739	Semantics of ranking queries for probabilistic data and expected ranks
+R1	10.1.1.188.5082	Probabilistic Top-k and Ranking-Aggregate Queries

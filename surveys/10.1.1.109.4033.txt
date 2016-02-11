@@ -1,0 +1,23 @@
+10.1.1.109.4033	1990	Integration of Disparate Information Sources: A Short Survey
+R1	10.1.1.118.6768	Federated database systems for managing distributed, heterogeneous, and autonomous databases
+R1	10.1.1.38.7636	Querying Heterogeneous Information Sources Using Source Descriptions
+R1	10.1.1.13.7065	Abduction in Logic Programming
+R1	10.1.1.47.9649	Data Model and Query Evaluation in Global Information Systems
+R1	10.1.1.107.7214	A Comparative Analysis of Methodologies for Database Schema Integration
+R1	10.1.1.1.2918	Scaling Heterogeneous Databases and the Design of Disco
+R1	10.1.1.128.9102	A predicate-based caching scheme for client-server database architectures
+R1	10.1.1.56.356	Multidatabase Query Optimization: Issues and Solutions
+R1	10.1.1.29.4662	Capabilities-based Query Rewriting in Mediator Systems
+R1	10.1.1.49.3156	Answering Queries Using Templates with Binding Patterns
+R1	10.1.1.1.7398	Optimizing Large Join Queries in Mediation Systems
+R1	10.1.1.43.9419	Template-Based Wrappers in the Tsimmis System
+R1	10.1.1.47.6697	Query Caching and Optimization in Distributed Mediator Systems
+R1	10.1.1.36.4035	Infomaster: An Information Integration System
+R1	10.1.1.208.768	Context Interchange: New Features and Formalisms for the Intelligent Integration of Information
+R1	10.1.1.33.1999	Optimizing Queries with Materialized Views
+R1	10.1.1.31.5531	Query Folding
+R1	10.1.1.27.117	An Algorithm for Query Folding with Functional Dependencies
+R1	10.1.1.50.3586	The GMAP: a versatile tool for physical data independence
+R1	10.1.1.114.3730	The implementation and performance evaluation of the ADMS query optimizer: Integrating query result caching and matching
+R1	10.1.1.27.4704	A Query Sampling Method for Estimating Local Cost Parameters in a Multidatabase System
+R1	10.1.1.133.8377	A procedure for mediation of queries to sources in disparate contexts

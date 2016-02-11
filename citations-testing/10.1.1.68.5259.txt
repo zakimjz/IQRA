@@ -1,0 +1,29 @@
+10.1.1.68.5259	1998	A Computational Memory and Processing Model for
+R1	10.1.1.14.9312	Centering: A Framework for Modeling the Local Coherence Of Discourse
+R1	10.1.1.105.1244	WordNet: An on-line lexical database
+R1	10.1.1.14.6637	Disambiguating Noun Groupings with Respect to WordNet Senses
+R1	10.1.1.154.7012	Parallel Networks that Learn to Pronounce English Text
+R1	10.1.1.211.1697	Grounding in communication
+R1	10.1.1.30.6437	Recursive Distributed Representations
+R1	10.1.1.269.3859	Character design for soccer commentary
+R1	10.1.1.409.9722	A retrieval theory of priming in memory
+R1	10.1.1.14.567	A Computational Grammar Of Discourse-Neutral Prosodic Phrasing In English
+R1	10.1.1.15.311	A Hierarchical Stochastic Model for Automatic Prediction of Prosodic Boundary Location
+R1	10.1.1.330.9246	Automatic detection and correction of repairs in human-computer dialog
+R1	10.1.1.14.1422	Assigning Intonational Features in Synthesized Spoken Directions
+R1	10.1.1.381.6391	A capacity theory of comprehension: Individual differences in working memory
+R1	10.1.1.187.6893	NPtool, a detector of English noun phrases
+R1	10.1.1.103.5060	AUDIO SYSTEM FOR TECHNICAL READINGS
+R1	10.1.1.33.5065	Distributed Representations and Nested Compositional Structure
+R1	10.1.1.269.2824	Stressed and Unstressed Pronouns: Complementary Preferences
+R1	10.1.1.28.1446	Connectionist Models and Linguistic Theory: Investigations of Stress Systems in Language
+R1	10.1.1.48.1908	Assigning Intonation Elements And Prosodic Phrasing For English Speech Synthesis From High Level Linguistic Input
+R1	10.1.1.296.231	On stress and linguistic rhythm
+R1	10.1.1.37.8065	Some Intonational Characteristics Of Discourse Structure
+R1	10.1.1.108.9126	Intonation and the intentional structure of discourse
+R1	10.1.1.56.7847	Specifying a Shallow Grammatical Representation for Parsing Purposes
+R1	10.1.1.41.4624	A Computational Model of Collaboration on Referring Expressions
+R1	10.1.1.421.287	The Collection and Preliminary Analysis of a Spontaneous Speech Database
+R1	10.1.1.26.6100	Modeling Contrast in the Generation and Synthesis of Spoken Language
+R1	10.1.1.16.2838	Filled Pauses As Markers Of Discourse Structure
+R1	10.1.1.16.2400	Synthesis Of English Intonation Using Explicit Models Of Reading And Spontaneous Speech

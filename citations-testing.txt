@@ -1,0 +1,205 @@
+10.1.1.16.1697	1996	Power Minimization in IC Design: Principles and Applications	power minimization ic design: principles applications
+10.1.1.39.9565	2000	Mesh Generation	mesh generation
+10.1.1.81.6633	2007	Dynamic types for authentication	dynamic types authentication
+10.1.1.14.6707	2003	Propositional Independence: Formula-Variable Independence and Forgetting	propositional independence: formula-variable independence forgetting
+10.1.1.4.17	2003	Provisioning IP Backbone Networks Based on Measurements	provisioning ip backbone networks based measurements
+10.1.1.72.2459	2006	Using Taxonomies for Content-based Routing with Ants	using taxonomies content-based routing ants
+10.1.1.28.8880	2000	A Call for Knowledge-based Planning	call knowledge-based planning
+10.1.1.269.6533	2010	eBay in the Economic Literature: Analysis of an Auction Marketplace	ebay economic literature: analysis auction marketplace
+10.1.1.143.5714	2008	Efficient Query Routing by Improved Peer Description	efficient query routing improved peer description
+10.1.1.189.804	2009	A survey of sequential Monte Carlo methods for economics and finance	survey sequential monte carlo methods economics finance
+10.1.1.186.1511	2008	Salient local visual features for shape-based 3d model retrieval	salient local visual features shape-based 3d model retrieval
+10.1.1.296.254	1999	Region Classification for the Interpretation of Video Sequences	region classification interpretation video sequences
+10.1.1.77.9873	2006	STORAGE MANAGEMENT IN LARGE DISTRIBUTED OBJECT-BASED STORAGE SYSTEMS	storage management large distributed object-based storage systems
+10.1.1.134.9987	2007	Event perception: A mind/brain perspective	event perception: mind/brain perspective
+10.1.1.88.5172	2003	State of the art in global illumination for interactive applications and high-quality animations	state art global illumination interactive applications high-quality animations
+10.1.1.133.5988	1998	The Art of Signaling: Fifty Years of Coding Theory	art signaling: fifty years coding theory
+10.1.1.135.9750	2000	A survey of new research directions in microprocessors	survey new research directions microprocessors
+10.1.1.393.9715	2012	Segmentation using superpixels: A bipartite graph partitioning approach	segmentation using superpixels: bipartite graph partitioning approach
+10.1.1.75.1236	2007	Partial Linear Gaussian Models for Tracking in Image Sequences Using Sequential Monte Carlo Methods	partial linear gaussian models tracking image sequences using sequential monte carlo methods
+10.1.1.385.7047	2006	V.: A scalable cluster-based infrastructure for edge-computing services	scalable cluster-based infrastructure edge-computing services
+10.1.1.21.6752	2001	Type-Based Hot Swapping of Running Modules	type-based hot swapping running modules
+10.1.1.335.7074	2005	Reasoning about Trust Groups to Coordinate Mobile Ad-Hoc Systems	reasoning trust groups coordinate mobile ad-hoc systems
+10.1.1.365.2318	2010	Information extraction from web-scale n-gram data	information extraction web-scale n-gram data
+10.1.1.115.3644	2001	An introduction to kernel-based learning algorithms	introduction kernel-based learning algorithms
+10.1.1.94.1131	2004	Extracting view-dependent depth maps from a collection of images	extracting view-dependent depth maps collection images
+10.1.1.208.2294	2008	Computational voting theory: Of the agents, by the agents, for the agents	computational voting theory: agents, agents, agents
+10.1.1.148.5634	2008	A systematic survey of program comprehension through dynamic analysis	systematic survey program comprehension dynamic analysis
+10.1.1.143.3645	2007	Role Assignment in Wireless Sensor Networks: Energy-Efficient Strategies and Algorithms	role assignment wireless sensor networks: energy-efficient strategies algorithms
+10.1.1.154.5589	2008	Fast viscoelastic behavior with thin features	fast viscoelastic behavior thin features
+10.1.1.28.9369	2001	On-Line Sampling-Based Control For Network Queueing Problems	on-line sampling-based control network queueing problems
+10.1.1.52.2392	1996	Discovery Of Multiple-Level Rules From Large Databases	discovery multiple-level rules large databases
+10.1.1.101.8813	2001	Explaining Scenarios for Information Personalization	explaining scenarios information personalization
+10.1.1.149.8752	2008	Transfer learning for wifi-based indoor localization	transfer learning wifi-based indoor localization
+10.1.1.128.5695	2003	Using Interaction Costs for Microarchitectural Bottleneck Analysis	using interaction costs microarchitectural bottleneck analysis
+10.1.1.211.8556	2010	Inspector Gadget: Automated extraction of proprietary gadgets from malware binaries	inspector gadget: automated extraction proprietary gadgets malware binaries
+10.1.1.112.5787	2000	Iterative Solution of Linear Systems in the 20th Century	iterative solution linear systems 20th century
+10.1.1.149.4986	2008	Aspectual Feature Modules	aspectual feature modules
+10.1.1.100.2378	2002	Adaptive methods for blind equalization and signal separation in MIMO systems	adaptive methods blind equalization signal separation mimo systems
+10.1.1.78.5159	2007	Reaching over the gap: A review of efforts to link human and automatic speech recognition research	reaching gap: review efforts link human automatic speech recognition research
+10.1.1.231.7763	2011	Design of 2D Time-Varying Vector Fields	design 2d time-varying vector fields
+10.1.1.19.6011	2001	A Unified Relational Approach to Grid Information Services	unified relational approach grid information services
+10.1.1.422.5629	2011	Bicos: A bi-level co-segmentation method for image classification	bicos: bi-level co-segmentation method image classification
+10.1.1.409.7977	2008	Absence of evidence as evidence of absence: A simple mechanism for p2p search	absence evidence evidence absence: simple mechanism p2p search
+10.1.1.249.5362	906	DOUBLE SHUFFLE RELATIONS AND RENORMALIZATION OF MULTIPLE ZETA VALUES	double shuffle relations renormalization multiple zeta values
+10.1.1.94.9456	2005	Efficient Content Locating in Dynamic Peer-to-Peer Networks	efficient content locating dynamic peer-to-peer networks
+10.1.1.13.6227	2002	Neighbor-Aware Control In Ad Hoc Networks	neighbor-aware control ad hoc networks
+10.1.1.152.8499	2007	Techniques for clustering gene expression data	techniques clustering gene expression data
+10.1.1.378.8897	2010	Language acquisition meets language evolution	language acquisition meets language evolution
+10.1.1.226.8244	2012	http://www.ssrc.ucsc.edu / HANDS: A Heuristically Arranged Non-Backup In-line	hands: heuristically arranged non-backup in-line
+10.1.1.85.6683	2007	Image Smoothing and Edge Detection by Nonlinear Diffusion and Bilateral Filter	image smoothing edge detection nonlinear diffusion bilateral filter
+10.1.1.25.2158	1999	Design and Analysis of Cellular Mobile Data Networks	design analysis cellular mobile data networks
+10.1.1.206.3239	2007	Learning to find object boundaries using motion cues	learning find object boundaries using motion cues
+10.1.1.336.1104	2005	Fractal Approach to Large-Scale Galaxy	fractal approach large-scale galaxy
+10.1.1.357.6392	2005	Models and Modeling Infrastructures for Global Computational Platforms	models modeling infrastructures global computational platforms
+10.1.1.129.2216	2007	Automatic Acquisition of Lexical Knowledge about Multiword Predicates	automatic acquisition lexical knowledge multiword predicates
+10.1.1.74.1914	2005	Periodic motion detection and segmentation via approximate sequence alignment	periodic motion detection segmentation via approximate sequence alignment
+10.1.1.272.148	2009	Article Energy Balanced Strategies for Maximizing the Lifetime of Sparsely Deployed Underwater Acoustic Sensor Networks	article energy balanced strategies maximizing lifetime sparsely deployed underwater acoustic sensor networks
+10.1.1.133.6408	2007	SECURITY AND COOPERATION IN WIRELESS NETWORKS -- Thwarting Malicious and Selfish Behavior in the Age of Ubiquitous Computing	security cooperation wireless networks thwarting malicious selfish behavior age ubiquitous computing
+10.1.1.60.2214	2005	Transactional Execution of Java Programs	transactional execution java programs
+10.1.1.128.726	2007	Optimizing dual-core execution for power efficiency and transientfault recovery	optimizing dual-core execution power efficiency transientfault recovery
+10.1.1.109.3608	2006	Architectural Strategy and Design Evolution in Complex Engineered Systems	architectural strategy design evolution complex engineered systems
+10.1.1.208.2294	2008	Computational voting theory: Of the agents, by the agents, for the agents	computational voting theory: agents, agents, agents
+10.1.1.216.7990	2006	The software model checker BLAST: Applications to software engineering	software model checker blast: applications software engineering
+10.1.1.14.5902	1998	Mediating and Metasearching on the Internet	mediating metasearching internet
+10.1.1.19.6011	2001	A Unified Relational Approach to Grid Information Services	unified relational approach grid information services
+10.1.1.161.538	2009	Toolkit Support for Integrating Physical and Digital Interactions	toolkit support integrating physical digital interactions
+10.1.1.252.7534	2005	Quantum Search Algorithms	quantum search algorithms
+10.1.1.371.8591	2008	3-d reconstruction of shaded objects from multiple images under unknown illumination	3-d reconstruction shaded objects multiple images unknown illumination
+10.1.1.107.9833	2003	The good of the many outweighs the good of the one: evolutionary multi-objective optimization	good many outweighs good one: evolutionary multi-objective optimization
+10.1.1.20.2161	1998	Shift-Invariant Adaptive Wavelet Decompositions And Applications	shift-invariant adaptive wavelet decompositions applications
+10.1.1.122.7696	2006	Building and Evaluating an Intelligent Wheelchair	building evaluating intelligent wheelchair
+10.1.1.1.9820	2002	Efficient Packet Monitoring for Network Management	efficient packet monitoring network management
+10.1.1.53.1809	1996	Formal Methods in VLSI System Design	formal methods vlsi system design
+10.1.1.118.1269	1999	A monte carlo algorithm for multi-robot localization	monte carlo algorithm multi-robot localization
+10.1.1.169.3393	2010	Formalizing Domains, Ultrametric Spaces and Semantics of Programming Languages	formalizing domains, ultrametric spaces semantics programming languages
+10.1.1.22.4875	2001	Abstraction-based Intrusion Detection in Distributed Environments	abstraction-based intrusion detection distributed environments
+10.1.1.84.1688	2004	Regularized image up-sampling	regularized image up-sampling
+10.1.1.100.7007	2006	A Peer-to-Peer Approach to Sharing Wireless Local Area Networks	peer-to-peer approach sharing wireless local area networks
+10.1.1.6.7065	2002	How Does the User Interface Design of Mobile Devices Influence the Social Impact of Mobile Communication?	user interface design mobile devices influence social impact mobile communication?
+10.1.1.164.4667	2008	Refunctionalization at Work	refunctionalization work
+10.1.1.413.9235	2006	Clustering, Dimensionality Reduction and Side Information	clustering, dimensionality reduction side information
+10.1.1.1.4491	2004	Analyzing Correlation Between Trust and User Similarity In Online Communities	analyzing correlation trust user similarity online communities
+10.1.1.214.7355	2005	Three-Dimensional Shape Searching: State-of-the-Art Review and Future Trends	three-dimensional shape searching: state-of-the-art review future trends
+10.1.1.3.6981	2004	Re-synchronization and Controllability of Bursty Service Requests	re-synchronization controllability bursty service requests
+10.1.1.9.2519	2003	A Taxonomy of Recommender Agents on the Internet	taxonomy recommender agents internet
+10.1.1.153.9447	2009	Reducing the Trusted Computing Base for Applications on Commodity Systems	reducing trusted computing base applications commodity systems
+10.1.1.124.5778	2007	Reflective Design-In-Use: Co-Designing an Assistive Remote Communication System with Individuals with Cognitive Disabilities and their Families	reflective design-in-use: co-designing assistive remote communication system individuals cognitive disabilities families
+10.1.1.333.7206	2006	Anatomy of a decision: Striato-orbitofrontal interactions in reinforcement learning, decision making, and reversal	anatomy decision: striato-orbitofrontal interactions reinforcement learning, decision making, reversal
+10.1.1.225.3459	2009	Achieving information flow security through monadic control of effects	achieving information flow security monadic control effects
+10.1.1.387.7481	2008	Metamorphs: Deformable shape and appearance models	metamorphs: deformable shape appearance models
+10.1.1.10.2728	2002	Cut-and-Paste Editing of Multiresolution Surfaces	cut-and-paste editing multiresolution surfaces
+10.1.1.61.1489	2005	Staged Computation with Names and Necessity	staged computation names necessity
+10.1.1.108.2624	2003	The connectivity sonar: detecting site functionality by structural patterns	connectivity sonar: detecting site functionality structural patterns
+10.1.1.68.5259	1998	A Computational Memory and Processing Model for	computational memory processing model
+10.1.1.69.2910	2007	Efficient keyword search across heterogeneous relational databases	efficient keyword search across heterogeneous relational databases
+10.1.1.91.4529	2005	Role-based refactoring of crosscutting concerns	role-based refactoring crosscutting concerns
+10.1.1.128.6692	1999	Architectures for Synchronous Groupware	architectures synchronous groupware
+10.1.1.30.7960	1998	A Consideration of the Biological and Psychological Foundations of Autonomous Robotics	consideration biological psychological foundations autonomous robotics
+10.1.1.220.9158	2005	Face Transfer with Multilinear Models	face transfer multilinear models
+10.1.1.228.6616	2012	Formalizing the LLVM Intermediate Representation for Verified Program Transformations	formalizing llvm intermediate representation verified program transformations
+10.1.1.150.2854	2009	Taxonomy for characterizing ensemble methods in classification tasks: A review and annotated bibliography	taxonomy characterizing ensemble methods classification tasks: review annotated bibliography
+10.1.1.227.7059	2010	Region duplication detection using image feature matching	region duplication detection using image feature matching
+10.1.1.107.5772	2005	Towards Formal Structural Representation of Spoken Language: An Evolving Transformation System (ETS) Approach	towards formal structural representation spoken language: evolving transformation system (ets) approach
+10.1.1.10.365	2002	Netbait: a Distributed Worm Detection Service	netbait: distributed worm detection service
+10.1.1.6.7065	2002	How Does the User Interface Design of Mobile Devices Influence the Social Impact of Mobile Communication?	user interface design mobile devices influence social impact mobile communication?
+10.1.1.380.2182	2008	Using Information Retrieval to Support Software Maintenance Tasks	using information retrieval support software maintenance tasks
+10.1.1.215.6839	2009	Timeaware test-case prioritization using integer linear programming	timeaware test-case prioritization using integer linear programming
+10.1.1.374.4693	2011	An Integrated Neuroevolutionary Approach to Reactive Control and High-level Strategy	integrated neuroevolutionary approach reactive control high-level strategy
+10.1.1.390.4632	2012	Efficient kernel clustering using random fourier features	efficient kernel clustering using random fourier features
+10.1.1.2.4767	2004	Ranking the Web Frontier	ranking web frontier
+10.1.1.144.5747	2008	Semi-Supervised On-line Boosting for Robust Tracking	semi-supervised on-line boosting robust tracking
+10.1.1.33.3761	1998	Type-Theoretic Methodology For Practical Programming Languages	type-theoretic methodology practical programming languages
+10.1.1.136.4759	2007	Nonparametric Bayesian Models of Lexical Acquisition	nonparametric bayesian models lexical acquisition
+10.1.1.91.394	2003	The design and evaluation of a query processing architecture for sensor networks	design evaluation query processing architecture sensor networks
+10.1.1.298.6027	2008	A new approach to knowledge-based design of recurrent neural networks	new approach knowledge-based design recurrent neural networks
+10.1.1.304.6478	2007	An interior-point method for large-scale ℓ1-regularized logistic regression	interior-point method large-scale ℓ1-regularized logistic regression
+10.1.1.108.974	1999	A model, analysis, and protocol framework for soft state-based communication	model, analysis, protocol framework soft state-based communication
+10.1.1.184.3892	2003	Modeling of Internet Traffic: Internet Access Influence, User Interference, and TCP Behavior	modeling internet traffic: internet access influence, user interference, tcp behavior
+10.1.1.105.6631	2004	Design and implementation of a large-scale context fusion network	design implementation large-scale context fusion network
+10.1.1.306.7918	2012	Provenance for system troubleshooting	provenance system troubleshooting
+10.1.1.187.1696	2010	Controlled Multi-Path Routing in Sensor Networks Using Bézier Curves	controlled multi-path routing sensor networks using bézier curves
+10.1.1.80.1758	2006	A field model for human detection and tracking	field model human detection tracking
+10.1.1.22.5247	2000	Verification on Infinite Structures	verification infinite structures
+10.1.1.314.2325	2008	Overview of some general results in combinatorial enumeration	overview general results combinatorial enumeration
+10.1.1.12.4508	2003	A Model-Based Mediator System for Scientific Data Management	model-based mediator system scientific data management
+10.1.1.302.2564	2011	Modeling Motion of Body Parts for Action Recognition	modeling motion body parts action recognition
+10.1.1.15.2472	2003	Computational Models of Perceptual Organization	computational models perceptual organization
+10.1.1.127.4988	2007	Design and Implementation of Verifiable Audit Trails for a Versioning File System	design implementation verifiable audit trails versioning file system
+10.1.1.415.1657	2009	Multi-class multi-instance boosting for part-based human detection. ICCV	multi-class multi-instance boosting part-based human detection. iccv
+10.1.1.317.9849	2008	Moving object detection in spatial domain using background removal techniques -- State-of-art	moving object detection spatial domain using background removal techniques -- state-of-art
+10.1.1.227.2679	2011	A General Framework of Multi-Population Methods with Clustering in Undetectable Dynamic Environments	general framework multi-population methods clustering undetectable dynamic environments
+10.1.1.380.7557	2010	Using Data Fusion and Web Mining to Support Feature Location in Software	using data fusion web mining support feature location software
+10.1.1.63.7335	1998	Secure Hierarchical Multicast Routing and Multicast Internet Anonymity	secure hierarchical multicast routing multicast internet anonymity
+10.1.1.111.5280	2008	Globally optimal surface mapping for surfaces with arbitrary topology	globally optimal surface mapping surfaces arbitrary topology
+10.1.1.154.4483	2008	Deblurring from highly incomplete measurements for remote sensing	deblurring highly incomplete measurements remote sensing
+10.1.1.11.2608	2003	Toward the Scientific Evaluation of Music Information Retrieval Systems	toward scientific evaluation music information retrieval systems
+10.1.1.135.2437	2001	Dynamic Software Updating	dynamic software updating
+10.1.1.134.8232	2001	Understanding the performance of many tcp flows	understanding performance many tcp flows
+10.1.1.140.3949	2008	Computer Forensics In Forensis	computer forensics forensis
+10.1.1.102.2966	2004	Adaptive Processor Allocation in Packet Processing Systems	adaptive processor allocation packet processing systems
+10.1.1.70.2300	2004	Memory cues for meeting video retrieval	memory cues meeting video retrieval
+10.1.1.365.1683	2005	Incremental methods for simple problems in time series: algorithms and experiments	incremental methods simple problems time series: algorithms experiments
+10.1.1.2.8746	2004	Effect of Vertical Handovers on Performance of TCP-Friendly Rate Control	effect vertical handovers performance tcp-friendly rate control
+10.1.1.323.9024	2009	Cross-lingual annotation projection for semantic roles	cross-lingual annotation projection semantic roles
+10.1.1.210.3860	2010	Graph Walks and Graphical Models	graph walks graphical models
+10.1.1.87.1461	2005	Analysis and Evaluation of SECOS, a protocol for Energy Efficient and Secure Communication in Sensor Networks	analysis evaluation secos, protocol energy efficient secure communication sensor networks
+10.1.1.137.3465	2002	A type system for certified binaries	type system certified binaries
+10.1.1.422.353	2004	Editorial: special issue on learning from imbalanced data sets	editorial: special issue learning imbalanced data sets
+10.1.1.36.6888	1996	Rewriting Logic as a Semantic Framework for Concurrency: a Progress Report	rewriting logic semantic framework concurrency: progress report
+10.1.1.150.3236	2009	Ranking Distributed Probabilistic Data	ranking distributed probabilistic data
+10.1.1.366.6360	2009	An Iterative Bayesian Algorithm for Sparse Component Analysis in Presence of Noise	iterative bayesian algorithm sparse component analysis presence noise
+10.1.1.134.3800	1998	Building An Extensible Operating System	building extensible operating system
+10.1.1.422.2756	2007	Statistical Machine Translation and Automatic Speech Recognition under Uncertainty	statistical machine translation automatic speech recognition uncertainty
+10.1.1.221.5836	2000	Volume measurement . . . sequential freehand 3D ultrasound	volume measurement sequential freehand 3d ultrasound
+10.1.1.50.102	1998	GpH: An Architecture-independent Functional Language	gph: architecture-independent functional language
+10.1.1.186.8328	2010	Relational Duality: Unsupervised Extraction of Semantic Relations between Entities on the Web	relational duality: unsupervised extraction semantic relations entities web
+10.1.1.85.5403	2003	Video Content Modelling: An Overview	video content modelling: overview
+10.1.1.182.3739	2010	Posterior Sparsity in Unsupervised Dependency Parsing	posterior sparsity unsupervised dependency parsing
+10.1.1.139.6522	2002	Modular Static Program Analysis	modular static program analysis
+10.1.1.135.9600	2005	Survey of Sparse and Non-Sparse Methods in Source Separation	survey sparse non-sparse methods source separation
+10.1.1.359.5281	2010	Automated search for causal relations: Theory and practice	automated search causal relations: theory practice
+10.1.1.71.6696	2003	Speculative Plan Execution for Information Agents	speculative plan execution information agents
+10.1.1.101.9896	2003	Cache Memory Design Trade-offs for Current and Emerging Workloads	cache memory design trade-offs current emerging workloads
+10.1.1.136.4367	2006	Reducing Time and Space Costs of Memory Tracing	reducing time space costs memory tracing
+10.1.1.12.305	2002	Volume Graphics: Field-Based Modelling and Rendering	volume graphics: field-based modelling rendering
+10.1.1.178.3420	2009	Unsupervised methods for determining object and relation synonyms on the web	unsupervised methods determining object relation synonyms web
+10.1.1.140.8664	2008	A General Model for Multiple View Unsupervised Learning	general model multiple view unsupervised learning
+10.1.1.13.3938	2003	An Intelligent Broker Architecture for Context-Aware Systems	intelligent broker architecture context-aware systems
+10.1.1.75.5099	1998	Faithful Representations and Moments of Satisfaction: Probabilistic Methods in Learning and Logic	faithful representations moments satisfaction: probabilistic methods learning logic
+10.1.1.128.5695	2003	Using Interaction Costs for Microarchitectural Bottleneck Analysis	using interaction costs microarchitectural bottleneck analysis
+10.1.1.78.7630	2006	A Framework for the Static Verification of API Calls	framework static verification api calls
+10.1.1.197.5249	2004	An efficient data mining method for learning Bayesian networks using an evolutionary algorithm-based hybrid approach	efficient data mining method learning bayesian networks using evolutionary algorithm-based hybrid approach
+10.1.1.221.6067	2004	ATLAS: A Framework for Large Scale Automated Mapping and Localization	atlas: framework large scale automated mapping localization
+10.1.1.109.7685	2004	An evaluation of statistical spam filtering techniques	evaluation statistical spam filtering techniques
+10.1.1.364.4122	2013	A Survey and Comparison of Discrete and Continuous Multi-label Optimization Approaches for the Potts Model	survey comparison discrete continuous multi-label optimization approaches potts model
+10.1.1.224.8919	2011	Taint-Exchange: A Generic System for Cross-process and Cross-host Taint Tracking	taint-exchange: generic system cross-process cross-host taint tracking
+10.1.1.138.2171	2007	Region-Based Hierarchical Image Matching	region-based hierarchical image matching
+10.1.1.298.6802	2010	Are your hosts trading or plotting? Telling P2P file-sharing and bots apart	hosts trading plotting? telling p2p file-sharing bots apart
+10.1.1.259.3316	2012	Sparse Representation with Kernels	sparse representation kernels
+10.1.1.122.864	2008	Halo: High-assurance locate for distributed hash tables	halo: high-assurance locate distributed hash tables
+10.1.1.142.5135	2009	As time goes by: Constraint handling rules -- A survey of CHR research between 1998 and 2007	time goes by: constraint handling rules -- survey chr research 1998 2007
+10.1.1.298.4958	2012	Minimum-Time Control of Boolean Networks	minimum-time control boolean networks
+10.1.1.359.5083	2012	Variational Bayesian optimization for runtime risksensitive control	variational bayesian optimization runtime risksensitive control
+10.1.1.146.4439	2006	Allowing state changes in specifications	allowing state changes specifications
+10.1.1.421.9250	2012	Transforming commodity security policies to enforce Clark-Wilson integrity	transforming commodity security policies enforce clark-wilson integrity
+10.1.1.99.6925	2006	How practical are intrusion-tolerant distributed systems?	practical intrusion-tolerant distributed systems?
+10.1.1.229.1709	2011	Stealthy traffic analysis of low-latency anonymous communication using throughput fingerprinting	stealthy traffic analysis low-latency anonymous communication using throughput fingerprinting
+10.1.1.3.2416	2003	Resource Discovery In Large Resource-Sharing Environments	resource discovery large resource-sharing environments
+10.1.1.127.854	2007	An efficient earth mover’s distance algorithm for robust histogram comparison	efficient earth mover’s distance algorithm robust histogram comparison
+10.1.1.117.3817	2006	Subtleties in tolerating correlated failures in wide-area storage systems	subtleties tolerating correlated failures wide-area storage systems
+10.1.1.160.9633	2009	Context-aware visual tracking	context-aware visual tracking
+10.1.1.61.695	2006	Photoflux Maximizing Shapes	photoflux maximizing shapes
+10.1.1.65.4958	2007	A machine learning approach to TCP throughput prediction	machine learning approach tcp throughput prediction
+10.1.1.208.6972	2005	Tracking Human Body Pose on a Learned Smooth Space	tracking human body pose learned smooth space
+10.1.1.83.6404	2004	Structure Management for Scalable Overlay Service Construction	structure management scalable overlay service construction
+10.1.1.150.4968	2009	Scheduling Deterministic Parallel Programs	scheduling deterministic parallel programs
+10.1.1.184.476	2009	Large Scale Visual Navigation and Community Map Building	large scale visual navigation community map building
+10.1.1.89.3414	2006	Understanding the Causes of Packet Delivery Success and Failure in Dense Wireless Sensor Networks	understanding causes packet delivery success failure dense wireless sensor networks
+10.1.1.190.6021	2009	Online Empirical Evaluation of Tracking Algorithms	online empirical evaluation tracking algorithms
+10.1.1.229.1581	2011	Static analysis for efficient hybrid information-flow control	static analysis efficient hybrid information-flow control
+10.1.1.141.1651	2008	Finding Frequent Items in Probabilistic Data	finding frequent items probabilistic data
+10.1.1.155.317	2009	Clustering the tagged web	clustering tagged web
+10.1.1.100.9471	2005	Fast online pointer analysis	fast online pointer analysis
+10.1.1.101.4668	2004	Great expectations: The value of spatial diversity in wireless networks	great expectations: value spatial diversity wireless networks
+10.1.1.210.6949	2009	Catching the Network Science Bug: Insight and Opportunities for the Operations Researchers	catching network science bug: insight opportunities operations researchers

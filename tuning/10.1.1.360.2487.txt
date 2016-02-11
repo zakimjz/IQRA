@@ -1,0 +1,30 @@
+10.1.1.360.2487	2013	Eliminating cache-based timing attacks with instruction-based scheduling: Extended version. http: //www.cse.chalmers.se/~buiras/esorics2013_extended.pdf
+R1	10.1.1.10.3979	Language-Based Information-Flow Security
+R1	10.1.1.31.8802	A Decentralized Model for Information Flow Control
+R1	10.1.1.22.9484	Transforming out Timing Leaks
+R1	10.1.1.34.6095	Probabilistic Noninterference for Multi-threaded Programs
+R1	10.1.1.42.3759	A Note on the Confinement Problem
+R1	10.1.1.140.767	Securing interaction between threads and the scheduler in the presence  of synchronization
+R1	10.1.1.144.872	Cache missing for fun and profit
+R1	10.1.1.15.3238	Observational Determinism for Concurrent Program Security
+R1	10.1.1.60.1857	Cache Attacks and Countermeasures: the Case of AES
+R1	10.1.1.60.5854	Timing Aware Information Flow Security for a JavaCard-like Bytecode
+R1	10.1.1.165.7844	Cache-collision timing attacks against AES
+R1	10.1.1.208.264	Making information flow explicit in HiStar
+R1	10.1.1.129.4806	Information flow control for standard OS abstractions
+R1	10.1.1.422.1376	A World Wide Web Without Walls
+R1	10.1.1.117.6376	Gaining Insights into Multicore Cache Partitioning: Bridging the Gap between Simulation and Real Systems
+R1	10.1.1.117.9631	Arrows for Secure Information Flow
+R1	10.1.1.141.1880	Can Hardware Performance Counters be Trusted?
+R1	10.1.1.163.5810	A Library for Light-Weight Information-Flow Security in Haskell
+R1	10.1.1.295.3888	Predictive black-box mitigation of timing channels
+R1	10.1.1.359.9261	Flexible dynamic information flow control in Haskell
+R1	10.1.1.295.4237	Predictive mitigation of timing channels in interactive systems
+R1	10.1.1.258.8099	Hails: Protecting Data Privacy in Untrusted Web Applications
+R1	10.1.1.359.9896	Addressing covert termination and timing channels in concurrent information flow systems. ICFP
+R1	10.1.1.259.6637	STEALTHMEM: System-Level Protection Against Cache-Based Side Channel Attacks in the Cloud
+R1	10.1.1.295.1540	Languagebased control and mitigation of timing channels
+R1	10.1.1.400.7750	M.: Automatic quantification of cache sidechannels
+R1	10.1.1.380.8505	seL4: from general purpose to a proof of information flow enforcement
+R1	10.1.1.360.2487	Eliminating cache-based timing attacks with instruction-based scheduling: Extended version. http: //www.cse.chalmers.se/~buiras/esorics2013_extended.pdf
+R1	10.1.1.398.7644	Using Hardware Performance Events for Instruction-Level Monitoring on the x86 Architecture

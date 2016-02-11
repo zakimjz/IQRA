@@ -1,0 +1,26 @@
+10.1.1.170.6526	2007	MODELING SEMANTIC ASPECTS FOR CROSS-MEDIA IMAGE INDEXING
+R1	10.1.1.130.6341	Unsupervised Learning by Probabilistic Latent Semantic Analysis
+R1	10.1.1.14.3601	Normalized Cuts and Image Segmentation
+R1	10.1.1.110.4050	Latent dirichlet allocation
+R1	10.1.1.136.4303	Content-based image retrieval at the end of the early years
+R1	10.1.1.3.4919	On Image Auto-Annotation with Latent Space Models
+R1	10.1.1.27.1819	Blobworld: Image segmentation using Expectation-Maximization and its application to image querying
+R1	10.1.1.14.4931	Distinctive Image Features from Scale-Invariant Keypoints
+R1	10.1.1.1.4675	Automatic Image Captioning
+R1	10.1.1.113.7132	Matching words and pictures
+R1	10.1.1.140.6686	Modeling annotated data
+R1	10.1.1.14.8561	Automatic Image Annotation and Retrieval using Cross-Media Relevance Models
+R1	10.1.1.5.7817	Automatic Linguistic Indexing of Pictures by a Statistical Modeling Approach
+R1	10.1.1.10.6807	Rapid object detection using a boosted cascade of simple features
+R1	10.1.1.70.3629	A model for learning the semantics of pictures
+R1	10.1.1.136.2419	Boosting Image Retrieval
+R1	10.1.1.112.6262	A bayesian hierarchical model for learning natural scene categories
+R1	10.1.1.112.3832	Modeling scenes with local descriptors and latent aspects
+R1	10.1.1.114.9460	CBSA: Content-Based Soft Annotation for Multimodal Image Retrieval Using Bayes Point Machines
+R1	10.1.1.102.9805	Robust real-time face detection
+R1	10.1.1.95.2060	Leveraging face recognition technology to find and organize photos
+R1	10.1.1.133.4997	Learning to detect objects in images via a sparse, part-based representation
+R1	10.1.1.163.4949	Discovering object categories in image collections
+R1	10.1.1.160.9865	Processing similarity queries in mars
+R1	10.1.1.144.4109	Unsupervised Feature Selection Applied to Content-Based Retrieval of Lung Images
+R1	10.1.1.98.4526	Constructing Visual Models with a Latent Space Approach

@@ -1,0 +1,22 @@
+10.1.1.107.377	2007	EPISTURMIAN WORDS: A SURVEY
+R1	10.1.1.146.2277	Transcendence of Sturmian or morphic continued fractions
+R1	10.1.1.361.7457	RECENT RESULTS ON EXTENSIONS OF STURMIAN WORDS
+R1	10.1.1.102.8041	Characterizations of finite and infinite episturmian words via lexicographic orderings
+R1	10.1.1.247.6528	Powers in a class of A-strict standard episturmian words
+R1	10.1.1.247.9312	A characterization of fine words over a finite alphabet
+R1	10.1.1.2.3826	Return Words In Sturmian And Episturmian Words
+R1	10.1.1.146.256	A generalization of Sturmian sequences; combinatorial structure and transcendence
+R1	10.1.1.108.5591	Palindromic prefixes and episturmian words
+R1	10.1.1.361.7021	A characterization of Sturmian morphisms
+R1	10.1.1.145.8886	Descendants of Primitive Substitutions
+R1	10.1.1.145.8327	Frequencies of factors in Arnoux-Rauzy sequences
+R1	10.1.1.8.8266	Sequences With Grouped Factors
+R1	10.1.1.313.5332	Extremal properties of (epi)Sturmian sequences and distribution modulo 1
+R1	10.1.1.145.8633	Initial powers of Sturmian sequences
+R1	10.1.1.145.9473	On different generalizations of episturmian words
+R1	10.1.1.145.6292	Structure of three interval exchange transformations II: A combinatorial description of . . .
+R1	10.1.1.244.8348	Palindromic richness
+R1	10.1.1.312.8320	Quasiperiodic and Lyndon episturmian words
+R1	10.1.1.124.6410	On stabilizers of infinite words
+R1	10.1.1.239.2281	A characterization of balanced episturmian sequences, Electron
+R1	10.1.1.342.7763	A local balance property of episturmian words

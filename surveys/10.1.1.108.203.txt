@@ -1,0 +1,59 @@
+10.1.1.108.203	2001	A Survey of Computer Vision-Based Human Motion Capture
+R1	10.1.1.122.7647	A dynamic Bayesian network approach to figure tracking using learned dynamic models
+R1	10.1.1.15.9468	A Multiple Hypothesis Approach to Figure Tracking
+R1	10.1.1.136.6992	Voice puppetry
+R1	10.1.1.353.4090	Visual interpretation of hand gestures for human-computer interaction: A review
+R1	10.1.1.52.7413	Dynamic Models of Human Motion
+R1	10.1.1.51.3537	Understanding Purposeful Human Motion
+R1	10.1.1.38.6836	Human Movement Analysis Based On Explicit Motion Models
+R1	10.1.1.131.2072	The Visual Analysis of Human Movement: A Survey
+R1	10.1.1.14.2400	Tracking People with Twists and Exponential Maps
+R1	10.1.1.16.6213	3-D model-based tracking of humans in action: a multi-view approach
+R1	10.1.1.54.7209	W4: Who? When? Where? What? A Real Time System for Detecting and Tracking People
+R1	10.1.1.127.4352	Tracking Interacting People
+R1	10.1.1.37.849	Ghost: A Human Body Part Labeling System Using Silhouettes
+R1	10.1.1.71.4748	3D Human Pose Estimation using 2D-Data and an Alternative Phase Space Representation
+R1	10.1.1.128.1804	Cardboard people: A parameterized model of articulated image motion
+R1	10.1.1.2.6536	A Framework for Modeling the Appearance of 3D Articulated Figures
+R1	10.1.1.1.5612	Virtual People: Capturing human models to populate virtual worlds
+R1	10.1.1.357.2892	3D Human body model acquisition from multiple views
+R1	10.1.1.323.9865	Automated body modeling from video sequences
+R1	10.1.1.87.2026	Detection and Estimation of Pointing Gestures in Dense Disparity Maps
+R1	10.1.1.56.3581	Articulated and Elastic Non-rigid Motion: A Review
+R1	10.1.1.118.4362	Backpack: Detection of People Carrying Objects Using Silhouettes
+R1	10.1.1.51.3474	Lower Limb Kinematics of Human Walking with the Medial Axis Transformation
+R1	10.1.1.49.3276	Model-Based Estimation of 3D Human Motion with Occlusion Based on Active Multi-Viewpoint Selection
+R1	10.1.1.58.5047	Towards Model-Based Capture of a Persons Shape, Appearance and Motion
+R1	10.1.1.53.3159	Recognition of Human Body Motion Using Phase Space Constraints
+R1	10.1.1.33.1194	The Representation and Recognition of Action Using Temporal Templates
+R1	10.1.1.47.5773	Gesture Recognition Using the Perseus Architecture
+R1	10.1.1.19.9725	Parameterized Modeling and Recognition of Activities
+R1	10.1.1.1.9868	Multiple Cues used in Model-Based Human Motion Capture
+R1	10.1.1.40.4400	Real-time Human Motion Analysis by Image Skeletonization
+R1	10.1.1.2.1076	Summaries of 107 Computer Vision-Based Human Motion Capture Papers
+R1	10.1.1.36.9026	Visual Interaction With Lifelike Characters
+R1	10.1.1.50.182	Pedestrian Detection Using Wavelet Templates
+R1	10.1.1.128.5793	Finding People by Sampling
+R1	10.1.1.112.8904	Robust real-time periodic motion detection, analysis, and applications
+R1	10.1.1.54.214	Real-Time 3-D Tracking of the Human Body
+R1	10.1.1.33.4325	Learning and Recognizing Human Dynamics in Video Sequences
+R1	10.1.1.30.8240	SIDEshow: A Silhouette-based Interactive Dual-screen Environment
+R1	10.1.1.51.2091	Model Based Extraction of Articulated Objects in Image Sequences for Gait Analysis
+R1	10.1.1.11.2741	Computer Vision for Computer Games
+R1	10.1.1.53.6804	Tracking Human Motion Using Multiple Cameras
+R1	10.1.1.12.4848	Classification of Human Body Motion
+R1	10.1.1.44.8622	An Appearance-based Representation of Action
+R1	10.1.1.28.2449	Recognizing Motion Using Local Appearance
+R1	10.1.1.331.6672	Tracking and Counting Moving People
+R1	10.1.1.7.9846	Tracking a Person with 3-D Motion by Integrating Optical Flow and Depth
+R1	10.1.1.129.6791	Virtual Humans for Animation, Ergonomics, and Simulation
+R1	10.1.1.332.8368	Staying Alive: A Virtual Reality Visualization Tool for Cancer Patients
+R1	10.1.1.42.7371	A Novel Environment for Situated Vision and Behavior
+R1	10.1.1.33.3327	Visual Surveillance of Human Activity
+R1	10.1.1.112.5024	A REGION BASED APPROACH FOR HUMAN BODY MOTION ANALYSIS
+R1	10.1.1.2.974	Interacting with a Virtual World through Motion Capture
+R1	10.1.1.28.2812	Using Computer Vision to Control a Reactive Computer Graphics . . .
+R1	10.1.1.321.6903	Person Tracking in Real-World Scenarios Using Statistical Methods
+R1	10.1.1.29.897	Local and Global Skeleton Fitting Techniques for Optical Motion Capture
+R1	10.1.1.33.9417	Human Body Modelling For People Localization And Tracking From Real Image Sequences
+R1	10.1.1.40.5510	A Virtual 3D Blackboard: 3D Finger Tracking using a Single Camera

@@ -1,0 +1,46 @@
+10.1.1.12.4358	2002	A Survey of Graph Layout Problems
+R1	10.1.1.395.4768	Optimum communication spanning trees
+R1	10.1.1.112.8322	Embedding graphs in books: a layout problem with applications to VLSI design
+R1	10.1.1.386.3597	Complexity and Approximation
+R1	10.1.1.18.8755	A Tourist Guide through Treewidth
+R1	10.1.1.33.2991	The Congestion of n-Cube Layout on a Rectangular Grid
+R1	10.1.1.12.2803	Tractability of Parameterized Completion Problems on Chordal, Strongly Chordal and Proper Interval Graphs
+R1	10.1.1.158.6771	Fixed-parameter tractability and completeness II: On completeness for W[1]
+R1	10.1.1.48.4299	Using Helpful Sets to Improve Graph Bisections
+R1	10.1.1.32.1401	Polynomial Time Approximation Schemes for Dense Instances of NP-Hard Problems
+R1	10.1.1.38.7061	Stack And Queue Layouts Of Directed Acyclic Graphs: Part II
+R1	10.1.1.40.4680	How Good is Recursive Bisection?
+R1	10.1.1.104.6528	A Separator Theorem for Planar Graphs
+R1	10.1.1.12.8158	Graph Sandwich Problems
+R1	10.1.1.10.872	A Constructive Linear Time Algorithm for Small Cutwidth
+R1	10.1.1.125.6059	A spectral algorithm for envelope reduction of sparse matrices
+R1	10.1.1.30.2804	A Polynomial Time Approximation Scheme for Minimum Routing Cost Spanning Trees
+R1	10.1.1.35.528	Complexity and Algorithms for Reasoning About Time: A Graph-Theoretic Approach
+R1	10.1.1.49.4344	Sparse Matrix-Vector Multiplication on a Small Linear Array
+R1	10.1.1.54.6741	Stack And Queue Layouts Of Posets
+R1	10.1.1.31.2087	New Approximation Techniques for Some Ordering Problems
+R1	10.1.1.119.170	ON THE COVERINGS OF GRAPHS
+R1	10.1.1.104.8518	Index assignment for multichannel communication under failure
+R1	10.1.1.133.6943	COMPLEXITY RESULTS FOR BANDWIDTH MINIMIZATION
+R1	10.1.1.7.2684	On The Probable Performance Of Heuristics For Bandwidth Minimization
+R1	10.1.1.139.2587	A Dynamic Survey of Graph Labeling
+R1	10.1.1.44.9198	Greedy, Prohibition, and Reactive Heuristics for Graph Partitioning
+R1	10.1.1.20.7915	Combining Spectral Sequencing and Parallel Simulated Annealing for the MinLA Problem
+R1	10.1.1.85.8775	On weighted vs unweighted versions of combinatorial optimization problems
+R1	10.1.1.52.5782	Approximating the Bandwidth for Asteroidal Triple-Free Graphs
+R1	10.1.1.12.5001	On the Complexity of DNA Physical Mapping
+R1	10.1.1.35.2417	Computing Optimal Linear Layouts of Trees in Linear Time
+R1	10.1.1.13.5236	On Bandwidth, Cutwidth, and Quotient Graphs
+R1	10.1.1.364.7703	The complexity of approximating the bandwidth problem
+R1	10.1.1.108.5554	Multi-terminal network
+R1	10.1.1.121.3828	On Bipartite Drawings and the Linear Arrangement Problem
+R1	10.1.1.27.5827	Routing Tree Problems on Random Graphs
+R1	10.1.1.33.2159	Path Optimization for Graph Partitioning Problems
+R1	10.1.1.33.2737	New Spectral Lower Bounds on the Bisection Width of Graphs
+R1	10.1.1.19.2921	On Intervalizing k-Colored Graphs for DNA Physical Mapping
+R1	10.1.1.49.1121	Combining Helpful Sets and Parallel Simulated Annealing for the Graph-Partitioning Problem
+R1	10.1.1.47.3966	A Spectral Approach to Bandwidth and Separator Problems in Graphs
+R1	10.1.1.13.7431	Pathwidth, Bandwidth and Completion Problems to Proper Interval Graphs with Small Cliques
+R1	10.1.1.13.4362	Bounded Degree Interval Sandwich Problems
+R1	10.1.1.109.946	Eigenvalues in  combinatorial optimization
+R1	10.1.1.50.6041	Bisecting de Bruijn and Kautz Graphs

@@ -1,0 +1,22 @@
+10.1.1.128.726	2007	Optimizing dual-core execution for power efficiency and transientfault recovery
+R1	10.1.1.1.2396	Transient Fault Detection via Simultaneous Multithreading
+R1	10.1.1.152.3977	DIVA: A Reliable Substrate for Deep Submicron Microarchitecture Design
+R1	10.1.1.43.4001	AR-SMT: A Microarchitectural Approach to Fault Tolerance in Microprocessors
+R1	10.1.1.7.3673	Master/Slave Speculative Parallelization
+R1	10.1.1.24.5520	Tolerating Memory Latency through Software-Controlled Pre-Execution in Simultaneous Multithreading Processors
+R1	10.1.1.24.6428	Execution-based Prediction Using Speculative Slices
+R1	10.1.1.11.3110	Energy-Efficient Processor Design Using Multiple Clock Domains with Dynamic Voltage and Frequency Scaling
+R1	10.1.1.129.2655	Checkpoint processing and recovery: Towards scalable large instruction window processors
+R1	10.1.1.130.826	Transient-fault recovery for chip multiprocessors
+R1	10.1.1.13.2922	Detailed Design and Evaluation of Redundant Multithreading Alternatives
+R1	10.1.1.8.7630	Transient-Fault Recovery Using Simultaneous Multithreading
+R1	10.1.1.4.3361	A Large, Fast Instruction Window for Tolerating Cache Misses
+R1	10.1.1.7.5162	HotLeakage: A Temperature-Aware Model of Subthreshold and Gate Leakage for Architects
+R1	10.1.1.73.8620	Exploiting Coarse-Grain Verification Parallelism for Power-Efficient Fault Tolerance
+R1	10.1.1.131.633	Dual Use of Superscalar Datapath for Transient-Fault Detection and Recovery
+R1	10.1.1.114.3933	Improving data cache performance by pre-executing instructions under a cache miss
+R1	10.1.1.111.9057	Runahead execution: An alternative to very large instruction windows for out-of-order processors
+R1	10.1.1.111.6668	Memory Ordering: A Value-based Approach
+R1	10.1.1.143.6908	Slipstream processors: improving both performance and fault tolerance
+R1	10.1.1.115.5494	Dynamically allocating processor resources between nearby and distant ILP
+R1	10.1.1.156.3998	Dual-core execution: building a highly scalable single-thread instruction window

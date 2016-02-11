@@ -1,0 +1,27 @@
+10.1.1.364.4122	2013	A Survey and Comparison of Discrete and Continuous Multi-label Optimization Approaches for the Potts Model
+R1	10.1.1.112.6806	Fast approximate energy minimization via graph cuts
+R1	10.1.1.31.3602	Approximation Algorithms for Classification Problems with Pairwise Relationships: Metric Labeling and Markov Random Fields
+R1	10.1.1.399.7501	On the statistical analysis of dirty pictures
+R1	10.1.1.11.5793	MAP estimation via agreement on (hyper)trees: Message-passing and linear programming approaches
+R1	10.1.1.2.1828	Active Contours without Edges
+R1	10.1.1.106.8689	Exact optimization for markov random fields with convex priors
+R1	10.1.1.295.8592	Convergent Tree-Reweighted Message Passing for Energy Minimization
+R1	10.1.1.214.6312	A new framework for approximate labeling via graph cuts
+R1	10.1.1.103.2063	Algorithms for Finding Global Minimizers of Image Segmentation and Denoising Models
+R1	10.1.1.117.6211	A comparative study of energy minimization methods for Markov random fields
+R1	10.1.1.3.9470	Multiphase Dynamic Labeling for Variational Recognition-Driven Image Segmentation
+R1	10.1.1.62.7698	approximately optimal solutions for single and dynamic mrfs
+R1	10.1.1.63.9455	LogCut- Efficient Graph Cut Optimization for Markov Random Fields
+R1	10.1.1.214.7185	Graph Cut Based Optimization for MRFs with Truncated Convex Priors
+R1	10.1.1.114.9470	A review of statistical approaches to level set segmentation: Integrating color, texture, motion and shape
+R1	10.1.1.296.4958	A multiphase dynamic labeling model for variational recognition-driven image segmentation
+R1	10.1.1.145.3833	Fast Global Labeling for Real-Time Stereo Using Multiple Plane Sweeps
+R1	10.1.1.364.4135	An experimental comparison of discrete and continuous shape optimization methods
+R1	10.1.1.188.2314	Anisotropic Minimal Surfaces Integrating Photoconsistency and Normal Information for Multiview Stereo
+R1	10.1.1.187.8905	Dynamic Hybrid Algorithms for MAP Inference in Discrete MRFs
+R1	10.1.1.206.5398	Making the Right Moves: Guiding Alpha-Expansion using Local Primal-Dual Gaps
+R1	10.1.1.381.5061	Interactive multi-label segmentation
+R1	10.1.1.232.9905	GLOBAL SOLUTIONS OF VARIATIONAL MODELS WITH CONVEX REGULARIZATION
+R1	10.1.1.364.4472	Generalized ordering constraints for multilabel optimization
+R1	10.1.1.364.4970	Spatially varying color distributions for interactive multi-label segmentation
+R1	10.1.1.364.4158	Space-varying color distributions for interactive multiregion segmentation: Discrete versus continuous approaches

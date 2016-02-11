@@ -1,0 +1,21 @@
+10.1.1.11.7703	2001	Integrating Diverse Information Management Systems: A Brief Survey
+R1	10.1.1.27.7690	Modern Information Retrieval
+R1	10.1.1.23.967	A Query Language and Optimization Techniques for Unstructured Data
+R1	10.1.1.30.7531	On Wrapping Query Languages and Efficient XML Integration
+R1	10.1.1.112.869	Optimal Aggregation Algorithms for Middleware
+R1	10.1.1.137.5340	Storing semistructured data with STORED
+R1	10.1.1.48.8190	From Structured Documents to Novel Query Facilities
+R1	10.1.1.23.287	WSQ/DSQ: A Practical Approach for Combined Querying of Databases and the Web
+R1	10.1.1.207.9531	Relational Databases for Querying XML Documents:  Limitations and Opportunities
+R1	10.1.1.21.9982	Efficiently Publishing Relational Data as XML Documents
+R1	10.1.1.132.6191	Proximity search in databases
+R1	10.1.1.11.8097	XIRQL: A Query Language for Information Retrieval in XML Documents
+R1	10.1.1.31.7714	Querying XML Documents in Xyleme
+R1	10.1.1.33.1762	Integrating Keyword Search into XML Query Processing
+R1	10.1.1.32.9017	Ozone: Integrating Structured and Semistructured Data
+R1	10.1.1.15.1710	Integrating IR and RDBMS Using Cooperative Indexing
+R1	10.1.1.117.7204	On the integration of IR and databases
+R1	10.1.1.42.5298	Supporting Full-Text Information Retrieval with a Persistent Object Store
+R1	10.1.1.155.142	An Extended Relational Document Retrieval Model
+R1	10.1.1.150.1682	Exploiting the functionality of object-oriented database management systems for information retrieval
+R1	10.1.1.30.7646	An OODBMS-IRS Coupling for Structured Documents

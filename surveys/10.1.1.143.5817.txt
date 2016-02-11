@@ -1,0 +1,23 @@
+10.1.1.143.5817	2008	A Survey of Security Techniques for the Border Gateway Protocol (BGP)
+R1	10.1.1.20.9595	An Efficient Message Authentication Scheme for Link State Routing
+R1	10.1.1.20.3884	Working Around BGP: An Incremental Approach to Improving Security and Accuracy of Interdomain Routing
+R1	10.1.1.10.5263	Securing the Border Gateway Routing Protocol
+R1	10.1.1.9.6975	Origin Authentication in Interdomain Routing
+R1	10.1.1.4.3193	Listen and Whisper: Security Mechanisms for BGP
+R1	10.1.1.108.762	Secure Border Gateway Protocol (S-BGP
+R1	10.1.1.136.8266	Beware of BGP Attacks
+R1	10.1.1.165.574	Detecting Disruptive Routers: A Distributed Network Monitoring Approach
+R1	10.1.1.228.1119	Optimizing BGP security by exploiting path stability
+R1	10.1.1.88.1440	Modeling adoptability of secure BGP protocols
+R1	10.1.1.116.5045	Efficient Techniques for Detecting False Origin
+R1	10.1.1.128.7549	Pretty Good BGP: Improving BGP by cautiously adopting routes
+R1	10.1.1.115.6314	Don’t Secure Routing Protocols, Secure Data Delivery
+R1	10.1.1.131.8836	Hi-BGP: A Lightweight Hijack-proof Inter-domain Routing Protocol
+R1	10.1.1.119.1507	Oorschot. Pretty secure BGP (psBGP
+R1	10.1.1.112.4963	Protecting BGP Routes to Top Level DNS Servers
+R1	10.1.1.160.5222	SANE: A Protection Architecture for Enterprise Networks
+R1	10.1.1.87.90	A distributed reputation approach to cooperative internet routing protection
+R1	10.1.1.69.6763	Securing BGP using external security monitors
+R1	10.1.1.130.7558	A Light Weight DIstributed Scheme for Detecting . . .
+R1	10.1.1.111.3307	Detecting Bogus BGP Route Information: Going Beyond Prefix Hijacking
+R1	10.1.1.137.6146	Descartes BGP: A Conflict Detection and Response Framework for Inter-domain Routing

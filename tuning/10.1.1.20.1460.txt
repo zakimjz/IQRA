@@ -1,0 +1,25 @@
+10.1.1.20.1460	2002	Survey of Multicast Routing Algorithms and Protocols
+R1	10.1.1.1.1727	An Overview of Quality-of-Service Routing for the Next Generation High-Speed Networks: Problems and Solutions
+R1	10.1.1.44.2926	Building Shared Trees Using a One-to-Many Joining Mechanism
+R1	10.1.1.12.8162	Multicast Routing for Multimedia Communication
+R1	10.1.1.43.9859	Core Selection Methods for Multicast Routing
+R1	10.1.1.382.9865	Core Based Trees (CBT version 2) Multicast Routing: Protocol Specification", RFC 2189
+R1	10.1.1.23.3371	Pricing Multicast Communication: A Cost-Based Approach
+R1	10.1.1.376.2249	Distance Vector Multicast Routing Protocol
+R1	10.1.1.12.6292	A Unicast-based Approach for Streaming Multicast
+R1	10.1.1.145.4416	The Evolution of Multicast: From the MBone to Inter-Domain Multicast to Internet2 Deployment
+R1	10.1.1.20.7142	Modeling the Branching Characteristics and Efficiency Gains in Global Multicast Trees
+R1	10.1.1.9.4201	Taxonomy of Communication Requirements for Large-scale Multicast Applications
+R1	10.1.1.145.126	Scaling of Multicast Trees: Comments on the Chuang-Sirbu Scaling Law
+R1	10.1.1.32.2717	Hierarchical Distance-Vector Multicast Routing for the MBone
+R1	10.1.1.45.5	The Trade-offs of Multicast Trees and Algorithms
+R1	10.1.1.29.8485	Protocol Independent Multicast-Sparse Mode (PIM-SM): Protocol Specification
+R1	10.1.1.38.5962	Interoperability Rules for Multicast Routing Protocols
+R1	10.1.1.27.8202	Multicast Routing and Its QoS Extension: Problems, Algorithms, and Protocols
+R1	10.1.1.35.5656	Developing a Multicast Metric
+R1	10.1.1.103.3049	MAMCRA: a constrained-based multicast routing algorithm
+R1	10.1.1.109.48	Distributed Center-Location Algorithms
+R1	10.1.1.37.7609	Destination-Driven Routing for Low-Cost Multicast
+R1	10.1.1.382.9752	Core based trees (CBT) multicast routing architecture
+R1	10.1.1.24.1575	Multicast Routing in Dense and Sparse Modes: Simulation Study of Tradeoffs and Dynamics
+R1	10.1.1.16.8516	Stability of a Multicast Tree

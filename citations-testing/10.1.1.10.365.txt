@@ -1,0 +1,24 @@
+10.1.1.10.365	2002	Netbait: a Distributed Worm Detection Service
+R1	10.1.1.140.3129	A Scalable Content-Addressable Network
+R1	10.1.1.28.5987	Pastry: Scalable, distributed object location and routing for large-scale peer-to-peer systems
+R1	10.1.1.105.3673	Chord: A Scalable Peer-to-Peer Lookup Service for Internet Applications
+R1	10.1.1.38.1850	Accessing Nearby Copies of Replicated Objects in a Distributed Environment
+R1	10.1.1.136.6228	TAG: a Tiny AGgregation service for ad-hoc sensor networks
+R1	10.1.1.111.1818	Tapestry: An infrastructure for fault-tolerant wide-area location and routing
+R1	10.1.1.143.9137	Modeling TCP Throughput: A Simple Model and its Empirical Validation
+R1	10.1.1.20.299	SCRIBE: A large-scale and decentralized application-level multicast infrastructure
+R1	10.1.1.22.2142	Bayeux: An architecture for scalable and fault-tolerant wide-area data dissemination
+R1	10.1.1.1.4310	Distributed Object Location in a Dynamic Network
+R1	10.1.1.13.2446	Astrolabe: A Robust and Scalable Technology for Distributed System Monitoring, Management, and Data Mining
+R1	10.1.1.109.4681	A blueprint for introducing disruptive technology into the internet
+R1	10.1.1.189.1333	Complex Queries in DHT-based Peer-to-Peer Networks
+R1	10.1.1.160.2889	The Ganglia Distributed Monitoring System: Design, Implementation And Experience
+R1	10.1.1.105.6212	Snort - Lightweight Intrusion Detection for Networks
+R1	10.1.1.100.9532	Lightweight probabilistic broadcast
+R1	10.1.1.17.7959	Bimodal Multicast
+R1	10.1.1.20.3576	Code-Red: a case study on the spread and victims of an Internet worm
+R1	10.1.1.12.5470	Internet Quarantine: Requirements for Containing Self-Propagating Code
+R1	10.1.1.118.5146	The Internet Worm Program: An Analysis
+R1	10.1.1.7.6725	HiScamp: self-organizing hierarchical membership protocol
+R1	10.1.1.6.360	Mining a World of Smart Sensors
+R1	10.1.1.19.5593	Efficient Heartbeats and Repair of Softstate in Decentralized Object Location and Routing Systems

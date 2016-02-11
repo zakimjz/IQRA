@@ -1,0 +1,28 @@
+10.1.1.215.6950	2009	Spectral-Driven Isometry-Invariant Matching of 3D Shapes
+R1	10.1.1.3.5219	Streaming Meshes
+R1	10.1.1.186.3499	A survey of content based 3D shape retrieval methods
+R1	10.1.1.175.770	Iterative point matching for registration of free-form curves and surfaces
+R1	10.1.1.53.2366	A Model of Saliency-based Visual Attention for Rapid Scene Analysis
+R1	10.1.1.79.151	The earth mover’s distance as a metric for image retrieval
+R1	10.1.1.19.5512	Efficient Simplification of Point-Sampled Surfaces
+R1	10.1.1.225.4288	Shape modeling with pointsampled geometry
+R1	10.1.1.169.5087	The Farthest Point Strategy for Progressive Image Sampling
+R1	10.1.1.18.9863	ACE: A Fast Multiscale Eigenvector Computation for Drawing Huge Graphs
+R1	10.1.1.133.2265	Computing Minimum-Weight Perfect Matchings
+R1	10.1.1.10.8037	Blowing Bubbles for the Multi-Scale Analysis and Decomposition of Triangle-Meshes
+R1	10.1.1.384.2889	Pose-oblivious shape signature
+R1	10.1.1.138.3769	Fast exact and approximate geodesics on meshes
+R1	10.1.1.3.718	Geodesic Object Representation and Recognition
+R1	10.1.1.61.7318	Efficient Computation of Isometry-Invariant Distances between Surfaces
+R1	10.1.1.87.1473	A spectral approach to shape-based retrieval of articulated 3D models
+R1	10.1.1.129.4976	Diffusion distance for histogram comparison
+R1	10.1.1.59.3423	A Topological Hierarchy for Functions on Triangulated Surfaces
+R1	10.1.1.14.7547	Fast Marching farthest point sampling
+R1	10.1.1.123.3439	Mesh Segmentation via Recursive and Visually Salient Spectral Cuts
+R1	10.1.1.232.6218	Spectral geometry processing with manifold harmonics
+R1	10.1.1.95.746	Compression of Textured Surfaces Represented as Surfel Sets
+R1	10.1.1.127.4368	Articulated Shape Matching Using Locally Linear Embedding and Orthogonal Alignment
+R1	10.1.1.132.8135	Spectral Methods for Mesh Processing and Analysis
+R1	10.1.1.186.1511	Salient local visual features for shape-based 3d model retrieval
+R1	10.1.1.86.6567	Laplace-Beltrami Eigenfunctions for Deformation Invariant Shape Representation
+R1	10.1.1.217.8435	Isometry-invariant matching of point set surfaces

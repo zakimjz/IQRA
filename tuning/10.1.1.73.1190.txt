@@ -1,0 +1,26 @@
+10.1.1.73.1190	2005	p2pDating: Real Life Inspired Semantic Overlay Networks for Web Search
+R1	10.1.1.140.3129	A Scalable Content-Addressable Network
+R1	10.1.1.105.3673	Chord: A Scalable Peer-to-Peer Lookup Service for Internet Applications
+R1	10.1.1.20.2080	Space/Time Trade-offs in Hash Coding with Allowable Errors
+R1	10.1.1.142.752	Pastry: Scalable, decentralized object location, and routing for large-scale peer-to-peer systems
+R1	10.1.1.109.4049	The Anatomy of a Large-Scale Hypertextual Web Search Engine
+R1	10.1.1.1.2639	Efficient Peer-to-Peer Keyword Searching
+R1	10.1.1.21.7565	Compressed Bloom Filters
+R1	10.1.1.11.6244	The BINGO! System for Information Portal Generation And Expert Web Search
+R1	10.1.1.10.7262	REMINDIN': Semantic Query Routing in Peer-to-Peer Networks Based on Social Metaphors
+R1	10.1.1.105.8601	PlanetP: Using Gossiping to Build Content Addressable Peer-to-Peer Information Sharing Communities
+R1	10.1.1.13.1643	Semantic Overlay Networks for P2P Systems
+R1	10.1.1.12.6196	ODISSEA: A Peer-to-Peer Architecture for Scalable Web Search and Information Retrieval
+R1	10.1.1.323.9640	Self-organization of the web and identification of communities
+R1	10.1.1.24.779	On the Resemblance and Containment of Documents
+R1	10.1.1.121.8215	Min-wise Independent Permutations
+R1	10.1.1.31.6094	Distributed Information Retrieval
+R1	10.1.1.4.8363	Peer-to-Peer Information Retrieval Using Self-Organizing Semantic Overlay Networks
+R1	10.1.1.2.8877	GridVine: Building Internet-Scale Semantic Overlay Networks
+R1	10.1.1.329.3391	Semantic Small World: An overlay network for peer-to-peer search
+R1	10.1.1.108.8161	Improving Collection Selection with Overlap Awareness in P2P Search Engines
+R1	10.1.1.107.5432	Minerva: Collaborative p2p search
+R1	10.1.1.66.5084	Content-based retrieval in hybrid peer-to-peer networks
+R1	10.1.1.11.5235	Towards High Performance Peer-to-Peer Content and Resource Sharing Systems
+R1	10.1.1.92.6222	The MINERVA project: Database selection in the context of P2P search
+R1	10.1.1.211.3772	JXP: Global Authority Scores in a P2P Network

@@ -1,0 +1,27 @@
+10.1.1.221.6067	2004	ATLAS: A Framework for Large Scale Automated Mapping and Localization
+R1	10.1.1.19.8778	An Online Mapping Algorithm for Teams of Mobile Robots
+R1	10.1.1.18.8488	Robust Monte Carlo Localization for Mobile Robots
+R1	10.1.1.1.6452	Incremental Mapping of Large Cyclic Environments
+R1	10.1.1.131.727	A solution to the simultaneous localization and map building (SLAM) problem
+R1	10.1.1.225.4487	Adaptive mobile robot navigation and mapping
+R1	10.1.1.16.2153	FastSLAM: A Factored Solution to the Simultaneous Localization and Mapping Problem
+R1	10.1.1.135.7147	Good features to track
+R1	10.1.1.86.493	The Geometry of Multiple Images
+R1	10.1.1.30.8888	Globally Consistent Range Scan Alignment for Environment Mapping
+R1	10.1.1.115.5201	Continuous localization using evidence grids
+R1	10.1.1.142.794	Simultaneous Mapping and Localization With Sparse Extended Information Filters: Theory and Initial Results
+R1	10.1.1.116.5571	Optimization of the Simultaneous Localization and Map Building Algorithm for Real Time Implementation
+R1	10.1.1.1.9094	Experiences with an Interactive Museum Tour-Guide Robot
+R1	10.1.1.12.8721	Calibrated, Registered Images of an Extended Urban Area
+R1	10.1.1.23.1853	Topological Simultaneous Localization and Mapping (SLAM): Toward Exact Localization Without Explicit Localization
+R1	10.1.1.4.9980	Map Building with Mobile Robots in Populated Environments
+R1	10.1.1.4.5829	A System for Volumetric Robotic Mapping of Abandoned Mines
+R1	10.1.1.12.7306	Online Simultaneous Localization and Mapping with Detection and Tracking of Moving Objects: Theory and Results from a Ground Vehicle in Crowded Urban Areas
+R1	10.1.1.34.6960	Structure and Motion from Line Segments in Multiple Images
+R1	10.1.1.13.7972	Using Multiple Gaussian Hypotheses to Represent Probability Distributions for Mobile Robot Localization
+R1	10.1.1.13.1288	Mobile Robot Localization and Mapping with Uncertainty using Scale-Invariant Visual Landmarks
+R1	10.1.1.128.5239	Decoupled Stochastic Mapping
+R1	10.1.1.108.7960	Robust mapping and localization in indoor environments using sonar data
+R1	10.1.1.225.2340	Mapping partially observable features from multiple uncertain vantage points
+R1	10.1.1.13.2226	Scalable Extrinsic Calibration of Omni-Directional Image Networks
+R1	10.1.1.24.2763	SUSAN - A New Approach to Low Level Image Processing

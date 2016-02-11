@@ -1,0 +1,24 @@
+10.1.1.1.2671	2002	A Survey of Web Metrics
+R1	10.1.1.120.3875	Authoritative Sources in a Hyperlinked Environment
+R1	10.1.1.28.2691	Learning to Probabilistically Identify Authoritative Documents
+R1	10.1.1.109.4049	The Anatomy of a Large-Scale Hypertextual Web Search Engine
+R1	10.1.1.27.2249	Adaptive Web Sites: Automatically Synthesizing Web Pages
+R1	10.1.1.137.6974	Structural analysis of hypertexts: Identifying hierarchies and useful metrics
+R1	10.1.1.101.43	Silk from a sow’s ear: Extracting usable structures from the web
+R1	10.1.1.31.3763	Scale-free characteristics of random networks: The topology of the world-wide web
+R1	10.1.1.208.7741	Graph structure in the Web
+R1	10.1.1.111.9843	Finding authorities and hubs from link structures on the world wide web
+R1	10.1.1.22.3686	Efficient Crawling Through URL Ordering
+R1	10.1.1.160.208	Finding related pages in the World Wide Web
+R1	10.1.1.33.4585	Results and Challenges in Web Search Evaluation
+R1	10.1.1.104.9001	Measuring index quality using random walks on the web
+R1	10.1.1.119.8734	The Web as a graph: Measurements, models and methods
+R1	10.1.1.322.3699	Searching the World Wide Web
+R1	10.1.1.11.8664	Searching the web: General and scientific information access
+R1	10.1.1.130.3254	The stochastic approach for link-structure analysis (SALSA) and the TKC effect
+R1	10.1.1.20.9332	PicASHOW: Pictorial Authority Search by Hyperlinks on the Web
+R1	10.1.1.27.2889	Towards Adaptive Web Sites: Conceptual Framework and Case Study
+R1	10.1.1.46.6741	In Search of Reliable Usage Data on the WWW
+R1	10.1.1.43.3278	What is this Page Known for? Computing Web Page Reputations
+R1	10.1.1.38.7764	Predicting Document Access in Large, Multimedia Repositories
+R1	10.1.1.21.478	Multi-Service Search and Comparison Using the MetaCrawler

@@ -1,0 +1,32 @@
+10.1.1.109.3026	2006	Medium access control protocols for ad hoc wireless networks: a survey
+R1	10.1.1.111.6423	Dynamic Tuning of the IEEE 802.11 Protocol to Achieve a Theoretical Throughput Limit
+R1	10.1.1.110.1242	Minimum energy mobile wireless networks
+R1	10.1.1.134.4617	PAMAS -- Power Aware Multi-Access protocol with Signalling for Ad Hoc Networks
+R1	10.1.1.8.3284	Supporting Service Differentiation in Wireless Packet Networks Using Distributed Control
+R1	10.1.1.37.5539	Topology Control of Multihop Wireless Networks using Transmit Power Adjustment
+R1	10.1.1.21.4228	A Multichannel CSMA MAC Protocol with Receiver-Based Channel Selection for Multihop Wireless Networks
+R1	10.1.1.81.8383	Multichannel CSMA with Signal Power-Based Channel Selection for Multihop Wireless Networks
+R1	10.1.1.2.7834	Investigating the Energy Consumption of a Wireless Network Interface in an Ad Hoc Networking Environment
+R1	10.1.1.16.8298	Power-Saving Protocols for IEEE 802.11-Based Multi-Hop Ad Hoc Networks
+R1	10.1.1.17.61	Floor Acquisition Multiple Access (FAMA) in Single-Channel Wireless Networks
+R1	10.1.1.10.4428	A Review of Current Routing Protocols for Ad-Hoc Mobile Wireless Networks
+R1	10.1.1.138.7981	Distributed topology control for power efficient operation in multihop wireless ad hoc networks
+R1	10.1.1.220.9939	Medium access control protocols for multimedia traffic in wireless networks
+R1	10.1.1.24.1314	An Energy-efficient Power Control Approach for WLANs
+R1	10.1.1.33.1059	Asynchronous Multimedia Multihop Wireless Networks+
+R1	10.1.1.16.7906	An Energy Efficient MAC Protocol for Wireless LANs
+R1	10.1.1.76.6228	Packet Switching in Radio Channels: Part I -- Carrier sense multiple-access modes and their throughput-delay characteristics
+R1	10.1.1.78.1446	Packet Switching In Radio Channels: Part III -- Polling and . . .
+R1	10.1.1.10.6560	Dual Busy Tone Multiple Access (DBTMA) - A Multiple Access Control Scheme for Ad Hoc Networks
+R1	10.1.1.12.1048	A Multi-channel MAC Protocol for Ad Hoc Wireless Networks
+R1	10.1.1.23.904	Medium Access Control in a Network of Ad Hoc Mobile Nodes with Heterogeneous Power Capabilities
+R1	10.1.1.37.7263	Analyzing and Tuning the Distributed Coordination Function in the IEEE 802.11 DFWMAC Draft Standard
+R1	10.1.1.100.5145	Adaptive clustering for mobile wireless networks
+R1	10.1.1.19.6519	Hybrid Channel Access Scheduling in Ad Hoc Networks
+R1	10.1.1.16.7862	Providing a Bidirectional Abstraction for Unidirectional Ad Hoc Networks
+R1	10.1.1.116.279	A flexible quality of service model for mobile ad-hoc networks
+R1	10.1.1.116.6812	An Adaptive MAC and Directional Routing Protocol for Ad Hoc Wireless Networks Using ESPAR Antenna
+R1	10.1.1.19.7881	A New Class of Collision-Free MAC Protocols for Ad Hoc Wireless Networks
+R1	10.1.1.40.8592	MACA-BI (MACA By Invitation) A Wireless MAC Protocol for High Speed ad hoc Networking
+R1	10.1.1.27.2760	Energy Efficiency of Media Access Protocols for Mobile Data Networks
+R1	10.1.1.47.1318	An Efficient Packet Sensing MAC Protocol for Wireless Networks

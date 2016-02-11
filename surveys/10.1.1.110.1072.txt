@@ -1,0 +1,34 @@
+10.1.1.110.1072	2001	Survey of graph database models
+R1	10.1.1.123.1085	The Entity-Relationship Model: Toward a Unified View of Data
+R1	10.1.1.23.967	A Query Language and Optimization Techniques for Unstructured Data
+R1	10.1.1.33.3592	Catching the Boat with Strudel: Experiences with a Web-Site Management System
+R1	10.1.1.242.4753	Statistical mechanics of complex networks
+R1	10.1.1.122.7284	The structure and function of complex networks
+R1	10.1.1.208.7741	Graph structure in the Web
+R1	10.1.1.117.5869	Semistructured data
+R1	10.1.1.1.3105	Bipartite Graphs as Intermediate Model for RDF
+R1	10.1.1.214.1433	A Survey of Research on Deductive Database Systems
+R1	10.1.1.2.6047	Design Issues and Challenges for RDF- and Schema-Based Peer-to-Peer Systems
+R1	10.1.1.43.3977	Temporal Query Languages: a Survey
+R1	10.1.1.331.6045	The complexity of relational query languages (extended abstract
+R1	10.1.1.29.9090	Queries and Computation on the Web
+R1	10.1.1.26.5298	A Graph-Oriented Object Database Model
+R1	10.1.1.10.2381	GraphGrep: A Fast and Universal Method for Querying Graphs
+R1	10.1.1.12.4024	A Modal Perspective on Path Constraints
+R1	10.1.1.11.671	The Web as a graph
+R1	10.1.1.32.8434	Gram: A Graph Data Model and Query Language
+R1	10.1.1.101.3703	An overview of data models for the analysis of biochemical pathways
+R1	10.1.1.21.3825	A Nested-Graph Model for the Representation and Manipulation of Complex Objects
+R1	10.1.1.139.4340	A Survey of Logical Models for OLAP Databases
+R1	10.1.1.122.2402	Data models and query languages for spatial databases
+R1	10.1.1.90.5758	A Graph-Oriented Object Model for Database End-User Interfaces
+R1	10.1.1.17.3819	Graph Data Model Operations for Network Facilities in a GIS
+R1	10.1.1.45.1924	Gras, A Graph-Oriented (software) Engineering Database System
+R1	10.1.1.16.2577	Database Graph Views: A Practical Model to Manage Persistent Graphs
+R1	10.1.1.21.5672	A Graph-Based Data Model and its Ramifications
+R1	10.1.1.53.9060	Principles of Object-Oriented Query Languages
+R1	10.1.1.26.5253	GOOD: A Graph-Oriented Object Database System
+R1	10.1.1.35.1836	A Hybrid Query Language for an Extended Entity-Relationship Model
+R1	10.1.1.9.9353	Semantic Association Identification and Knowledge Discovery for National Security Applications
+R1	10.1.1.93.342	Typing Graph-Manipulation Operations
+R1	10.1.1.90.6222	NetIntel: A Database for Manipulation of Rich Social Network Data

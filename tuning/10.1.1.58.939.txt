@@ -1,0 +1,26 @@
+10.1.1.58.939	2004	Multi-layer Active Queue Management and Congestion Control for Scalable Video Streaming
+R1	10.1.1.128.5092	Random Early Detection Gateways for Congestion Avoidance
+R1	10.1.1.136.4408	Equation-based congestion control for unicast applications
+R1	10.1.1.21.163	Stability of Distributed Congestion Control With Heterogeneous Feedback Delays
+R1	10.1.1.18.417	End-to-End Congestion Control for the Internet: Delay and Stability
+R1	10.1.1.33.1084	Measurements and analysis of end-to-end Internet dynamics
+R1	10.1.1.160.6569	Explicit Congestion Notification
+R1	10.1.1.41.9306	A Study of Active Queue Management for Congestion Control
+R1	10.1.1.18.9748	ABE: Providing a Low-Delay Service within Best Effort
+R1	10.1.1.16.7429	End-to-End Internet Video Traffic Dynamics: Statistical Study and Analysis
+R1	10.1.1.23.6128	Analysis and Design of an Adaptive Virtual Queue (AVQ) Algorithm for Active Queue Management
+R1	10.1.1.131.2789	Explicit Allocation of Best-Effort Packet Delivery Service
+R1	10.1.1.11.5087	Equation-Based Packet Marking for Assured Forwarding Services
+R1	10.1.1.150.1040	Efficient Fair Queuing using Deficit Round Robin
+R1	10.1.1.20.7245	RCS: A Rate Control Scheme for Real-Time Traffic in Networks with High Bandwidth-Delay Products and High Bit Error Rates
+R1	10.1.1.10.2502	Delayed Stability and Performance of Distributed Congestion Control
+R1	10.1.1.9.9453	Analysis of Rate-Distortion Functions and Congestion Control in Scalable Internet Video Streaming
+R1	10.1.1.58.5577	The MPEG-4 Fine-Grained Scalable Video Coding Method for Multimedia Streaming over IP
+R1	10.1.1.134.3706	Quality-of-Service Mapping Mechanism for Packet Video in Differentiated Services Network
+R1	10.1.1.13.6729	TCP-LP: A Distributed Algorithm for Low Priority Data Transfer
+R1	10.1.1.22.36	Understanding TCP Vegas: A Duality Model
+R1	10.1.1.30.8078	Equilibrium Bandwidth and Buffer Allocations for Elastic Traffics
+R1	10.1.1.24.9749	Dynamic QoS Mapping Control for Streaming Video in Relative Service Differentiation Networks
+R1	10.1.1.129.6034	Adaptive Packet Marking for Maintaining End-to-End Throughput in a Differentiated-Services Internet
+R1	10.1.1.53.7256	Uniform versus Priority Dropping for Layered Video
+R1	10.1.1.12.1156	Transmission of Layered Video Streams in a Differentiated Services Network

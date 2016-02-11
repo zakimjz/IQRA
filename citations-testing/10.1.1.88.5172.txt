@@ -1,0 +1,33 @@
+10.1.1.88.5172	2003	State of the art in global illumination for interactive applications and high-quality animations
+R1	10.1.1.164.9714	Modelling the Interaction of Light between Diffuse Surfaces
+R1	10.1.1.36.8082	Global Illumination using Photon Maps
+R1	10.1.1.71.223	Perception-Guided Global Illumination Solution for Animation Rendering
+R1	10.1.1.1.4497	Toward a Psychophysically-Based Light Reflection Model for Image Synthesis
+R1	10.1.1.93.5694	A rapid hierarchical radiosity algorithm
+R1	10.1.1.117.5144	A Clustering Algorithm for Radiosity in Complex Environments
+R1	10.1.1.40.2090	Metropolis Light Transport
+R1	10.1.1.84.713	Multi-Pass Pipeline Rendering: Realism For Dynamic Environments
+R1	10.1.1.10.8053	Precomputed Radiance Transfer for Real-Time Rendering in Dynamic, Low-Frequency Lighting Environments
+R1	10.1.1.35.3943	Frameless Rendering: Double Buffering Considered Harmful
+R1	10.1.1.106.6769	A progressive refinement approach to fast radiosity image generation
+R1	10.1.1.1.4229	Interactive Rendering using the Render Cache
+R1	10.1.1.10.7588	Enhancing and Optimizing the Render Cache
+R1	10.1.1.17.692	Clustering for Glossy Global Illumination
+R1	10.1.1.16.8880	Interactive Distributed Ray Tracing of Highly Complex Models
+R1	10.1.1.53.2366	A Model of Saliency-based Visual Attention for Rapid Scene Analysis
+R1	10.1.1.19.7331	Combining Hierarchical Radiosity and Discontinuity Meshing
+R1	10.1.1.10.144	An Efficient Representation for Irradiance Environment Maps
+R1	10.1.1.1.5979	Reflection Space Image Based Rendering
+R1	10.1.1.33.4814	A Unified Approach to Prefiltered Environment Maps
+R1	10.1.1.118.6725	Incremental Radiosity: An Extension of Progressive Radiosity to an Interactive Image Synthesis System
+R1	10.1.1.42.5025	Interactive Update Of Global Illumination Using A Line-Space Hierarchy
+R1	10.1.1.42.2576	Global Illumination of Glossy Environments using Wavelets and Importance
+R1	10.1.1.15.240	Instant Radiosity
+R1	10.1.1.13.9152	Frame-to-Frame Coherent Animation with Two-Pass Radiosity
+R1	10.1.1.101.5468	Space-time hierarchical radiosity with clustering and higher-order wavelets
+R1	10.1.1.54.2307	Efficient Radiosity in Dynamic Environments
+R1	10.1.1.19.6456	Fast Global Illumination Including Specular Effects
+R1	10.1.1.34.8509	Density Estimation Techniques For Global Illumination
+R1	10.1.1.29.3451	Interleaved Sampling
+R1	10.1.1.90.5933	Time Dependent Photon Mapping
+R1	10.1.1.88.9277	Localizing the final gathering for dynamic scenes using the photon map

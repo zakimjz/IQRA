@@ -1,0 +1,33 @@
+10.1.1.122.7696	2006	Building and Evaluating an Intelligent Wheelchair
+R1	10.1.1.29.9925	The Spatial Semantic Hierarchy
+R1	10.1.1.125.2314	Real-time simultaneous localisation and mapping with a single camera
+R1	10.1.1.2.427	Architecture and Applications of the Bremen Autonomous Wheelchair
+R1	10.1.1.127.3572	A taxonomy and evaluation of dense two-frame stereo correspondence algorithms
+R1	10.1.1.22.2796	The Vector Field Histogram - Fast Obstacle Avoidance For Mobile Robots
+R1	10.1.1.1.4638	Vehicle Tracking Using On-Line Fusion of Color and Shape Features
+R1	10.1.1.13.4539	Bootstrap Learning for Place Recognition
+R1	10.1.1.210.503	A real-time algorithm for mobile robot mapping with applications to multi-robot and 3D mapping
+R1	10.1.1.87.8332	Pictorial and verbal tools for conveying routes
+R1	10.1.1.332.2989	Appearance-based obstacle detection with monocular color vision
+R1	10.1.1.29.3080	The "Map in the Head" Metaphor
+R1	10.1.1.29.1915	Modeling Spatial Knowledge
+R1	10.1.1.127.3044	Rendering Effective Route Maps: Improving Usability Through Generalization
+R1	10.1.1.129.1518	An Efficient Solution to the Five-Point Relative Pose Problem
+R1	10.1.1.97.9079	Vision-based pedestrian detection: The PROTECTOR system
+R1	10.1.1.29.3759	An Adaptive Interactive Agent for Route Advice
+R1	10.1.1.111.1875	Enabling effective human-robot interaction using perspective-taking in robots
+R1	10.1.1.108.1559	Blending Human and Robot Inputs for Sliding Scale Autonomy
+R1	10.1.1.386.4900	Towards autonomous topological place detection using the extended Voronoi graph
+R1	10.1.1.144.720	A Multiresolution Stereo Vision System for Mobile Robots
+R1	10.1.1.141.6363	Bootstrap learning for object discovery
+R1	10.1.1.106.2462	Navigating a robotic wheelchair in a railway station during rush hour
+R1	10.1.1.84.9031	A Self-Supervised Terrain Roughness Estimator for Off-Road Autonomous Driving
+R1	10.1.1.64.1208	Interacting markov random fields for simultaneous terrain modeling and obstacle detection
+R1	10.1.1.13.6596	Life in the Fast Lane -- The Evolution of an Adaptive Vehicle Control System
+R1	10.1.1.58.5523	Local Metrical and Global Topological Maps in the Hybrid Spatial Semantic Hierarchy
+R1	10.1.1.123.9494	Autonomy Mode Suggestions for Improving Human-Robot Interaction
+R1	10.1.1.108.1759	Walk the talk: Connecting language, knowledge, and action in route instructions
+R1	10.1.1.61.2782	Spatial Routines for a Simulated Speech-Controlled Vehicle
+R1	10.1.1.61.5328	A Multiple Detector Approach to Low-resolution FIR Pedestrian Recognition
+R1	10.1.1.77.5356	Rapid, high precision control in tightly constrained environments. Undergraduate honors thesis
+R1	10.1.1.137.8811	Lost in virtual space: studies in human and ideal spatial navigation

@@ -1,0 +1,52 @@
+10.1.1.150.2854	2009	Taxonomy for characterizing ensemble methods in classification tasks: A review and annotated bibliography
+R1	10.1.1.51.3526	Knowledge-Based Artificial Neural Networks
+R1	10.1.1.36.3016	Using Correspondence Analysis to Combine Classifiers
+R1	10.1.1.34.4578	Measures of Diversity in Classifier Ensembles and Their Relationship with the Ensemble Accuracy
+R1	10.1.1.382.970	Multivariate adaptive regression splines
+R1	10.1.1.136.9119	Hierarchical mixtures of experts and the EM algorithm
+R1	10.1.1.33.353	An Empirical Comparison of Voting Classification Algorithms: Bagging, Boosting, and Variants
+R1	10.1.1.131.1931	An experimental comparison of three methods for constructing ensembles of decision trees
+R1	10.1.1.133.1040	Experiments with a New Boosting Algorithm
+R1	10.1.1.37.8876	Neural Network Ensembles, Cross Validation, and Active Learning
+R1	10.1.1.36.4465	Error Correlation And Error Reduction In Ensemble Classifiers
+R1	10.1.1.153.7626	The Strength of Weak Learnability
+R1	10.1.1.49.2457	Bagging, Boosting, and C4.5
+R1	10.1.1.105.506	Popular ensemble methods: an empirical study
+R1	10.1.1.44.7302	Feature Selection for Ensembles
+R1	10.1.1.49.9336	Structurally Adaptive Modular Networks for Non-Stationary Environments
+R1	10.1.1.30.9410	Arcing Classifiers
+R1	10.1.1.28.56	On Combining Artificial Neural Nets
+R1	10.1.1.10.2497	Designing Committees of Models through Deliberate Weighting of  Data Points
+R1	10.1.1.49.1062	Error Reduction through Learning Multiple Descriptions
+R1	10.1.1.72.7289	Solving multiclass learning problems via error-correcting output codes
+R1	10.1.1.125.5395	Random forests
+R1	10.1.1.32.5965	Diversity versus Quality in Classification Ensembles based on Feature Selection
+R1	10.1.1.11.1308	Constructing Diverse Classifier Ensembles using Artificial Training Examples
+R1	10.1.1.57.4952	Scaling Up the Accuracy of Naive-Bayes Classifiers: a Decision-Tree Hybrid
+R1	10.1.1.116.8219	Nearest neighbor classification from multiple feature subsets
+R1	10.1.1.38.7017	Pruning Adaptive Boosting
+R1	10.1.1.101.7806	Diversity creation methods: A survey and categorisation
+R1	10.1.1.32.9652	Graphical Models for Discovering Knowledge
+R1	10.1.1.19.2114	The Combining Classifier: to Train or Not to Train?
+R1	10.1.1.58.1763	A Constructive Algorithm for Training Cooperative Neural Network Ensembles
+R1	10.1.1.24.5068	Data Complexity Analysis for Classifier Combination
+R1	10.1.1.120.5339	Negative correlation learning and the ambiguity family of ensemble methods
+R1	10.1.1.31.1666	Stochastic Gradient Boosting
+R1	10.1.1.10.146	Multi-Class Protein Fold Classification Using a New Ensemble Machine Learning Approach
+R1	10.1.1.21.5994	Partition Modelling
+R1	10.1.1.3.3542	Learning ensembles from bites: A scalable and accurate approach
+R1	10.1.1.19.4215	Ensembles of Learning Machines
+R1	10.1.1.23.7945	Decomposition in Data Mining: An Industrial Case Study
+R1	10.1.1.23.8685	Theory and Applications of Attribute Decomposition
+R1	10.1.1.16.8532	Improving Supervised Learning by Feature Decomposition
+R1	10.1.1.308.8562	Pasting small votes for classification in large databases and on-line
+R1	10.1.1.40.2964	Using Partitioning to Speed Up Specific-to-General Rule Induction
+R1	10.1.1.31.6198	Effect of Pruning and Early Stopping on Performance of a Boosting Ensemble
+R1	10.1.1.77.4238	Classifier Evaluation under Limited Resources
+R1	10.1.1.84.8128	The dynamics of adaboost: Cyclic behavior and convergence of margins
+R1	10.1.1.150.4765	Mining manufacturing data using genetic algorithm-based feature set decomposition, Int
+R1	10.1.1.149.9431	Genetic Algorithm-based Feature Set Partitioning for Classification Problems
+R1	10.1.1.150.351	Troika – An Improved Stacking Schema for Classification Tasks
+R1	10.1.1.150.1105	Random Projection Ensemble Classifiers
+R1	10.1.1.150.2722	Improving Malware Detection by Applying Multi-Inducer Ensemble
+R1	10.1.1.178.2828	Using the Information Structure Model to Compare Profile-Based Information Filtering Systems

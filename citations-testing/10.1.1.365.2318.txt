@@ -1,0 +1,23 @@
+10.1.1.365.2318	2010	Information extraction from web-scale n-gram data
+R1	10.1.1.33.1827	Extracting Relations from Large Plain-Text Collections
+R1	10.1.1.14.5614	Automatic Acquisition of Hyponyms from Large Text Corpora
+R1	10.1.1.33.2176	Wrapper Induction for Information Extraction
+R1	10.1.1.114.4532	LIBSVM: a library for support vector machines
+R1	10.1.1.133.1040	Experiments with a New Boosting Algorithm
+R1	10.1.1.125.5395	Random forests
+R1	10.1.1.106.5556	KnowItNow: Fast, scalable information extraction from the web
+R1	10.1.1.128.3524	Semi-Markov conditional random fields for information extraction
+R1	10.1.1.324.2473	Towards Terascale Knowledge Acquisition
+R1	10.1.1.143.7772	Espresso: Leveraging generic patterns for automatically harvesting semantic relations
+R1	10.1.1.130.8780	Sparse information extraction: Unsupervised language models to the rescue
+R1	10.1.1.105.5506	Web query expansion by wordnet
+R1	10.1.1.207.3539	The web as a baseline: Evaluating the performance of unsupervised web-based models for a range of nlp tasks
+R1	10.1.1.115.2844	ConceptNet 3: a flexible, multilingual semantic network for common sense knowledge
+R1	10.1.1.324.1585	Automatic discovery of part-whole relations
+R1	10.1.1.131.8028	Scaling information extraction to large document collections
+R1	10.1.1.324.3186	ESTER: efficient search on text, entities, and relations
+R1	10.1.1.148.2362	A knowledge-based search engine powered by Wikipedia
+R1	10.1.1.215.3299	SOFIE: A Self-Organizing Framework for Information Extraction
+R1	10.1.1.182.7639	Exploring web scale language models for search query processing
+R1	10.1.1.366.6566	An overview of Microsoft Web N-gram corpus and applications
+R1	10.1.1.385.4228	Answering web queries using structured data sources

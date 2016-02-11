@@ -1,0 +1,21 @@
+10.1.1.227.7059	2010	Region duplication detection using image feature matching
+R1	10.1.1.14.4931	Distinctive Image Features from Scale-Invariant Keypoints
+R1	10.1.1.129.2941	A database of human segmented natural images and its application to evaluating segmentation algorithms and measuring ecological statistics
+R1	10.1.1.23.9493	Shape Indexing Using Approximate Nearest-Neighbour Search in High-Dimensional Spaces
+R1	10.1.1.11.3577	Scale-Space Theory in Computer Vision
+R1	10.1.1.10.3613	PCA-SIFT: A more distinctive representation for local image descriptors
+R1	10.1.1.101.8745	Histograms of Oriented Gradients for Human Detection
+R1	10.1.1.109.5521	Photoshop healing brush: a tool for seamless cloning
+R1	10.1.1.227.6979	Drag-and-drop pasting
+R1	10.1.1.121.1962	Detection of copy-move forgery in digital images
+R1	10.1.1.2.6537	Exposing Digital Forgeries by Detecting Traces of Re-sampling
+R1	10.1.1.116.1418	Steganalysis using higher-order image statistics
+R1	10.1.1.85.3596	Detecting doctored images using camera response normality and consistency
+R1	10.1.1.134.6849	How Realistic is Photorealistic?
+R1	10.1.1.224.6503	Exposing digital forgeries in complex lighting environments
+R1	10.1.1.186.6468	Determining image origin and integrity using sensor noise
+R1	10.1.1.187.9972	Detecting doctored JPEG images via DCT coefficient analysis
+R1	10.1.1.331.8308	Digital image forensics via intrinsic fingerprints
+R1	10.1.1.184.6690	PASSIVE FORENSIC METHOD FOR DETECTING DUPLICATED REGIONS AFFECTED BY REFLECTION, ROTATION AND SCALING
+R1	10.1.1.402.1148	Geometric tampering estimation by means of a SIFT-based forensic analysis
+R1	10.1.1.367.9124	Photo fakery and forensics

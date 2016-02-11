@@ -1,0 +1,30 @@
+10.1.1.144.1871	2002	Vision for Mobile Robot Navigation: A Survey
+R1	10.1.1.18.8488	Robust Monte Carlo Localization for Mobile Robots
+R1	10.1.1.107.9127	Planning and acting in partially observable stochastic domains
+R1	10.1.1.37.1434	Contour Tracking By Stochastic Propagation of Conditional Density
+R1	10.1.1.384.3679	Probabilistic Algorithms in Robotics
+R1	10.1.1.22.2796	The Vector Field Histogram - Fast Obstacle Avoidance For Mobile Robots
+R1	10.1.1.1.4105	Neural Network Vision for Robot Driving
+R1	10.1.1.53.9461	Hierarchical Vision-Motion Planning with Uncertainty: Local Path Planning and Global Route Selection
+R1	10.1.1.22.731	Real-time Obstacle Avoidance for Fast Mobile Robots in Cluttered Environments
+R1	10.1.1.142.4759	Localizing in Unstructured Environments: Dealing with the Errors
+R1	10.1.1.131.1508	Visually-guided obstacle avoidance in unstructured environments
+R1	10.1.1.136.2172	Sensor Based Planning: A Control Law for Generating the Generalized Voronoi Graph
+R1	10.1.1.38.205	Robust World-Modelling and Navigation in a Real World
+R1	10.1.1.17.8829	Navigation of a Mobile Robot on the Temporal Development of the Optic Flow
+R1	10.1.1.103.2065	Mars Pathfinder Mission Internet-Based Operations using WITS
+R1	10.1.1.50.8638	Mars Microrover Navigation: Performance Evaluation and Enhancement
+R1	10.1.1.31.7218	Spatial Learning for Navigation in Dynamic Environments
+R1	10.1.1.30.4172	Visual Navigation in an open environment without map
+R1	10.1.1.39.6892	Spatial Learning with Perceptually Grounded Representations
+R1	10.1.1.389.4041	A potential field approach to path planning
+R1	10.1.1.56.2414	Maximum Likelihood Rover Localization by Matching Range Maps
+R1	10.1.1.24.1264	A Method for Recognition and Localization of Generic Objects for Indoor Navigation
+R1	10.1.1.118.4487	Experience with rover navigation for lunar-like terrains
+R1	10.1.1.31.1990	Visual Behaviours for Binocular Tracking
+R1	10.1.1.67.2491	Aurora: A Vision-Based Roadway Departure Warning System
+R1	10.1.1.49.8817	Divergent Stereo for Robot Navigation: Learning from Bees
+R1	10.1.1.120.5535	Fast Optical Hazard Detection for Planetary Rovers using Multiple Spot Laser Triangulation.
+R1	10.1.1.49.320	Stereo Sketch: Stereo Vision-Based Target Reaching Behavior Acquisition with Occlusion Detection and Avoidance
+R1	10.1.1.47.6657	Vision-Motion Planning with Uncertainty
+R1	10.1.1.40.7725	Vision-Based Navigation by a Mobile Robot with Obstacle Avoidance using Single-Camera Vision and Ultrasonic Sensing

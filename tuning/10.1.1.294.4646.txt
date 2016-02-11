@@ -1,0 +1,22 @@
+10.1.1.294.4646	2010	Segmenting video into classes of algorithm-suitability
+R1	10.1.1.185.1651	Determining Optical Flow
+R1	10.1.1.125.8692	Filters, Random Fields and  Maximum Entropy . . .
+R1	10.1.1.14.4931	Distinctive Image Features from Scale-Invariant Keypoints
+R1	10.1.1.135.7147	Good features to track
+R1	10.1.1.100.5507	A PERFORMANCE EVALUATION OF LOCAL DESCRIPTORS
+R1	10.1.1.125.5395	Random forests
+R1	10.1.1.129.7916	Lucas/Kanade meets Horn/Schunck: Combining local and global optic flow methods
+R1	10.1.1.106.3332	Fields of experts for image-based rendering
+R1	10.1.1.60.1416	On the Spatial Statistics of Optical Flow
+R1	10.1.1.157.659	A database and evaluation methodology for optical flow
+R1	10.1.1.143.8667	Human-Assisted Motion Annotation
+R1	10.1.1.145.3036	Semantic Texton Forests for Image Categorization and Segmentation
+R1	10.1.1.160.1721	Fast approximate nearest neighbors with automatic algorithm configuration
+R1	10.1.1.149.9539	Describing objects by their attributes
+R1	10.1.1.149.4944	An empirical evaluation of supervised learning in high dimensions
+R1	10.1.1.149.5720	Supervised Learning from Multiple Experts: Whom to trust when everyone lies a bit
+R1	10.1.1.160.9101	Fields of Experts
+R1	10.1.1.161.5358	Learning optical flow
+R1	10.1.1.364.4239	An improved algorithm for TV-L1 optical flow
+R1	10.1.1.159.3865	Decomposing a Scene into Geometric and Semantically Consistent Regions
+R1	10.1.1.167.3576	Rapid Selection of Reliable Templates for Visual Tracking

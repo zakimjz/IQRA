@@ -1,0 +1,21 @@
+10.1.1.272.148	2009	Article Energy Balanced Strategies for Maximizing the Lifetime of Sparsely Deployed Underwater Acoustic Sensor Networks
+R1	10.1.1.112.3914	Energy-efficient communication protocol for wireless microsensor networks
+R1	10.1.1.24.9402	Maximum Lifetime Routing In Wireless Sensor Networks
+R1	10.1.1.130.8154	Energy-aware routing in cluster-based sensor networks
+R1	10.1.1.61.2639	Underwater Acoustic Sensor Networks: Research Challenges
+R1	10.1.1.61.6701	Research Challenges and Applications for Underwater Sensor Networking
+R1	10.1.1.212.4574	State-of-the-art in protocol research for underwater acoustic sensor networks
+R1	10.1.1.119.6968	Design guidelines for maximizing lifetime and avoiding energy holes in sensor networks with uniform distribution and uniform reporting
+R1	10.1.1.341.8484	Energy optimal data propagation in wireless sensor networks
+R1	10.1.1.137.4926	Energy-Optimal and Energy-Balanced Sorting in a Single-Hop Wireless Sensor Network
+R1	10.1.1.89.8975	Acoustic communications for regional undersea observatories
+R1	10.1.1.125.7834	Battery lifetime estimation and optimization for underwater sensor networks
+R1	10.1.1.80.2308	A Survey of Practical Issues in Underwater Networks
+R1	10.1.1.136.6562	On the energy hole problem of nonuniform node distribution in wireless sensor networks
+R1	10.1.1.84.9503	Data aggregation techniques in sensor networks: A survey
+R1	10.1.1.73.8217	Analytical Modeling and Mitigation Techniques for the Energy Hole
+R1	10.1.1.93.6236	Design of a Low-cost Acoustic Modem for Moored Oceanographic Applications
+R1	10.1.1.384.2654	the relationship between capacity and distance in an underwater acoustic communication channel
+R1	10.1.1.95.4658	Distributed CDMA-based MAC Protocol for Underwater Sensor Networks
+R1	10.1.1.145.3616	T-Lohi: A new class of MAC protocols for underwater acoustic sensor networks
+R1	10.1.1.384.4289	Distributed Power Control for Underwater Acoustic Networks

@@ -1,0 +1,26 @@
+10.1.1.183.123	2001	Self-Indexed Grammar-Based Compression
+R1	10.1.1.39.2521	Optimal Two-Dimensional Compressed Matching
+R1	10.1.1.125.1794	Simple linear work suffix array construction
+R1	10.1.1.118.8921	A universal algorithm for sequential data compression
+R1	10.1.1.35.900	Hardness Of Approximations
+R1	10.1.1.144.719	Rank and select revisited and extended
+R1	10.1.1.13.9596	Application of Lempel-Ziv factorization to the approximation of grammar-based compression
+R1	10.1.1.101.8553	High-order entropy-compressed text indexes
+R1	10.1.1.246.3123	Succinct indexable dictionaries with applications to encoding k-ary trees and multisets
+R1	10.1.1.224.4152	Compressed suffix trees with full functionality
+R1	10.1.1.144.186	Compressed full-text indexes
+R1	10.1.1.111.570	Compressed representations of sequences and full-text indexes
+R1	10.1.1.8.4530	The Level Ancestor Problem Simplified
+R1	10.1.1.111.5356	Breaking a Time-and-Space Barrier in Constructing Full-Text Indices
+R1	10.1.1.51.9196	Compression by Induction of Hierarchical Grammars
+R1	10.1.1.75.597	Some Theory and Practice of Greedy Off-line Textual Substitution
+R1	10.1.1.168.5661	Reducing the space requirement of LZ-index
+R1	10.1.1.126.9413	A compressed self-index using a Ziv-Lempel dictionary
+R1	10.1.1.185.2130	The Smallest Grammar Problem
+R1	10.1.1.164.3831	Adaptive searching in succinctly encoded binary relations and tree-structured documents (Extended Abstract)
+R1	10.1.1.144.2260	Run-length compressed indexes are superior for highly repetitive sequence collections
+R1	10.1.1.161.3669	Fully-functional succinct trees
+R1	10.1.1.156.1805	LZ77-like Compression with Fast Random Access ∗
+R1	10.1.1.156.4998	Compact Rich-Functional Binary Relation Representations
+R1	10.1.1.162.2851	Compressed q-gram Indexing for Highly Repetitive Biological Sequences
+R1	10.1.1.193.9794	Random Access to Grammar-Compressed Strings

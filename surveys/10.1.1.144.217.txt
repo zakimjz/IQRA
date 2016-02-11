@@ -1,0 +1,49 @@
+10.1.1.144.217	2009	A Survey of Affect Recognition Methods: Audio, Visual, and Spontaneous Expressions
+R1	10.1.1.173.220	Comprehensive database for facial expression analysis
+R1	10.1.1.135.2436	Predicting emotion in spoken dialogue from multiple knowledge sources
+R1	10.1.1.2.9090	Facial Action Recognition for Facial Expression Analysis from Static Face Images
+R1	10.1.1.1.4116	Semi-supervised Learning of Classifiers: Theory, Algorithms and Their Application to Human-Computer Interaction
+R1	10.1.1.25.5398	Automatic Analysis of Facial Expressions: The State of the Art
+R1	10.1.1.16.1273	Facial Expression Recognition from Video Sequences: Temporal and Static Modelling
+R1	10.1.1.128.3991	Emotional speech: Towards a new generation of databases
+R1	10.1.1.10.209	Authentic Facial Expression Analysis
+R1	10.1.1.126.152	Emotion recognition using a data-driven fuzzy inference system
+R1	10.1.1.133.3877	Off all things the measure is man Automatic classification of emotions and inter-labeler consistency
+R1	10.1.1.100.3009	Automatic discrimination between laughter and speech
+R1	10.1.1.3.2728	Toward an Affect-Sensitive Multimodal Human-Computer Interaction
+R1	10.1.1.58.8200	Active and Dynamic Information Fusion for Facial Expression Understanding from Image Sequences
+R1	10.1.1.16.3853	Robust Full-Motion Recovery of Head by Dynamic Templates and Re-registration Techniques
+R1	10.1.1.108.3049	Real-Time Inference of Complex Mental States from Facial Expressions and Head Gestures
+R1	10.1.1.106.3761	Multimodal human computer interaction: A survey
+R1	10.1.1.128.4084	Fully automatic facial action recognition in spontaneous behavior
+R1	10.1.1.116.8120	Gaze-X: Adaptive affective multimodal interface for single-user office scenarios
+R1	10.1.1.231.8413	The Production and Recognition of Emotions in Speech: Features and Algorithms
+R1	10.1.1.112.5796	Dynamics of Facial Expression: Recognition of Facial Actions and Their Temporal Segments from Face Profile Image Sequences
+R1	10.1.1.128.5508	Recognizing Facial Expression: Machine Learning and Application to Spontaneous Behavior
+R1	10.1.1.49.8652	Efficient Reinforcement Learning
+R1	10.1.1.116.1542	Towards detecting emotions in spoken dialogs
+R1	10.1.1.11.3191	Integrating Perceptual and Cognitive Modeling for Adaptive and Intelligent Human-Computer Interaction
+R1	10.1.1.330.6960	Manifold based analysis of facial expression
+R1	10.1.1.408.9187	Robust real-time face pose and facial expression recovery
+R1	10.1.1.1.3418	Case-Based Reasoning for User-Profiled Recognition of Emotions from Face Images
+R1	10.1.1.420.9278	The signs of appeasement: Evidence for the distinct displays of embarrassment, amusement, and shame
+R1	10.1.1.91.6138	Predicting student emotions in computer-human tutoring dialogues
+R1	10.1.1.119.9843	Distinguishing Deceptive from Non-Deceptive Speech
+R1	10.1.1.131.359	Combining prosodic, lexical and cepstral systems for deceptive speech detection
+R1	10.1.1.78.9249	Facial Action Unit Recognition by Exploiting Their Dynamic and Semantic Relationships
+R1	10.1.1.80.2988	Children’s Emotion Recognition in an Intelligent Tutoring Scenario
+R1	10.1.1.112.2771	Audio-Visual Affect Recognition
+R1	10.1.1.88.4455	3D facial expression recognition based on primitive surface feature distribution
+R1	10.1.1.364.5888	Bimodal fusion of emotional data in an automotive environment
+R1	10.1.1.333.3124	A real-time automated system for recognition of human facial expressions
+R1	10.1.1.137.4242	Learning From Examples in the Small Sample Case: Face Expression Recognition
+R1	10.1.1.367.3652	Faces of pain: automated measurement of spontaneous facial expressions of genuine and posed pain
+R1	10.1.1.150.1347	Automatic prediction of frustration
+R1	10.1.1.298.6803	A probabilistic framework for modeling and real-time monitoring human fatigue [paper online
+R1	10.1.1.364.5217	Metaclassifiers in acoustic and linguistic feature fusion-based affect recognition
+R1	10.1.1.120.4902	Annotation and Analysis of Emotionally Relevant Behavior
+R1	10.1.1.135.8224	How to distinguish posed from spontaneous smiles using geometric features
+R1	10.1.1.364.4416	G.: Affect-Robust Speech Recognition by Dynamic Emotional Adaptation
+R1	10.1.1.144.4316	Audiovisual discrimination between laughter and speech
+R1	10.1.1.307.1920	The painful face - pain expression recognition using active appearance models
+R1	10.1.1.228.3723	10 Emotion Recognition

@@ -1,0 +1,21 @@
+10.1.1.298.4958	2012	Minimum-Time Control of Boolean Networks
+R1	10.1.1.17.1886	Gene Perturbation and Intervention in Probabilistic Boolean Networks
+R1	10.1.1.19.7008	From Boolean to Probabilistic Boolean Networks as Models of Genetic Regulatory Networks
+R1	10.1.1.1.8969	External control in Markovian genetic regulatory networks: the imperfect information case
+R1	10.1.1.243.2598	Robustness and fragility of boolean models for genetic regulatory networks
+R1	10.1.1.212.5683	C.: Superpolynomial growth in the number of attractors in kauffman networks
+R1	10.1.1.116.5731	Predicting essential components of signal transduction networks: A dynamic model of guard cell abscisic acid signaling. PLoS Biol
+R1	10.1.1.160.5119	Some results on the stability of positive switched linear systems
+R1	10.1.1.170.9195	Lie-algebraic stability conditions for nonlinear switched systems and differential inclusions
+R1	10.1.1.139.4338	Nice reachability for planar bilinear control systems with applications to planar linear switched systems
+R1	10.1.1.155.266	On the Stability of Switched Positive Linear Systems
+R1	10.1.1.329.1163	A gene regulatory network model for cell-fate determination during Arabidopsis thaliana flower development that is robust and recovers experimental gene expression profiles
+R1	10.1.1.146.4230	MATHEMATICAL MODELING OF THE λ SWITCH-- A FUZZY LOGIC APPROACH
+R1	10.1.1.234.6273	Lyapunov exponents in random Boolean networks
+R1	10.1.1.220.204	On the Stability of Positive Linear Switched Systems Under Arbitrary Switching Laws
+R1	10.1.1.294.5865	1 A Maximum Principle for Single–Input Boolean Control Networks
+R1	10.1.1.332.1452	Realization of Boolean control networks
+R1	10.1.1.294.6414	Observability of Boolean Networks: A Graph-Theoretic Approach
+R1	10.1.1.298.5505	Controllability of Boolean control networks via the Perron-Frobenius theory
+R1	10.1.1.298.6967	A Pontryagin Maximum Principle for Multi–Input Boolean Control Networks
+R1	10.1.1.298.7513	Analysis of discrete–time linear switched systems: A variational approach

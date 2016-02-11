@@ -1,0 +1,35 @@
+10.1.1.109.3608	2006	Architectural Strategy and Design Evolution in Complex Engineered Systems
+R1	10.1.1.132.7232	On the Criteria To Be Used in Decomposing Systems into Modules
+R1	10.1.1.11.559	A Survey of Models of Network Formation: Stability and Efficiency
+R1	10.1.1.393.8917	Being There -- Putting Brain, Body, and World Together Again
+R1	10.1.1.128.7824	The New Institutional Economics: Taking Stock, Looking Ahead
+R1	10.1.1.110.961	The architecture of complexity
+R1	10.1.1.5.385	Deterministic scale-free networks
+R1	10.1.1.32.7692	Reinforcement Learning I: Introduction
+R1	10.1.1.147.1561	A Strategic Model of Social and Economic Networks
+R1	10.1.1.12.4127	Alloy: A Lightweight Object Modelling Notation
+R1	10.1.1.294.5488	An iterative method of solving a game
+R1	10.1.1.147.8709	Evolutionary Game Theory
+R1	10.1.1.126.7772	A Theory of Buyer-Seller Networks
+R1	10.1.1.48.3094	Algorithmic information theory
+R1	10.1.1.332.9875	The approach of institutional economics
+R1	10.1.1.150.5623	What really matters in auction design
+R1	10.1.1.19.2997	Effects of Interaction Topology and  Activation Regime in Several Multi-Agent Systems
+R1	10.1.1.22.8200	Fairness and Retaliation: The Economics of Reciprocity
+R1	10.1.1.321.346	Economic Action and Social Structure: The Problem of Embeddedness
+R1	10.1.1.105.9487	Documenting Software Architectures: Views and Beyond
+R1	10.1.1.117.5785	An analysis of modularity in aspect oriented design
+R1	10.1.1.128.7194	The Economist as Engineer: Game Theory, Experimentation, and Computation as Tools for Design Economics
+R1	10.1.1.331.2313	Experiences creating three implementations of the Repast agent modeling toolkit
+R1	10.1.1.324.3796	Toward a systematic framework for research on dominant designs, technological innovations, and industrial change
+R1	10.1.1.118.546	Agent-based computational models and generative social science
+R1	10.1.1.91.2446	Exploring the Structure of Complex Software Designs: An Empirical Study of . . .
+R1	10.1.1.198.6911	Where do interorganizational networks come from?’, working paper
+R1	10.1.1.215.5606	Behavioural Game Theory: Thinking, Learning and Teaching
+R1	10.1.1.42.8834	Innovation, Rent Extraction, and Integration in Systems Markets
+R1	10.1.1.113.42	Recombinant uncertainty in technological search
+R1	10.1.1.207.8509	Integration analysis of product decompositions
+R1	10.1.1.111.5209	Using Dependency Models to Manage Complex Software Architecture
+R1	10.1.1.184.507	Information hiding interfaces for aspect-oriented design
+R1	10.1.1.207.7078	The influence of architecture in engineering systems (monograph
+R1	10.1.1.118.3440	The Shapley value

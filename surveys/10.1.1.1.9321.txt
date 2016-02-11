@@ -1,0 +1,35 @@
+10.1.1.1.9321	2003	A Survey of Adaptive Middleware
+R1	10.1.1.115.8660	Aspect-oriented programming
+R1	10.1.1.101.2890	Reflective middleware: From your desk to your hand
+R1	10.1.1.134.4847	Implementing remote procedure calls
+R1	10.1.1.43.7849	The BSD Packet Filter: A New Architecture for User-level Packet Capture
+R1	10.1.1.189.8	QoS-aware resource management for distributed multimedia applications
+R1	10.1.1.119.2161	The Design of the tao real-time object request broker
+R1	10.1.1.27.1465	Architectural Support for Quality of Service for CORBA Objects
+R1	10.1.1.56.736	An Architecture for Next Generation Middleware
+R1	10.1.1.129.1023	Composing crosscutting concerns using composition filters
+R1	10.1.1.10.588	Architecture and Operation of an Adaptable Communication Substrate
+R1	10.1.1.129.8843	Evaluating Meta-Programming Mechanisms for ORB Middleware
+R1	10.1.1.145.6098	CORBA: Integrating diverse applications within distributed heterogeneous environments
+R1	10.1.1.58.8758	Supporting Adaptive Multimedia Applications through Open Bindings
+R1	10.1.1.50.2145	Quarterware for Middleware
+R1	10.1.1.81.6138	AQuA: An Adaptive Architecture that Provides Dependable Distributed Objects
+R1	10.1.1.175.2369	Packaging quality of service control behaviors for reuse, in
+R1	10.1.1.12.6038	Virtual Component - A Design Pattern for Memory-Constrained Embedded Applications
+R1	10.1.1.329.2656	Middleware for real-time and embedded systems
+R1	10.1.1.24.8003	Software Engineering and Middleware: A Roadmap
+R1	10.1.1.46.9391	A Study of Compile-time Metaobject Protocol
+R1	10.1.1.27.5688	An Object-Oriented Concurrent Reflective Language ABCL/R3
+R1	10.1.1.27.2878	LegORB and Ubiquitous CORBA
+R1	10.1.1.27.4769	mChaRM: a Reflective Middleware for Communication-Based Reflection
+R1	10.1.1.12.6479	Towards Highly Configurable Real-time Object Request Brokers
+R1	10.1.1.21.8013	Two-Step Weaving with Reflection Using AspectJ
+R1	10.1.1.42.8614	The ADAPTIVE Communication Environment: An Object-Oriented Network Programming Toolkit for Developing Communication Software
+R1	10.1.1.12.3813	Active Software Replication through a Three-tier Approach
+R1	10.1.1.10.2611	Thread Transparency in Information Flow Middleware
+R1	10.1.1.12.9371	Infopipes for Composing Distributed Information Flows
+R1	10.1.1.40.8227	The Architectural Design of Globe: A Wide-Area Distributed System
+R1	10.1.1.47.9349	The Totem System
+R1	10.1.1.29.9844	The Interception Approach to Reliable Distributed CORBA Objects
+R1	10.1.1.12.8364	CORBA Request Portable Interceptors: Analysis and Applications
+R1	10.1.1.38.9914	Issues in the Design and Implementation of RealTime Java

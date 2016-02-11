@@ -1,0 +1,25 @@
+10.1.1.100.2982	2006	3D distance fields: A survey of techniques and applications
+R1	10.1.1.122.1954	Adaptively sampled distance fields: A general representation of shape for computer graphics
+R1	10.1.1.23.928	A PDE-Based Fast Local Level Set Method
+R1	10.1.1.103.217	A level-set approach to 3d reconstruction from range data
+R1	10.1.1.8.4820	Level Set Surface Editing Operators
+R1	10.1.1.129.6528	3d scan conversion of csg models into distance volumes
+R1	10.1.1.224.5596	Using distance maps for accurate surface representation in sampled volumes
+R1	10.1.1.21.842	Feature Sensitive Surface Extraction from Volume Data
+R1	10.1.1.127.167	Rapid and Accurate Computation of the Distance Function Using Grids
+R1	10.1.1.25.3048	A Variational Level Set Approach to Multiphase Motion
+R1	10.1.1.331.2570	Optimum design of chamfer distance transforms
+R1	10.1.1.35.4929	3D Scan Conversion of CSG Models into Distance, Closest-Point and Colour Volumes
+R1	10.1.1.103.9698	Efficient volume rendering by isoregion leaping acceleration
+R1	10.1.1.392.8000	Two new methods for simulating photolithography development
+R1	10.1.1.23.8682	Facial Reconstruction Using Volumetric Data
+R1	10.1.1.57.3575	Debugging Objects
+R1	10.1.1.8.9097	Efficient Algorithms for Solving Static Hamilton-Jacobi Equations
+R1	10.1.1.96.2263	Representation of Objects with Sharp Details in Truncated Distance Fields
+R1	10.1.1.90.2762	Mesh Generation for Implicit Geometries
+R1	10.1.1.92.2232	Adaptive physics based tetrahedral mesh generation using level sets
+R1	10.1.1.34.3698	An Improved Level Set Method for Incompressible Two-Phase Flows
+R1	10.1.1.30.1980	Fast Ray-Tracing of Rectilinear Volume Data
+R1	10.1.1.10.2511	Piecewise Linear Approximation of Signed Distance Fields
+R1	10.1.1.40.9170	High Performance Presence-Accelerated Ray Casting
+R1	10.1.1.153.6742	A FAST SWEEPING METHOD FOR EIKONAL EQUATIONS

@@ -1,0 +1,34 @@
+10.1.1.299.7573	2009	Generalised Nonlocal Image Smoothing
+R1	10.1.1.160.3832	Mean shift: A robust approach toward feature space analysis
+R1	10.1.1.125.5878	Deterministic edge-preserving regularization in computed imaging
+R1	10.1.1.52.2727	Constructing Simple Stable Descriptions for Image Partitioning
+R1	10.1.1.11.3483	The Digital TV Filter and Nonlinear Denoising
+R1	10.1.1.9.5741	A Common Framework for Nonlinear Diffusion, Adaptive Smoothing, Bilateral Filtering and Mean Shift
+R1	10.1.1.10.9038	On the Equivalence of Soft Wavelet Shrinkage, Total Variation Diffusion, Total Variation Regularization, and SIDEs
+R1	10.1.1.35.7476	Relations Between Regularization and Diffusion Filtering
+R1	10.1.1.18.5355	The Structure of Locally Orderless Images
+R1	10.1.1.100.6056	Nonlocal discrete regularization on weighted graphs: a framework for image and manifold processing, preprint
+R1	10.1.1.108.6427	A review of image denoising algorithms, with a new one
+R1	10.1.1.34.3451	A Review of Nonlinear Diffusion Filtering
+R1	10.1.1.331.5465	Regularization on discrete spaces
+R1	10.1.1.103.9157	A non-local algorithm for image denoising
+R1	10.1.1.228.6155	Optimal spatial adaptation for patchbased image denoising
+R1	10.1.1.103.1732	Fast image and video denoising via nonlocal means of similar neighborhoods
+R1	10.1.1.87.5958	On robust estimation and smoothing with spatial and tonal kernels
+R1	10.1.1.11.5954	Image Denoising using Gaussian Scale Mixtures in the Wavelet Domain
+R1	10.1.1.50.9989	Bayesian Rationale for Energy Functionals
+R1	10.1.1.65.1015	A regularization framework for learning from graph data
+R1	10.1.1.227.8728	Higher-order image statistics for unsupervised, information-theoretic, adaptive, image filtering
+R1	10.1.1.55.1228	Noise Reduction in Images: Some Recent Edge-Preserving Methods
+R1	10.1.1.219.5398	Image denoising by sparse 3D transform-domain collaborative filtering
+R1	10.1.1.220.5086	Local adaptivity to variable smoothness for exemplar-based image denoising and representation
+R1	10.1.1.150.4177	Graph laplacians and their convergence on random neighborhood graphs
+R1	10.1.1.329.4983	Energy-based image simplification with nonlocal data and smoothness terms
+R1	10.1.1.147.3118	Non-local Regularization of Inverse Problems
+R1	10.1.1.150.1254	Nonlocal Similarity Image Filtering
+R1	10.1.1.159.5575	High-Order Regularization on Graphs
+R1	10.1.1.127.9459	A Robust and Fast Non-Local Means Algorithm for Image Denoising
+R1	10.1.1.371.4186	UNIFYING LOCAL AND NONLOCAL PROCESSING WITH PARTIAL DIFFERENCE OPERATORS ON WEIGHTED GRAPHS
+R1	10.1.1.217.101	Efficient nonlocal-means denoising using the SVD
+R1	10.1.1.212.4832	BAYESIAN NON LOCAL MEANS-BASED SPECKLE FILTERING
+R1	10.1.1.331.8463	Integrodifferential equations for continuous multiscale wavelet shrinkage

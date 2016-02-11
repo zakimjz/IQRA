@@ -1,0 +1,26 @@
+10.1.1.304.6478	2007	An interior-point method for large-scale ℓ1-regularized logistic regression
+R1	10.1.1.135.1907	Atomic decomposition by basis pursuit
+R1	10.1.1.125.5610	Stable recovery of sparse overcomplete representations in the presence of noise
+R1	10.1.1.237.4534	Least angle regression
+R1	10.1.1.35.7574	Regression Shrinkage and Selection Via the Lasso
+R1	10.1.1.122.4429	Robust Uncertainty Principles: Exact Signal Reconstruction From Highly Incomplete Frequency Information
+R1	10.1.1.184.2957	Just Relax: Convex Programming Methods for Identifying Sparse Signals in Noise
+R1	10.1.1.212.6447	Compressed sensing
+R1	10.1.1.121.4983	Gradient projection for sparse reconstruction: Application to compressed sensing and other inverse problems
+R1	10.1.1.309.3701	Solving ill-conditioned and singular linear systems: A tutorial on regularization
+R1	10.1.1.217.3718	LSQR: An Algorithm for Sparse Linear Equations and Sparse Least Squares
+R1	10.1.1.3.4177	The Entire Regularization Path for the Support Vector Machine
+R1	10.1.1.30.1215	Asymptotics for Lasso-type estimators
+R1	10.1.1.136.7194	High dimensional graphs and variable selection with the Lasso
+R1	10.1.1.61.4759	On Model Selection Consistency of Lasso
+R1	10.1.1.108.3046	Image denoising with shrinkage and redundant representations
+R1	10.1.1.150.2330	Recovery of exact sparse representations in the presence of bounded noise
+R1	10.1.1.50.1792	A New Approach To Variable Selection In Least Squares Problems
+R1	10.1.1.63.1480	Sequential subspace optimization method for large-scale unconstrained optimization
+R1	10.1.1.124.4696	Regularization and variable selection via the Elastic Net
+R1	10.1.1.17.5645	Interior-Point Methodology for 3-D PET Reconstruction
+R1	10.1.1.147.7064	Sharp thresholds for high-dimensional and noisy   sparsity recovery using l1-constrained quadratic      programmming (Lasso)
+R1	10.1.1.47.9763	A Truncated Primal-Infeasible Dual-Feasible Network Interior Point Method
+R1	10.1.1.130.1684	Moving horizon filter for monotonic trends
+R1	10.1.1.62.480	Forward Stagewise Regression and the Monotone Lasso
+R1	10.1.1.217.5729	Optimal Estimation of Deterioration from Diagnostic Image Sequence

@@ -1,0 +1,96 @@
+10.1.1.126.2845	2007	A survey of statistical machine translation
+R1	10.1.1.19.9416	BLEU: a Method for Automatic Evaluation of Machine Translation
+R1	10.1.1.13.9919	Class-Based n-gram Models of Natural Language
+R1	10.1.1.140.5518	Two decades of statistical language modeling: Where do we go from here
+R1	10.1.1.14.9706	Building a Large Annotated Corpus of English: The Penn Treebank
+R1	10.1.1.141.4652	Good applications for crummy machine translation. Machine Translation
+R1	10.1.1.129.1472	A statistical approach to machine translation
+R1	10.1.1.13.8919	The Mathematics of Statistical Machine Translation: Parameter Estimation
+R1	10.1.1.7.8877	Grammarless Extraction of Phrasal Translation Examples from Parallel Texts
+R1	10.1.1.21.280	A Syntax-based Statistical Translation Model
+R1	10.1.1.10.1288	A Systematic Comparison of Various Statistical Alignment Models
+R1	10.1.1.35.837	Decoding Complexity in Word-Replacement Translation Models
+R1	10.1.1.19.9615	Models of Translational Equivalence among Words
+R1	10.1.1.45.9366	A DP based Search Algorithm for Statistical Machine Translation
+R1	10.1.1.14.2316	Improved Alignment Models for Statistical Machine Translation
+R1	10.1.1.20.7519	An Efficient A* Search Algorithm for Statistical Machine Translation
+R1	10.1.1.13.8568	Exploiting Syntactic Structure for Language Modeling
+R1	10.1.1.135.7331	Word-Level Alignment For Multilingual Resource Acquisition
+R1	10.1.1.14.6472	Tagging English Text with a Probabilistic Model
+R1	10.1.1.14.1787	Generation and Synchronous Tree-Adjoining Grammars
+R1	10.1.1.28.7642	Fast Decoding and Optimal Decoding for Machine Translation
+R1	10.1.1.14.126	A DP based Search Using Monotone Alignments in Statistical Translation
+R1	10.1.1.10.6747	Training Tree Transducers
+R1	10.1.1.144.3832	Learning Dependency Translation Models as Collections of Finite State Head Transducers
+R1	10.1.1.19.573	Phrasal Cohesion and Statistical Machine Translation
+R1	10.1.1.76.5204	Reducing parameter space for word alignment
+R1	10.1.1.14.9962	Characterizing Structural Descriptions Produced By Various  Grammatical Formalisms
+R1	10.1.1.11.6939	A Survey of Current Paradigms in Machine Translation
+R1	10.1.1.19.3952	The Web as a Parallel Corpus
+R1	10.1.1.134.4772	Improving IBM Word-Alignment Model 1
+R1	10.1.1.330.2108	2004. Statistical Machine Translation with Scarce Resources Using Morpho-syntactic Information
+R1	10.1.1.3.4334	Greedy Decoding for Statistical Machine Translation in Almost Linear Time
+R1	10.1.1.10.2156	Minimum Error Rate Training in Statistical Machine Translation
+R1	10.1.1.100.4851	Machine translation: A concise history
+R1	10.1.1.20.4181	Extensions to HMM-based Statistical Word Alignment Models
+R1	10.1.1.4.1720	A Probability Model to Improve Word Alignment
+R1	10.1.1.132.632	Re-evaluating the role of BLEU in machine translation research
+R1	10.1.1.79.1355	An evaluation exercise for word alignment
+R1	10.1.1.136.3852	A hierarchical phrase-based model for statistical machine translation
+R1	10.1.1.332.2347	2005. Shared task: Statistical machine translation between European languages
+R1	10.1.1.19.4471	A Phrase-Based, Joint Probability Model for Statistical Machine Translation
+R1	10.1.1.143.7786	Stochastic lexicalized inversion transduction grammar for alignment
+R1	10.1.1.59.9850	Association-Based Bilingual Word Alignment
+R1	10.1.1.325.56	Word reordering and a dynamic programming beam search algorithm for statistical machine translation
+R1	10.1.1.143.8243	A discriminative framework for bilingual word alignment
+R1	10.1.1.67.7860	Machine translation in the year 2004
+R1	10.1.1.142.454	METEOR: An Automatic Metric for MT Evaluation with Improved Correlation with Human Judgments
+R1	10.1.1.57.43	Creating a Parallel Corpus from the "Book of 2000 Tongues"
+R1	10.1.1.102.5074	Discriminative word alignment with conditional random fields
+R1	10.1.1.127.4109	Statistical machine translation with word- and sentence-aligned parallel corpora
+R1	10.1.1.104.3639	A discriminative matching approach to word alignment
+R1	10.1.1.102.5075	Scaling phrase-based statistical machine translation to larger corpora and longer phrases
+R1	10.1.1.11.197	A Smorgasbord of Features for Statistical Machine Translation
+R1	10.1.1.102.6701	Word-level confidence estimation for machine translation using phrase-based translation models
+R1	10.1.1.129.4369	A study of translation edit rate with targeted human annotation
+R1	10.1.1.18.3263	A Decoder for Syntax-based Statistical MT
+R1	10.1.1.2.9380	What's in a Translation Rule?
+R1	10.1.1.143.4612	Empirical lower bounds on the complexity of translational equivalence
+R1	10.1.1.14.6361	Semiring Parsing
+R1	10.1.1.172.1512	Improved language modeling for statistical machine translation
+R1	10.1.1.131.6821	Statistical Machine Translation by Parsing
+R1	10.1.1.134.6931	Automatic Evaluation of Machine Translation Quality Using Longest Common Subsequence and Skip-Bigram Statistics
+R1	10.1.1.332.7794	SPMT: Statistical Machine Translation with Syntactified Target Language Phrases
+R1	10.1.1.111.3947	Measuring word alignment quality for statistical machine translation
+R1	10.1.1.331.7294	Semi-supervised training for statistical word alignment
+R1	10.1.1.111.5502	Dependency treelet translation: Syntactically informed phrasal SMT
+R1	10.1.1.58.5204	Evaluating Grammar Formalisms For Applications To Natural Language Processing And Biological Sequence Analysis
+R1	10.1.1.116.3624	An end-to-end discriminative approach to machine translation
+R1	10.1.1.112.3615	Morpho-syntactic information for automatic error analysis of statistical machine translation output
+R1	10.1.1.126.9201	Discriminative reranking for machine translation
+R1	10.1.1.11.2199	Improvements in Phrase-Based Statistical Machine Translation
+R1	10.1.1.16.3382	Refined Lexicon Models for Statistical Machine Translation using a Maximum Entropy Approach
+R1	10.1.1.14.3480	Desparately Seeking Cebuano
+R1	10.1.1.134.3016	Generalized Multitext Grammar
+R1	10.1.1.154.547	Do we need chinese word segmentation for statistical machine translation
+R1	10.1.1.180.9602	Bilingual parsing with factored estimation: Using English to parse Korean
+R1	10.1.1.297.824	Dependencies vs. constituents for tree-based alignment
+R1	10.1.1.61.6184	How Many Bits Are Needed To Store Probabilities for Phrase-Based Translation?
+R1	10.1.1.135.5264	Phramer - an open source statistical phrase-based translator
+R1	10.1.1.121.6679	Hierarchical phrase-based translation
+R1	10.1.1.332.8432	Moses: Open Source Toolkit for Statistical Machine Translation”. ACL-2007
+R1	10.1.1.131.1129	Interactively exploring a machine translation model
+R1	10.1.1.64.7481	Algorithms for syntax-aware statistical machine translation
+R1	10.1.1.68.4342	An efficient phrase-to-phrase alignment model for arbitrarily long phrase and large corpora
+R1	10.1.1.113.4308	Synchronous binarization for machine translation
+R1	10.1.1.138.441	The hiero machine translation system: Extensions, evaluation, and analysis
+R1	10.1.1.360.4098	Matching meaning for cross-language information retrieval
+R1	10.1.1.135.9009	Alignment by agreement
+R1	10.1.1.136.6584	Translating with non-contiguous phrases
+R1	10.1.1.111.135	An efficient two-pass approach to synchronous-cfg driven statistical mt
+R1	10.1.1.61.1658	BLANC: Learning Evaluation Metrics for MT
+R1	10.1.1.86.5464	A discriminative global training algorithm for statistical MT
+R1	10.1.1.187.5090	Phrasetable smoothing for statistical machine translation
+R1	10.1.1.130.7721	Word-based alignment, phrase-based translation: What’s the link
+R1	10.1.1.297.3494	Efficient phrase-table representation for machine translation with applications to online MT and speech translation
+R1	10.1.1.136.186	Language model adaptation for statistical machine translation based on information retrieval

@@ -1,0 +1,21 @@
+10.1.1.135.9750	2000	A survey of new research directions in microprocessors
+R1	10.1.1.129.1383	Simultaneous Multithreading: Maximizing On-Chip Parallelism
+R1	10.1.1.134.208	Multiscalar Processors
+R1	10.1.1.122.8305	Value Locality and Load Value Prediction
+R1	10.1.1.138.4733	Alternative implementations of two-level adaptive branch prediction
+R1	10.1.1.150.3091	Trace processors
+R1	10.1.1.146.710	Improving Superscalar Instruction Dispatch and Issue by Exploiting Dynamic Code Sequences, Proc. 24th Int’l Symp. Computer Architecture
+R1	10.1.1.56.9590	The Effect of Instruction Fetch Bandwidth on Value Prediction
+R1	10.1.1.34.6500	Efficacy and Performance Impact of Value Prediction
+R1	10.1.1.25.6572	Confidence Estimation for Speculation Control
+R1	10.1.1.47.5130	Using Hybrid Branch Predictors to Improve Branch Prediction Accuracy in the Presence of Context Switches
+R1	10.1.1.110.3723	Exploiting choice: Instruction fetch and issue on an implementable simultaneous multithreading processor
+R1	10.1.1.146.743	A New Direction for Computer Architecture Research
+R1	10.1.1.10.6285	Memory Dependence Prediction using Store Sets
+R1	10.1.1.391.5259	Understanding the Differences between Value Prediction and Instruction Reuse
+R1	10.1.1.44.4731	A Comparison of Dynamic Branch Predictors that use Two Levels of Branch History
+R1	10.1.1.26.4384	Selective Eager Execution on the PolyPath Architecture
+R1	10.1.1.17.9348	Identifying Bottlenecks in a Multithreaded Superscalar Microprocessor
+R1	10.1.1.44.4154	Static Speculation, Dynamic Resolution
+R1	10.1.1.39.3097	Simultaneous Multithreading and Multimedia
+R1	10.1.1.55.4855	A compiler technique for speculative execution of alternative program paths targeting multithreaded architectures

@@ -1,0 +1,40 @@
+10.1.1.107.6083	2005	Automaton Meets Algebra: A Hybrid Paradigm for Efficiently Processing XQuery over XML Stream
+R1	10.1.1.14.305	An XML Query Engine for Network-Bound Data
+R1	10.1.1.11.8839	TelegraphCQ: Continuous Dataflow Processing for an Uncertan World
+R1	10.1.1.15.6799	Fjording the Stream: An Architecture for Queries over Streaming Sensor Data
+R1	10.1.1.133.7534	Continuous Queries over Data Streams
+R1	10.1.1.12.7195	Approximate Join Processing Over Data Streams
+R1	10.1.1.29.2817	Efficient Filtering of XML Documents for Selective Dissemination of Information
+R1	10.1.1.136.4253	NiagaraCQ: A Scalable Continuous Query System for Internet Databases
+R1	10.1.1.124.386	Yfilter: Efficient and scalable filtering of XML documents
+R1	10.1.1.92.6995	Stream Processing of XPath Queries with Predicates
+R1	10.1.1.104.7726	XPath Queries on Streaming Data
+R1	10.1.1.1.2777	Query Optimization for XML
+R1	10.1.1.12.5807	TIMBER: A Native XML Database
+R1	10.1.1.13.3922	Mesh-Based Content Routing using XML
+R1	10.1.1.134.7402	Estimating the Selectivity of XML Path Expressions for Internet Scale Applications
+R1	10.1.1.39.4869	Iterative Dynamic Programming: A New Class of Query Optimization Algorithms
+R1	10.1.1.137.3356	An overview of query optimization in relational systems
+R1	10.1.1.20.9548	Predicate Migration: Optimizing Queries with Expensive Predicates
+R1	10.1.1.33.1669	Including Group-By in Query Optimization
+R1	10.1.1.33.2632	XMill: an Efficient Compressor for XML Data
+R1	10.1.1.1.9087	XGRIND: A Query-friendly XML Compressor
+R1	10.1.1.28.8227	Minimization of Tree Pattern Queries
+R1	10.1.1.1.7562	FluXQuery: An Optimizing XQuery Processor for Streaming XML Data
+R1	10.1.1.15.4881	A Transducer-Based XML Query Processor
+R1	10.1.1.161.424	Evaluating Window Joins over Unbounded Streams
+R1	10.1.1.33.1010	Type Inference for Queries on Semistructured Data (Extended Abstract)
+R1	10.1.1.138.6469	Query processing for high-volume XML message brokering
+R1	10.1.1.330.6478	Structural Join Order Selection for XML Query Optimization. Tech Report. Available at http://www.eecs.umich.edu/ yuwu/SJOS.pdf
+R1	10.1.1.118.7039	The design of the borealis stream processing engine
+R1	10.1.1.1.9636	Resource Sharing in Continuous Sliding-Window Aggregates
+R1	10.1.1.19.9644	XMark: A Benchmark for XML Data Management
+R1	10.1.1.30.1904	Towards an Effective Calculus for Object Query Languages
+R1	10.1.1.9.7454	Holistic Twig Joins on Indexed XML Documents
+R1	10.1.1.408.566	Dynamic plan migration for continuous queries over data streams
+R1	10.1.1.114.9700	The Cougar project: A work-in-progress report
+R1	10.1.1.4.2330	Skipping Streams with XHints
+R1	10.1.1.11.1827	The Joy of SAX
+R1	10.1.1.108.5512	Semantic Query Optimization for XQuery over XML Streams
+R1	10.1.1.122.4728	Mixing Querying and Navigation in MIX
+R1	10.1.1.128.3390	Efficient Mid-Query Re-Optimization of Sub-Optimal Query Execution Plans

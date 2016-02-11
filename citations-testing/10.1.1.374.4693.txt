@@ -1,0 +1,28 @@
+10.1.1.374.4693	2011	An Integrated Neuroevolutionary Approach to Reactive Control and High-level Strategy
+R1	10.1.1.40.6026	A Comparison between Cellular Encoding and Direct Encoding for Genetic Neural Networks
+R1	10.1.1.51.4764	Generalization in Reinforcement Learning: Successful Examples Using Sparse Coarse Coding
+R1	10.1.1.32.7692	Reinforcement Learning I: Introduction
+R1	10.1.1.12.6377	Incremental Evolution of Complex General Behavior
+R1	10.1.1.294.5088	A resource-allocating network for function interpolation
+R1	10.1.1.14.793	Evolving Artificial Neural Networks
+R1	10.1.1.323.5991	The minimum description length principle in coding and modeling
+R1	10.1.1.52.7440	A Theory of Program Size Formally Identical to Information Theory
+R1	10.1.1.13.7462	Completely Derandomized Self-Adaptation in Evolution Strategies
+R1	10.1.1.18.4591	Evolving Neural Networks through Augmenting Topologies
+R1	10.1.1.43.4134	Adapting Operator Settings in Genetic Algorithms
+R1	10.1.1.13.6487	Competitive Coevolution through Evolutionary Complexification
+R1	10.1.1.142.4736	Robust Non-linear Control through Neuroevolution
+R1	10.1.1.37.4883	Efficient Reinforcement Learning through Symbiotic Evolution
+R1	10.1.1.100.6243	Real-time neuroevolution in the nero video game
+R1	10.1.1.13.7199	Solving Non-Markovian Control Tasks with Neuroevolution
+R1	10.1.1.4.9285	A Radial Basis Function Method for Global Optimization
+R1	10.1.1.46.7857	An RBF Network Alternative for a Hybrid Architecture
+R1	10.1.1.34.3781	Comparison of CMACs and Radial Basis Functions for Local Function Approximators in Reinforcement Learning
+R1	10.1.1.101.8297	Coevolving Strategies for General Game Playing
+R1	10.1.1.105.1719	Evolving a real-world vehicle warning system
+R1	10.1.1.109.2342	Neuroevolution of an automobile crash warning system
+R1	10.1.1.152.8363	Comparing evolutionary and temporal difference methods in a reinforcement learning domain
+R1	10.1.1.365.4434	Efficient Evolution of Neural Networks through Complexification
+R1	10.1.1.139.3370	Accelerated Neural Evolution through Cooperatively Coevolved Synapses
+R1	10.1.1.147.6541	Evolving neural networks for fractured domains
+R1	10.1.1.157.6095	Evolving neural networks for strategic decision-making problems

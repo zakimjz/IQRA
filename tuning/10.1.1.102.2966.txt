@@ -1,0 +1,23 @@
+10.1.1.102.2966	2004	Adaptive Processor Allocation in Packet Processing Systems
+R1	10.1.1.16.8551	Performance Guarantees for Web Server End-Systems: A Control-Theoretical Approach
+R1	10.1.1.103.4217	An Observation-based Approach Towards Self-managing Web Servers
+R1	10.1.1.130.8002	SEDA: An Architecture for Well-Conditioned, Scalable Internet Services
+R1	10.1.1.110.9916	The click modular router
+R1	10.1.1.1.3023	Dynamic Resource Allocation for Shared Data Centers Using Online Measurements
+R1	10.1.1.110.5355	Managing Energy and Server Resources in Hosting Centers
+R1	10.1.1.129.2631	QoS-Driven Server Migration for Internet Data Centers
+R1	10.1.1.127.1976	Oceano - SLA Based Management of a Computing Utility
+R1	10.1.1.110.8965	Small-Time Scaling Behaviors of Internet Backbone Traffic: An Empirical Study
+R1	10.1.1.101.847	Np-click: A programming model for the intel ixp1200
+R1	10.1.1.23.9063	VERA: An Extensible Router Architecture
+R1	10.1.1.136.3421	Building a robust software-based router using network processors
+R1	10.1.1.100.4332	A Hierarchical CPU Scheduler for Multimedia Operating Systems
+R1	10.1.1.47.4571	Lottery and Stride Scheduling: Flexible Proportional-Share Resource Management
+R1	10.1.1.14.141	Using Cohort Scheduling to Enhance Server Performance
+R1	10.1.1.10.3288	A Case for Run-time Adaptation in Packet Processing Systems
+R1	10.1.1.42.3620	The x-Kernel: An Architecture for Implementing Network Protocols
+R1	10.1.1.2.8066	Modeling Internet Backbone Traffic at the Flow Level
+R1	10.1.1.117.6645	Surplus Fair Scheduling: A Proportional-Share CPU Scheduling Algorithm for Symmetric Multiprocessors
+R1	10.1.1.100.6231	Deadline fair scheduling: Bridging the theory and practice of proportionate fair scheduling in multiprocessor systems
+R1	10.1.1.20.3178	Multiscale Predictability of Network Traffic
+R1	10.1.1.124.3890	Multiprocessor scheduling in processor-based router platforms: Issues and ideas

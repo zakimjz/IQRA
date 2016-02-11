@@ -1,0 +1,28 @@
+10.1.1.128.5695	2003	Using Interaction Costs for Microarchitectural Bottleneck Analysis
+R1	10.1.1.117.8243	The simplescalar tool set, version 2.0
+R1	10.1.1.125.1918	The optimal logic depth per pipeline stage is 6 to 8 FO4 inverter delays
+R1	10.1.1.136.1312	Speculative Lock Elision: Enabling Highly Concurrent Multithreaded Execution
+R1	10.1.1.3.9990	A Scalable Approach to Thread-Level Speculation
+R1	10.1.1.22.5571	Reducing Power with Dynamic Critical Path Information
+R1	10.1.1.11.3110	Energy-Efficient Processor Design Using Multiple Clock Domains with Dynamic Voltage and Frequency Scaling
+R1	10.1.1.1.6280	A Statistically Rigorous Approach for Improving Simulation Methodology
+R1	10.1.1.124.5957	Continuous Profiling: Where Have All the Cycles Gone
+R1	10.1.1.30.4137	ProfileMe: Hardware Support for Instruction-Level Profiling on Out-of-Order Processors
+R1	10.1.1.52.139	Performance Analysis Using the MIPS R10000 Performance Counters
+R1	10.1.1.113.5957	Joint Local and Global Hardware Adaptations for Energy
+R1	10.1.1.152.4915	Selective value prediction
+R1	10.1.1.153.2916	Increasing processor performance by implementing deeper pipelines
+R1	10.1.1.331.1194	Loose loops sink chips
+R1	10.1.1.421.7378	The impact of architectural trends on operating system performance
+R1	10.1.1.112.174	Slack: Maximizing Performance Under Technological Constraints
+R1	10.1.1.37.5406	Performance of Database Workloads on Shared-Memory Systems with Out-of-Order Processors
+R1	10.1.1.14.7551	Load Latency Tolerance In Dynamically Scheduled Processors
+R1	10.1.1.20.6892	Locality vs. Criticality
+R1	10.1.1.167.3312	Non-vital loads
+R1	10.1.1.18.8914	Performance Characterization of a Hardware Mechanism for Dynamic Optimization
+R1	10.1.1.111.2664	Focusing processor policies via critical-path prediction
+R1	10.1.1.39.2929	The Impact of Instruction-Level Parallelism on Multiprocessor Performance and Simulation Methodology
+R1	10.1.1.34.6014	Improving Trace Cache Effectiveness with Branch Promotion and Trace Packing
+R1	10.1.1.18.3986	Dynamic Prediction of Critical Path Instructions
+R1	10.1.1.19.1251	Quantifying Instruction Criticality
+R1	10.1.1.47.1826	The Non-Critical Buffer: Using Load Latency Tolerance to Improve Data Cache Efficiency

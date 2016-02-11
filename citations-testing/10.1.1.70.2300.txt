@@ -1,0 +1,22 @@
+10.1.1.70.2300	2004	Memory cues for meeting video retrieval
+R1	10.1.1.123.805	Visual Information Seeking: Tight Coupling of Dynamic Query Filters with Starfield Displays
+R1	10.1.1.18.2062	A Wearable Digital Library of Personal Conversations
+R1	10.1.1.33.283	Data Mountain: Using Spatial Memory for Document Management
+R1	10.1.1.116.8743	Stuff I've seen: A system for personal information retrieval and re-use
+R1	10.1.1.20.9091	Dynamic Queries for Visual Information Seeking
+R1	10.1.1.110.840	Distributed meetings: A meeting capture and broadcasting system
+R1	10.1.1.320.7388	Action recognition in meeting scenarios using global motion features
+R1	10.1.1.23.6099	Evaluating the Effectiveness of Spatial Memory in 2D and 3D Physical and Virtual Environments
+R1	10.1.1.48.8049	Semantic Visual Templates: Linking Visual Features to Semantics
+R1	10.1.1.24.2033	Passive Capture and Structuring of Lectures
+R1	10.1.1.406.9883	Context-based video retrieval system for the life-log applications
+R1	10.1.1.9.4306	Ontology and Taxonomy Collaborated Framework for Meeting Classification
+R1	10.1.1.88.4970	Milestones in time: The value of landmarks in retrieving information from personal stores
+R1	10.1.1.5.422	What Was I Cooking? Towards Deja Vu Displays of Everyday Memory
+R1	10.1.1.137.7375	SPECs: Another Approach to Human Context and Activity Sensing Research, Using Tiny . . .
+R1	10.1.1.158.1821	Early experiences of visual memory prosthesis for supporting episodic memory
+R1	10.1.1.71.5291	Conceptual Structures and Computational Methods for Indexing and Organization of Visual Information
+R1	10.1.1.109.502	Ubiquitous Memories: Wearable Interface for Computational Augmentation of Human Memory based on Real World Objects
+R1	10.1.1.12.9213	FLYSPEC: A Multi-User Video Camera System with Hybrid Human and Automatic Control
+R1	10.1.1.21.2621	Activity Monitoring and Summarization for an Intelligent Meeting Room
+R1	10.1.1.1.9554	Panoramic Capturing and Recognition of Human Activity

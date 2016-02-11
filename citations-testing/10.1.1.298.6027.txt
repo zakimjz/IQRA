@@ -1,0 +1,21 @@
+10.1.1.298.6027	2008	A new approach to knowledge-based design of recurrent neural networks
+R1	10.1.1.1.3412	A Recurrent Neural Network That Learns to Count
+R1	10.1.1.41.8229	Analysis of Dynamical Recognizers
+R1	10.1.1.38.920	Foundations Of Recurrent Neural Networks
+R1	10.1.1.49.2998	Learning to count without a counter: A case study of dynamics and activation landscapes in recurrent networks
+R1	10.1.1.54.4913	Refinement of Approximate Domain Theories by Knowledge-Based Neural Networks
+R1	10.1.1.4.2811	Learning to predict a context-free language: Analysis of dynamics in recurrent hidden units
+R1	10.1.1.39.234	An Evolutionary Algorithm that Constructs Recurrent Neural Networks
+R1	10.1.1.10.4699	Rule Extraction from Recurrent Neural Networks: a Taxonomy and Review
+R1	10.1.1.28.2266	Noisy Time Series Prediction using a Recurrent Neural Network and Grammatical Inference
+R1	10.1.1.51.51	Fool's Gold: Extracting Finite State  Machines From Recurrent Network Dynamics
+R1	10.1.1.42.2636	The Observers' Paradox: Apparent Computational Complexity in Physical Systems
+R1	10.1.1.146.5091	Mathematical modeling of observed natural behavior: a fuzzy logic approach
+R1	10.1.1.29.8776	Functional Equivalence between Radial Basis Function Networks and Fuzzy Inference Systems
+R1	10.1.1.330.8928	Are artificial neural networks black boxes
+R1	10.1.1.147.3461	Thornber, Equivalence in knowledge representation: automata, recurrent neural networks, and dynamical fuzzy systems
+R1	10.1.1.107.9641	What inductive bias gives good neural network training performance
+R1	10.1.1.22.7691	Fuzzy Finite-state Automata Can Be Deterministically Encoded into Recurrent Neural Networks
+R1	10.1.1.46.1614	An Algebraic Framework to Represent Finite State Machines in Single-Layer Recurrent Neural Networks
+R1	10.1.1.61.5612	Nicholson's Blowflies Revisited: A Fuzzy Modeling Approach
+R1	10.1.1.298.6773	The fuzzy ant

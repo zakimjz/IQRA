@@ -1,0 +1,23 @@
+10.1.1.83.6404	2004	Structure Management for Scalable Overlay Service Construction
+R1	10.1.1.119.6140	Resilient Overlay Networks
+R1	10.1.1.140.3129	A Scalable Content-Addressable Network
+R1	10.1.1.105.3673	Chord: A Scalable Peer-to-Peer Lookup Service for Internet Applications
+R1	10.1.1.153.5656	Summary cache: A scalable wide-area web cache sharing protocol
+R1	10.1.1.121.1027	A reliable multicast framework for light-weight sessions and application level framing
+R1	10.1.1.126.6083	A Case for End System Multicast
+R1	10.1.1.16.8178	Scalable Application Layer Multicast
+R1	10.1.1.7.2854	Using Random Subsets to Build Scalable Network Services
+R1	10.1.1.16.1445	Predicting Internet Network Distance with Coordinates-Based Approaches
+R1	10.1.1.10.1322	Topologically-aware overlay construction and server selection
+R1	10.1.1.136.4408	Equation-based congestion control for unicast applications
+R1	10.1.1.239.9869	Books in graphs
+R1	10.1.1.134.20	End-to-End Internet Packet Dynamics
+R1	10.1.1.156.9940	A routing underlay for overlay networks
+R1	10.1.1.109.4681	A blueprint for introducing disruptive technology into the internet
+R1	10.1.1.17.2405	Measuring Bottleneck Link Speed in Packet-Switched Networks
+R1	10.1.1.67.2281	Exploiting network proximity in peer-to-peer overlay networks
+R1	10.1.1.16.1501	Protecting Free Expression Online with Freenet
+R1	10.1.1.117.9820	Brocade: Landmark routing on overlay networks
+R1	10.1.1.147.2935	Inet-3.0: Internet topology generator
+R1	10.1.1.156.144	An Architecture for a Global Internet Host Distance Estimation Service
+R1	10.1.1.421.9495	Distributed Hashtable on Pre-structured Overlay Networks

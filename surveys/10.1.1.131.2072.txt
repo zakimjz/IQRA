@@ -1,0 +1,22 @@
+10.1.1.131.2072	1999	The Visual Analysis of Human Movement: A Survey
+R1	10.1.1.353.4090	Visual interpretation of hand gestures for human-computer interaction: A review
+R1	10.1.1.125.8443	Real-time american sign language recognition using desk and wearable  computer based video
+R1	10.1.1.32.4166	Gesture Recognition
+R1	10.1.1.16.6213	3-D model-based tracking of humans in action: a multi-view approach
+R1	10.1.1.215.296	Pfinder: Real-time tracking of the human body
+R1	10.1.1.357.2892	3D Human body model acquisition from multiple views
+R1	10.1.1.56.3581	Articulated and Elastic Non-rigid Motion: A Review
+R1	10.1.1.49.3276	Model-Based Estimation of 3D Human Motion with Occlusion Based on Active Multi-Viewpoint Selection
+R1	10.1.1.53.3159	Recognition of Human Body Motion Using Phase Space Constraints
+R1	10.1.1.53.1449	Towards 3D Hand Tracking using a Deformable Model
+R1	10.1.1.65.9964	Model-based tracking of self-occluding articulated objects
+R1	10.1.1.30.7124	Visual Tracking of High DOF Articulated Structures: an Application to Human Hand Tracking
+R1	10.1.1.36.9026	Visual Interaction With Lifelike Characters
+R1	10.1.1.50.182	Pedestrian Detection Using Wavelet Templates
+R1	10.1.1.51.5248	Real-time self-calibrating stereo person tracking using 3-D shape estimation from blob features
+R1	10.1.1.29.6686	Analyzing Gait With Spatiotemporal Surfaces
+R1	10.1.1.333.8503	Tracking non-rigid moving objects based on color cluster flow
+R1	10.1.1.11.2741	Computer Vision for Computer Games
+R1	10.1.1.53.6804	Tracking Human Motion Using Multiple Cameras
+R1	10.1.1.17.8982	Human Emotion Recognition from Motion Using a Radial Basis Function Network Architecture
+R1	10.1.1.52.3461	Eyes in the Interface

@@ -1,0 +1,23 @@
+10.1.1.80.1758	2006	A field model for human detection and tracking
+R1	10.1.1.110.5546	Neural Network-Based Face Detection
+R1	10.1.1.113.3059	Real-Time Object Detection for "Smart" Vehicles
+R1	10.1.1.124.5318	Snakes: Active contour models
+R1	10.1.1.353.4090	Visual interpretation of hand gestures for human-computer interaction: A review
+R1	10.1.1.131.2072	The Visual Analysis of Human Movement: A Survey
+R1	10.1.1.37.849	Ghost: A Human Body Part Labeling System Using Silhouettes
+R1	10.1.1.116.8559	Learning low-level vision
+R1	10.1.1.10.6807	Rapid object detection using a boosted cascade of simple features
+R1	10.1.1.22.8606	Probabilistic Tracking in a Metric Space
+R1	10.1.1.9.6021	Training Support Vector Machines: an Application to Face Detection
+R1	10.1.1.208.258	Object Detection in Images by Components
+R1	10.1.1.50.182	Pedestrian Detection Using Wavelet Templates
+R1	10.1.1.10.4061	Detecting Pedestrians Using Patterns of Motion and Appearance
+R1	10.1.1.40.3614	An Introduction to Variational Methods for Graphical Models
+R1	10.1.1.33.1794	Correctness of Local Probability Propagation in Graphical Models with Loops
+R1	10.1.1.101.8745	Histograms of Oriented Gradients for Human Detection
+R1	10.1.1.94.6612	Pedestrian detection in crowded scenes
+R1	10.1.1.12.6221	Finding and Tracking People from the Bottom Up
+R1	10.1.1.331.1953	A Statistical Field Model for Pedestrian Detection
+R1	10.1.1.108.9513	A Bayesian Network Framework for Relational Shape Matching
+R1	10.1.1.2.4106	Modal Matching for Correspondence and Recognition
+R1	10.1.1.118.9795	Learning inhomogeneous Gibbs model of faces by minimax entropy

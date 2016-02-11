@@ -1,0 +1,21 @@
+10.1.1.144.7880	2008	Multi-stage programming with functors and monads: eliminating abstraction overhead from generic code
+R1	10.1.1.115.8660	Aspect-oriented programming
+R1	10.1.1.132.7232	On the Criteria To Be Used in Decomposing Systems into Modules
+R1	10.1.1.158.5275	Notions of Computation and Monads
+R1	10.1.1.1.4088	An Automatic Program Generator for Multi-Level Specialization
+R1	10.1.1.34.8375	Improving CPS-Based Partial Evaluation: Writing Cogen by Hand
+R1	10.1.1.25.9724	Aspect-Oriented Programming of Sparse Matrix Code
+R1	10.1.1.17.268	Monad Transformers and Modular Interpreters
+R1	10.1.1.10.6148	Implementing Multi-stage Languages Using ASTs, Gensym, and Reflection
+R1	10.1.1.17.4285	MetaML and Multi-Stage Programming with Explicit Annotations
+R1	10.1.1.228.1699	Telescoping languages: A strategy for automatic generation of scientific problem-solving systems from annotated libraries. www.netlib.org/utk/people/JackDongarra/PAPERS/ Telescope.pdf
+R1	10.1.1.34.1931	A Sound Reduction Semantics for Untyped CBN Multi-Stage Computation. Or, the Theory of MetaML is Non-trivial (Extended Abstract)
+R1	10.1.1.43.8213	Representing Monads
+R1	10.1.1.6.735	When And How To Develop Domain-Specific Languages
+R1	10.1.1.332.3027	A methodology for generating verified combinatorial circuits, in: EMSOFT ’04
+R1	10.1.1.51.1780	Generic Programming
+R1	10.1.1.86.4915	Introduction to gauss
+R1	10.1.1.61.6053	Gaussian Elimination: a case study in efficient genericity with MetaOCaml
+R1	10.1.1.15.499	Algorithm-oriented Generic Libraries
+R1	10.1.1.25.8053	RG: A Case-Study for Aspectoriented Programming
+R1	10.1.1.60.6204	A Monadic Approach for Avoiding Code Duplication when Staging Memoized Functions

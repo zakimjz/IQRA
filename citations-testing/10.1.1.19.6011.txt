@@ -1,0 +1,22 @@
+10.1.1.19.6011	2001	A Unified Relational Approach to Grid Information Services
+R1	10.1.1.25.8254	Globus: A Metacomputing Infrastructure Toolkit
+R1	10.1.1.12.1036	The design and implementation of an intentional naming system
+R1	10.1.1.21.1188	Active Names: Flexible Location and Transport of Wide-Area Resources
+R1	10.1.1.21.987	A Directory Service for Configuring High-Performance Distributed Computations
+R1	10.1.1.12.9302	Event Services for High Performance Computing
+R1	10.1.1.144.4987	Random Sampling from Databases
+R1	10.1.1.46.206	Forecasting Network Performance to Support Dynamic Scheduling Using the Network Weather Service
+R1	10.1.1.25.9973	Designing a Global Name Service
+R1	10.1.1.32.1223	Optimizations Enabled by a Relational Data Model View to Querying Data Streams
+R1	10.1.1.40.6592	Preliminary Report on the Design of a Framework for Distributed Visualization
+R1	10.1.1.140.9791	Performance characteristics of mirror servers on the internet
+R1	10.1.1.151.5426	An Extensible Toolkit for Resource Prediction in Distributed Systems
+R1	10.1.1.121.3871	dQUOB: Managing Large Data Flows Using Dynamic Embedded Queries
+R1	10.1.1.25.5301	Run-time Support for Adaptive Heavyweight Services
+R1	10.1.1.39.8533	Communication and Memory Requirements as the Basis for Mapping Task and Data Parallel Programs
+R1	10.1.1.29.4527	Task Parallelism in a High Performance Fortran Framework
+R1	10.1.1.142.3222	Direct queries for discovering network resource properties in a distributed environment
+R1	10.1.1.37.3367	Realizing Distributed Computational Laboratories
+R1	10.1.1.33.6996	The Case For Prediction-based Best-effort Real-time Systems
+R1	10.1.1.220.2159	Resource Signal Prediction and Its Application to Real-time Scheduling Advisors
+R1	10.1.1.27.1008	Fast Message Assembly Using Compact Address Relations

@@ -1,0 +1,22 @@
+10.1.1.108.4911	1979	Fomutl Languages
+R1	10.1.1.20.9910	Understanding Speech Understanding: Towards A Unified Theory Of Speech Perception
+R1	10.1.1.37.2856	Syllable Detection And Segmentation Using Temporal Flow Neural Networks
+R1	10.1.1.23.273	The Role Of Syllable Structure In Lexical Segmentation: Helping Listeners Avoid Mondegreens
+R1	10.1.1.211.9059	The motor theory of speech perception revised
+R1	10.1.1.16.9844	Correlates of Linguistic Rhythm in the Speech Signal
+R1	10.1.1.36.8780	On The Origins Of Speech Intelligibility In The Real World
+R1	10.1.1.114.5967	Language discrimination by newborns: Teasing apart phonotactic, rhythmic, and intonational cues
+R1	10.1.1.17.5920	Neural network processing of natural language: I. Sensitivity to serial, temporal and abstract structure of language in the infant
+R1	10.1.1.26.6415	Word And Syllable Models For German Text-To-Speech Synthesis
+R1	10.1.1.35.1046	A Multilingual Prosodic Database
+R1	10.1.1.51.3519	Language Identification From Prosody Without Explicit Features
+R1	10.1.1.32.442	Output Requirements for a High-Quality Speech Synthesis System: The Case of Disambiguation
+R1	10.1.1.126.7670	Perceptual discrimination of prosodic types
+R1	10.1.1.27.4112	Estimating The Speaking Rate By Vowel Detection
+R1	10.1.1.16.326	Acoustic correlates of linguistic rhythm: Perspectives
+R1	10.1.1.398.6040	Modeling prosody for language identification on read and spontaneous speech
+R1	10.1.1.49.4136	Using Intonation To Constrain Language Models In Speech Recognition
+R1	10.1.1.422.932	Prosodic features in automatic language identification reflect language typology
+R1	10.1.1.40.1390	A Computational Model of Prosody Perception
+R1	10.1.1.81.7608	Revisiting the status of speech rhythm
+R1	10.1.1.34.9138	Representing Speech Rhythm

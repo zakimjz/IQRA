@@ -1,0 +1,51 @@
+10.1.1.149.4986	2008	Aspectual Feature Modules
+R1	10.1.1.156.4510	Mixin-based inheritance
+R1	10.1.1.1.2112	Composing High-Performance Memory Allocators
+R1	10.1.1.141.1425	Using role components to implement collaboration-based design
+R1	10.1.1.127.1401	Integrating independent components with on-demand remodularization
+R1	10.1.1.129.7426	Hyper/J™: Multi-Dimensional Separation of Concerns for Java™
+R1	10.1.1.116.3434	Superimpositions and aspect-oriented programming
+R1	10.1.1.17.3915	On the Representation of Roles in Object-Oriented and Conceptual Modelling
+R1	10.1.1.107.76	The design and implementation of hierarchical software systems with reusable components
+R1	10.1.1.13.537	Conquering Aspects with Caesar
+R1	10.1.1.5.5088	Programming with Aspectual Components
+R1	10.1.1.2.486	Dynamically Composable Collaborations with Delegation Layers
+R1	10.1.1.101.2752	Scaling Step-Wise Refinement
+R1	10.1.1.11.9373	A Denotational Semantics of Inheritance
+R1	10.1.1.10.3533	On the Separation of Concerns in Program Families
+R1	10.1.1.123.5092	Back to the future: A retroactive study of aspect evolution in operating system code
+R1	10.1.1.10.8640	A Comparison of Jiazzi and AspectJ for Feature-wise Decomposition
+R1	10.1.1.81.3734	Using mixins to build flexible widgets
+R1	10.1.1.12.8089	Aspect-Oriented Programming with Jiazzi
+R1	10.1.1.165.1694	A survey of peer-to-peer content distribution technologies
+R1	10.1.1.112.1106	Creating Reference Architectures: An Example from Avionics
+R1	10.1.1.58.7072	Variability Management with Feature-Oriented Programming and Aspects
+R1	10.1.1.17.5396	Achieving Extensibility Through Product-Lines and Domain-Specific Languages: A Case Study
+R1	10.1.1.12.2698	Mixin Layers: An Object-Oriented Implementation Technique for Refinements and Collaboration-Based Designs
+R1	10.1.1.11.5172	Object Teams: Improving Modularity for Crosscutting Collaborations
+R1	10.1.1.139.1412	Mapping features to models: A template approach based on superimposed variants
+R1	10.1.1.115.5803	Using C++ Templates to Implement Role-Based Designs
+R1	10.1.1.176.5313	Scalable Component Abstractions
+R1	10.1.1.67.1559	Framed Aspects: Supporting Variability and Configurability for AOP
+R1	10.1.1.62.6737	Concrete syntax for objects. Domain-specific language embedding and assimilation without restrictions
+R1	10.1.1.38.8368	A Programming Language for Writing Domain-Specific Software System Generators
+R1	10.1.1.360.9383	Resolving Feature Convolution in Middleware Systems
+R1	10.1.1.394.3927	Modular software design with crosscutting interfaces
+R1	10.1.1.106.6886	Aspect Refinement - Unifying AOP and Stepwise Refinement
+R1	10.1.1.143.3148	When to Use Features and Aspects? A Case Study
+R1	10.1.1.142.7256	FeatureC++: On the Symbiosis of Feature-Oriented and Aspect-Oriented Programming
+R1	10.1.1.111.7604	Avoiding infinite recursion with stratified aspects
+R1	10.1.1.88.3594	A Disciplined Approach to Aspect Composition
+R1	10.1.1.214.2093	A virtual class calculus
+R1	10.1.1.184.507	Information hiding interfaces for aspect-oriented design
+R1	10.1.1.156.3026	Scalable extensibility via nested inheritance
+R1	10.1.1.59.6902	Adding Open Modules to AspectJ
+R1	10.1.1.58.1397	Towards a Generic Model for AOP (GEMA)
+R1	10.1.1.113.8345	Using Step-Wise Refinement to Build a Flexible Lightweight Storage Manager
+R1	10.1.1.147.1813	J&: Nested intersection for scalable software composition
+R1	10.1.1.66.9550	Semantics-based composition for aspectoriented requirements engineering
+R1	10.1.1.60.1677	Biology-Inspired Optimizations of Peer-to-Peer Overlay Networks
+R1	10.1.1.143.3161	On the Structure of Crosscutting Concerns: Using Aspects or Collaborations
+R1	10.1.1.74.8103	From Crosscutting Concerns to Product Lines: A Function Composition Approach
+R1	10.1.1.68.6910	A Case Study Implementing Features using AspectJ
+R1	10.1.1.142.6617	An Algebra for Feature-Oriented Software Development

@@ -1,0 +1,22 @@
+10.1.1.13.3938	2003	An Intelligent Broker Architecture for Context-Aware Systems
+R1	10.1.1.121.328	Agile Application-Aware Adaptation for Mobility
+R1	10.1.1.117.4330	A survey of context-aware mobile computing research
+R1	10.1.1.29.5833	Context-Aware Computing Applications
+R1	10.1.1.17.339	The Active Badge Location System
+R1	10.1.1.22.8413	A Web-Based Nomadic Computing System
+R1	10.1.1.187.4376	The Context Toolkit: Aiding the Development of Context-Enabled Applications
+R1	10.1.1.137.1674	The Intelligent Room Project
+R1	10.1.1.13.6302	Building Agent-Based Intelligent Workspaces
+R1	10.1.1.21.8135	Rascal - a Resource Manager For Multi Agent Systems In Smart Spaces
+R1	10.1.1.10.9512	First Steps Towards an Event-Based Infrastructure for Smart Things
+R1	10.1.1.42.5735	There is more to Context than Location -- Environment Sensing Technologies for . . .
+R1	10.1.1.19.8330	Tilting Operations for Small Screen Interfaces
+R1	10.1.1.3.6333	DAMLJessKB: A Tool for Reasoning with the Semantic Web
+R1	10.1.1.18.2953	Developing Secure Agent Systems Using Delegation Based Trust Management
+R1	10.1.1.90.306	Changing Places: Contexts of Awareness in Computing
+R1	10.1.1.127.3033	An indoor wireless system for personalized shopping assistance
+R1	10.1.1.15.485	A System Architecture for Context-Aware Mobile Computing
+R1	10.1.1.30.4924	Teleporting - Making Applications Mobile
+R1	10.1.1.49.6989	Building Brains for Rooms: Designing Distributed Software Agents
+R1	10.1.1.30.9393	Using Context to Assist in Multimedia Object Retrieval
+R1	10.1.1.34.9992	Distributed Mediation of Imperfectly Sensed Context in Aware Environments

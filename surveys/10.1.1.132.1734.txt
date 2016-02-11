@@ -1,0 +1,21 @@
+10.1.1.132.1734	2006	A survey on hair modeling: styling, simulation, and rendering
+R1	10.1.1.323.8780	Large steps in cloth simulation
+R1	10.1.1.28.9259	Fast Distance Queries with Rectangular Swept Sphere Volumes
+R1	10.1.1.208.6723	Linear-time dynamics using lagrange multipliers
+R1	10.1.1.127.5564	RENDERING FUR WITH THREE DIMENSIONAL TEXTURES
+R1	10.1.1.1.4850	A Simple, Efficient Method for Realistic Animation of Clouds
+R1	10.1.1.100.6307	Illumination in Diverse Codimensions
+R1	10.1.1.4.7970	Real-Time Rendering of Human Hair using Programmable Graphics Hardware
+R1	10.1.1.19.2958	A Practical Model for Hair Mutual Interactions
+R1	10.1.1.19.3911	Interactive Multiresolution Hair Modeling and Editing
+R1	10.1.1.19.5896	A Layered Wisp Model for Simulating Interactions Inside Long Hair
+R1	10.1.1.11.4409	Capturing the Complexity of Hair Motion
+R1	10.1.1.58.6628	Modeling Realistic Virtual Hairstyles
+R1	10.1.1.13.9008	Rendering Hair using Pixel Blending and Shadow Buffers
+R1	10.1.1.126.8228	Light scattering from human hair fibers
+R1	10.1.1.104.8092	Hair Paint
+R1	10.1.1.120.2546	Modeling hair influenced by water and styling products
+R1	10.1.1.111.6965	Super-helices for predicting the dynamics of natural hair
+R1	10.1.1.33.1842	Efficient Rendering of Anisotropic Surfaces Using Computer Graphics Hardware
+R1	10.1.1.19.1119	Image-Based Hair Capture by Inverse Lighting
+R1	10.1.1.134.2055	A method of human short hair modeling and real time animation

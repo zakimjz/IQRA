@@ -1,0 +1,32 @@
+10.1.1.422.5629	2011	Bicos: A bi-level co-segmentation method for image classification
+R1	10.1.1.121.8707	Multitask Learning
+R1	10.1.1.21.1181	Object Recognition from Local Scale-Invariant Features
+R1	10.1.1.118.2769	Interactive Graph Cuts for Optimal Boundary & Region Segmentation of Objects in N-D Images
+R1	10.1.1.101.7692	LOCUS: Learning Object Classes with Unsupervised Segmentation
+R1	10.1.1.11.2222	Efficient Graph-Based Image Segmentation
+R1	10.1.1.66.5633	A visual vocabulary for flower classification
+R1	10.1.1.88.3544	Regularized multi-task learning
+R1	10.1.1.60.6301	Geometric Context from a Single Image
+R1	10.1.1.184.2856	Using Multiple Segmentations to Discover Objects and their Extent in Image Collections
+R1	10.1.1.110.2247	A.Blake. Cosegmentation of image pairs by histogram matching - incorporating a global constraint into MRFs
+R1	10.1.1.161.9629	Pegasos: Primal Estimated sub-gradient solver for SVM
+R1	10.1.1.65.5447	Extracting subimages of an unknown category from a set of images
+R1	10.1.1.318.9381	Delving into the whorl of flower segmentation
+R1	10.1.1.151.3910	Unsupervised Segmentation of Objects using Efficient Learning
+R1	10.1.1.421.3467	Efros. Improving spatial support for objects via multiple segmentations
+R1	10.1.1.175.1428	L.: Spatially coherent latent topic model for concurrent object segmentation and classification
+R1	10.1.1.150.4613	Class Segmentation and Object Localization with Superpixel Neighborhoods
+R1	10.1.1.157.2445	An efficient algorithm for Co-segmentation
+R1	10.1.1.297.2473	Half-integrality based algorithms for cosegmentation of images
+R1	10.1.1.159.3865	Decomposing a Scene into Geometric and Semantically Consistent Regions
+R1	10.1.1.422.4747	Automated flower classification over a large number of classes
+R1	10.1.1.165.9309	On feature combination for multiclass object classication
+R1	10.1.1.163.8947	Robust Classification of Objects, Faces, and Flowers Using Natural Image Statistics
+R1	10.1.1.167.7024	Efficient Additive Kernels via Explicit Feature Maps
+R1	10.1.1.175.2312	Locality-constrained linear coding for image classification
+R1	10.1.1.188.6094	iCoseg: Interactive co-segmentation with intelligent scribble guidance
+R1	10.1.1.205.8594	Discriminative clustering for image co-segmentation
+R1	10.1.1.309.2321	Caltech-UCSD Birds 200
+R1	10.1.1.308.8587	Classcut for unsupervised class segmentation
+R1	10.1.1.330.6803	Cosegmentation revisited: models and optimization
+R1	10.1.1.362.4691	Object cosegmentation

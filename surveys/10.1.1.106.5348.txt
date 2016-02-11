@@ -1,0 +1,38 @@
+10.1.1.106.5348	2005	On knowledge grid and grid intelligence: a survey
+R1	10.1.1.122.4181	Using Schema Matching to Simplify Heterogeneous Data Translation
+R1	10.1.1.32.6963	The Data Grid: Towards an Architecture for the Distributed Management and Analysis of Large Scientific Datasets
+R1	10.1.1.12.1117	Semi-automatic Composition of Web Services using Semantic Descriptions
+R1	10.1.1.129.8850	The Anatomy of the Grid: Enabling Scalable Virtual Organizations
+R1	10.1.1.125.3310	KQML as an agent communication language
+R1	10.1.1.1.4891	Planning and Monitoring Web Service Composition
+R1	10.1.1.16.700	A Survey of Approaches to Automatic Schema Matching
+R1	10.1.1.26.1865	The Ant System: Optimization by a colony of cooperating agents
+R1	10.1.1.21.1251	Matchmaking: Distributed Resource Management for High Throughput Computing
+R1	10.1.1.119.2883	Knowledge grid: An architecture for distributed knowledge discovery
+R1	10.1.1.109.2362	Contract Representation for Run-time Monitoring and Enforcement
+R1	10.1.1.10.7720	CONOISE: Agent-Based Formation of Virtual Organisations
+R1	10.1.1.2.2107	Flexible Strategy Learning: Analogical Replay of Problem Solving Episodes
+R1	10.1.1.10.5901	Multiagent Systems for Workflow
+R1	10.1.1.11.4648	InfoGrid: Providing Information Integration for Knowledge Discovery
+R1	10.1.1.172.4202	Condor and the Grid
+R1	10.1.1.123.1376	Adaptive interfaces for ubiquitous Web access
+R1	10.1.1.131.4441	Dynamic Workflow Composition using Markov Decision Processes
+R1	10.1.1.11.9297	Characterizing Web Usage Regularities with Information Foraging Agents
+R1	10.1.1.4.5615	Automatic Web Services Composition Using SHOP2
+R1	10.1.1.100.769	Matchmaking for business processes based on choreographies
+R1	10.1.1.1.2676	Small-World File-Sharing Communities
+R1	10.1.1.163.2014	Intelligence (WI): what makes Wisdom Web
+R1	10.1.1.14.5123	A Data Mining Ontology for Grid Programming
+R1	10.1.1.99.9446	Synthesis of composite e-services based on automated reasoning
+R1	10.1.1.18.3974	Scheduling Under Uncertainty: Planning for the Ubiquitous Grid
+R1	10.1.1.132.4745	Towards autonomous service composition in a grid environment
+R1	10.1.1.10.1121	Ontology-based Resource Matching in the Grid - The Grid Meets the Semantic Web
+R1	10.1.1.144.9852	A Data, Computation and Knowledge Grid: the case of the ARION system
+R1	10.1.1.232.1826	The web and social networks
+R1	10.1.1.126.1928	Artificial intelligence and grids: workflow planning and beyond
+R1	10.1.1.115.14	Agent-based grid load balancing using performance-driven task scheduling
+R1	10.1.1.127.570	Dynamic resource selection for service composition in the grid
+R1	10.1.1.126.2380	A multi-agent system for dynamic network reconfiguration
+R1	10.1.1.80.6250	Explaining answers from the semantic web: The inference web approach
+R1	10.1.1.17.9656	Distributed Supply Chain Simulation In Grids
+R1	10.1.1.11.6853	Self-Organized Load Balancing in Proxy Servers: Algorithms and Performance

@@ -1,0 +1,24 @@
+10.1.1.20.8431	1999	Cost Complexity-based Pruning of Ensemble Classifiers
+R1	10.1.1.36.3016	Using Correspondence Analysis to Combine Classifiers
+R1	10.1.1.167.3624	Induction of Decision Trees
+R1	10.1.1.133.8090	Stacked generalization
+R1	10.1.1.32.3857	When Networks Disagree: Ensemble Methods for Hybrid Neural Networks
+R1	10.1.1.136.9119	Hierarchical mixtures of experts and the EM algorithm
+R1	10.1.1.32.8918	A Decision-Theoretic Generalization of on-Line Learning and an Application to Boosting
+R1	10.1.1.133.1040	Experiments with a New Boosting Algorithm
+R1	10.1.1.42.5440	Machine Learning Research: Four Current Directions
+R1	10.1.1.37.8876	Neural Network Ensembles, Cross Validation, and Active Learning
+R1	10.1.1.153.7626	The Strength of Weak Learnability
+R1	10.1.1.57.5909	Error-Correcting Output Coding Corrects Bias and Variance
+R1	10.1.1.43.4498	Robust Classification Systems for Imprecise Environments
+R1	10.1.1.34.9927	Analysis and Visualization of Classifier Performance: Comparison under Imprecise Class and Cost Distributions
+R1	10.1.1.49.1062	Error Reduction through Learning Multiple Descriptions
+R1	10.1.1.17.5769	Knowledge Acquisition from Examples Via Multiple Models
+R1	10.1.1.407.6314	Toward parallel and distributed learning by meta-learning
+R1	10.1.1.38.7017	Pruning Adaptive Boosting
+R1	10.1.1.56.69	Generating Accurate and Diverse Members of a Neural-Network Ensemble
+R1	10.1.1.7.7218	Combining Estimates in Regression and Classification
+R1	10.1.1.38.3567	Pruning Meta-Classifiers in a Distributed Data Mining System
+R1	10.1.1.46.7022	Agent-Based Distributed Learning Applied to Fraud Detection
+R1	10.1.1.17.7082	Management of Intelligent Learning Agents in Distributed Data Mining Systems
+R1	10.1.1.57.5281	A Comparative Evaluation of Meta-Learning Strategies over Large and Distributed Data Sets

@@ -1,0 +1,24 @@
+10.1.1.136.6790	1996	Deformable models in medical image analysis: A survey
+R1	10.1.1.124.5318	Snakes: Active contour models
+R1	10.1.1.131.6656	Shape modeling with front propagation: A level set approach
+R1	10.1.1.35.5572	Topologically Adaptable Snakes
+R1	10.1.1.52.2848	A parametric deformable model to fit unstructured 3D data
+R1	10.1.1.8.7368	Finite Element Methods for Active Contour Models and Balloons for 2D and 3D Images
+R1	10.1.1.48.3589	A Dynamic Finite Element Surface Model for Segmentation and Tracking in Multidimensional Medical Images with Application to Cardiac 4D Image Analysis
+R1	10.1.1.53.6460	Analysis of Left Ventricular Wall Motion Based on Volumetric Deformable Models and MRI-SPAMM
+R1	10.1.1.9.835	Boundary Finding with Parametrically Deformable Models
+R1	10.1.1.21.2196	Geodesic Active Contours
+R1	10.1.1.357.2861	Volumetric deformable models with parameter functions: A new approach to the 3-D motion analysis
+R1	10.1.1.28.9127	Realistic Modeling for Facial Animation
+R1	10.1.1.44.7823	Physically-based Modeling for Graphics and Vision
+R1	10.1.1.11.8192	Adaptive Meshes and Shells: Irregular Triangulation, Discontinuities, and Hierarchical Subdivision
+R1	10.1.1.331.4756	Brownian Strings: Segmenting Images with Stochastically Deformable Models
+R1	10.1.1.33.6825	An Active Contour Model For Mapping The Cortex
+R1	10.1.1.32.854	A General Scheme for Automatically Building 3D Morphometric Anatomical Atlases: application to a Skull Atlas
+R1	10.1.1.53.6740	Image Registration Based on Boundary Mapping
+R1	10.1.1.32.6539	Automatic Retrieval of Anatomical Structures in 3D Medical Images
+R1	10.1.1.46.6421	Fast Segmentation, Tracking, and Analysis of Deformable Objects
+R1	10.1.1.38.8667	Superquadrics and free-form deformations : a global model to fit and track 3D medical data
+R1	10.1.1.159.1476	Reconstruction of 3D medical images: A nonlinear interpolation technique for reconstruction of 3D medical images
+R1	10.1.1.37.1118	Shock-Based Reaction-Diffusion Bubbles for Image Segmentation
+R1	10.1.1.53.7448	Multiresolution Stochastic Hybrid Shape Models with Fractal Priors

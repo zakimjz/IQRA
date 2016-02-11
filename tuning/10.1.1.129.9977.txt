@@ -1,0 +1,26 @@
+10.1.1.129.9977	2004	Concurrent Programming Without Locks
+R1	10.1.1.186.6400	A methodology for implementing highly concurrent data structures
+R1	10.1.1.142.5315	Linearizability: a correctness condition for concurrent objects
+R1	10.1.1.19.8113	Transactional Lock-Free Execution of Lock-Based Programs
+R1	10.1.1.101.8988	On optimistic methods for concurrency control
+R1	10.1.1.106.3994	Algorithms for Scalable Synchronization on Shared-Memory Multiprocessors
+R1	10.1.1.208.4448	Transactional Memory: Architectural Support for Lock-Free Data Structures
+R1	10.1.1.129.4409	Virtualizing Transactional Memory
+R1	10.1.1.117.7167	Unbounded Transactional Memory
+R1	10.1.1.180.1070	Obstruction-free synchronization: Double-ended queues as an example
+R1	10.1.1.222.1147	Software transactional memory for dynamic-sized data structures
+R1	10.1.1.156.7879	Scalable reader-writer synchronization for shared-memory multiprocessors
+R1	10.1.1.415.7792	Composable memory transactions
+R1	10.1.1.41.4743	Software Transactional Memory
+R1	10.1.1.25.6504	The Performance of Concurrent Red-Black Tree Algorithms
+R1	10.1.1.5.9270	Language Support for Lightweight Transactions
+R1	10.1.1.43.2600	Universal Constructions for Multi-Object Operations (Extended Abstract)
+R1	10.1.1.83.1782	Efficient and practical constructions of LL/SC variables
+R1	10.1.1.127.5851	Design tradeoffs in modern software transactional memory systems
+R1	10.1.1.296.2276	Transactional monitors for concurrent objects
+R1	10.1.1.128.8559	Programming with transactional coherence and consistency (tcc
+R1	10.1.1.161.1135	Implementing wait-free objects in priority-based systems
+R1	10.1.1.147.4731	Relaxed balanced red-black trees
+R1	10.1.1.380.1194	Correction of a memory management method for lock-free data structures
+R1	10.1.1.137.6464	Characterization of tcc on chip-multiprocessors
+R1	10.1.1.219.6486	Revocable locks for non-blocking programming

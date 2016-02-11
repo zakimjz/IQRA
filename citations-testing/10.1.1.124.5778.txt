@@ -1,0 +1,23 @@
+10.1.1.124.5778	2007	Reflective Design-In-Use: Co-Designing an Assistive Remote Communication System with Individuals with Cognitive Disabilities and their Families
+R1	10.1.1.133.2067	A diary study of information capture in working life
+R1	10.1.1.17.7184	Dealing with Mobility: Understanding access anytime, anywhere
+R1	10.1.1.118.9829	Voice-mail diary studies for naturalistic data capture under mobile conditions
+R1	10.1.1.294.9419	Technology as experience
+R1	10.1.1.125.7437	Technomethodology: Paradoxes and Possibilities
+R1	10.1.1.94.4021	How emotion is made and measured
+R1	10.1.1.12.2100	Technology Probes: Inspiring Design for and with Families
+R1	10.1.1.26.9243	Ethnography in Participatory Design
+R1	10.1.1.369.9166	The GOMS Family of User Interface Analysis Techniques: Comparison and Contrast
+R1	10.1.1.102.4069	Mobile probes
+R1	10.1.1.95.7805	Investigating the usability of assistive user interfaces. Interacting with Computers
+R1	10.1.1.7.799	Mobile Computing in the Retail Arena
+R1	10.1.1.118.5299	Task-Centered User Interface Design: A Practical Introduction
+R1	10.1.1.125.7479	Real-world applications for brain-computer interface technology
+R1	10.1.1.66.758	Evaluating Affective Interactions: Alternatives to Asking What Users Feel
+R1	10.1.1.122.5685	The ethnographically informed participatory design of a PDA application to support communication
+R1	10.1.1.123.5985	Socio-technical environments supporting people with cognitive disabilities using public transportation
+R1	10.1.1.134.5498	MAPS: Dynamic scaffolding for independence for persons with cognitive impairments
+R1	10.1.1.115.7093	Participatory design with proxies: developing a desktop-PDA system to support people with aphasia
+R1	10.1.1.333.898	Learning Empathy: A Datadriven Framework for Modeling Empathetic Companion Agents
+R1	10.1.1.121.1696	How HCI interprets the probes
+R1	10.1.1.86.1559	Reality testing: HCI challenges in non-traditional environments

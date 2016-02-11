@@ -1,0 +1,25 @@
+10.1.1.125.2611	2007	Unsupervised Learning of Morphology: Survey, Model, Algorithm and Experiments
+R1	10.1.1.162.2994	N-grambased text categorization
+R1	10.1.1.1.4275	Distribution-Driven Morpheme Discovery: A Computational-Experimental Study
+R1	10.1.1.1.6697	Unsupervised Learning of Derivational Morphology From Inflectional Lexicons
+R1	10.1.1.6.9887	Unsupervised Discovery of Morphologically Related Words Based on Orthographic and Semantic Similarity
+R1	10.1.1.10.9763	Unsupervised Discovery of Morphemes
+R1	10.1.1.140.5348	An efficient, probabilistically sound algorithm for segmentation and word discovery
+R1	10.1.1.100.3944	Induction of the Morphology of Natural Language: Unsupervised Morpheme Segmentation with Application to Automatic Speech Recognition
+R1	10.1.1.420.2305	Inducing the morphological lexicon of a natural language from unannotated text
+R1	10.1.1.100.3372	Detecting inflection patterns in natural language by minimization of morphological model
+R1	10.1.1.100.4460	Unsupervised segmentation of words using prior distributions of morph length and frequency
+R1	10.1.1.76.5158	Morfessor and hutmegs: Unsupervised morpheme segmentation for highlyinflecting and compounding languages
+R1	10.1.1.101.1258	Morphological lexicon extraction from raw text data
+R1	10.1.1.76.4293	Unsupervised morpheme segmentation and morphology induction from text corpora using Morfessor 1.0
+R1	10.1.1.105.4836	Three Tools for Language Processing: BNF Converter, Functional Morphology, and Extract
+R1	10.1.1.2.7409	Efficient Unsupervised Recursive Word Segmentation Using Minimum Description Length
+R1	10.1.1.149.9635	Unsupervised models for morpheme segmentation and morphology learning
+R1	10.1.1.109.2571	Unsupervised knowledge-free morpheme boundary detection
+R1	10.1.1.15.6293	Using Eigenvectors of the Bigram Graph to Infer Morpheme Identity
+R1	10.1.1.19.1990	Memory-Based Learning of Morphology with Stochastic Transducers
+R1	10.1.1.20.7972	Learning to Lemmatise Slovene Words
+R1	10.1.1.113.938	Induction of a simple morphology for highly-inflecting languages
+R1	10.1.1.135.5498	A Language-Independent Unsupervised Model for Morphological Segmentation
+R1	10.1.1.164.3065	Highperformance, language-independent morphological segmentation
+R1	10.1.1.137.3994	Learning probabilistic paradigms for morphology in a latent class model

@@ -1,0 +1,26 @@
+10.1.1.22.5247	2000	Verification on Infinite Structures
+R1	10.1.1.16.4162	Pushdown Processes: Games and Model Checking
+R1	10.1.1.2.3784	Efficient algorithms for model checking pushdown systems
+R1	10.1.1.3.344	Real-time System = Discrete System + Clock Variables
+R1	10.1.1.20.9147	Decidability and complexity of Petri net problems - an Introduction
+R1	10.1.1.1.7700	Constrained Properties, Semilinear Systems, and Petri Nets
+R1	10.1.1.45.9716	Bisimulation Equivalence is Decidable for all Context-Free Processes
+R1	10.1.1.45.6877	On the model checking problem for branching time logics and Basic Parallel Processes
+R1	10.1.1.37.2048	Alternating Automata and Program Verification
+R1	10.1.1.23.3925	Decidability Questions for Bisimilarity of Petri Nets and Some Related Problems
+R1	10.1.1.29.1931	The Linear Time-Branching Time Spectrum II - The semantics of sequential systems with silent moves
+R1	10.1.1.45.9234	Undecidable Equivalences for Basic Process Algebra
+R1	10.1.1.143.6408	Simulation problems for one-counter machines
+R1	10.1.1.157.6858	Decidability of DPDA equivalence
+R1	10.1.1.22.3838	Simulation and Bisimulation over One-Counter Processes
+R1	10.1.1.24.5242	Actions Speak Louder than Words: Proving Bisimilarity for Context-Free Processes
+R1	10.1.1.160.7072	Bisimulation equivalence is decidable for normed Process Algebra
+R1	10.1.1.34.7074	Deciding Bisimulation-Like Equivalences with Finite-State Processes
+R1	10.1.1.43.1448	On the Complexity of Bisimulation Problems for Pushdown Automata
+R1	10.1.1.30.6309	Techniques for Decidability and Undecidability of Bisimilarity
+R1	10.1.1.35.9531	Decidability of Bisimulation Equivalence for Normed Pushdown Processes
+R1	10.1.1.43.2486	On the Complexity of Bisimulation Problems for Basic Parallel Processes
+R1	10.1.1.45.492	Strict Lower Bounds for Model Checking BPA
+R1	10.1.1.2.1420	More Infinite Results
+R1	10.1.1.17.3096	Simulation Preorder on Simple Process Algebras
+R1	10.1.1.1.8493	Efficient Algorithms for pre* and post* on Interprocedural Parallel Flow Graphs

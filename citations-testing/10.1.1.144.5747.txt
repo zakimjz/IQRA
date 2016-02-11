@@ -1,0 +1,23 @@
+10.1.1.144.5747	2008	Semi-Supervised On-line Boosting for Robust Tracking
+R1	10.1.1.32.8918	A Decision-Theoretic Generalization of on-Line Learning and an Application to Boosting
+R1	10.1.1.30.3515	Additive Logistic Regression: a Statistical View of Boosting
+R1	10.1.1.135.8624	On-line selection of discriminative tracking features
+R1	10.1.1.24.5565	The Boosting Approach to Machine Learning: An Overview
+R1	10.1.1.10.6807	Rapid object detection using a boosted cascade of simple features
+R1	10.1.1.136.2419	Boosting Image Retrieval
+R1	10.1.1.105.5661	Support vector tracking
+R1	10.1.1.420.6104	Randomized trees for realtime keypoint recognition
+R1	10.1.1.172.8651	Incremental learning for visual tracking
+R1	10.1.1.2.6015	The Template Update Problem
+R1	10.1.1.379.6911	Ensemble Tracking
+R1	10.1.1.103.1693	Semi-Supervised Learning Literature Survey
+R1	10.1.1.106.5883	Learning distance functions for image retrieval
+R1	10.1.1.61.1897	Co-Training and Expansion: Towards Bridging Theory and Practice
+R1	10.1.1.91.8743	QuickTime Reference Guide, QuickTime CD
+R1	10.1.1.214.8804	Online Boosting and Vision
+R1	10.1.1.55.5932	Prior Knowledge And The Creation Of "Virtual" Examples For RBF Networks
+R1	10.1.1.92.6299	Fast keypoint recognition in ten lines of code
+R1	10.1.1.151.5078	SemiBoost: Boosting for Semi-supervised Learning
+R1	10.1.1.116.1691	Tracking Using Online Feature Selection and a Local Generative Model
+R1	10.1.1.129.1160	Tracking in Low Frame Rate Video: A Cascade Particle Filter with Discriminative Observers of Different Lifespans
+R1	10.1.1.144.7914	Semi-supervised boosting using visual similarity learning

@@ -1,0 +1,27 @@
+10.1.1.78.5159	2007	Reaching over the gap: A review of efforts to link human and automatic speech recognition research
+R1	10.1.1.380.9874	Echoes of echoes? An episodic theory of lexical access
+R1	10.1.1.133.2731	Shortlist: a connectionist model of continuous speech recognition
+R1	10.1.1.32.4227	Moving Beyond the `Beads-On-A-String' Model of Speech
+R1	10.1.1.131.1156	Learning words from sights and sounds: a computational model
+R1	10.1.1.329.8130	The Design for the Wall Street Journal-based CSR Corpus
+R1	10.1.1.10.8829	Speech is Like a Box of Chocolates...
+R1	10.1.1.154.6412	Hidden feature models for speech recognition using dynamic bayesian networks
+R1	10.1.1.138.3073	Should recognizers have ears
+R1	10.1.1.131.9888	Leading up the lexical garden-path: Segmentation and ambiguity in spoken word recognition
+R1	10.1.1.133.303	Integrating form and meaning: A distributed model of speech perception
+R1	10.1.1.66.5278	Constraints on theories of human vs. machine recognition of speech
+R1	10.1.1.45.3451	Handling Missing Data In Speech Recognition
+R1	10.1.1.63.6431	A Dutch treatment of an elitist approach to articulatory-acoustic feature classification
+R1	10.1.1.21.6070	Opportunities for Re-Convergence of Engineering and Cognitive Science Accounts of Spoken Word Recognition
+R1	10.1.1.39.9248	Human Versus Machine: Psycholinguistics Meets ASR
+R1	10.1.1.38.3266	Flexible, Robust, And Efficient Human Speech Recognition
+R1	10.1.1.211.7124	Oldenburg logatome speech corpus (OLLO) for speech recognition experiments with humans and machines
+R1	10.1.1.384.9445	Plasticity in systems for automatic speech recognition: a review
+R1	10.1.1.105.8799	How Should a Speech Recognizer Work?
+R1	10.1.1.74.8900	Capturing fine-phonetic variation in speech through automatic classification of articulatory features
+R1	10.1.1.76.7363	Parallels between HSR and ASR: How ASR can contribute to HSR
+R1	10.1.1.144.4469	An investigation into a Simulation of Episodic Memory for Automatic Speech Recognition
+R1	10.1.1.211.4221	A human-machine comparison in speech recognition based on a logatome corpus
+R1	10.1.1.144.5025	A comparison of the data requirements of automatic speech recognition systems and human listeners
+R1	10.1.1.192.2110	How to handle pronunciation variation in ASR: by storing episodes in memory
+R1	10.1.1.384.8947	Intra-speaker variation and units in human speech perception and ASR

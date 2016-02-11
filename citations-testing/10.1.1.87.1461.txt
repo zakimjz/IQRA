@@ -1,0 +1,21 @@
+10.1.1.87.1461	2005	Analysis and Evaluation of SECOS, a protocol for Energy Efficient and Secure Communication in Sensor Networks
+R1	10.1.1.206.2669	Random key predistribution schemes for sensor networks
+R1	10.1.1.133.1420	The RC5 Encryption Algorithm
+R1	10.1.1.20.6212	A Transmission Control Scheme for Media Access in Sensor Networks
+R1	10.1.1.138.4573	Efficient authentication and signing of multicast streams over lossy channels
+R1	10.1.1.1.3449	A Key Management Scheme for Wireless Sensor Networks Using Deployment Knowledge
+R1	10.1.1.60.1724	Establishing Pairwise Keys in Distributed Sensor Networks
+R1	10.1.1.43.3047	Secure Multicast in Wireless Networks of Mobile Hosts: Protocols and Issues
+R1	10.1.1.54.873	How to Sign Digital Streams
+R1	10.1.1.36.640	AES Proposal: Rijndael
+R1	10.1.1.118.3768	A performance evaluation of intrusion-tolerant routing in wireless sensor networks
+R1	10.1.1.125.4610	LEAP: Efficient Security Mechanisms for Large-scale Distributed Sensor Networks
+R1	10.1.1.106.530	Establishing Pair-wise Keys for Secure Communication in Ad Hoc Networks: A Probabilistic Approach
+R1	10.1.1.14.7077	A Formally Verified Decentralized Key Management Architecture for Wireless Sensor Networks
+R1	10.1.1.20.964	Key Management with Group-Wise Pre-Deployed Keying and Secret Sharing Pre-Deployed Keying
+R1	10.1.1.331.2623	Random key assignment for secure wireless sensor networks
+R1	10.1.1.220.5860	Energy-aware secure multicast communication in ad-hoc networks using geographic location information
+R1	10.1.1.120.623	TIBFIT: Trust Index Based Fault Tolerance for Arbitrary Data Faults
+R1	10.1.1.119.732	LITEWORP: A Lightweight Countermeasure for the Wormhole Attack
+R1	10.1.1.10.4561	Distributed Clustering for Scalable, Long-Lived Sensor Networks
+R1	10.1.1.137.5132	DICAS: Detection, Diagnosis and Isolation of Control Attacks

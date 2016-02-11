@@ -1,0 +1,21 @@
+10.1.1.1.9820	2002	Efficient Packet Monitoring for Network Management
+R1	10.1.1.210.2481	An algebraic approach to IP traceback
+R1	10.1.1.118.3372	Practical network support for IP traceback
+R1	10.1.1.10.7480	A Secure PLAN
+R1	10.1.1.43.7849	The BSD Packet Filter: A New Architecture for User-level Packet Capture
+R1	10.1.1.13.6815	A Language-Based Approach to Security
+R1	10.1.1.33.3468	TALx86: A Realistic Typed Assembly Language
+R1	10.1.1.44.6276	Decentralized Trust Management
+R1	10.1.1.127.9799	A framework for alternate queueing: Towards traffic management by PC-UNIX based routers
+R1	10.1.1.23.9063	VERA: An Extensible Router Architecture
+R1	10.1.1.110.1724	PLAN: A packet language for active networks
+R1	10.1.1.117.9522	Controlling high bandwidth aggregates in the network
+R1	10.1.1.35.32	The Stationarity of Internet Path Properties: Routing, Loss, and Throughput
+R1	10.1.1.101.8303	OC3MON: Flexible, Affordable, High Performance Statistics Collection
+R1	10.1.1.21.73	Trajectory Sampling for Direct Traffic Observation
+R1	10.1.1.109.1971	Distributed management by delegation
+R1	10.1.1.32.361	An ECN-based end-to-end congestion-control framework: experiments and evaluation
+R1	10.1.1.10.7234	FIRE: Flexible Intra-AS Routing Environment
+R1	10.1.1.17.4309	An Active Network Approach to Efficient Network Management
+R1	10.1.1.3.1217	Remote Network Monitoring Management Information Base
+R1	10.1.1.24.698	ASHs: Application-Specific Handlers for High-Performance Messaging

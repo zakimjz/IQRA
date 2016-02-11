@@ -1,0 +1,22 @@
+10.1.1.140.3949	2008	Computer Forensics In Forensis
+R1	10.1.1.132.2075	ReVirt: Enabling Intrusion Analysis through Virtual-Machine Logging and Replay
+R1	10.1.1.200.7580	With Microscope and Tweezers: An Analysis of the Internet Virus of November 1988
+R1	10.1.1.43.6197	Intrusion Detection using Sequences of System Calls
+R1	10.1.1.156.9541	Getting Physical with the Digital Investigation Process
+R1	10.1.1.117.5955	BugNet: Continuously recording program execution for deterministic replay debugging
+R1	10.1.1.130.1712	Analysis of an electronic voting system
+R1	10.1.1.134.4995	The design and implementation of Tripwire: A file system integrity checker
+R1	10.1.1.24.989	"Why 6?" Defining the Operational Limits of stide, an Anomaly-Based Intrusion Detector
+R1	10.1.1.17.8161	Data Remanence in Semiconductor Devices
+R1	10.1.1.158.7735	Software forensics: Tracking code to its authors
+R1	10.1.1.127.8325	Principles-Driven Forensic Analysis
+R1	10.1.1.74.3023	Analysis of Computer Intrusions Using Sequences of Function Calls
+R1	10.1.1.148.9957	A Categorization of Computer Security Monitoring Systems and the Impact on the Design of Audit Sources
+R1	10.1.1.119.9233	On the Difficulty of Validating Voting Machine Software with Software
+R1	10.1.1.158.6116	PERVASIVE BINDING OF LABELS TO SYSTEM PROCESSES
+R1	10.1.1.125.63	Towards models for forensic analysis
+R1	10.1.1.218.9622	How to Design Computer Security Experiments
+R1	10.1.1.124.2984	Forensics for System Administrators
+R1	10.1.1.131.8792	I Am a Scientist, Not a Philosopher!
+R1	10.1.1.129.4701	A Model of Forensic Analysis Using Goal-Oriented Logging
+R1	10.1.1.140.3949	Computer Forensics In Forensis

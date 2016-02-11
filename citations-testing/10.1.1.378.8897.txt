@@ -1,0 +1,23 @@
+10.1.1.378.8897	2010	Language acquisition meets language evolution
+R1	10.1.1.137.7672	Bayesian modeling of human concept learning
+R1	10.1.1.161.596	Function, Selection and Innateness: the Emergence of Language Universals
+R1	10.1.1.91.741	The lexical nature of syntactic ambiguity resolution
+R1	10.1.1.116.4044	Natural language and natural selection
+R1	10.1.1.32.5947	Self-organisation in Vowel Systems
+R1	10.1.1.318.6501	Theoretical approaches to perceptual organization: Simplicity and likelihood principles
+R1	10.1.1.58.8390	The developing constraints on parsing decisions: The role of lexical-biases and . . .
+R1	10.1.1.137.4383	The self-organization of speech sounds
+R1	10.1.1.160.9850	Innateness and culture in the evolution of language
+R1	10.1.1.133.543	Three factors in language design
+R1	10.1.1.116.7784	The faculty of language: what’s special about it?
+R1	10.1.1.138.6821	Infinite Languages, Finite Minds: Connectionism, Learning and Linguistic Structure
+R1	10.1.1.331.3566	Nature, nurture and universal grammar
+R1	10.1.1.379.1981	Uncovering the richness of the stimulus: Structure dependence and indirect statistical evidence
+R1	10.1.1.161.6271	Language as an evolutionary system
+R1	10.1.1.178.2494	Regularizing unpredictable variation: The roles of adult and child learners in language formation and change. Language Learning and Development
+R1	10.1.1.130.6171	Reliable Reasoning: Induction and Statistical Learning Theory
+R1	10.1.1.114.2593	Language as Shaped by the Brain
+R1	10.1.1.227.7464	Statistical learning in children with Specific Language Impairment
+R1	10.1.1.130.6275	A Bayesian view of language evolution by iterated learning
+R1	10.1.1.161.3279	The Evolution of Meaning-space Structure through Iterated Learning
+R1	10.1.1.379.5181	THE COMPONENTS OF LANGUAGE: WHAT’S SPECIFIC TO LANGUAGE, AND WHAT’S SPECIFIC TO HUMANS

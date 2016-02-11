@@ -1,0 +1,24 @@
+10.1.1.229.1581	2011	Static analysis for efficient hybrid information-flow control
+R1	10.1.1.32.6278	Memory Management with Explicit Regions
+R1	10.1.1.23.5498	Region-Based Memory Management
+R1	10.1.1.10.8871	Region-Based Memory Management in Cyclone
+R1	10.1.1.1.3636	Parameterized Object Sensitivity for Points-to Analysis for Java
+R1	10.1.1.109.6502	Program Analysis and Specialization for the C Programming Language
+R1	10.1.1.10.3979	Language-Based Information-Flow Security
+R1	10.1.1.2.1684	JFlow: Practical Mostly-Static Information Flow Control
+R1	10.1.1.118.9460	A SOUND TYPE SYSTEM FOR SECURE FLOW ANALYSIS
+R1	10.1.1.17.3642	What Are Principal Typings and What Are They Good For?
+R1	10.1.1.31.8802	A Decentralized Model for Information Flow Control
+R1	10.1.1.307.8389	Dynamic taint analysis for automatic detection, analysis, and signature generation of exploits on commodity software
+R1	10.1.1.122.3163	Automata-based Confidentiality Monitoring
+R1	10.1.1.129.4843	Dynamic dependency monitoring to secure information flow
+R1	10.1.1.24.2661	The Impact of Synchronisation on Secure Information Flow in Concurrent Programs
+R1	10.1.1.111.2109	Labels and event processes in the asbestos operating system
+R1	10.1.1.108.4612	Secure Virtual Architecture: A Safe Execution Environment for Commodity Operating Systems
+R1	10.1.1.105.1826	A Virtual Machine Based Information Flow Control System for Policy Enforcement
+R1	10.1.1.148.9935	Tight Enforcement of Information-Release Policies for Dynamic Languages
+R1	10.1.1.165.3384	Dynamic vs. static flow-sensitive security analysis
+R1	10.1.1.153.6508	Information Flow Monitor Inlining
+R1	10.1.1.165.3670	On-the-fly inlining of dynamic security monitors
+R1	10.1.1.191.72	Points-To Analysis with Efficient Strong Updates
+R1	10.1.1.221.617	From Exponential to Polynomial-time Security Typing via Principal Types

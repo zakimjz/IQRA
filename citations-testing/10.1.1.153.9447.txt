@@ -1,0 +1,86 @@
+10.1.1.153.9447	2009	Reducing the Trusted Computing Base for Applications on Commodity Systems
+R1	10.1.1.11.8115	The Bluetooth radio system
+R1	10.1.1.37.9720	New Directions in Cryptography
+R1	10.1.1.157.6588	Xen and the art of virtualization
+R1	10.1.1.119.2679	Terra: a virtual machine-based platform for trusted computing
+R1	10.1.1.361.4009	The performance of µ-kernel-based systems
+R1	10.1.1.126.4917	Scale and performance in the Denali isolation kernel
+R1	10.1.1.126.9884	The Design and Implementation of a Certifying Compiler
+R1	10.1.1.131.1043	Bugs as Deviant Behavior: A General Approach to Inferring Errors in Systems Code
+R1	10.1.1.161.253	Measurement and Analysis of Spyware in a University Environment
+R1	10.1.1.126.9257	The Protection of Information in Computer Systems
+R1	10.1.1.110.4518	The Flask Security Architecture: System Support for Diverse Security Policies
+R1	10.1.1.13.1450	The Resurrecting Duckling:  Security Issues for Ad-hoc Wireless Networks
+R1	10.1.1.126.5020	Key-privacy in public-key encryption
+R1	10.1.1.119.2014	A First Step towards Automated Detection of Buffer Overrun Vulnerabilities
+R1	10.1.1.112.4716	Virtual network computing
+R1	10.1.1.12.9086	A Secure and Reliable Bootstrap Architecture
+R1	10.1.1.12.7379	Certifying Program Execution with Secure Processors
+R1	10.1.1.103.5769	Modular verification of software components in C
+R1	10.1.1.224.7576	The Stanford FLASH multiprocessor
+R1	10.1.1.3.1180	Soft Tempest: Hidden Data Transmission Using Electromagnetic Emanations
+R1	10.1.1.11.7856	Xen 2002
+R1	10.1.1.80.9393	Preventing Privilege Escalation
+R1	10.1.1.45.3156	Encrypted Key Exchange: Password-Based Protocols Secure Against Dictionary Attacks
+R1	10.1.1.48.7440	Augmented Encrypted Key Exchange: a Password-Based Protocol Secure Against Dictionary Attacks and Password File Compromise
+R1	10.1.1.177.4990	Using Secure Coprocessors
+R1	10.1.1.100.6047	Exokernel: An Operating System Architecture for Application-Level Resource Management
+R1	10.1.1.121.3362	Building a high-performance, programmable secure coprocessor
+R1	10.1.1.16.1408	Talking To Strangers: Authentication in Ad-Hoc Wireless Networks
+R1	10.1.1.394.5802	EROS: a fast capability system
+R1	10.1.1.136.2179	Integrating Flexible Support for Security Policies into the Linux Operating System
+R1	10.1.1.13.220	Mobility Helps Security in Ad Hoc Networks
+R1	10.1.1.132.7667	Provably secure password-authenticated key exchange using Diffie-Hellman
+R1	10.1.1.119.4385	CIL: Intermediate language and tools for analysis and transformation of C programs
+R1	10.1.1.26.4581	On µ-kernel construction
+R1	10.1.1.13.8910	Secure Program Partitioning
+R1	10.1.1.180.5782	Optical time-domain eavesdropping risks of CRT displays
+R1	10.1.1.104.9653	The secure remote password protocol
+R1	10.1.1.28.5713	Architectural Support for Copy and Tamper Resistant Software
+R1	10.1.1.14.5479	AEGIS: Architecture for Tamper-Evident and Tamper-Resistant Processing
+R1	10.1.1.133.5630	Cracking the Bluetooth PIN
+R1	10.1.1.123.6649	Boinc: A system for public-resource computing and storage
+R1	10.1.1.364.7815	Property-based attestation for computing platforms: caring about properties, not mechanisms
+R1	10.1.1.58.5041	Direct Anonymous Attestation
+R1	10.1.1.105.9685	Open-Source Applications of TCPA Hardware
+R1	10.1.1.104.8650	Efficient Mutual Data Authentication Using Manually Authenticated Strings. Cryptology ePrint Archive, Report 2005/424
+R1	10.1.1.416.5120	Secure communications over insecure channels based on short authenticated strings
+R1	10.1.1.117.5850	Key agreement in peer-to-peer wireless networks
+R1	10.1.1.28.6916	Timing Analysis of Keystrokes and Timing Attacks on SSH
+R1	10.1.1.24.4708	Using Handhelds and PCs Together
+R1	10.1.1.175.1415	Privtrans: automatically partitioning programs for privilege separation
+R1	10.1.1.110.1829	Loud and clear: Human-verifiable authentication based on audio
+R1	10.1.1.119.4123	Seeing-is-believing: Using camera phones for human-verifiable authentication
+R1	10.1.1.142.4763	The ephemeral pairing problem
+R1	10.1.1.38.2475	Password-Authenticated Key Exchange based on RSA
+R1	10.1.1.2.7195	Using Camera-Equipped Mobile Phones for Interacting with Real-World Objects
+R1	10.1.1.133.2919	Design of the EROS trusted window system
+R1	10.1.1.112.292	Reincarnating PCs with portable SoulPads
+R1	10.1.1.111.40	Public-Key Support for Collaborative Groups
+R1	10.1.1.104.2921	A crawler-based study of spyware on the Web
+R1	10.1.1.41.1574	Hash Visualization: a New Technique to improve Real-World Security
+R1	10.1.1.72.340	Nexus: A new operating system for trustworthy computing
+R1	10.1.1.74.3522	Using visual tags to bypass bluetooth device discovery
+R1	10.1.1.124.3589	Securing web servers against insider attack
+R1	10.1.1.132.2287	Understanding data lifetime via whole system simulation
+R1	10.1.1.117.5090	A composable framework for secure multi-modal access to Internet services from post-PC devices
+R1	10.1.1.59.1393	Securing a Remote Terminal Application with a Mobile Trusted Device
+R1	10.1.1.60.1288	Device-Enabled Authorization in the Grey System
+R1	10.1.1.126.4242	Secure device pairing based on a visual channel
+R1	10.1.1.67.7229	Reducing TCB complexity for security-sensitive applications: Three case studies
+R1	10.1.1.116.610	A usability study and critique of two password managers
+R1	10.1.1.111.2109	Labels and event processes in the asbestos operating system
+R1	10.1.1.126.3275	Bump in the Ether: A Framework for Securing Sensitive User Input
+R1	10.1.1.184.1721	Usability analysis of secure pairing methods
+R1	10.1.1.57.8924	A MIME Content-Type for Directory Information
+R1	10.1.1.116.6405	How Low Can You Go? Recommendations for Hardware-Supported Minimal TCB Code Execution
+R1	10.1.1.133.5548	Minimal TCB Code Execution (Extended Abstract)
+R1	10.1.1.92.6542	Towards trustworthy kiosk computing
+R1	10.1.1.114.9888	Overshadow: A Virtualization-Based Approach to Retrofitting Protection in Commodity Operating Systems
+R1	10.1.1.126.8321	Securing Network Input via a Trusted Input Proxy
+R1	10.1.1.131.4691	Turtles All The Way Down: Research Challenges in User-Based Attestation ∗
+R1	10.1.1.141.6796	Perspectives: Improving SSH-style Host Authentication with Multi-Path Probing
+R1	10.1.1.141.7867	Trustworthy and Personalized Computing on Public Kiosks
+R1	10.1.1.164.6927	Hapadep: Human-assisted pure audio device pairing
+R1	10.1.1.145.4262	Bootstrapping Trust in a “Trusted ” Platform
+R1	10.1.1.154.453	Flicker: An Execution Infrastructure for TCB Minimization

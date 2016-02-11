@@ -1,0 +1,25 @@
+10.1.1.141.1651	2008	Finding Frequent Items in Probabilistic Data
+R1	10.1.1.13.6327	New Directions in Traffic Measurement and Accounting
+R1	10.1.1.102.5483	The space complexity of approximating the frequency moments
+R1	10.1.1.100.7878	Frequency estimation of internet packet streams with limited space
+R1	10.1.1.108.6943	Evaluating Probabilistic Queries over Imprecise Data
+R1	10.1.1.19.8594	Approximate Frequency Counts over Data Streams
+R1	10.1.1.1.6929	Model-Driven Data Acquisition in Sensor Networks
+R1	10.1.1.146.1669	Efficient Computation of Iceberg Cubes with Complex Measures
+R1	10.1.1.119.3771	ULDBs: Databases with uncertainty and lineage
+R1	10.1.1.134.3328	Efficient Query Evaluation on Probabilistic Databases
+R1	10.1.1.88.5501	Representing and querying correlated tuples in probabilistic databases
+R1	10.1.1.151.5909	Dynamically Maintaining Frequent Items over A Data Stream
+R1	10.1.1.182.2684	From Complete to Incomplete Information and Back
+R1	10.1.1.89.231	Robust and efficient fuzzy match for online data cleaning
+R1	10.1.1.79.2589	Top-k query processing in uncertain databases
+R1	10.1.1.78.804	Data integration: The teenage years
+R1	10.1.1.108.9426	Trio: A system for data, uncertainty, and lineage
+R1	10.1.1.125.3455	Diamond in the Rough: Finding Hierarchical Heavy Hitters in Multi-Dimensional Data
+R1	10.1.1.113.3540	Indexing multi-dimensional uncertain data with arbitrary probability density functions
+R1	10.1.1.135.8002	10^(10^6) Worlds and Beyond: Efficient Representation and Processing of Incomplete Information
+R1	10.1.1.111.4093	Probabilistic skylines on uncertain data
+R1	10.1.1.112.5007	A Simpler and More Efficient Deterministic Scheme for Finding Frequent Items over Sliding Windows
+R1	10.1.1.329.5059	Estimating statistical aggregates on probabilistic data streams
+R1	10.1.1.187.8746	Online filtering, smoothing and probabilistic modeling of streaming data
+R1	10.1.1.111.6794	Materialized views in probabilistic databases for information exchange and query optimization

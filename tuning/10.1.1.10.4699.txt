@@ -1,0 +1,44 @@
+10.1.1.10.4699	2005	Rule Extraction from Recurrent Neural Networks: a Taxonomy and Review
+R1	10.1.1.117.1928	Finding structure in time
+R1	10.1.1.18.2720	Data Clustering: A Review
+R1	10.1.1.41.8229	Analysis of Dynamical Recognizers
+R1	10.1.1.47.8919	Extracting and Learning an Unknown Grammar with Recurrent Neural Networks
+R1	10.1.1.47.6586	Finite State Machines and Recurrent Neural Networks -- Automata and Dynamical Systems Approaches
+R1	10.1.1.4.2811	Learning to predict a context-free language: Analysis of dynamics in recurrent hidden units
+R1	10.1.1.26.6609	An Incremental Approach to Developing Intelligent Neural Network Controllers for Robots
+R1	10.1.1.13.634	Long Short-term Memory
+R1	10.1.1.41.7128	Learning Long-Term Dependencies with Gradient Descent is Difficult
+R1	10.1.1.30.2511	The Extraction of Refined Rules from Knowledge-Based Neural Networks
+R1	10.1.1.38.4197	On The Computational Power Of Neural Nets
+R1	10.1.1.46.1221	A Hybrid Connectionist-Symbolic Approach to Regular Grammatical Inference Based on Neural Learning and Hierarchical Clustering
+R1	10.1.1.35.4707	The Epsilon State Count
+R1	10.1.1.12.7656	A Taxonomy for Spatiotemporal Connectionist Networks Revisited: The Unsupervised Case
+R1	10.1.1.21.3606	Evolving context-free language predictors
+R1	10.1.1.3.1311	Inducing Grammars from Sparse Data Sets: A Survey of Algorithms and Results
+R1	10.1.1.48.2117	Using Sampling and Queries to Extract Rules from Trained Neural Networks
+R1	10.1.1.43.8808	Rule Extraction: Where Do We Go from Here?
+R1	10.1.1.17.6869	Observing Complexity and the Complexity of Observation
+R1	10.1.1.52.5028	Using Prior Knowledge in an NNPDA to Learn Context-Free Languages
+R1	10.1.1.53.2021	Dynamic on-line clustering and state extraction: An approach to symbolic learning
+R1	10.1.1.147.3469	Learning a Class of Large Finite State Machines with a Recurrent Neural Network
+R1	10.1.1.38.6439	Rule Inference for Financial Prediction using Recurrent Neural Networks
+R1	10.1.1.28.2266	Noisy Time Series Prediction using a Recurrent Neural Network and Grammatical Inference
+R1	10.1.1.48.3210	Pruning Recurrent Neural Networks for Improved Generalization Performance
+R1	10.1.1.147.3776	Using recurrent neural networks to learn the structure of interconnection networks
+R1	10.1.1.51.5613	First-Order vs. Second-Order Single Layer Recurrent Neural Networks
+R1	10.1.1.12.4910	Recurrent Neural Networks With Small Weights Implement Definite Memory Machines
+R1	10.1.1.47.4272	An Experimental Comparison of Recurrent Neural Networks
+R1	10.1.1.3.9132	Reducing Complexity of Rule Extraction from Prediction RNNs through Domain Interaction
+R1	10.1.1.51.51	Fool's Gold: Extracting Finite State  Machines From Recurrent Network Dynamics
+R1	10.1.1.136.6915	Back propagation is sensitive to initial conditions
+R1	10.1.1.42.2636	The Observers' Paradox: Apparent Computational Complexity in Physical Systems
+R1	10.1.1.135.5631	Natural language grammatical inference with recurrent neural networks
+R1	10.1.1.57.4229	A Brief History of Connectionism
+R1	10.1.1.30.6138	Representing Structure and Structured Representations in Connectionist Networks
+R1	10.1.1.147.3698	Extraction of Rules from Discrete-time Recurrent Neural Networks
+R1	10.1.1.14.2964	Knowledge Extraction and Recurrent Neural Networks: An Analysis of an Elman Network trained on a Natural Language Learning Task
+R1	10.1.1.160.2984	Graded state machines: The representation of temporal contingencies in simple recurrent networks
+R1	10.1.1.12.7177	Architectural Bias in Recurrent Neural Networks - Fractal Analysis
+R1	10.1.1.16.2933	Extracting Stochastic Machines from Recurrent Neural Networks Trained on Complex Symbolic Sequences
+R1	10.1.1.39.9610	Inductive Bias in Context-Free Language Learning
+R1	10.1.1.30.3516	Learning a context-free task with a recurrent neural network: An analysis of stability

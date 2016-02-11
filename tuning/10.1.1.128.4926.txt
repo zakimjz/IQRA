@@ -1,0 +1,28 @@
+10.1.1.128.4926	2007	ℓ1 Trend Filtering
+R1	10.1.1.135.1907	Atomic decomposition by basis pursuit
+R1	10.1.1.125.5610	Stable recovery of sparse overcomplete representations in the presence of noise
+R1	10.1.1.382.970	Multivariate adaptive regression splines
+R1	10.1.1.237.4534	Least angle regression
+R1	10.1.1.49.6954	Using SeDuMi 1.02, a MATLAB toolbox for optimization over symmetric cones
+R1	10.1.1.162.455	Basis Pursuit
+R1	10.1.1.382.6479	Generalized Additive Models
+R1	10.1.1.35.7574	Regression Shrinkage and Selection Via the Lasso
+R1	10.1.1.162.1643	Wavelet shrinkage: asymptopia
+R1	10.1.1.122.4429	Robust Uncertainty Principles: Exact Signal Reconstruction From Highly Incomplete Frequency Information
+R1	10.1.1.184.2957	Just Relax: Convex Programming Methods for Identifying Sparse Signals in Noise
+R1	10.1.1.117.9039	Low-authority controller design via convex optimization
+R1	10.1.1.212.6447	Compressed sensing
+R1	10.1.1.5.1195	Image Decomposition via the Combination of Sparse Representations and a Variational Approach
+R1	10.1.1.173.2932	Piecewise linear regularized solution paths
+R1	10.1.1.50.1792	A New Approach To Variable Selection In Least Squares Problems
+R1	10.1.1.187.8662	Efficient l1 regularized logistic regression
+R1	10.1.1.117.5339	A direct formulation for sparse PCA using semidefinite programming
+R1	10.1.1.124.4696	Regularization and variable selection via the Elastic Net
+R1	10.1.1.228.5968	Design of robust global power and ground networks
+R1	10.1.1.160.4573	Sparsity and smoothness via the fused lasso
+R1	10.1.1.146.1983	On smoothest interpolants
+R1	10.1.1.62.480	Forward Stagewise Regression and the Monotone Lasso
+R1	10.1.1.210.3073	Understanding why crime fell in the 1990s: Four factors that explain the decline and six that do not
+R1	10.1.1.116.8481	Convex optimization techniques for fitting sparse gaussian graphical models
+R1	10.1.1.195.7439	A   time series model of multiple structural changes in level, . . .
+R1	10.1.1.163.6412	Jump process for the trend estimation of time series

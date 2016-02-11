@@ -1,0 +1,22 @@
+10.1.1.13.3950	2003	A Survey of Research on Context-Aware Homes
+R1	10.1.1.52.8497	Cyberguide: A Mobile Context-Aware Tour Guide
+R1	10.1.1.119.6216	RADAR: an in-building RF-based user location and tracking system
+R1	10.1.1.117.4330	A survey of context-aware mobile computing research
+R1	10.1.1.9.5130	A Conceptual Framework and a Toolkit for Supporting the Rapid Prototyping of Context-Aware Applications
+R1	10.1.1.1.2501	As we may live -- Real-world implications of Ubiquitous Computing
+R1	10.1.1.121.5128	The Family Intercom: Developing a Context-Aware Audio Communication System
+R1	10.1.1.21.815	The KidsRoom: Perceptually-Based Interactive and Immersive Story Environment
+R1	10.1.1.335.7866	Tangible bits: towards seamless interfaces between people, bits and atoms
+R1	10.1.1.21.7631	The Cricket Location-Support System
+R1	10.1.1.1.6335	A Privacy Awareness System for Ubiquitous Computing Environments
+R1	10.1.1.131.9063	Casablanca: Designing social communication devices for the home
+R1	10.1.1.12.9007	The Aware Home: A Living Laboratory for Ubiquitous Computing Research
+R1	10.1.1.8.2676	Emerging Frameworks for Tangible User Interfaces
+R1	10.1.1.19.8899	Modeling Context Information in Pervasive Compututing Systems
+R1	10.1.1.21.3362	How to Build Smart Appliances
+R1	10.1.1.86.2891	Multi-camera multi-person tracking for EasyLiving
+R1	10.1.1.150.539	Phidgets: easy development of physical interfaces through physical widgets
+R1	10.1.1.13.6305	Design Principles for Intelligent Environments
+R1	10.1.1.12.8736	Increasing the Opportunities for Aging in Place
+R1	10.1.1.4.3040	Intelligibility and Accountability: Human Considerations in Context Aware Systems
+R1	10.1.1.103.6314	2002): Millennium Homes: A User Centred Approach for System Functionality

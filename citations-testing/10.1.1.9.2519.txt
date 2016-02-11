@@ -1,0 +1,36 @@
+10.1.1.9.2519	2003	A Taxonomy of Recommender Agents on the Internet
+R1	10.1.1.23.736	The CN2 Induction Algorithm
+R1	10.1.1.26.2437	Beyond Recommender Systems: Helping People Help Each Other
+R1	10.1.1.57.2146	Heterogeneous Learning in the Doppelgänger User Modeling System
+R1	10.1.1.92.3553	Improving retrieval performance by relevance feedback
+R1	10.1.1.136.4322	GroupLens: An Open Architecture for Collaborative Filtering of Netnews
+R1	10.1.1.136.7654	Automatic Personalization Based on Web Usage Mining
+R1	10.1.1.201.9694	Empirical Analysis of Predictive Algorithm for Collaborative Filtering
+R1	10.1.1.38.5499	Analysis of Recommendation Algorithms for E-Commerce
+R1	10.1.1.11.3490	WebSail: From On-line Learning to Web Search
+R1	10.1.1.324.9056	Combining collaborative filtering with personal agents for better recommendations
+R1	10.1.1.40.4469	Syskill & Webert: Identifying interesting web sites
+R1	10.1.1.153.2100	Experience With a Learning Personal Assistant
+R1	10.1.1.45.267	Feature based modelling: A methodology for producing coherent, consistent, dynamically changing models of agents’ competencies
+R1	10.1.1.104.3739	Using collaborative filtering to weave an information tapestry
+R1	10.1.1.12.5584	Implicit Rating and Filtering
+R1	10.1.1.30.6583	Social Information Filtering: Algorithms for Automating "Word of Mouth"
+R1	10.1.1.32.6635	Smart Radio - Building Music Radio On the Fly
+R1	10.1.1.36.4620	Recommendation as Classification: Using Social and Content-Based Information in Recommendation
+R1	10.1.1.44.3114	WebMate: A Personal Agent for Browsing and Searching
+R1	10.1.1.1.7491	Gradual Forgetting for Adaptation to Concept Drift
+R1	10.1.1.30.1667	Selecting Examples for Partial Memory Learning
+R1	10.1.1.35.8359	A Weighted Nearest Neighbor Algorithm for Learning with Symbolic Features
+R1	10.1.1.110.9766	Content-based, collaborative recommendation
+R1	10.1.1.109.6332	Grouplens: Applying collaborative filtering to usenet news
+R1	10.1.1.32.252	Explaining Collaborative Filtering Recommendations
+R1	10.1.1.40.3557	The Krakatoa Chronicle - An Interactive, Personalized, Newspaper on the Web
+R1	10.1.1.40.2101	Learning and Revising User Profiles: The Identification of Interesting Web Sites
+R1	10.1.1.2.3074	Learning about Users from Observation
+R1	10.1.1.21.2462	SIFT -- A Tool for Wide-Area Information Dissemination
+R1	10.1.1.40.5215	A Framework for Collaborative, Content-Based and Demographic Filtering
+R1	10.1.1.33.1435	WebSIFT: The Web Site Information Filter System
+R1	10.1.1.24.4073	A Case-Based Reasoning View of Automated Collaborative Filtering
+R1	10.1.1.225.8764	Let’s Browse: A collaborative Web browsing agent
+R1	10.1.1.26.6435	Amalthaea: Information Filtering and Discovery Using A Multiagent Evolving System
+R1	10.1.1.34.5431	Smart Radio - a proposal

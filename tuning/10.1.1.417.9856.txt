@@ -1,0 +1,22 @@
+10.1.1.417.9856	2010	Multi modal semantic indexing for image retrieval
+R1	10.1.1.133.4884	Maximum likelihood from incomplete data via the EM algorithm
+R1	10.1.1.130.6341	Unsupervised Learning by Probabilistic Latent Semantic Analysis
+R1	10.1.1.110.4050	Latent dirichlet allocation
+R1	10.1.1.136.4303	Content-based image retrieval at the end of the early years
+R1	10.1.1.24.7631	Image Retrieval using Latent Semantic Indexing
+R1	10.1.1.19.7649	Multilinear Analysis of Image Ensembles: TensorFaces
+R1	10.1.1.102.9135	A multilinear singular value decomposition
+R1	10.1.1.19.8366	Multimodal Video Indexing: A Review of the State-of-the-art
+R1	10.1.1.112.3832	Modeling scenes with local descriptors and latent aspects
+R1	10.1.1.65.3509	Scene classification via pLSA
+R1	10.1.1.61.9520	Scalable Recognition with a Vocabulary Tree
+R1	10.1.1.84.5996	A probabilistic semantic model for image annotation and multi-modal image retrieval
+R1	10.1.1.106.5784	Latent Semantic Fusion Model for Image Retrieval and Annotation
+R1	10.1.1.165.927	A MAX MARGIN FRAMEWORK ON IMAGE ANNOTATION AND MULTIMODAL IMAGE RETRIEVAL ∗
+R1	10.1.1.141.5545	Scenique: A Multimodal Image Retrieval Interface
+R1	10.1.1.142.3054	A New Baseline for Image Annotation
+R1	10.1.1.150.3981	Learning to reduce the semantic gap in Web image retrieval and annotation
+R1	10.1.1.216.7685	Scalable tensor decompositions for multi-aspect data mining
+R1	10.1.1.157.748	Geometric lda: A generative model for particular object discovery
+R1	10.1.1.157.1291	Efros. Unsupervised discovery of visual object class hierarchies
+R1	10.1.1.150.1939	Scalable Markov Model-based Image Annotation

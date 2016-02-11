@@ -1,0 +1,47 @@
+10.1.1.147.9871	2009	Survey on Directed Model Checking
+R1	10.1.1.20.7099	Algebra and Algorithms for QoS Path Computation and Hop-by-Hop Routing in the Internet
+R1	10.1.1.111.7245	Compositional Model Checking
+R1	10.1.1.226.6756	A theory of timed automata
+R1	10.1.1.23.2105	Scheduling a Steel Plant with Timed Automata
+R1	10.1.1.134.4548	Interpolation and SAT-based model checking
+R1	10.1.1.29.6060	Validation with Guided Search of the State Space
+R1	10.1.1.116.9247	Model checking and abstraction
+R1	10.1.1.1.6093	SetA*: An Efficient BDD-Based Heuristic Search Algorithm
+R1	10.1.1.11.8379	Symbolic Guided Search for CTL Model Checking
+R1	10.1.1.324.2269	Heuristic Search
+R1	10.1.1.31.62	Regular Model Checking
+R1	10.1.1.14.3452	On Nested Depth First Search
+R1	10.1.1.21.1793	Error Detection with Directed Symbolic Model Checking
+R1	10.1.1.12.539	Symbolic Heuristic Search Using Decision Diagrams
+R1	10.1.1.46.6175	Efficient Decision Procedures for Model Checking of Linear Time Logic Properties
+R1	10.1.1.68.2348	Model-checking algorithms for continuous-time Markov chains
+R1	10.1.1.105.6693	Verification and Optimization of a PLC Control Schedule
+R1	10.1.1.8.8468	Liveness Checking as Safety Checking
+R1	10.1.1.100.6757	What to Do Next? Analysing and Optimising System Behaviour in Time ACADEMISCH PROEFSCHRIFT
+R1	10.1.1.329.2264	Beam-stack search: Integrating backtracking with beam search
+R1	10.1.1.324.276	Breadth-first heuristic search
+R1	10.1.1.74.6166	Prioritized traversal: Efficient reachability analysis for verification and falsification
+R1	10.1.1.138.5462	µcke -- Efficient µ-Calculus Model Checking
+R1	10.1.1.104.2229	Pruning state spaces with extended beam search
+R1	10.1.1.104.2353	Revisiting Resistance Speeds Up I/O-Efficient LTL Model Checking
+R1	10.1.1.184.1192	Large-scale directed model checking LTL
+R1	10.1.1.4.1505	Efficient Reduction of Finite State Model Checking to Reachability Analysis
+R1	10.1.1.216.20	Abstraction in directed model checking
+R1	10.1.1.329.5728	Symbolic pattern databases in heuristic search panning
+R1	10.1.1.27.1954	Partial-Order Reduction in Symbolic State Space Exploration
+R1	10.1.1.1.4044	Scheduling with Timed Automata
+R1	10.1.1.380.9281	A.: Partial-order reduction for general state exploring algorithms
+R1	10.1.1.164.1870	O.: Scheduling Acyclic Branching Programs on Parallel Machines
+R1	10.1.1.298.125	A result on the computational complexity of heuristic estimates for the A* algorithm
+R1	10.1.1.41.4225	A Comparative Study Of IDA*-Style Searches
+R1	10.1.1.135.374	Adapting an AI planning heuristic for directed model checking
+R1	10.1.1.144.4853	Flexible abstraction heuristics for optimal sequential planning
+R1	10.1.1.377.5264	E.: Generating Counter-Examples Through Randomized Guided Search
+R1	10.1.1.136.7108	Compositional SCC Analysis for Language Emptiness
+R1	10.1.1.139.2534	Counterexamples for Model Checking of Markov Decision Processes
+R1	10.1.1.139.4623	Debugging of Dependability Models Using Interactive Visualization of Counterexamples
+R1	10.1.1.61.168	Liveness Checking as Safety Checking for Infinite State Spaces
+R1	10.1.1.141.6755	UPPAAL/DMC – Abstraction-Based Heuristics for Directed Model Checking
+R1	10.1.1.144.4336	Unifying the causal graph and additive heuristics
+R1	10.1.1.144.3264	Useless actions are useful
+R1	10.1.1.184.1527	Layered duplicate detection in external-memory model checking

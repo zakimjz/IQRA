@@ -1,0 +1,34 @@
+10.1.1.259.3316	2012	Sparse Representation with Kernels
+R1	10.1.1.134.6077	Sparse coding with an overcomplete basis set: a strategy employed by V1
+R1	10.1.1.127.3126	From Few to many: Illumination cone models for face recognition under variable lighting and pose
+R1	10.1.1.10.3247	Eigenfaces vs. Fisherfaces: Recognition Using Class Specific Linear Projection
+R1	10.1.1.14.4931	Distinctive Image Features from Scale-Invariant Keypoints
+R1	10.1.1.128.7613	Kernel principal component analysis
+R1	10.1.1.122.7088	Kernel independent component analysis
+R1	10.1.1.323.9793	Video google: A text retrieval approach to object matching in videos
+R1	10.1.1.321.530	Structural modelling with sparse kernels
+R1	10.1.1.229.1174	Beyond bags of features: Spatial pyramid matching for recognizing natural scene categories
+R1	10.1.1.61.1193	On the Nyström Method for Approximating a Gram Matrix for Improved Kernel-Based Learning
+R1	10.1.1.306.6433	Mercer kernels for object recognition with local features
+R1	10.1.1.91.9526	For Most Large Underdetermined Systems of Linear Equations the Minimal ℓ1-norm Solution is also the Sparsest Solution
+R1	10.1.1.120.4055	Face recognition using laplacianfaces
+R1	10.1.1.69.2112	Efficient sparse coding algorithms
+R1	10.1.1.123.4052	Clustering appearances of objects under varying illumination conditions
+R1	10.1.1.120.7153	An Experimental Evaluation of a Monte-Carlo Algorithm for Singular Value Decomposition
+R1	10.1.1.110.5795	Object retrieval with large vocabularies and fast spatial matching
+R1	10.1.1.149.6162	Robust face recognition via sparse representation
+R1	10.1.1.127.1786	What, where and who? classifying event by scene and object recognition
+R1	10.1.1.140.2800	In Defense of Nearest-Neighbor Based Image Classification
+R1	10.1.1.140.9959	LIBLINEAR: A Library for Large Linear Classification
+R1	10.1.1.141.3974	Classification using Intersection Kernel Support Vector Machines is Efficient ∗
+R1	10.1.1.144.9009	Improved Nyström Low-Rank Approximation and Error Analysis
+R1	10.1.1.150.324	Beyond the Euclidean distance: Creating effective visual codebooks using the histogram intersection kernel
+R1	10.1.1.153.4717	Max-Margin Additive Classifiers for Detection
+R1	10.1.1.167.4480	Linear spatial pyramid matching using sparse coding for image classification
+R1	10.1.1.154.2930	Multi-Label Sparse Coding for Automatic Image Annotation
+R1	10.1.1.187.9442	C.: Efficient match kernels between sets of features for visual recognition
+R1	10.1.1.170.864	A Theoretical Analysis of Feature Pooling in Visual Recognition
+R1	10.1.1.177.9617	Kernel Sparse Representation for Image Classification and Face Recognition
+R1	10.1.1.397.3095	Is face recognition really a compressive sensing problem
+R1	10.1.1.298.835	Robust sparse coding for face recognition
+R1	10.1.1.362.6291	T.: Salient coding for image classification

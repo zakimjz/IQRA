@@ -1,0 +1,33 @@
+10.1.1.160.9633	2009	Context-aware visual tracking
+R1	10.1.1.118.8639	An Algorithm for Tracking Multiple Targets
+R1	10.1.1.185.1651	Determining Optical Flow
+R1	10.1.1.18.5663	EigenTracking: Robust Matching and Tracking of Articulated Objects Using a View-Based Representation
+R1	10.1.1.37.1434	Contour Tracking By Stochastic Propagation of Conditional Density
+R1	10.1.1.21.1181	Object Recognition from Local Scale-Invariant Features
+R1	10.1.1.135.7147	Good features to track
+R1	10.1.1.6.4265	Robust Online Appearance Models for Visual Tracking
+R1	10.1.1.49.5898	Elliptical Head Tracking Using Intensity Gradients and Color Histograms
+R1	10.1.1.73.7317	Dynamic Bayesian Networks for Information Fusion with Applications to Human-Computer Interfaces
+R1	10.1.1.131.3027	Real-time tracking of image regions with changes in geometry and illumination
+R1	10.1.1.105.5661	Support vector tracking
+R1	10.1.1.10.3138	A Boosted Particle Filter: Multitarget Detection and Tracking
+R1	10.1.1.323.9793	Video google: A text retrieval approach to object matching in videos
+R1	10.1.1.4.1732	High Accuracy Optical Flow Estimation Based on a Theory for Warping
+R1	10.1.1.61.6678	Sparse Bayesian Learning for Efficient Visual Tracking
+R1	10.1.1.107.6325	Tracking multiple humans in complex situations
+R1	10.1.1.172.8651	Incremental learning for visual tracking
+R1	10.1.1.89.5131	Online learning of probabilistic appearance manifolds for video-based recognition and tracking
+R1	10.1.1.379.6911	Ensemble Tracking
+R1	10.1.1.16.2224	On Affine Invariant Clustering and Automatic Cast Listing in Movies
+R1	10.1.1.142.4410	An Information Fusion Framework for Robust Shape Tracking
+R1	10.1.1.219.6665	Video data mining using configurations of viewpoint invariant regions
+R1	10.1.1.61.1327	Multiple Kernel Tracking with SSD
+R1	10.1.1.91.8743	QuickTime Reference Guide, QuickTime CD
+R1	10.1.1.88.7207	Online selecting discriminative tracking features using particle filter
+R1	10.1.1.60.1416	On the Spatial Statistics of Optical Flow
+R1	10.1.1.85.7751	Tracking people by learning their appearance
+R1	10.1.1.112.8588	Object Tracking: A Survey
+R1	10.1.1.79.6623	Robust visual tracking by integrating multiple cues based on co-inference learning
+R1	10.1.1.75.8295	Intelligent collaborative tracking by mining auxiliary objects
+R1	10.1.1.317.9588	Measurement Integration Under Inconsistency for Robust Tracking
+R1	10.1.1.75.9922	Tracking non-stationary appearances and dynamic feature selection

@@ -1,0 +1,25 @@
+10.1.1.415.1657	2009	Multi-class multi-instance boosting for part-based human detection. ICCV
+R1	10.1.1.113.3059	Real-Time Object Detection for "Smart" Vehicles
+R1	10.1.1.30.3515	Additive Logistic Regression: a Statistical View of Boosting
+R1	10.1.1.156.2440	Improved Boosting Algorithms Using Confidence-rated Predictions
+R1	10.1.1.208.258	Object Detection in Images by Components
+R1	10.1.1.10.4061	Detecting Pedestrians Using Patterns of Motion and Appearance
+R1	10.1.1.53.7145	Body Plans
+R1	10.1.1.10.5680	Logistic Regression and Boosting for Labeled Bags of Instances
+R1	10.1.1.51.6893	Boosting Algorithms as Gradient Descent in Function Space
+R1	10.1.1.102.9805	Robust real-time face detection
+R1	10.1.1.101.8745	Histograms of Oriented Gradients for Human Detection
+R1	10.1.1.116.8321	Learning to parse pictures of people
+R1	10.1.1.212.6252	Fast Rotation Invariant Multi-View Face Detection Based
+R1	10.1.1.103.5875	Detection and Tracking of Humans by Probabilistic Body Part Assembly
+R1	10.1.1.5.2657	Learning Object Detection from a Small Number of Examples: the Importance of Good Features
+R1	10.1.1.11.2675	Sharing Visual Features for Multiclass And Multiview Object Detection
+R1	10.1.1.105.8206	DeMenthon D.: Hierarchical Part-Template Matching for Human Detection and Segmentation
+R1	10.1.1.154.7307	Robust face detection with multi-class boosting
+R1	10.1.1.110.1995	Fast human detection using a cascade of histograms of oriented gradients
+R1	10.1.1.138.8312	Multiple instance boosting for object detection
+R1	10.1.1.156.686	A discriminatively trained, multiscale, deformable part model
+R1	10.1.1.92.7077	A NEW IMAGE FEATURE FOR FAST DETECTION OF PEOPLE IN IMAGES
+R1	10.1.1.383.8619	Fast human detection using a novel boosted cascading structure with meta stages
+R1	10.1.1.210.3539	Multiple component learning for object detection
+R1	10.1.1.210.4382	Simultaneous learning and alignment: Multiinstance and multi-pose learning

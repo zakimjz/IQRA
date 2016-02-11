@@ -1,0 +1,30 @@
+10.1.1.138.6679	1999	A survey of image-based rendering techniques
+R1	10.1.1.139.1120	View Interpolation for Image Synthesis
+R1	10.1.1.10.877	Light Field Rendering
+R1	10.1.1.17.2442	Dynamically Reparameterized Light Fields
+R1	10.1.1.139.3990	Plenoptic Modeling: An Image-Based Rendering System
+R1	10.1.1.42.493	Stereo Panorama with a Single Camera
+R1	10.1.1.10.713	Modeling and Rendering Architecture from Photographs
+R1	10.1.1.13.1789	Post-Rendering 3D Warping
+R1	10.1.1.107.89	Layered depth images
+R1	10.1.1.186.82	The Lumigraph
+R1	10.1.1.27.268	Novel View Synthesis in Tensor Space
+R1	10.1.1.39.3043	QuickTime VR - An Image-Based Approach to Virtual Environment Navigation
+R1	10.1.1.2.3646	Efficient View-Dependent Image-Based Rendering with Projective Texture-Mapping
+R1	10.1.1.33.517	Creating Full View Panoramic Image Mosaics and Environment Maps
+R1	10.1.1.331.3107	View morphing
+R1	10.1.1.21.7824	LDI Tree: A Hierarchical Representation for Image-Based Rendering
+R1	10.1.1.2.9848	The Plenoptic Function and the Elements of Early Vision
+R1	10.1.1.41.5265	Multiple-Center-of-Projection Images
+R1	10.1.1.329.3602	Rendering with concentric mosaics
+R1	10.1.1.294.8183	An Image-Based Approach to Three-Dimensional Computer Graphics
+R1	10.1.1.34.1255	3-D Scene Representation as a Collection of Images and Fundamental Matrices
+R1	10.1.1.297.6777	Plenoptic sampling
+R1	10.1.1.41.9855	Time Critical Lumigraph Rendering
+R1	10.1.1.46.8966	Virtual Navigation of Complex Scenes using Clusters of Cylindrical Panoramic Images
+R1	10.1.1.138.6679	A survey of image-based rendering techniques
+R1	10.1.1.188.671	Generalizing epipolar-plane image analysis on the spatiotemporal surface
+R1	10.1.1.53.3833	Stereo Vision for View Synthesis
+R1	10.1.1.14.2358	Panoramic Mosaics by Manifold Projection
+R1	10.1.1.35.7628	Relief Textures
+R1	10.1.1.31.8113	The Geometry-Image Representation Tradeoff For Rendering

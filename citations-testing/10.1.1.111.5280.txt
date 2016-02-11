@@ -1,0 +1,25 @@
+10.1.1.111.5280	2008	Globally optimal surface mapping for surfaces with arbitrary topology
+R1	10.1.1.19.4632	Least Squares Conformal Maps for Automatic Texture Atlas Generation
+R1	10.1.1.12.654	Globally Smooth Parameterizations with Low Distortion
+R1	10.1.1.295.2718	Surface Parameterization: a Tutorial and Survey
+R1	10.1.1.1.3564	Multiresolution Analysis of Arbitrary Meshes
+R1	10.1.1.114.8663	Texture mapping progressive meshes
+R1	10.1.1.11.7253	Consistent Mesh Parameterizations
+R1	10.1.1.21.2192	Merging Polyhedral Shapes with Scattered Features
+R1	10.1.1.11.2500	Topological Evolution of Surfaces
+R1	10.1.1.413.8815	Conformal Surface Parameterization for Texture Mapping
+R1	10.1.1.17.6708	Computing Discrete Minimal Surfaces and Their Conjugates
+R1	10.1.1.36.1376	Multiresolution Mesh Morphing
+R1	10.1.1.12.6847	Fundamentals of Spherical Parameterization for 3D Meshes
+R1	10.1.1.118.7561	Inter-surface mapping
+R1	10.1.1.102.5485	Spherical parametrization and remeshing
+R1	10.1.1.107.5551	Isotropic remeshing of surfaces: A local parameterization approach
+R1	10.1.1.129.7761	Genus zero surface conformal mapping and its application to brain surface mapping
+R1	10.1.1.101.6301	Discrete conformal mappings via circle patterns
+R1	10.1.1.105.5102	Multiresolution Interpolation Meshes
+R1	10.1.1.153.3219	Consistent spherical parameterization
+R1	10.1.1.164.3421	Dynamic Remeshing and Applications
+R1	10.1.1.131.1157	Greedy optimal homotopy and homology generators
+R1	10.1.1.135.6483	Topology-driven surface mappings with robust feature alignment
+R1	10.1.1.186.5444	On computing handle and tunnel loops
+R1	10.1.1.225.1016	Mesh parameterization methods and their applications

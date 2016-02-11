@@ -1,0 +1,23 @@
+10.1.1.113.8928	2006	A component-based definition of spatial locality
+R1	10.1.1.37.1467	Improving Cache Performance in Dynamic Applications through Data and Computation Reorganization at Run Time
+R1	10.1.1.22.26	An Implementation of Interprocedural Bounded Regular Section Analysis
+R1	10.1.1.81.349	A data locality optimizing algorithm
+R1	10.1.1.32.4749	Maximizing Loop Parallelism and Improving Data Locality via Loop Fusion and Distribution
+R1	10.1.1.10.9584	Cross-Architecture Performance Predictions for Scientific Applications Using Parameterized Models
+R1	10.1.1.45.194	Estimating Cache Performance for Sequential and Data Parallel Programs
+R1	10.1.1.159.5115	Pin: building customized program analysis tools with dynamic instrumentation
+R1	10.1.1.111.6426	HPCView: A tool for top-down analysis of node performance
+R1	10.1.1.136.5885	On the problem of optimizing data transfers for complex memory systems
+R1	10.1.1.69.1236	Multiple page size modeling and optimization
+R1	10.1.1.44.1925	Localizing Non-affine Array References
+R1	10.1.1.71.7684	Instruction based memory distance analysis and its application to optimization
+R1	10.1.1.55.5076	An Efficient Data Dependence Analysis for Parallelizing Compilers
+R1	10.1.1.116.7067	Scalable cross-architecture predictions of memory hierarchy response for scientific applications
+R1	10.1.1.64.6554	Lightweight reference affinity analysis
+R1	10.1.1.66.8010	Regression-based multi-model prediction of data reuse signature
+R1	10.1.1.118.5051	Practical, transparent operating system support for superpages
+R1	10.1.1.116.3316	Reevaluating online superpage promotion with hardware support
+R1	10.1.1.10.9837	Software Methods to Improve Data Locality and Cache Behavior
+R1	10.1.1.60.1848	Generating Cache Hints for Improved Program Efficiency
+R1	10.1.1.10.4368	Estimating Cache Misses and Locality Using Stack Distances
+R1	10.1.1.89.1610	Quantifying locality in the memory access patterns of HPC applications

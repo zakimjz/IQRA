@@ -1,0 +1,45 @@
+10.1.1.121.1896	2007	A survey of application-layer multicast protocols
+R1	10.1.1.119.6140	Resilient Overlay Networks
+R1	10.1.1.132.3407	Multicast Routing in Datagram Internetworks and Extended LANs
+R1	10.1.1.47.3462	Degree-Constrained Multicasting in Point-to-Point Networks
+R1	10.1.1.111.1818	Tapestry: An infrastructure for fault-tolerant wide-area location and routing
+R1	10.1.1.115.6586	YAPPERS: A Peer-to-Peer Lookup Service over Arbitrary Topology
+R1	10.1.1.126.6083	A Case for End System Multicast
+R1	10.1.1.16.8178	Scalable Application Layer Multicast
+R1	10.1.1.13.7471	Construction of an Efficient Overlay Multicast Infrastructure for Real-Time Applications
+R1	10.1.1.20.299	SCRIBE: A large-scale and decentralized application-level multicast infrastructure
+R1	10.1.1.127.6848	Application-layer multicast with Delaunay triangulations
+R1	10.1.1.16.8243	Host Multicast: A Framework for Delivering Multicast To End Users
+R1	10.1.1.22.2142	Bayeux: An architecture for scalable and fault-tolerant wide-area data dissemination
+R1	10.1.1.10.1904	Tapestry: A Resilient Global-scale Overlay for Service Deployment
+R1	10.1.1.160.7123	Rmx: Reliable multicast for heterogeneous networks
+R1	10.1.1.13.2446	Astrolabe: A Robust and Scalable Technology for Distributed System Monitoring, Management, and Data Mining
+R1	10.1.1.129.3456	Dimensioning server access bandwidth and multicast routing in overlay networks
+R1	10.1.1.16.4558	Routing in Overlay Multicast Networks
+R1	10.1.1.382.9865	Core Based Trees (CBT version 2) Multicast Routing: Protocol Specification", RFC 2189
+R1	10.1.1.138.7106	Deployment issues for the IP multicast service and architecture
+R1	10.1.1.118.7443	Multimedia proxy caching mechanism for quality adaptive streaming applications in the internet
+R1	10.1.1.13.4669	End-Host Multicast Communication Using Switch-Trees Protocols
+R1	10.1.1.33.2449	An Active Service Framework and its Application to Real-time Multimedia Transcoding
+R1	10.1.1.34.6895	REUNITE: A Recursive Unicast Approach to Multicast
+R1	10.1.1.1.5225	Design of a Multi-sender 3D Videoconferencing Application over an End System Multicast Protocol
+R1	10.1.1.16.9635	Topology-Aware Overlay Networks for Group Communication
+R1	10.1.1.19.1892	Approximation Algorithms for Degree-Constrained Minimum-Cost Network-Design Problems
+R1	10.1.1.140.4551	An overlay tree building control protocol
+R1	10.1.1.4.7093	PROMISE: Peer-to-Peer Media Streaming Using CollectCast
+R1	10.1.1.10.3309	Turning Heterogeneity into an Advantage in Overlay Routing
+R1	10.1.1.4.7872	SelectCast - A Scalable and Self-Repairing Multicast Overlay Routing Facility
+R1	10.1.1.13.7772	A Peer-to-Peer Architecture for Media Streaming
+R1	10.1.1.13.3138	A Survey of Proposals for an Alternative Group Communication Service
+R1	10.1.1.11.1973	Application-Level Multicast Using Content-Addressable Networks
+R1	10.1.1.39.1123	A Multicast Routing Protocol for Ad-Hoc Networks
+R1	10.1.1.61.1627	The Feasibility of Supporting Large-Scale Live Streaming Applications with Dynamic Application End-Points
+R1	10.1.1.113.9996	Lightweight application level multicast tunneling using mtunnel
+R1	10.1.1.10.6778	Approximation and Heuristic Algorithms for Minimum Delay Application-Layer Multicast Trees
+R1	10.1.1.135.4534	A Proxy Architecture for Reliable Multicast in Heterogeneous Environments
+R1	10.1.1.21.8335	Restricted Dynamic Steiner Trees for Scalable Multicast in Datagram Networks
+R1	10.1.1.12.7919	A Graph Theoretic Approach to Bounding Delay in Proxy-Assisted, End-System Multicast
+R1	10.1.1.14.7144	Priority-Based Distribution Trees for Application-Level Multicast
+R1	10.1.1.60.1953	VRing: A Case for Building Application-Layer Multicast Rings (Rather Than Trees)
+R1	10.1.1.111.7497	Primal-dual meets local search: Approximating MST's with nonuniform degree bounds
+R1	10.1.1.71.5723	A proxy-assisted adaptation framework for object video multicasting

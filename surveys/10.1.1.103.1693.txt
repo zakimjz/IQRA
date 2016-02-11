@@ -1,0 +1,110 @@
+10.1.1.103.1693	2006	Semi-Supervised Learning Literature Survey
+R1	10.1.1.133.4884	Maximum likelihood from incomplete data via the EM algorithm
+R1	10.1.1.131.2084	A tutorial on hidden markov models and selected applications in speech recognition
+R1	10.1.1.1.5684	Text Classification from Labeled and Unlabeled Documents using EM
+R1	10.1.1.332.356	The Nature of Statistical Learning Theory
+R1	10.1.1.321.398	Semi-supervised learning of mixture models
+R1	10.1.1.207.7208	Segmentation using eigenvectors: A unifying view
+R1	10.1.1.14.3601	Normalized Cuts and Image Segmentation
+R1	10.1.1.110.4050	Latent dirichlet allocation
+R1	10.1.1.33.1187	Probabilistic Latent Semantic Analysis
+R1	10.1.1.164.6702	Analyzing the effectiveness and applicability of cotraining
+R1	10.1.1.44.7709	Exploiting Generative Models in Discriminative Classifiers
+R1	10.1.1.77.1482	THE EFFECT OF UNLABELED SAMPLES IN REDUCING THE SMALL SAMPLE SIZE PROBLEM AND MITIGATING THE HUGHES PHENOMENON
+R1	10.1.1.23.3696	Semi-Supervised Clustering Using Genetic Algorithms
+R1	10.1.1.46.1529	A comparison of event models for Naive Bayes text classification
+R1	10.1.1.32.4821	Enhancing Supervised Learning with Unlabeled Data
+R1	10.1.1.132.51	Semi-supervised support vector machines
+R1	10.1.1.14.544	Transductive Learning via Spectral Graph Partitioning
+R1	10.1.1.3.7020	Kernels and Regularization on Graphs
+R1	10.1.1.25.1955	Partially labeled classification with Markov random walks
+R1	10.1.1.14.8597	Think Globally, Fit Locally: Unsupervised Learning of Low Dimensional Manifolds
+R1	10.1.1.1.6096	Improving Text Classification with LSI Using Background Knowledge
+R1	10.1.1.15.7323	Active + Semi-Supervised Learning = Robust Multi-View Learning
+R1	10.1.1.12.6391	Information Regularization with Partially Labeled Data
+R1	10.1.1.13.897	Automatic Alignment of Local Representations
+R1	10.1.1.10.7134	Ranking on Data Manifolds
+R1	10.1.1.67.3253	Semi-supervised learning using randomized mincuts
+R1	10.1.1.14.903	Does Baum-Welch Re-estimation 'Help Taggers?
+R1	10.1.1.298.546	Stable mixing of complete and incomplete informaation
+R1	10.1.1.11.9010	Partially Supervised Classification of Text Documents
+R1	10.1.1.2.4771	Using Unlabeled Data to Improve Text Classification
+R1	10.1.1.14.4312	Semi-Supervised Learning Using Gaussian Fields and Harmonic Functions
+R1	10.1.1.5.5447	Combining Active Learning and Semi-Supervised Learning Using Gaussian Fields and Harmonic Functions
+R1	10.1.1.40.5833	A Model-Based Distance for Clustering
+R1	10.1.1.115.3219	Learning with local and global consistency
+R1	10.1.1.11.258	Learning with Positive and Unlabeled Examples Using Weighted Logistic Regression
+R1	10.1.1.411.6755	Diffusion kernels on graphs and other discrete input spaces
+R1	10.1.1.100.2946	Splitting the unsupervised and supervised components of semi-supervised learning
+R1	10.1.1.105.2851	Semi-supervised Learning by Entropy Minimization
+R1	10.1.1.59.6843	Semi-Supervised Classification by Low Density Separation
+R1	10.1.1.122.8861	Spectral grouping using the Nyström method
+R1	10.1.1.122.9869	Consistency  of spectral clustering
+R1	10.1.1.297.2954	Cluster kernels for semi-supervised learning
+R1	10.1.1.129.5778	Learning a kernel matrix for nonlinear dimensionality reduction
+R1	10.1.1.131.1253	Unsupervised Learning of Image Manifolds by Semidefinite Programming
+R1	10.1.1.304.9169	Unsupervised and semisupervised clustering: a brief survey
+R1	10.1.1.58.7943	Semi-Supervised Self-Training of Object Detection Models
+R1	10.1.1.342.642	A sentimental education: Sentiment analysis using subjectivity summarization based on minimum cuts
+R1	10.1.1.140.8913	Measure based regularization
+R1	10.1.1.136.8216	Manifold regularization: A geometric framework for learning from labeled and unlabeled examples
+R1	10.1.1.67.2453	Harmonic mixtures: combining mixture models and graph-based methods for inductive and scalable semi-supervised learning
+R1	10.1.1.188.1721	L.: The value of agreement a new boosting algorithm
+R1	10.1.1.161.2530	Colorization using optimization
+R1	10.1.1.2.8291	Learning Subjective Nouns Using Extraction Pattern Bootstrapping
+R1	10.1.1.107.3223	Gaussian processes for ordinal regression
+R1	10.1.1.61.1555	Learning to Extract Entities from Labeled and Unlabeled Text
+R1	10.1.1.33.4031	Optimization Approaches to Semi-Supervised Learning
+R1	10.1.1.127.4109	Statistical machine translation with word- and sentence-aligned parallel corpora
+R1	10.1.1.76.3431	Label propagation through linear neighborhoods
+R1	10.1.1.132.7271	Semi-supervised learning on directed graphs
+R1	10.1.1.74.6694	Beyond the point cloud: from transductive to semi-supervised learning
+R1	10.1.1.78.8471	Maximum margin semi-supervised learning for structured variables
+R1	10.1.1.61.1897	Co-Training and Expansion: Towards Bridging Theory and Practice
+R1	10.1.1.48.3546	The Canonical Distortion Measure for Vector Quantization and Function Approximation
+R1	10.1.1.129.819	Regularization and semi-supervised learning on large graphs
+R1	10.1.1.59.7270	On Manifold Regularization
+R1	10.1.1.72.6163	Semi-supervised learning for structured output variables
+R1	10.1.1.130.2680	Proximity graphs for clustering and manifold learning
+R1	10.1.1.165.9727	A continuation method for semi-supervised svms
+R1	10.1.1.136.9654	Branch and Bound for Semi-Supervised Support Vector Machines
+R1	10.1.1.127.2310	Trading convexity for scalability
+R1	10.1.1.58.5179	Distributed Information Regularization on Graphs
+R1	10.1.1.131.8245	On transductive regression
+R1	10.1.1.187.9185	Nonparametric function induction in semi-supervised learning
+R1	10.1.1.324.2727	A hybrid generative/discriminative approach to semisupervised classifier design
+R1	10.1.1.30.2181	Semi-Supervised Support Vector Machines for Unlabeled Data Classification
+R1	10.1.1.148.7686	Semi-supervised learning with sparse grids
+R1	10.1.1.118.8898	Integrating topics and syntax
+R1	10.1.1.72.8851	Manifold denoising
+R1	10.1.1.71.1570	Hyperparameter and kernel learning for graph based semi-supervised classification
+R1	10.1.1.13.8391	Semi-Supervised Learning with Trees
+R1	10.1.1.122.4909	On semi-supervised classification
+R1	10.1.1.2.2874	Kernel Conditional Random Fields: Representation and Clique Selection
+R1	10.1.1.309.5856	Intelligent behavior in humans and machines
+R1	10.1.1.150.6644	Learning to model spatial dependency: Semi-supervised discriminative random fields
+R1	10.1.1.152.3819	Semi-supervised sequence modeling with syntactic topic models
+R1	10.1.1.89.7978	Link-based classification using labeled and unlabeled data. ICML 2003 workshop on The Continuum from Labeled to Unlabeled Data
+R1	10.1.1.324.3840	Co-training for predicting emotions with spoken dialogue data. The Companion
+R1	10.1.1.73.4584	Fast computational methods for visually guided robots
+R1	10.1.1.68.4295	On the relation between low density separation, spectral clustering and graph cuts
+R1	10.1.1.105.9873	Word sense disambiguation using label propagation based semi-supervised learning
+R1	10.1.1.64.8205	Word sense disambiguation with semisupervised learning
+R1	10.1.1.5.9217	A Method for Inferring Label Sampling Mechanisms In Semi-Supervised Learning
+R1	10.1.1.87.2833	Estimating and computing density based distance metrics
+R1	10.1.1.113.8836	Deterministic annealing for semi-supervised kernel machines
+R1	10.1.1.136.9465	Large Scale Semi-supervised Linear SVMs
+R1	10.1.1.118.7181	A co-regularized approach to semi-supervised learning with multiple views
+R1	10.1.1.127.9587	Linear manifold regularization for large scale semi-supervised learning
+R1	10.1.1.131.1603	Face recognition by humans: 20 results all computer vision researchers should know about. (under review
+R1	10.1.1.32.3153	Deriving Cluster Analytic Distance Functions From Gaussian Mixture Models
+R1	10.1.1.71.8643	Large-scale sparsified manifold regularization
+R1	10.1.1.219.3482	Nonlinear dimensionality reduction by semidefinite programming and kernel matrix factorization
+R1	10.1.1.184.317	Inference with the universum
+R1	10.1.1.323.9759	Unsupervised and semi-supervised multi-class support vector machines
+R1	10.1.1.64.1933	Blockwise supervised inference on large graphs
+R1	10.1.1.72.4127	Learning with hypergraphs: Clustering, classification, and embedding
+R1	10.1.1.165.7600	Learning from labeled and unlabeled data on a directed graph
+R1	10.1.1.2.2630	Exploiting Unlabeled Data in Content-Based Image Retrieval
+R1	10.1.1.115.7957	Semi-supervised regression with co-training style algorithms
+R1	10.1.1.61.1467	Nonparametric Transforms of Graph Kernels for Semi-Supervised Learning

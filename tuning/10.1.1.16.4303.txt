@@ -1,0 +1,23 @@
+10.1.1.16.4303	2002	Global Distribution of Free Software (and other things)
+R1	10.1.1.28.5987	Pastry: Scalable, distributed object location and routing for large-scale peer-to-peer systems
+R1	10.1.1.105.3673	Chord: A Scalable Peer-to-Peer Lookup Service for Internet Applications
+R1	10.1.1.10.4919	Freenet: A Distributed Anonymous Information Storage and Retrieval System
+R1	10.1.1.110.5867	Storage management and caching in PAST, a large-scale, persistent peer-to-peer storage utility
+R1	10.1.1.111.1818	Tapestry: An infrastructure for fault-tolerant wide-area location and routing
+R1	10.1.1.125.41	Wide-area cooperative storage with CFS
+R1	10.1.1.61.1696	Disconnected Operation in a Distributed File System
+R1	10.1.1.33.7463	Design and Evaluation of a Continuous Consistency Model for Replicated Services
+R1	10.1.1.129.1970	On the Placement of Web Server Replicas
+R1	10.1.1.49.3547	An Architecture for A Wide Area Distributed System
+R1	10.1.1.30.7969	A Dynamic Object Replication and Migration Protocol for an Internet Hosting Service
+R1	10.1.1.77.8	Encapsulating Distribution in Remote Objects
+R1	10.1.1.103.9098	Dynamically Selecting Optimal Distribution Strategies for Web Documents
+R1	10.1.1.14.3289	Achieving Scalability in Hierarchical Location Services
+R1	10.1.1.17.480	Algorithmic Design of the Globe Wide-Area Location Service
+R1	10.1.1.50.1130	An Empirical Study of a Wide-Area Distributed File System
+R1	10.1.1.28.6325	Efficient Tracking of Mobile Objects in Globe
+R1	10.1.1.41.5053	Adaptive Leases: A Strong Consistency Mechanism for the World Wide Web
+R1	10.1.1.111.4086	The NFS version 4 protocol
+R1	10.1.1.12.7115	The Globe Infrastructure Directory Service
+R1	10.1.1.29.2600	A Law-Abiding Peer-to-Peer Network for Free-Software Distribution
+R1	10.1.1.21.8668	Scalable Human-Friendly Resource Names

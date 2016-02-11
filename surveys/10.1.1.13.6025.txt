@@ -1,0 +1,22 @@
+10.1.1.13.6025	1999	A Survey of Application Layer Techniques for Adaptive Streaming Of Multimedia
+R1	10.1.1.17.8462	Receiver-driven Layered Multicast
+R1	10.1.1.165.7150	RTP: A Transport Protocol for Real-Time Applications
+R1	10.1.1.49.4937	Proxy Prefix Caching for Multimedia Streams
+R1	10.1.1.43.8737	Resilient Multicast Support for Continuous-Media Applications
+R1	10.1.1.398.7280	Rate control for an embedded wavelet video coder
+R1	10.1.1.219.7410	A common framework for rate and distortion based scaling of highly scalable compressed video
+R1	10.1.1.45.9071	SAVE: An Algorithm for Smoothed Adaptive Video over Explicit Rate Networks
+R1	10.1.1.33.1853	Simulation of FEC-Based Error Control for Packet Audio on the Internet
+R1	10.1.1.16.6950	An Algorithm for Lossless Smoothing of MPEG Video
+R1	10.1.1.45.3888	Online Smoothing of Live, Variable-Bit-Rate Video
+R1	10.1.1.26.5039	Rate Shaping by Block Dropping for Transmission of MPEG-precoded Video over Channels of Dynamic Bandwidth
+R1	10.1.1.31.4184	Supporting Stored Video: Reducing Rate Variability and End-to-End Resource Requirements through Optimal Smoothing
+R1	10.1.1.33.8276	Integrated CPU and Network-I/O QoS Management in an Endsystem
+R1	10.1.1.22.3377	A Comparison of Bandwidth Smoothing Techniques for the Transmission of Prerecorded Compressed Video
+R1	10.1.1.39.4043	Adaptive Multicast of Multi-Layered Video: Rate-Based and. . .
+R1	10.1.1.211.7486	Sechrest,‘‘An Optimal Bandwidth Allocation Strategy for the Delivery of Compressed Prerecorded Video”, CSE-Technical Report 260-95
+R1	10.1.1.39.2081	Adaptive FEC-Based Error Control for Interactive Audio in the Internet
+R1	10.1.1.34.1090	The Performance of Two-Dimensional Media Scaling for Internet Videoconferencing
+R1	10.1.1.23.7109	Time Constrained Bandwidth Smoothing For Interactive Video-On-Demand Systems
+R1	10.1.1.52.8844	Multimedia over ATM: Progress, Status and Future
+R1	10.1.1.22.9124	Network Bandwidth Sharing for Transporting Rate-Adaptive Packet Video Using Feedback

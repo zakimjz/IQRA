@@ -1,0 +1,21 @@
+10.1.1.138.7508	2007	Assisted Peer-to-Peer Search with Partial Indexing
+R1	10.1.1.28.5987	Pastry: Scalable, distributed object location and routing for large-scale peer-to-peer systems
+R1	10.1.1.105.3673	Chord: A Scalable Peer-to-Peer Lookup Service for Internet Applications
+R1	10.1.1.139.1580	Mapping the Gnutella network: Properties of large-scale peer-to-peer systems and implications for system design
+R1	10.1.1.1.1674	PAST: A large-scale, persistent peer-to-peer storage utility
+R1	10.1.1.115.6586	YAPPERS: A Peer-to-Peer Lookup Service over Arbitrary Topology
+R1	10.1.1.20.299	SCRIBE: A large-scale and decentralized application-level multicast infrastructure
+R1	10.1.1.22.2142	Bayeux: An architecture for scalable and fault-tolerant wide-area data dissemination
+R1	10.1.1.1.2639	Efficient Peer-to-Peer Keyword Searching
+R1	10.1.1.12.7728	Efficient Content Location Using Interest-Based Locality in Peer-to-Peer Systems
+R1	10.1.1.123.8939	Routing indices for peer-to-peer systems
+R1	10.1.1.13.1643	Semantic Overlay Networks for P2P Systems
+R1	10.1.1.121.2046	Designing a Super-peer Network
+R1	10.1.1.10.1218	Should we build Gnutella on a structured overlay?
+R1	10.1.1.10.9602	Hybrid Global-Local Indexing for Efficient Peer-To-Peer Information Retrieval
+R1	10.1.1.11.1973	Application-Level Multicast Using Content-Addressable Networks
+R1	10.1.1.4.8363	Peer-to-Peer Information Retrieval Using Self-Organizing Semantic Overlay Networks
+R1	10.1.1.329.3391	Semantic Small World: An overlay network for peer-to-peer search
+R1	10.1.1.67.8768	Hybrid search schemes for unstructured peer-to-peer networks
+R1	10.1.1.155.1300	Transparent Query Caching in Peer-to-Peer Overlay Networks
+R1	10.1.1.386.7237	Debunking some myths about structured and unstructured overlays

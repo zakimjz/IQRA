@@ -1,0 +1,22 @@
+10.1.1.109.7685	2004	An evaluation of statistical spam filtering techniques
+R1	10.1.1.332.356	The Nature of Statistical Learning Theory
+R1	10.1.1.119.8039	Machine learning in automated text categorization
+R1	10.1.1.11.9519	A Re-Examination of Text Categorization Methods
+R1	10.1.1.32.9956	A Comparative Study on Feature Selection in Text Categorization
+R1	10.1.1.334.9755	A bayesian approach to filtering junk E-mail, in: Learning for Text Categorization
+R1	10.1.1.131.1931	An experimental comparison of three methods for constructing ensembles of decision trees
+R1	10.1.1.46.1529	A comparison of event models for Naive Bayes text classification
+R1	10.1.1.134.3024	BoosTexter: A Boosting-based System for Text Categorization
+R1	10.1.1.133.1040	Experiments with a New Boosting Algorithm
+R1	10.1.1.129.2536	Approximate Statistical Tests for Comparing Supervised Classification Learning Algorithms
+R1	10.1.1.15.9362	Support-Vector Networks
+R1	10.1.1.46.281	Prior Probabilities
+R1	10.1.1.91.8665	An Experimental Comparison of Naive Bayesian and Keyword-Based Anti-Spam Filtering with Personal E-mail Messages
+R1	10.1.1.330.2216	Learning Rules that Classify E-Mail
+R1	10.1.1.134.9503	Support vector machines for spam categorization
+R1	10.1.1.41.4015	SpamCop: A Spam Classification & Organization Program
+R1	10.1.1.18.1368	Learning to Filter Spam E-Mail: A Comparison of a Naive Bayesian and a Memory-Based Approach
+R1	10.1.1.19.6259	An Evaluation of Naive Bayesian Anti-Spam Filtering
+R1	10.1.1.111.979	Boosting trees for anti-spam email filtering
+R1	10.1.1.12.4413	A Comparison of Event Models for Naive Bayes Anti-Spam E-Mail Filtering
+R1	10.1.1.199.6744	A corpus-based investigation of junk emails

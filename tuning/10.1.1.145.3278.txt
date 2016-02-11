@@ -1,0 +1,25 @@
+10.1.1.145.3278	2007	Integrating concurrency control and energy management in device drivers
+R1	10.1.1.39.3266	Comparing Algorithms for Dynamic Speed-Setting of a Low-Power CPU
+R1	10.1.1.136.6228	TAG: a Tiny AGgregation service for ad-hoc sensor networks
+R1	10.1.1.9.8582	Energy-Efficient Soft Real-Time CPU Scheduling for Mobile Multimedia Systems
+R1	10.1.1.25.9744	Policies for Dynamic Clock Scheduling
+R1	10.1.1.28.1319	Adaptive Disk Spin-down Policies for Mobile Computers
+R1	10.1.1.138.1437	Vertigo: Automatic performance-setting for linux
+R1	10.1.1.1.9475	Idleness is Not Sloth
+R1	10.1.1.27.4355	A Dynamic Disk Spin-Down Technique for Mobile Computing
+R1	10.1.1.110.9475	Power Aware Page Allocation
+R1	10.1.1.12.8700	ECOSystem: Managing Energy as a First Class Operating System Resource
+R1	10.1.1.127.9488	The nesC language: A holistic approach to networked embedded systems
+R1	10.1.1.10.9066	Capriccio: Scalable Threads for Internet Services
+R1	10.1.1.323.9843	An analysis of a large scale habitat monitoring application
+R1	10.1.1.410.6966	A Macroscope in the Redwoods
+R1	10.1.1.59.2303	Contiki - a Lightweight and Flexible Operating System for Tiny Networked Sensors
+R1	10.1.1.162.943	Versatile Low Power Media Access for Wireless Sensor Networks
+R1	10.1.1.11.51	MANTIS: System Support For Multimodal Networks Of . . .
+R1	10.1.1.121.9895	Ultra-low power data storage for sensor networks
+R1	10.1.1.113.5598	Currentcy: A unifying abstraction for expressing energy management policies
+R1	10.1.1.220.4846	Dynamic-sized lockfree data structures
+R1	10.1.1.75.1586	Interface contracts for TinyOS
+R1	10.1.1.89.4757	Design considerations for solar energy harvesting wireless embedded systems
+R1	10.1.1.156.7485	An environment for runtime power monitoring of wireless sensor network platforms
+R1	10.1.1.114.4789	Power reduction techniques for microprocessor systems

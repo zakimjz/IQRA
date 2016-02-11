@@ -1,0 +1,31 @@
+10.1.1.422.353	2004	Editorial: special issue on learning from imbalanced data sets
+R1	10.1.1.1.5684	Text Classification from Labeled and Unlabeled Documents using EM
+R1	10.1.1.31.2544	Feature selection for unbalanced class distribution and Naive Bayes
+R1	10.1.1.39.912	Estimating the Support of a High-Dimensional Distribution
+R1	10.1.1.165.1449	Types of cost in inductive concept learning
+R1	10.1.1.47.7199	Toward Scalable Learning with Non-uniform Distributions: Effects and a Multi-classifier Approach
+R1	10.1.1.14.3949	An Analysis of Rule Evaluation Metrics
+R1	10.1.1.126.1087	C4.5 and imbalanced data sets: investigating the effect of sampling method, probabilistic estimate, and decision tree structure
+R1	10.1.1.132.9672	C4.5, Class Imbalance, and Cost Sensitivity: Why Under-sampling beats Over-sampling
+R1	10.1.1.15.1161	Learning when Training Data are Costly: The Effect of Class Distribution on Tree Induction
+R1	10.1.1.35.3910	Explicitly Representing Expected Cost: An Alternative to ROC Representation
+R1	10.1.1.113.7500	Robust classification for imprecise environments
+R1	10.1.1.18.5547	SMOTE: Synthetic Minority Over-sampling Technique
+R1	10.1.1.136.9973	AdaCost: misclassification cost-sensitive boosting
+R1	10.1.1.19.7318	Evaluating Boosting Algorithms to Classify Rare Classes: Comparison And Improvements
+R1	10.1.1.411.6806	One-Class SVMs for Document Classification
+R1	10.1.1.10.9777	ROC Graphs: Notes and Practical Considerations for Researchers
+R1	10.1.1.333.3468	An extensive empirical study of feature selection metrics for text classification
+R1	10.1.1.3.8934	An introduction to variable and feature selection
+R1	10.1.1.100.5717	Learning from imbalanced data sets with boosting and data generation: The DataBoost-IM approach
+R1	10.1.1.111.5610	Learning when data sets are imbalanced and when costs are unequal and unknown
+R1	10.1.1.58.7757	A Study of the Behavior of Several Methods for Balancing Machine Learning Training Data
+R1	10.1.1.98.6892	A multistrategy approach for digital text categorization from imbalanced documents
+R1	10.1.1.94.9007	Class-boundary alignment for imbalanced dataset learning
+R1	10.1.1.60.7323	Mining with Rarity: A Unifying Framework
+R1	10.1.1.131.1506	Minority Report in Fraud Detection: Classification of Skewed Data
+R1	10.1.1.103.5069	Feature selection for text categorization on imbalanced data
+R1	10.1.1.5.9780	Cost-Sensitive Learning by Cost-Proportionate Example Weighting
+R1	10.1.1.35.1493	Supervised versus Unsupervised Binary-Learning by Feedforward Neural Networks
+R1	10.1.1.136.7201	Learning rare class footprints: the reflex algorithm
+R1	10.1.1.142.2209	Uncertainty sampling methods for one-class classifiers

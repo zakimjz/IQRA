@@ -1,0 +1,27 @@
+10.1.1.104.8806	2000	Content-based image retrieval systems: A survey
+R1	10.1.1.2.1078	NeTra: A toolbox for navigating large image databases
+R1	10.1.1.141.4766	Content-based query of image databases, inspirations from text retrieval: inverted files, frequency-based weights and relevance feedback
+R1	10.1.1.24.7631	Image Retrieval using Latent Semantic Indexing
+R1	10.1.1.329.4920	Similarity Indexing with the SS-tree
+R1	10.1.1.1.5751	Image Retrieval By Shape and Texture
+R1	10.1.1.17.9809	Illumination Invariance and Object Model in Content-Based Image and Video Retrieval
+R1	10.1.1.1.7543	ImageRover: A Content-Based Image Browser for the World Wide Web
+R1	10.1.1.76.2012	Wavelet-Based Image Indexing Techniques with Partial Sketch Retrieval Capability
+R1	10.1.1.38.2935	Photobook: Content-Based Manipulation of Image Databases
+R1	10.1.1.2.569	Visual Querying by Color Perceptive Regions
+R1	10.1.1.108.9375	The Bayesian image retrieval system, PicHunter: Theory, implementation, and psychophysical experiments
+R1	10.1.1.175.1246	Pictoseek: combining color and shape invariant features for image retrieval
+R1	10.1.1.53.7145	Body Plans
+R1	10.1.1.29.3113	FOCUS: Searching for Multi-colored Objects in a Diverse Image Database
+R1	10.1.1.52.4452	Chabot: Retrieval from a Relational Database of Images
+R1	10.1.1.8.9161	Efficient Image Retrieval through Vantage Objects
+R1	10.1.1.127.952	Shoebox: A digital photo management system
+R1	10.1.1.32.1786	Image Digestion and Relevance Feedback in the ImageRover WWW Search Engine
+R1	10.1.1.12.548	RETIN: A content-based image indexing and retrieval system
+R1	10.1.1.13.2337	Wavelet-based Salient Points: Applications to Image
+R1	10.1.1.160.9865	Processing similarity queries in mars
+R1	10.1.1.31.3286	Content-Based Image Retrieval with Self-Organizing Maps
+R1	10.1.1.228.4343	A flexible image database system for content-based retrieval
+R1	10.1.1.38.8137	Filter Image Browsing - Exploiting Interaction in Image Retrieval
+R1	10.1.1.36.818	C-BIRD: Content-Based Image Retrieval from Digital Libraries Using Illumination Invariance and Recognition Kernel
+R1	10.1.1.28.4543	Tracing Images in Large Databases by Comparison of Wavelet Fingerprints

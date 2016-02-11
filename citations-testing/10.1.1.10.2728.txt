@@ -1,0 +1,32 @@
+10.1.1.10.2728	2002	Cut-and-Paste Editing of Multiresolution Surfaces
+R1	10.1.1.37.327	Fitting Smooth Surfaces to Dense Polygon Meshes
+R1	10.1.1.16.1176	MAPS: Multiresolution Adaptive Parameterization of Surfaces
+R1	10.1.1.138.269	Interactive Texture Mapping
+R1	10.1.1.20.7426	Exact Evaluation Of Catmull-Clark Subdivision Surfaces At Arbitrary Parameter Values
+R1	10.1.1.146.2602	Geometry images
+R1	10.1.1.146.2579	Displaced subdivision surfaces
+R1	10.1.1.119.8894	Interpolating Subdivision for Meshes with Arbitrary Topology
+R1	10.1.1.1.3564	Multiresolution Analysis of Arbitrary Meshes
+R1	10.1.1.11.7253	Consistent Mesh Parameterizations
+R1	10.1.1.40.4419	Multiresolution Signal Processing for Meshes
+R1	10.1.1.146.5211	Lapped Textures
+R1	10.1.1.102.6676	Parametrization and smooth approximation of surface triangulations
+R1	10.1.1.17.6708	Computing Discrete Minimal Surfaces and Their Conjugates
+R1	10.1.1.117.6370	Pasting spline surfaces
+R1	10.1.1.9.9989	Approximate Boolean Operations on Free-form Solids
+R1	10.1.1.91.8675	Sharp features on multiresolution subdivision surfaces
+R1	10.1.1.6.209	World Space Surface Pasting
+R1	10.1.1.50.6674	A Parallel Algorithm for Mesh Smoothing
+R1	10.1.1.25.3587	Normal Meshes
+R1	10.1.1.40.3601	A Variational Approach to Subdivision
+R1	10.1.1.21.1481	Interactive Multi-Resolution Modeling on Arbitrary Meshes
+R1	10.1.1.37.7144	Discrete Fairing and Variational Subdivision for Freeform Surface Design
+R1	10.1.1.15.9605	Meshes on Fire
+R1	10.1.1.24.5026	Non-Distorted Texture Mapping For Sheared Triangulated Meshes
+R1	10.1.1.16.6127	Fitting Subdivision Surfaces
+R1	10.1.1.165.1899	The direct manipulation of pasted surfaces
+R1	10.1.1.210.911	Discrete Constant Mean Curvature Surfaces via Conserved Quantities
+R1	10.1.1.49.4362	Hierarchical Editing and Rendering of Subdivision Surfaces
+R1	10.1.1.26.7467	Surface Parameterization for Meshing by Triangulation Flattening
+R1	10.1.1.52.9135	Animated Surface Pasting
+R1	10.1.1.110.1147	Interactive Multiresolution Mesh Editing

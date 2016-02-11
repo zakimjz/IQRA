@@ -1,0 +1,26 @@
+10.1.1.12.8073	2001	Ontology-Based Integration of Information - A Survey of Existing Approaches
+R1	10.1.1.332.7666	Ontobroker - The Very High Idea
+R1	10.1.1.101.7493	A translation approach to portable ontology specifications
+R1	10.1.1.21.2398	Dynamic Ontologies on the Web
+R1	10.1.1.101.8349	OBSERVER: An Approach for Query Processing in Global Information Systems based on Interoperation across Pre-existing Ontologies
+R1	10.1.1.122.3207	Toward Principles for the Design of Ontologies Used for Knowledge Sharing
+R1	10.1.1.32.6380	Retrieving And Integrating Datafrom Multiple Information Sources
+R1	10.1.1.104.7500	Information Filtering and Information Retrieval: Two Sides of the Same Coin
+R1	10.1.1.42.3423	Ontology Engineering beyond the Modeling of Concepts and Relations
+R1	10.1.1.37.1817	The Use of CARIN Language And Algorithms For Information Integration: The PICSEL System
+R1	10.1.1.36.4871	AL-log: Integrating Datalog and Description Logics
+R1	10.1.1.36.4035	Infomaster: An Information Integration System
+R1	10.1.1.43.9028	CARIN: A Representation Language Combining Horn Rules and Description Logics
+R1	10.1.1.228.8715	M.: Description logics for information integration
+R1	10.1.1.30.8455	Semi-automatic Wrapper Generation for Internet Information Sources
+R1	10.1.1.17.174	The KRAFT Architecture for Knowledge Fusion and Transformation
+R1	10.1.1.2.5023	Evaluating Knowledge Representation and Reasoning Capabilities of Ontology Specification Languages
+R1	10.1.1.52.2437	Methodologies For Ontology Development
+R1	10.1.1.102.9905	TAMBIS: transparent access to multiple bioinformatics information sources
+R1	10.1.1.30.1499	Bottom-up Integration of Ontologies in a Database Context
+R1	10.1.1.39.1806	Efficient Management of Very Large Ontologies
+R1	10.1.1.21.5883	Enabling Technologies for Interoperability
+R1	10.1.1.24.167	Towards a Method to Conceptualize Domain Ontologies
+R1	10.1.1.35.2693	Towards Rule-Based Context Transformation in Mediators
+R1	10.1.1.96.1022	The GRAIL concept modelling language for medical terminology
+R1	10.1.1.53.1093	Foundations of a Structured Approach to Characterising Domain Knowledge

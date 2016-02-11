@@ -1,0 +1,49 @@
+10.1.1.77.9873	2006	STORAGE MANAGEMENT IN LARGE DISTRIBUTED OBJECT-BASED STORAGE SYSTEMS
+R1	10.1.1.115.4299	Oceanstore: An architecture for global-scale persistent storage
+R1	10.1.1.14.473	Design and Implementation or the Sun Network Filesystem
+R1	10.1.1.120.5	Cooperative Caching: Using Remote Client Memory to Improve File System Performance
+R1	10.1.1.114.9535	A Fast File System for UNIX
+R1	10.1.1.117.5365	The Design and Implementation of a Log-Structured File System
+R1	10.1.1.12.448	Disconnected Operation in the Coda File System
+R1	10.1.1.127.7467	Coda: A Highly available File System for a Distributed Workstation Environment
+R1	10.1.1.11.3814	FARSITE: Federated, Available, and Reliable Storage for an Incompletely Trusted Environment
+R1	10.1.1.130.1602	A cost-effective, high-bandwidth storage architecture
+R1	10.1.1.40.8767	Petal: Distributed Virtual Disks
+R1	10.1.1.160.1912	Swift: Using distributed disk striping to provide high I/O data rates
+R1	10.1.1.1.2798	Input/Output Behavior of Supercomputing Applications
+R1	10.1.1.17.2406	Interposed Request Routing for Scalable Network Storage
+R1	10.1.1.159.8837	Heuristic cleaning algorithms in log-structured file systems
+R1	10.1.1.44.1314	Embedded Inodes and Explicit Grouping: Exploiting Disk Bandwidth for Small Files
+R1	10.1.1.130.4550	The Zebra striped network file system
+R1	10.1.1.33.1261	File System Design for an NFS File Server Appliance
+R1	10.1.1.95.8706	Porting the SGI XFS file system to Linux
+R1	10.1.1.19.7147	GPFS: A Shared-Disk File System for Large Computing Clusters
+R1	10.1.1.1.8150	File System Logging Versus Clustering: A Performance Comparison
+R1	10.1.1.160.3546	A Comparison of FFS Disk Allocation Policies
+R1	10.1.1.160.3455	The Global File System
+R1	10.1.1.128.8654	THE CEDAR FILE SYSTEM
+R1	10.1.1.33.7313	PVFS: A Parallel File System for Linux Clusters
+R1	10.1.1.136.4159	The sprite network operating system
+R1	10.1.1.1.6259	An Implementation of a Log-Structured File System for UNIX
+R1	10.1.1.18.4195	The Vesta Parallel File System
+R1	10.1.1.4.3457	Replication under Scalable Hashing: A Family of Algorithms for Scalable Decentralized Data Distribution
+R1	10.1.1.2.456	Lustre: Building a File System for 1,000-node Clusters
+R1	10.1.1.159.9103	zFS - a scalable distributed file system using object disks. IEEESymposium onMassStorage Systems
+R1	10.1.1.102.8121	Towards an Object Store
+R1	10.1.1.18.7417	Strong Security for Network-Attached Storage
+R1	10.1.1.142.4371	The Rio File Cache: Surviving Operating System Crashes
+R1	10.1.1.10.5857	File System Workload Analysis for Large Scale Scientific Computing Applications
+R1	10.1.1.159.9476	Parallel I/O workload characteristics using Vesta
+R1	10.1.1.15.4977	I/O in Parallel and Distributed Systems
+R1	10.1.1.119.6115	I/O Requirements of Scientific Applications: An Evolutionary View
+R1	10.1.1.53.457	Lessons from Characterizing Input/Output Bahavior of Parallel Scientific Applications
+R1	10.1.1.10.8331	Managing Scalability in Object Storage Systems for HPC Linux
+R1	10.1.1.231.3829	Object-based Storage
+R1	10.1.1.1.2631	FAB: Building Distributed Enterprise Disk Arrays from Commodity Components
+R1	10.1.1.59.2963	The Google File System
+R1	10.1.1.159.8596	Authenticating network-attached storage
+R1	10.1.1.159.7586	LegionFS: A Secure and Scalable File System Supporting Cross-Domain High-Performance Applications
+R1	10.1.1.111.4086	The NFS version 4 protocol
+R1	10.1.1.160.2975	Multi-level Caching in Distributed File Systems or Your cache ain’t nuthin’ but trash
+R1	10.1.1.13.2537	Efficient Metadata Management in Large Distributed Storage Systems
+R1	10.1.1.411.9440	Exporting storage systems in a scalable manner with pNFS

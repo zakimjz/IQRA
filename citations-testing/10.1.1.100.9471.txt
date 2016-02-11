@@ -1,0 +1,37 @@
+10.1.1.100.9471	2005	Fast online pointer analysis
+R1	10.1.1.117.364	Scalable propagation-based call graph construction algorithms
+R1	10.1.1.118.3751	Client-driven pointer analysis
+R1	10.1.1.36.7760	Precise Concrete Type Inference for Object-Oriented Languages
+R1	10.1.1.109.6502	Program Analysis and Specialization for the C Programming Language
+R1	10.1.1.221.6189	Points-to analysis using BDDs
+R1	10.1.1.117.2420	Optimization of Object-Oriented Programs using Static Class Hierarchy Analysis
+R1	10.1.1.152.6521	Which pointer analysis should I use
+R1	10.1.1.221.3040	Scaling Java points-to analysis using Spark
+R1	10.1.1.25.4206	Extending and Evaluating Flow-insensitive and Context-insensitive Points-to Analyses for Java
+R1	10.1.1.224.353	Escape analysis for Java
+R1	10.1.1.1.6975	Incrementalized Pointer and Escape Analysis
+R1	10.1.1.37.5761	A Practical Framework for Demand-Driven Interprocedural Data Flow Analysis
+R1	10.1.1.53.1099	Simple and Effective Link-Time Optimization of Modula-3 Programs
+R1	10.1.1.25.6013	Context-Sensitive Interprocedural Points-to Analysis in the Presence of Function Pointers
+R1	10.1.1.126.2668	Ultra-fast aliasing analysis using CLA: a million lines of C code in a second
+R1	10.1.1.119.2339	Dynamic points-to sets: A comparison with static analyses and potential applications in program understanding and optimization
+R1	10.1.1.25.6331	Efficient Points-To Analysis For Whole-Program Analysis
+R1	10.1.1.44.8082	Using Tracing and Dynamic Slicing to Tune Compilers
+R1	10.1.1.10.8196	Connectivity-Based Garbage Collection
+R1	10.1.1.36.7380	Early Storage Reclamation in a Tracing Garbage Collector
+R1	10.1.1.20.5673	Understanding the Connectivity of Heap Objects
+R1	10.1.1.25.1069	Points-to Analysis for Java Using Annotated Constraints
+R1	10.1.1.27.8855	A Framework for Interprocedural Optimization in the Presence of Dynamic Class Loading
+R1	10.1.1.57.8361	Precise analysis of string expressions
+R1	10.1.1.110.7704	Using inter-procedural side-effect information in JIT optimizations
+R1	10.1.1.50.6566	Flow-Sensitive Interprocedural Constant Propagation
+R1	10.1.1.12.9870	Design, Implementation and Evaluation of Adaptive Recompilation with On-Stack Replacement
+R1	10.1.1.36.6596	Flow-Insensitive Points-to Analysis with Term and Set Constraints
+R1	10.1.1.59.1129	Effective Interprocedural Optimization of Object-Oriented Languages
+R1	10.1.1.394.5756	Escape analysis in the context of dynamic compilation and deoptimization
+R1	10.1.1.14.3325	Data Structure Analysis: An Efficient Context-Sensitive Heap Analysis
+R1	10.1.1.66.6187	Evaluating the precision of static reference analysis using profiling
+R1	10.1.1.143.1457	Reflection analysis for Java
+R1	10.1.1.93.8562	A study of type analysis for speculative method inlining in a JIT environment
+R1	10.1.1.134.824	Refinement-based context-sensitive points-to analysis for Java
+R1	10.1.1.86.2216	A dynamic optimization framework for a Java just-in-time compiler

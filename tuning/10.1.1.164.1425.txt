@@ -1,0 +1,50 @@
+10.1.1.164.1425	2008	Calibrating Distributed Camera Networks
+R1	10.1.1.110.6935	Next century challenges: Scalable coordination in sensor networks
+R1	10.1.1.54.1570	Factor Graphs and the Sum-Product Algorithm
+R1	10.1.1.33.4540	Determining the Epipolar Geometry and its Uncertainty: A Review
+R1	10.1.1.221.2247	Wireless sensor networks: a survey
+R1	10.1.1.5.3526	Calibration of a Multicamera Network
+R1	10.1.1.37.1161	A Factorization Based Algorithm for Multi-Image Projective Structure and Motion
+R1	10.1.1.1.3634	Robust Probabilistic Inference in Distributed Systems
+R1	10.1.1.14.4931	Distinctive Image Features from Scale-Invariant Keypoints
+R1	10.1.1.44.1442	Calibration of an Outdoor Active Camera System
+R1	10.1.1.229.2073	Factorization methods for projective structure and motion
+R1	10.1.1.335.2470	Secure Verification of Location claims
+R1	10.1.1.4.9323	Multi-View Calibration from Planar Motion for Video Surveillance
+R1	10.1.1.67.3055	Wide Area Camera Calibration Using Virtual Calibration Objects
+R1	10.1.1.32.5538	Loopy Belief Propagation for Approximate Inference: An Empirical Study
+R1	10.1.1.100.5507	A PERFORMANCE EVALUATION OF LOCAL DESCRIPTORS
+R1	10.1.1.58.2881	Nonparametric Belief Propagation for Self-Calibration in Sensor Networks
+R1	10.1.1.16.6457	Surviving Dominant Planes in Uncalibrated Structure and Motion Recovery
+R1	10.1.1.1.9896	Recognising Panoramas
+R1	10.1.1.32.2814	Accurate Internal Camera Calibration using Rotation, with Analysis of Sources of Error
+R1	10.1.1.84.9939	Panoptes: Scalable Low-Power Video Sensor Networking Technologies
+R1	10.1.1.124.3167	Multi-image matching using multi-scale oriented patches
+R1	10.1.1.145.7336	A graph–based global registration for 2D mosaics
+R1	10.1.1.157.752	V.: High resolution video mosaicing with global alignment
+R1	10.1.1.30.4009	Robust Video Mosaicing through Topology Inference and Local to Global Alignment
+R1	10.1.1.418.3158	Tracking across multiple cameras with disjoint views
+R1	10.1.1.69.4823	A multifrontal QR factorization approach to distributed inference applied to multi-robot localization and mapping
+R1	10.1.1.105.3973	Distributed detection in sensor networks with packet losses and finite capacity links
+R1	10.1.1.84.4061	Secure Positioning of Wireless Devices with Application to Sensor Networks
+R1	10.1.1.106.9312	Sensor localization and camera calibration in distributed camera sensor networks
+R1	10.1.1.377.1071	LAD: Localization anomaly detection for wireless sensor networks
+R1	10.1.1.13.2226	Scalable Extrinsic Calibration of Omni-Directional Image Networks
+R1	10.1.1.92.3772	Cyclops: In situ image sensing and interpretation in wireless sensor networks
+R1	10.1.1.14.8825	A Low Cost Embedded Color Vision System
+R1	10.1.1.14.8531	Multi View Image Surveillance and Tracking
+R1	10.1.1.187.8887	Self Localizing Smart Camera Networks and their Applications to 3D Modeling
+R1	10.1.1.50.5475	Point Reconstruction from Noisy Images
+R1	10.1.1.132.2220	Distributed localization of networked cameras
+R1	10.1.1.61.239	Topology Inference for a Vision-Based Sensor Network
+R1	10.1.1.116.5005	Simultaneous planning localization, and mapping in a camera sensor network
+R1	10.1.1.64.7021	Approximate Initialization of Camera Sensor Networks ⋆
+R1	10.1.1.120.8406	Snapshot: A Self-Calibration Protocol for Camera Sensor Networks
+R1	10.1.1.117.8918	A Smart Camera Mote Architecture for Distributed Intelligent Surveillance
+R1	10.1.1.123.637	Distributed calibration of smart cameras
+R1	10.1.1.83.8515	Collaborative node localization in surveillance networks using opportunistic target observations
+R1	10.1.1.85.5366	Determining vision graphs for distributed camera networks using feature digests
+R1	10.1.1.136.4361	Complete Calibration of a Multi-camera Network
+R1	10.1.1.124.270	DETERMINING TOPOLOGY IN A DISTRIBUTED CAMERA NETWORK
+R1	10.1.1.125.8913	Calibrating Distributed Camera Networks Using Belief Propagation
+R1	10.1.1.141.3649	Finding Camera Overlap in Large Surveillance Networks

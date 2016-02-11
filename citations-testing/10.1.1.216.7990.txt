@@ -1,0 +1,33 @@
+10.1.1.216.7990	2006	The software model checker BLAST: Applications to software engineering
+R1	10.1.1.44.1668	Efficient Representation and Validation of Proofs
+R1	10.1.1.111.7245	Compositional Model Checking
+R1	10.1.1.29.7274	Model Checking Java Programs Using Java PathFinder
+R1	10.1.1.25.8581	Model Checking for Programming Languages using VeriSoft
+R1	10.1.1.103.5769	Modular verification of software components in C
+R1	10.1.1.29.3872	Bandera: Extracting Finite-state Models from Java Source Code
+R1	10.1.1.18.6621	A System and Language for Building System-Specific, Static Analyses
+R1	10.1.1.122.9788	Korat: Automated testing based on Java predicates
+R1	10.1.1.116.2392	An axiomatic basis for computer programming
+R1	10.1.1.10.1200	Abstractions from Proofs
+R1	10.1.1.152.1345	CCured: Type-Safe Retrofitting of Legacy Code
+R1	10.1.1.114.6315	Cmc: A pragmatic approach to model checking real code
+R1	10.1.1.19.407	Counterexample-guided Abstraction Refinement
+R1	10.1.1.38.5912	Generating Test Data For Branch Coverage
+R1	10.1.1.33.6934	ABCD: Eliminating Array Bounds Checks on Demand
+R1	10.1.1.119.4385	CIL: Intermediate language and tools for analysis and transformation of C programs
+R1	10.1.1.110.1723	Zing: a model checker for concurrent software
+R1	10.1.1.118.4915	Cogent: Accurate theorem proving for program verification
+R1	10.1.1.121.3645	The Verifying Compiler: A Grand Challenge for Computing Research
+R1	10.1.1.1.7716	Design and Implementation of a Special-Purpose Static Program Analyzer for Safety-Critical Real-Time Embedded Software, invited chapter.
+R1	10.1.1.180.9949	DART: Directed automated random testing
+R1	10.1.1.204.7658	Cute: a concolic unit testing engine for c
+R1	10.1.1.407.2795	Data flow testing as model checking
+R1	10.1.1.52.3245	Timing Verification by Successive Approximation
+R1	10.1.1.125.1147	Extreme model checking
+R1	10.1.1.219.7347	P.: F-SOFT: Software verification platform
+R1	10.1.1.205.3511	ESP: Path-Sensitive Program Verification in Polynomial Time
+R1	10.1.1.5.7971	Generating Tests from Counterexamples
+R1	10.1.1.118.7417	Counterexample guided abstraction refinement via program execution
+R1	10.1.1.60.6613	Lazy Shape Analysis
+R1	10.1.1.114.2207	SATABS: SAT-based Predicate Abstraction for ANSI-C
+R1	10.1.1.192.3084	Abstraction refinement with Craig interpolation and symbolic pushdown systems

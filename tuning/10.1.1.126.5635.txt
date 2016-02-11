@@ -1,0 +1,21 @@
+10.1.1.126.5635	2007	Design Alternatives for a High-Performance Self-Securing Ethernet Network Interface
+R1	10.1.1.105.6212	Snort - Lightweight Intrusion Detection for Networks
+R1	10.1.1.14.9115	Implementation of a Content-Scanning Module for an Internet Firewall
+R1	10.1.1.5.9475	Finding and Containing Enemies Within the Walls With Self-Securing Network Interfaces
+R1	10.1.1.3.1059	Microarchitectural Exploration with Liberty
+R1	10.1.1.22.114	EMP: Zero-copy OS-bypass NIC-driven Gigabit Ethernet Message Passing
+R1	10.1.1.108.7791	A fast algorithm for multi-pattern searching
+R1	10.1.1.159.1639	A Framework for Distributed     Intrusion Detection Using      Interest-Driven Cooperating Agents
+R1	10.1.1.128.9833	A High Throughput String Matching Architecture . . .
+R1	10.1.1.87.8972	Spinach: A Liberty-based simulator for programmable network interface architectures
+R1	10.1.1.75.563	Towards software-based signature detection for intrusion prevention on the network card
+R1	10.1.1.15.3248	An Intel IXP1200-based Network Interface
+R1	10.1.1.105.8887	Gigabit rate packet pattern-matching using TCAM
+R1	10.1.1.136.6333	A Methodology for Synthesis of Efficient Intrusion Detection Systems on FPGAs
+R1	10.1.1.14.5521	Increasing Web Server Throughput with Network Interface Data Caching
+R1	10.1.1.161.9331	A Hardware Platform for Network Intrusion Detection and Prevention
+R1	10.1.1.27.4800	Software Support for Outboard Buffering and Checksumming
+R1	10.1.1.220.2085	The irregular Z-buffer: Hardware acceleration for irregular data structures
+R1	10.1.1.123.1302	An Efficient Programmable 10 Gigabit Ethernet Network Interface Card
+R1	10.1.1.15.530	Exploiting Task-level Concurrency in a Programmable Network Interface
+R1	10.1.1.126.5635	Design Alternatives for a High-Performance Self-Securing Ethernet Network Interface

@@ -1,0 +1,44 @@
+10.1.1.140.2007	2006	Learning semantic parsers using statistical syntactic parsing techniques
+R1	10.1.1.1.5684	Text Classification from Labeled and Unlabeled Documents using EM
+R1	10.1.1.120.9821	Conditional random fields: Probabilistic models for segmenting and labeling sequence data
+R1	10.1.1.41.4133	Learning to Parse Natural Language with Maximum Entropy Models
+R1	10.1.1.116.2034	Maximum entropy markov models for information extraction and segmentation
+R1	10.1.1.27.7690	Modern Information Retrieval
+R1	10.1.1.43.7345	Inducing Features of Random Fields
+R1	10.1.1.18.4454	Discriminative Training and Maximum Entropy Models for Statistical Machine Translation
+R1	10.1.1.14.5547	Word Association Norms, Mutual Information, and Lexicography
+R1	10.1.1.17.5411	Statistical Parsing with a Context-free Grammar and Word Statistics
+R1	10.1.1.14.9706	Building a Large Annotated Corpus of English: The Penn Treebank
+R1	10.1.1.105.1244	WordNet: An on-line lexical database
+R1	10.1.1.19.9180	A Maximum-Entropy-Inspired Parser
+R1	10.1.1.129.1472	A statistical approach to machine translation
+R1	10.1.1.16.1955	New Ranking Algorithms for Parsing and Tagging: Kernels over Discrete Structures, and the Voted Perceptron
+R1	10.1.1.178.3401	Introduction to the special issue on word sense disambiguation
+R1	10.1.1.12.3161	Optimizing Search Engines using Clickthrough Data
+R1	10.1.1.14.2343	Stochastic Attribute-Value Grammars
+R1	10.1.1.210.1090	Discriminative Reranking for Natural Language Parsing
+R1	10.1.1.18.8406	Generative Models for Statistical Parsing with Combinatory Categorial Grammar
+R1	10.1.1.15.8542	Parsing the Wall Street Journal using a Lexical-Functional Grammar and Discriminative Estimation Techniques
+R1	10.1.1.16.1532	Ranking Algorithms for Named-Entity Extraction: Boosting and the Voted Perceptron
+R1	10.1.1.12.5489	Estimators for Stochastic "Unification-Based" Grammars*
+R1	10.1.1.128.9399	Introduction to the CoNLL-2004 Shared Task: Semantic Role Labeling
+R1	10.1.1.107.4681	Acquiring word-meaning mappings for natural language interfaces
+R1	10.1.1.54.4241	A Gaussian Prior for Smoothing Maximum Entropy Models
+R1	10.1.1.134.7137	A Comparison of Algorithms for Maximum Entropy Parameter Estimation
+R1	10.1.1.14.8357	Exploiting Diverse Knowledge Sources via Maximum Entropy in Named Entity Recognition
+R1	10.1.1.28.9140	Corpus Variation and Parser Performance
+R1	10.1.1.19.1991	Parameter Estimation for Statistical Parsing Models: Theory and Practice of Distribution-Free Methods
+R1	10.1.1.19.8534	Dynamic Programming for Parsing and Estimation of Stochastic Unification-Based Grammars
+R1	10.1.1.61.3530	Coarse-to-fine n-best parsing and MaxEnt discriminative reranking
+R1	10.1.1.295.3897	Intricacies of Collins’ parsing model
+R1	10.1.1.331.8404	Learning to transform natural to formal languages
+R1	10.1.1.324.4282	Learning to Map Sentences to Logical Form: Structured Classification with Probabilistic Categorial Grammars
+R1	10.1.1.11.1862	Log-Linear Models for Wide-Coverage CCG Parsing
+R1	10.1.1.105.3789	Parsing the WSJ using CCG and log-linear models
+R1	10.1.1.11.197	A Smorgasbord of Features for Statistical Machine Translation
+R1	10.1.1.175.1608	A novel use of statistical parsing to extract information from text
+R1	10.1.1.26.6301	Representation and Inference for Natural language - A First Course in . . .
+R1	10.1.1.59.7784	Introduction to the CoNLL-2005 Shared Task: Semantic Role Labeling
+R1	10.1.1.96.4698	Modern natural language interfaces to databases: Composing statistical parsing with semantic tractability
+R1	10.1.1.125.2492	Guiding a reinforcement learner with natural language advice: Initial results in RoboCup soccer
+R1	10.1.1.74.1090	Solving logic puzzles: From robust processing to precise semantics

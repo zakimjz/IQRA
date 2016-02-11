@@ -1,0 +1,32 @@
+10.1.1.91.4529	2005	Role-based refactoring of crosscutting concerns
+R1	10.1.1.115.8660	Aspect-oriented programming
+R1	10.1.1.132.7232	On the Criteria To Be Used in Decomposing Systems into Modules
+R1	10.1.1.21.5662	An Overview of AspectJ
+R1	10.1.1.2.4634	Design Pattern Implementation in Java and AspectJ
+R1	10.1.1.153.5569	Automatic Code Generation from Design Patterns
+R1	10.1.1.137.156	Using AspectC to improve the modularity of path-specific customization in operating system code
+R1	10.1.1.4.2385	Aspectual Collaborations: Combining Modules And Aspects
+R1	10.1.1.5.5088	Programming with Aspectual Components
+R1	10.1.1.2.3751	Formalising behaviour preserving program transformations
+R1	10.1.1.18.6851	Concern Graphs: Finding and Describing Concerns
+R1	10.1.1.4.3173	Program Restructuring as an Aid to Software Maintenance
+R1	10.1.1.11.2286	Design Pattern Rationale Graphs: Linking Design to Source
+R1	10.1.1.58.3665	Aspect Mining Using Event Traces
+R1	10.1.1.107.3600	A qualitative comparison of three aspect mining techniques
+R1	10.1.1.78.1174	Identifying aspects using fan-in analysis
+R1	10.1.1.332.9272	Advice weaving in AspectJ
+R1	10.1.1.101.7922	An adaptive object model with dynamic role binding
+R1	10.1.1.57.9687	Persistence as an Aspect
+R1	10.1.1.90.4771	Efficiently Refactoring Java Applications to Use Generic Libraries
+R1	10.1.1.91.4529	Role-based refactoring of crosscutting concerns
+R1	10.1.1.104.8741	Towards a Catalog of Aspect-Oriented Refactorings
+R1	10.1.1.129.3413	Converting Java programs to use generic libraries
+R1	10.1.1.1.9132	Aspect Mining and Refactoring
+R1	10.1.1.73.3528	Evolvable Pattern Implementations Need Generic Aspects
+R1	10.1.1.63.9539	Object-to-aspect refactorings for feature extraction
+R1	10.1.1.129.9982	Migrating Interface Implementations to Aspects
+R1	10.1.1.21.5006	Using Metrics to Identify Design Patterns in Object-Oriented Software
+R1	10.1.1.120.3242	Mining Design Patterns from C++ Source Code
+R1	10.1.1.38.5376	Software Design Patterns: Common Questions and Answers
+R1	10.1.1.91.9836	Roles and aspects: similarities, differences, and synergetic potential
+R1	10.1.1.16.7931	Advanced Programming Language Features for Executable Design Patterns "Better Pattern Through Reflection"

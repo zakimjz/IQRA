@@ -1,0 +1,24 @@
+10.1.1.105.6631	2004	Design and implementation of a large-scale context fusion network
+R1	10.1.1.136.6228	TAG: a Tiny AGgregation service for ad-hoc sensor networks
+R1	10.1.1.142.752	Pastry: Scalable, decentralized object location, and routing for large-scale peer-to-peer systems
+R1	10.1.1.12.8387	An Evaluation of Scalable Application-Level Multicast Built Using Peer-to-Peer Overlays
+R1	10.1.1.1.2787	INS/Twine: A Scalable Peer-to-Peer Architecture for Intentional Resource Discovery
+R1	10.1.1.4.3676	eFlow: a Platform for Developing and Managing Composite e-Services
+R1	10.1.1.118.1870	Secure routing for structured peer-to-peer overlay networks
+R1	10.1.1.13.1445	Context Aggregation and Dissemination in Ubiquitous Computing Systems
+R1	10.1.1.13.4534	Context-Sensitive Resource Discovery
+R1	10.1.1.147.2373	Application-controlled loss-tolerant data dissemination
+R1	10.1.1.88.5728	iQueue: A Pervasive Data Composition Framework
+R1	10.1.1.9.5130	A Conceptual Framework and a Toolkit for Supporting the Rapid Prototyping of Context-Aware Applications
+R1	10.1.1.132.8830	The Event Heap: A Coordination Infrastructure for Interactive Workspaces
+R1	10.1.1.110.9916	The click modular router
+R1	10.1.1.147.813	SmartReminder: A Case Study on Context-Sensitive Applications
+R1	10.1.1.12.8703	Load Balancing and Stability Issues in Algorithms for Service Composition
+R1	10.1.1.85.1489	An architecture for highly available wide-area service composition
+R1	10.1.1.147.337	A sensor-fusion approach for meeting detection
+R1	10.1.1.21.3642	Building Efficient Wireless Sensor Networks with Low-Level Naming
+R1	10.1.1.11.2821	StreamIt: A Language for Streaming Applications
+R1	10.1.1.133.2801	Providing Contextual Information to Pervasive Computing Applications
+R1	10.1.1.10.8544	The Effectiveness of Request Redirection on CDN Robustness
+R1	10.1.1.15.485	A System Architecture for Context-Aware Mobile Computing
+R1	10.1.1.147.8312	Composing Pervasive Data Using iQL

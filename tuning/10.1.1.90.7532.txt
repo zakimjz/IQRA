@@ -1,0 +1,23 @@
+10.1.1.90.7532	1997	Open problems of Paul Erdos in Graph Theory
+R1	10.1.1.236.4550	A new series of dense graphs of high girth
+R1	10.1.1.101.2	Compactness results in extremal graph theory
+R1	10.1.1.103.8891	A disproof of a conjecture of Erdős in Ramsey theory
+R1	10.1.1.110.4711	H-factors in dense graphs
+R1	10.1.1.30.435	Threshold functions for H-factors
+R1	10.1.1.210.6106	Problems and results in combinatorial analysis
+R1	10.1.1.17.3939	A Lower Bound for Schur Numbers and Multicolor Ramsey Numbers of K_3
+R1	10.1.1.211.297	ON THE STRUCTURE OF LINEAR GRAPHS
+R1	10.1.1.105.9429	Cube-supersaturated graphs and related problems
+R1	10.1.1.210.8193	Problems and Results on Finite and Infinite Graphs
+R1	10.1.1.106.6586	Subdivided graphs have linear Ramsey numbers
+R1	10.1.1.107.9822	Voigt: Choosability and fractional chromatic numbers
+R1	10.1.1.210.6713	Problems and Results in Graph Theory and Combinatorial Analysis
+R1	10.1.1.210.8918	MORE RESULTS ON RAMSEY-TURAN TYPE PROBLEMS
+R1	10.1.1.300.2787	Intersection Statements for Systems of Sets
+R1	10.1.1.54.6356	A Conjecture of Erdös the Ramsey Number r(W6)
+R1	10.1.1.71.498	On subgraph sizes in random graphs
+R1	10.1.1.210.7507	Extremal Problems in Number Theory, Combinatorics And Geometry
+R1	10.1.1.210.8289	Systems of finite sets having a common intersection
+R1	10.1.1.210.8328	CHROMATIC NUMBER OF FINITE AND INFINITE GRAPHS AND HYPERGRAPHS
+R1	10.1.1.308.3363	A Diamond example of an ordinal graph with no infinite paths
+R1	10.1.1.210.6880	On the product of the point and line covering numbers of a graph

@@ -1,0 +1,21 @@
+10.1.1.23.3665	2000	Evolutionary Computation versus Reinforcement Learning
+R1	10.1.1.107.9127	Planning and acting in partially observable stochastic domains
+R1	10.1.1.17.4565	Algorithms for Sequential Decision Making
+R1	10.1.1.50.7938	On the Length of Programs for Computing Finite Binary Sequences
+R1	10.1.1.187.8212	Emergent hierarchical control structures: Learning reactive/hierarchical relationships in reinforcement environments. In From animals to animats 4
+R1	10.1.1.129.8871	Simple statistical gradient-following algorithms for connectionist reinforcement learning
+R1	10.1.1.41.1514	Learning policies for partially observable environments: Scaling up
+R1	10.1.1.33.2793	Reinforcement Learning Algorithm for Partially Observable Markov Decision Problems
+R1	10.1.1.50.4270	Shifting Inductive Bias with Success-Story Algorithm, Adaptive Levin Search, and Incremental Self-Improvement
+R1	10.1.1.45.2558	Simple Principles Of Metalearning
+R1	10.1.1.38.7792	A General Method for Incremental Self-Improvement and Multi-Agent Learning in Unrestricted Environments
+R1	10.1.1.19.828	The Application Of Algorithmic Probability to Problems in Artificial Intelligence
+R1	10.1.1.51.3073	Learning Sequential Tasks by Incrementally Adding Higher Orders
+R1	10.1.1.45.1412	Reinforcement Learning With Self-Modifying Policies
+R1	10.1.1.132.3061	Finite-sample convergence rates for Q-learning and indirect algorithms
+R1	10.1.1.36.9460	Continual Learning In Reinforcement Environments
+R1	10.1.1.323.9303	Direct policy search and uncertain policy evaluation
+R1	10.1.1.15.9037	The Efficient Learning of Multiple Task Sequences
+R1	10.1.1.165.1514	Improved switching among temporally abstract actions
+R1	10.1.1.55.4551	Neural Subgoal Generation using Backpropagation
+R1	10.1.1.57.5387	Learning To Generate Subgoals For Action Sequences

@@ -1,0 +1,33 @@
+10.1.1.75.1236	2007	Partial Linear Gaussian Models for Tracking in Image Sequences Using Sequential Monte Carlo Methods
+R1	10.1.1.117.1144	A tutorial on particle filters for online nonlinear/non-Gaussian Bayesian tracking
+R1	10.1.1.157.3782	Robust multiresolution estimation of parametric motion models
+R1	10.1.1.135.7147	Good features to track
+R1	10.1.1.6.4265	Robust Online Appearance Models for Visual Tracking
+R1	10.1.1.36.9573	A mixed-state Condensation tracker with automatic model-switching
+R1	10.1.1.51.4205	Mixture Kalman Filters
+R1	10.1.1.119.4856	A gentle tutorial on the EM algorithm and its application to parameter estimation for gaussian mixture and hidden markov models
+R1	10.1.1.56.1897	Sequential Monte Carlo Methods for Dynamic Systems
+R1	10.1.1.322.3984	proposal distributions: Object tracking using unscented particle filter
+R1	10.1.1.110.383	On Sequential Monte Carlo Sampling Methods for Bayesian Filtering
+R1	10.1.1.137.5199	Rao-Blackwellised Particle Filtering for Dynamic Bayesian Networks
+R1	10.1.1.36.1597	Probabilistic Detection and Tracking of Motion Discontinuities
+R1	10.1.1.18.3370	Implicit Probabilistic Models of Human Motion for Synthesis and Tracking Hedvig Sidenblen
+R1	10.1.1.10.2118	Morphable 3D models from video
+R1	10.1.1.10.3138	A Boosted Particle Filter: Multitarget Detection and Tracking
+R1	10.1.1.20.6253	Particle Methods for Bayesian Modeling and Enhancement of Speech Signals
+R1	10.1.1.16.2638	Space-Time Tracking
+R1	10.1.1.304.9085	Data fusion for visual tracking with particles
+R1	10.1.1.72.657	Real-time particle filters
+R1	10.1.1.324.1461	A stochastic filter for fluid motion tracking
+R1	10.1.1.12.9499	Hyperdynamics Importance Sampling
+R1	10.1.1.12.4848	Classification of Human Body Motion
+R1	10.1.1.143.5038	Conditional Filters for Image Sequence Based Tracking -- Application to Point Tracking
+R1	10.1.1.106.1261	Towards improved observation models for visual tracking: selective adaptation
+R1	10.1.1.61.2736	Monte Carlo Filtering for Multi-Target Tracking and Data Association
+R1	10.1.1.11.429	Optimal Importance Sampling for Tracking in Image Sequences: Application to Point Tracking
+R1	10.1.1.110.1022	The Unscented Kalman Filter for nonlinear estimation
+R1	10.1.1.21.694	Occlusion Robust Adaptive Template Tracking
+R1	10.1.1.28.83	Auxiliary Variable Based Particle Filters
+R1	10.1.1.5.7030	A Rao-Blackwellized Particle Filter for EigenTracking
+R1	10.1.1.88.7811	Surface-based registration with a particle filter
+R1	10.1.1.83.9020	Assessing the performance of corner detectors for point feature tracking applications

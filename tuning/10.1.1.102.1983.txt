@@ -1,0 +1,24 @@
+10.1.1.102.1983	2006	Patches as Better Bug Reports
+R1	10.1.1.14.8279	Mining Specifications
+R1	10.1.1.100.6361	Efficiently computing static single assignment form and the control dependence graph
+R1	10.1.1.18.3612	Path Analysis and Renaming for Predicated Instruction Scheduling
+R1	10.1.1.1.5356	From Symptom to Cause: Localizing Errors in Counterexample Traces
+R1	10.1.1.10.547	What Went Wrong: Explaining Counterexamples
+R1	10.1.1.108.9198	A slicing-based approach for locating type errors
+R1	10.1.1.14.7406	Enforcing High-Level Protocols in Low-Level Software
+R1	10.1.1.138.7451	Efficient Path Profiling
+R1	10.1.1.25.123	Detecting Format String Vulnerabilities with Type
+R1	10.1.1.113.9957	Extended Static Checking for Java
+R1	10.1.1.130.2186	Domain-Specific Reasoning: Social Contracts, Cheating, and Perspective Change
+R1	10.1.1.188.8722	Perracotta: mining temporal API rules from imperfect traces
+R1	10.1.1.126.3689	A new foundation for control-dependence and slicing for modern program structures
+R1	10.1.1.100.7966	Synthesis of interface specifications for Java classes
+R1	10.1.1.113.8120	Finding bugs is easy
+R1	10.1.1.188.8206	Explaining abstract counterexamples
+R1	10.1.1.43.4865	Bandera: A Source-level Interface for Model Checking Java Programs
+R1	10.1.1.189.13	Correlation exploitation in error ranking
+R1	10.1.1.3.3930	Z-Ranking: Using Statistical Analysis to Counter the Impact of Static Analysis Approximations
+R1	10.1.1.119.684	Generating error traces from verification-condition counterexamples
+R1	10.1.1.188.9374	PSE: Explaining program failures via postmortem static analysis
+R1	10.1.1.205.3511	ESP: Path-Sensitive Program Verification in Polynomial Time
+R1	10.1.1.45.5988	Efficient Generation of Counterexamples and Witnesses in Symbolic Model Checking

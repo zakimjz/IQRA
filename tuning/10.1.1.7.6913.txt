@@ -1,0 +1,27 @@
+10.1.1.7.6913	2002	Scalable Techniques for Memory-efficient CDN Simulations
+R1	10.1.1.12.2253	Web Caching and Zipf-like Distributions: Evidence and Implications
+R1	10.1.1.30.7285	Cost-Aware WWW Proxy Caching Algorithms
+R1	10.1.1.20.2080	Space/Time Trade-offs in Hash Coding with Allowable Errors
+R1	10.1.1.153.5656	Summary cache: A scalable wide-area web cache sharing protocol
+R1	10.1.1.41.6586	Web Server Workload Characterization: The Search for Invariants (Extended Version)
+R1	10.1.1.120.5	Cooperative Caching: Using Remote Client Memory to Improve File System Performance
+R1	10.1.1.21.1584	A Hierarchical Internet Object Cache
+R1	10.1.1.21.7565	Compressed Bloom Filters
+R1	10.1.1.41.3200	Time-stepped Hybrid Simulation (TSHS) For Large Scale Networks
+R1	10.1.1.140.2102	Beyond hierarchies: Design considerations for distributed caching on the internet
+R1	10.1.1.160.5575	On the scale and performance of cooperative Web proxy caching
+R1	10.1.1.15.6353	Volume Leases for Consistency in Large-Scale Systems
+R1	10.1.1.183.5172	Enabling large-scale simulations: selective abstraction approach to the study of multicast protocols
+R1	10.1.1.36.6661	The Measured Access Characteristics of World-Wide-Web Client Proxy Caches
+R1	10.1.1.35.4261	World-Wide Web Cache Consistency
+R1	10.1.1.24.3596	Using Leases to Support Server-Driven Consistency in Large-Scale Systems
+R1	10.1.1.35.2012	Removal Policies in Network Caches for World-Wide Web Documents
+R1	10.1.1.114.9509	A study of networks simulation efficiency: Fluid simulation vs. packet-level simulation
+R1	10.1.1.49.3935	Proxy Cache Coherency and Replacement-Towards a More Complete Picture
+R1	10.1.1.41.5053	Adaptive Leases: A Strong Consistency Mechanism for the World Wide Web
+R1	10.1.1.24.6357	Coarse-Grained Network Simulation for Wide-Area Distributed Systems
+R1	10.1.1.41.1745	Hierarchical Cache Consistency in a WAN
+R1	10.1.1.57.7976	Cooperative Leases: Scalable Consistency Maintenance in Content Distribution Networks
+R1	10.1.1.22.8800	Efficient Cooperative Caching using Hints
+R1	10.1.1.38.1726	An Investigation Of Out-Of-Core Parallel Discrete-Event Simulation
+R1	10.1.1.7.6913	Scalable Techniques for Memory-efficient CDN Simulations

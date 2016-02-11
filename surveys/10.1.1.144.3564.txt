@@ -1,0 +1,46 @@
+10.1.1.144.3564	2008	Fitness functions in evolutionary robotics: A survey and analysis
+R1	10.1.1.318.1154	Robotic mapping: A survey
+R1	10.1.1.26.1865	The Ant System: Optimization by a colony of cooperating agents
+R1	10.1.1.14.755	ALLIANCE: An Architecture for Fault Tolerant Multi-Robot Cooperation
+R1	10.1.1.12.6377	Incremental Evolution of Complex General Behavior
+R1	10.1.1.30.5678	Co-evolving predator and prey robots: Do `arms races' arise in artificial evolution?
+R1	10.1.1.40.2548	Bayesian Landmark Learning for Mobile Robot Localization
+R1	10.1.1.49.722	Mobile robot miniaturization: A tool for investigation in control algorithms.
+R1	10.1.1.57.1285	Generating Adaptive Behavior using Function Regression within Genetic Programming and a Real Robot
+R1	10.1.1.153.9160	Evolution of Homing Navigation in a Real Mobile Robot
+R1	10.1.1.39.9871	Challenges in Evolving Controllers for Physical Robots
+R1	10.1.1.33.3131	Evolving non-Trivial Behaviors on Real Robots: an Autonomous Robot that Picks up Objects
+R1	10.1.1.26.4586	A Hybrid GP/GA Approach for Co-evolving Controllers and Robot Bodies to Achieve Fitness-Specified Tasks
+R1	10.1.1.10.4574	Incremental Evolution of Autonomous Controllers for Unmanned Aerial Vehicles using Multi-objective Genetic Programming
+R1	10.1.1.26.3018	Applying Genetic Programming to Evolve Behavior Primitives and Arbitrators for Mobile Robots
+R1	10.1.1.10.9506	Learning by Observation with Mobile Robots: A Computational Approach
+R1	10.1.1.12.254	Evolving Mobile Robots Able to Display Collective Behaviours
+R1	10.1.1.3.1010	Evolving Self-Organizing Behaviors for a Swarm-bot
+R1	10.1.1.49.7177	Co-evolution of Pursuit and Evasion II: Simulation Methods and Results
+R1	10.1.1.145.7009	Autonomous self-assembly in swarmbots
+R1	10.1.1.54.1211	Evolution of a World Model for a Miniature Robot using Genetic Programming
+R1	10.1.1.3.3791	Maze Exploration Behaviors Using An Integrated Evolutionary Robotics Environment
+R1	10.1.1.95.7729	Fitness landscapes and evolvability
+R1	10.1.1.219.5850	Cyclic Genetic Algorithms for Evolving Multi-Loop Control
+R1	10.1.1.105.4560	Evolving controllers for real robots: A survey of the literature
+R1	10.1.1.122.7150	Active Vision and Feature Selection in Evolutionary Behavioral Systems
+R1	10.1.1.11.8547	Physically Embedded Genetic Algorithm Learning in Multi-Robot Scenarios: The PEGA algorithm
+R1	10.1.1.1.2878	Enabling Learning From Large Datasets: Applying Active Learning to Mobile Robotics
+R1	10.1.1.108.3434	Autonomous evolution of dynamic gaits with two quadruped robots
+R1	10.1.1.12.3977	Using Genetic Algorithms to Capture Behavioral Traits Exhibited by Knowledge Based Robot Agents
+R1	10.1.1.41.3613	Incremental Evolution of Neural Controllers for Navigation in a 6-legged Robot
+R1	10.1.1.17.4038	Evolutionary Learning of a Fuzzy Control Rule Base for an Autonomous Vehicle
+R1	10.1.1.17.8372	Towards a General Measure of Skill for Learning Robots
+R1	10.1.1.18.5914	Evolving Team Behaviour for Real Robots.
+R1	10.1.1.21.6966	Evolving Brain Structures for Robot Control
+R1	10.1.1.37.7668	Fitness Functions for Evolving Box-Pushing Behaviour
+R1	10.1.1.3.4960	GA-based Learning in Behaviour Based Robotics
+R1	10.1.1.6.2127	Evolution of Efficient Gait with an Autonomous Biped Robot using Visual Feedback.
+R1	10.1.1.6.3232	Predation: an Approach to Improving the Evolution of Real Robots with a Distributed Evolutionary Controller
+R1	10.1.1.66.6088	Crawling out of the simulation: Evolving real robot morphologies using cheap reusable modules
+R1	10.1.1.1.6407	An Evolutionary Approach to Gait Learning for Four-Legged Robots
+R1	10.1.1.141.6797	Robustness analysis of genetic programming controllers for unmanned aerial vehicles
+R1	10.1.1.4.5593	A Colony of Robots Using Vision Sensing and Evolved Neural Controllers
+R1	10.1.1.138.3793	Transference of evolved unmanned aerial vehicle controllers to a wheeled mobile robot
+R1	10.1.1.26.6322	Trends In Evolutionary Robotics
+R1	10.1.1.157.7978	Aggregate selection in evolutionary robotics

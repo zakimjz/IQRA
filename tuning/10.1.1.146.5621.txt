@@ -1,0 +1,21 @@
+10.1.1.146.5621	2005	Personalization, verification and conformance for logic-based communicating agents
+R1	10.1.1.125.3310	KQML as an agent communication language
+R1	10.1.1.43.7263	Fast Planning Through Planning Graph Analysis
+R1	10.1.1.11.6771	Semantic Web Services as Agent Behaviors
+R1	10.1.1.14.4147	Protocol Conformance for Logic-based Agents
+R1	10.1.1.10.9380	Tool Support for Verifying UML Activity Diagrams
+R1	10.1.1.104.6682	Programming Rational Agents in a Modal Action Logic
+R1	10.1.1.374.4236	Verifying protocol conformance for logic-based communicating agents
+R1	10.1.1.95.4758	Verification and Compliance Testing
+R1	10.1.1.102.252	Integrating tuProlog into DCaseLP to engineer heterogeneous agent systems
+R1	10.1.1.14.5345	From Requirement Specification to Prototype Execution: a Combination of a Multiview Use-Case Driven Method and Agent-Oriented Techniques
+R1	10.1.1.374.1301	Reasoning about agents’ interaction protocols inside DCaseLP
+R1	10.1.1.63.7460	Reasoning about interaction protocols for web service composition
+R1	10.1.1.212.4462	Specification and verification of agent interaction using social integrity constraints
+R1	10.1.1.103.4352	Reasoning about learning object metadata for adapting scorm courseware
+R1	10.1.1.374.5450	Reasoning about self and others: communicating agents in a modal action logic
+R1	10.1.1.2.9357	Customizing AOSE Methodologies by Reusing AOSE Features
+R1	10.1.1.61.266	Designing and Implementing Electronic Auctions in a Multiagent System Environment
+R1	10.1.1.110.9324	Choreography and Orchestration: a synergic approach for system design
+R1	10.1.1.11.9620	Agent-Based Composite Services in DAML-S: The Behavior-Oriented Design of an Intelligent Semantic Web
+R1	10.1.1.374.2879	Reasoning about interaction protocols for customizing web service selection and composition

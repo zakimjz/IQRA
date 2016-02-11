@@ -1,0 +1,22 @@
+10.1.1.146.4439	2006	Allowing state changes in specifications
+R1	10.1.1.22.4574	Object Ownership and Containment
+R1	10.1.1.110.5405	Encapsulating Objects with Confined Types
+R1	10.1.1.30.5600	The Geneva Convention -- On The Treatment of Object Aliasing
+R1	10.1.1.10.4654	Verification of Object-Oriented Programs with Invariants
+R1	10.1.1.146.1526	Object Invariants in Dynamic Contexts
+R1	10.1.1.10.3979	Language-Based Information-Flow Security
+R1	10.1.1.2.1684	JFlow: Practical Mostly-Static Information Flow Control
+R1	10.1.1.59.6498	Ownership, Encapsulation and the Disjointness of Type and Effect
+R1	10.1.1.101.441	Information flow inference for ML
+R1	10.1.1.33.5270	A Core Calculus of Dependency
+R1	10.1.1.3.1063	Stack-based Access Control and Secure Information Flow
+R1	10.1.1.10.7673	Modular and Constraint-based Information Flow Inference for an Object-oriented Language
+R1	10.1.1.1.6054	A Combined Pointer and Purity Analysis for Java Programs
+R1	10.1.1.11.2133	The Spec# Programming System: An Overview
+R1	10.1.1.146.4192	Runtime verification of   .NET contracts
+R1	10.1.1.129.1448	Deriving an information flow checker and certifying compiler for java
+R1	10.1.1.72.3429	99.44% pure: Useful abstractions in specifications
+R1	10.1.1.127.8501	Observational Purity and Encapsulation
+R1	10.1.1.158.7876	A logic for information flow in objectoriented programs
+R1	10.1.1.150.5692	State based ownership, reentrance, and encapsulation
+R1	10.1.1.146.4439	Allowing state changes in specifications

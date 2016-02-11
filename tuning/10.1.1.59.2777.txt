@@ -1,0 +1,24 @@
+10.1.1.59.2777	2005	Cluster Sampling and its Applications to Segmentation, Stereo and Motion
+R1	10.1.1.123.7607	Optimization by simulated annealing
+R1	10.1.1.112.6806	Fast approximate energy minimization via graph cuts
+R1	10.1.1.214.8532	An optimal graph theoretic approach to data clustering: Theory and its application to image segmentation
+R1	10.1.1.14.3601	Normalized Cuts and Image Segmentation
+R1	10.1.1.129.7150	Graph Partition by Swendsen-Wang Cuts
+R1	10.1.1.127.3572	A taxonomy and evaluation of dense two-frame stereo correspondence algorithms
+R1	10.1.1.40.4349	A Maximum-Flow Formulation of the N-camera Stereo Correspondence Problem
+R1	10.1.1.129.2941	A database of human segmented natural images and its application to evaluating segmentation algorithms and measuring ecological statistics
+R1	10.1.1.30.1039	A Pixel Dissimilarity Measure That Is Insensitive to Image Sampling
+R1	10.1.1.221.2039	Stereo matching using belief propagation
+R1	10.1.1.27.1022	Exact Sampling with Coupled Markov Chains and Applications to Statistical Mechanics
+R1	10.1.1.56.3010	Auxiliary Variable Methods for Markov Chain Monte Carlo with Applications
+R1	10.1.1.130.3511	Pairwise data clustering by deterministic annealing
+R1	10.1.1.19.8077	Generalized Belief Propagation
+R1	10.1.1.10.9519	Comparison of Graph Cuts with Belief Propagation for Stereo, Using Identical MRF Parameters
+R1	10.1.1.18.8049	Probabilistic Detection and Tracking of Motion Boundaries
+R1	10.1.1.48.4242	Estimating Optical Flow in Segmented Images using Variable-order Parametric Models with Local Deformations
+R1	10.1.1.130.1154	Surfaces with occlusions from layered stereo
+R1	10.1.1.126.6857	High-accuracy stereo depth maps using structured light
+R1	10.1.1.160.8076	Perceptual organization of occluding contours of opaque surfaces
+R1	10.1.1.163.7299	The Swendsen-Wang process does not always mix rapidly
+R1	10.1.1.37.3071	Unsupervised Segmentation of Images
+R1	10.1.1.61.5912	A Differential Geometrical Model for Contour-Based Stereo Correspondence

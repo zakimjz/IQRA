@@ -1,0 +1,21 @@
+10.1.1.184.476	2009	Large Scale Visual Navigation and Community Map Building
+R1	10.1.1.133.4884	Maximum likelihood from incomplete data via the EM algorithm
+R1	10.1.1.128.4967	Active Appearance Models
+R1	10.1.1.117.6808	An Introduction to the Kalman Filter
+R1	10.1.1.169.3957	A Mathematical Introduction to Robotic Manipulation
+R1	10.1.1.10.2281	Multi-Resolution Real-Time Stereo on Commodity Graphics Hardware
+R1	10.1.1.14.4931	Distinctive Image Features from Scale-Invariant Keypoints
+R1	10.1.1.107.8630	Image Inpainting
+R1	10.1.1.1.6285	Constructing and Fitting Active Appearance Models with Occlusion
+R1	10.1.1.19.783	A Framework for Robust Subspace Learning
+R1	10.1.1.54.23	Gauge Invariance in Projective 3D Reconstruction
+R1	10.1.1.106.1724	Augmenting inertial navigation with image-based motion estimation
+R1	10.1.1.118.6143	Player 2.0: Toward a practical robot programming framework
+R1	10.1.1.91.5767	Visual odometry for ground vehicle applications
+R1	10.1.1.201.4225	Gool. “Fast wide baseline matching for visual navigation
+R1	10.1.1.42.9610	A Differential Geometric Approach to Nonlinear Filtering: The Projection Filter
+R1	10.1.1.62.1173	Real-Time SLAM Relocalisation
+R1	10.1.1.125.2169	A multi-state constraint kalman filter for vision-aided inertial navigation
+R1	10.1.1.141.6056	Monocular SLAM as a Graph of Coalesced Observations
+R1	10.1.1.422.790	Vision-based global localization using a visual vocabulary
+R1	10.1.1.156.8644	A Dual-Layer Estimator Architecture for Long-term Localization

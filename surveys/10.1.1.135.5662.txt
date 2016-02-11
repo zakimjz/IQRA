@@ -1,0 +1,59 @@
+10.1.1.135.5662	2007	Wireless sensor network security: A survey
+R1	10.1.1.110.6935	Next century challenges: Scalable coordination in sensor networks
+R1	10.1.1.112.2772	GPSR: Greedy perimeter stateless routing for wireless networks
+R1	10.1.1.15.1862	Routing with Guaranteed Delivery in ad hoc Wireless Networks
+R1	10.1.1.206.2669	Random key predistribution schemes for sensor networks
+R1	10.1.1.19.9193	A Key-Management Scheme for Distributed Sensor Networks
+R1	10.1.1.136.6228	TAG: a Tiny AGgregation service for ad-hoc sensor networks
+R1	10.1.1.29.7028	Low Cost Attacks on Tamper Resistant Devices
+R1	10.1.1.106.9259	DOS-resistant authentication with client puzzles
+R1	10.1.1.113.4100	Packet Leashes: A Defense against Wormhole Attacks in Wireless Ad Hoc Networks
+R1	10.1.1.118.9511	Secure Routing for Mobile Ad hoc Networks
+R1	10.1.1.13.1596	SPINS: Security Protocols for Sensor Networks
+R1	10.1.1.23.7000	Tamper Resistance -- a Cautionary Note
+R1	10.1.1.21.7631	The Cricket Location-Support System
+R1	10.1.1.1.3275	Secure Routing in Wireless Sensor Networks: Attacks and Countermeasures
+R1	10.1.1.60.1724	Establishing Pairwise Keys in Distributed Sensor Networks
+R1	10.1.1.418.8730	Concepts for personal location privacy policies
+R1	10.1.1.306.7070	Preserving privacy in environments with location-based applications
+R1	10.1.1.132.956	Design principles for Tamper-Resistant Smartcard Processors
+R1	10.1.1.115.1445	Anonymous usage of location-based services through spatial and temporal cloaking
+R1	10.1.1.335.2470	Secure Verification of Location claims
+R1	10.1.1.10.1226	SIA: Secure Information Aggregation in Sensor Networks
+R1	10.1.1.12.9420	Secure Aggregation for Wireless Networks
+R1	10.1.1.24.791	Location Sensing and Privacy in a Context Aware Computing Environment
+R1	10.1.1.9.9132	Fast Authenticated Key Establishment Protocols for Self-Organizing Sensor Networks
+R1	10.1.1.6.194	SWATT: SoftWare-based ATTestation for Embedded Devices
+R1	10.1.1.2.3745	A Public-Key Infrastructure for Key Distribution in TinyOS Based on Elliptic Curve Cryptography
+R1	10.1.1.329.9382	Tinysec: A link layer security architecture for wireless sensor networks
+R1	10.1.1.132.7343	Medians and Beyond: New Aggregation Techniques for Sensor Networks
+R1	10.1.1.124.5360	A survey of key management for secure group communication
+R1	10.1.1.134.8146	Node compromise in sensor networks: The need for secure systems
+R1	10.1.1.135.7144	Using Directional Antennas to Prevent Wormhole Attacks
+R1	10.1.1.110.5504	Distributed detection of node replication attacks in sensor networks
+R1	10.1.1.125.4610	LEAP: Efficient Security Mechanisms for Large-scale Distributed Sensor Networks
+R1	10.1.1.101.3403	Privacy-aware location sensor networks
+R1	10.1.1.304.9121	Privacy and security in library RFID: issues, practices, and architectures
+R1	10.1.1.3.1233	The Sybil Attack in Sensor Networks: Analysis & Defenses
+R1	10.1.1.58.3114	LKHW: A Directed Diffusion-Based Secure Multicast Scheme for Wireless Sensor Networks
+R1	10.1.1.136.7636	Reputation-based framework for high integrity sensor networks
+R1	10.1.1.224.8191	Framework for security and privacy in automotive telematics
+R1	10.1.1.135.5279	PIKE: Peer intermediaries for key establishment in sensor networks
+R1	10.1.1.101.7772	Public key cryptography in sensor networks - revisited
+R1	10.1.1.88.6742	Tinypk: securing sensor networks with public key technology
+R1	10.1.1.220.5860	Energy-aware secure multicast communication in ad-hoc networks using geographic location information
+R1	10.1.1.103.9855	Security in Ad Hoc Networks: a General Intrusion Detection Architecture Enhancing Trust Based Approaches
+R1	10.1.1.85.8733	Secure time synchronization service for sensor networks
+R1	10.1.1.4.4041	Statistical En-route Detection and Filtering of Injected False Data in Sensor Networks
+R1	10.1.1.158.5549	Visualization of Wormholes in Sensor Networks
+R1	10.1.1.196.9791	Trust evaluation based security solution in ad hoc networks
+R1	10.1.1.11.53	Survey and Benchmark of Block Ciphers for Wireless Sensor Networks
+R1	10.1.1.138.7586	Source-Location Privacy in Energy-Constrained Sensor Network Routing
+R1	10.1.1.9.7329	Location-centric Isolation of Misbehavior and Trust Routing in Energy-constrained Sensor Networks
+R1	10.1.1.75.2667	Enforcing cooperative resource sharing in untrusted peer-to-peer environment
+R1	10.1.1.120.1022	Multilevel µTESLA: Broadcast authentication for distributed sensor networks
+R1	10.1.1.160.2844	Secure positioning in wireless networks
+R1	10.1.1.114.430	Poster abstract secure locations: routing on trust and isolating compromised sensors in location-aware sensor networks
+R1	10.1.1.129.9340	Lifetime optimization of sensor networks under physical attacks
+R1	10.1.1.135.3316	Search-based physical attacks in sensor networks: Modeling and defense
+R1	10.1.1.113.5124	Sensor network configuration under physical attacks

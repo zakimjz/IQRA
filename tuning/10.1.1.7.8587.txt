@@ -1,0 +1,22 @@
+10.1.1.7.8587	2001	Subdivision Surfaces - Can they be Useful for Geometric Modeling Applications?
+R1	10.1.1.20.7426	Exact Evaluation Of Catmull-Clark Subdivision Surfaces At Arbitrary Parameter Values
+R1	10.1.1.119.8894	Interpolating Subdivision for Meshes with Arbitrary Topology
+R1	10.1.1.1.3564	Multiresolution Analysis of Arbitrary Meshes
+R1	10.1.1.16.385	Subdivision Surfaces: A New Paradigm For Thin-Shell Finite-Element Analysis
+R1	10.1.1.133.8925	A Butterfly Subdivision Scheme for Surface Interpolation with Tension Control
+R1	10.1.1.22.3337	Efficient, Fair Interpolation using Catmull-Clark Surfaces
+R1	10.1.1.55.6750	Dynamic Smooth Subdivision Surfaces for Data Visualization
+R1	10.1.1.144.2594	A Unified Framework for Primal/Dual Quadrilateral Subdivision Schemes
+R1	10.1.1.40.3601	A Variational Approach to Subdivision
+R1	10.1.1.17.4874	Piecewise Smooth Subdivision Surfaces with Normal Control
+R1	10.1.1.101.1095	Reconstructing surfaces and functions on surfaces from unorganized 3d data
+R1	10.1.1.21.1882	Iterative Mesh Generation for FE-Computations on Free Form Surfaces
+R1	10.1.1.33.1310	The Simplest Subdivision Scheme for Smoothing Polyhedra
+R1	10.1.1.33.4610	Curvature Continuous Spline Surfaces Over Irregular Meshes
+R1	10.1.1.16.703	Curvature Integrability of Subdivision Surfaces
+R1	10.1.1.24.5948	Approximation Properties of Subdivision Surfaces
+R1	10.1.1.51.8836	Improved Triangular Subdivision Schemes
+R1	10.1.1.25.1605	What is the Natural Generalization of Univariate Splines to Higher Dimensions?
+R1	10.1.1.52.8683	C k Continuity of Subdivision Surfaces
+R1	10.1.1.360.5842	Non-uniform recursive subdivision surfaces
+R1	10.1.1.30.3245	A G¹ and a G²-subdivision scheme for triangular nets

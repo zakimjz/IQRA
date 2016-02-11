@@ -1,0 +1,22 @@
+10.1.1.224.8919	2011	Taint-Exchange: A Generic System for Cross-process and Cross-host Taint Tracking
+R1	10.1.1.157.6588	Xen and the art of virtualization
+R1	10.1.1.124.341	Secure Program Execution via Dynamic Information Flow Tracking
+R1	10.1.1.60.21	Minos: Control Data Attack Prevention Orthogonal to Memory Model
+R1	10.1.1.307.8389	Dynamic taint analysis for automatic detection, analysis, and signature generation of exploits on commodity software
+R1	10.1.1.159.5115	Pin: building customized program analysis tools with dynamic instrumentation
+R1	10.1.1.193.3956	Valgrind: A framework for heavyweight dynamic binary instrumentation
+R1	10.1.1.136.3857	Practical taint-based protection using demand emulation
+R1	10.1.1.82.567	Argos: an emulator for fingerprinting zero-day attacks
+R1	10.1.1.329.4524	Taint-enhanced policy enforcement: A practical approach to defeat a wide range of attacks
+R1	10.1.1.132.2287	Understanding data lifetime via whole system simulation
+R1	10.1.1.112.9767	Dytan: A Generic Dynamic Taint Analysis Framework
+R1	10.1.1.114.8224	Panorama: Capturing system-wide information flow for malware detection and analysis
+R1	10.1.1.126.4066	Understanding and Visualizing Full Systems with Data Flow Tomography
+R1	10.1.1.144.3212	Real-World Buffer Overflow Protection for Userspace & Kernelspace
+R1	10.1.1.146.3111	Pointless Tainting? Evaluating the Practicality of Pointer Tainting
+R1	10.1.1.162.231	Neon: System Support for Derived Data Management
+R1	10.1.1.169.7866	TaintScope: A Checksum-Aware Directed Fuzzing Tool for Automatic Software Vulnerability Detection
+R1	10.1.1.172.6919	DBTaint: Cross-Application Information Flow Tracking via Databases ∗
+R1	10.1.1.179.3303	TaintDroid: An Information-Flow Tracking System for Realtime Privacy Monitoring on Smartphones
+R1	10.1.1.397.2027	Automating configuration troubleshooting with dynamic information flow analysis
+R1	10.1.1.259.8790	TaintEraser: Protecting Sensitive Data Leaks Using Application-Level Taint Tracking

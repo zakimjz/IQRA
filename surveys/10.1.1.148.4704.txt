@@ -1,0 +1,56 @@
+10.1.1.148.4704	2007	Ontology change: classification and survey
+R1	10.1.1.11.1013	OilEd: a Reason-able Ontology Editor for the Semantic Web
+R1	10.1.1.101.7493	A translation approach to portable ontology specifications
+R1	10.1.1.21.2398	Dynamic Ontologies on the Web
+R1	10.1.1.17.4650	Generic Schema Matching with Cupid
+R1	10.1.1.122.3207	Toward Principles for the Design of Ontologies Used for Knowledge Sharing
+R1	10.1.1.29.1776	Formal Ontology and Information Systems
+R1	10.1.1.18.2129	The knowledge model of Protege-2000: combining interoperability and flexibility
+R1	10.1.1.130.6695	An Infrastructure for Searching, Reusing and Evolving Distributed Ontologies
+R1	10.1.1.100.6388	User-driven ontology evolution management
+R1	10.1.1.135.2192	Similarity Flooding: A Versatile Graph Matching Algorithm and Its Application to Schema Matching
+R1	10.1.1.118.9134	Ontology-based Web agents
+R1	10.1.1.37.1817	The Use of CARIN Language And Algorithms For Information Integration: The PICSEL System
+R1	10.1.1.43.6350	Coping with Changing Ontologies in a Distributed Environment
+R1	10.1.1.26.2661	On the Difference between Updating a Knowledge Base and Revising it
+R1	10.1.1.18.5755	PROMPT: Algorithm and Tool for Automated Ontology Merging and Alignment
+R1	10.1.1.6.1044	OntoEdit: Multifaceted Inferencing for Ontology Engineering
+R1	10.1.1.12.7222	Ontology Evolution: Not the Same as Schema Evolution
+R1	10.1.1.19.7241	A Semantic Approach for Schema Evolution and Versioning In Object-Oriented Databases
+R1	10.1.1.18.3346	SMART: Automated Support for Ontology Merging and Alignment
+R1	10.1.1.21.5125	Ontology versioning on the Semantic Web
+R1	10.1.1.18.3661	PROMPTDIFF: A Fixed-Point Algorithm for Comparing Ontology Versions
+R1	10.1.1.35.371	Formalising Ontologies and Their Relations
+R1	10.1.1.10.7967	The PROMPT Suite: Interactive Tools for Ontology Merging and Mapping
+R1	10.1.1.103.5318	Updating description logic aboxes
+R1	10.1.1.100.2602	Knowledge Integration for Description Logics
+R1	10.1.1.103.1282	Finding maximally satisfiable terminologies for the description logic ALC
+R1	10.1.1.100.2253	Discovering missing background knowledge in ontology matching
+R1	10.1.1.103.7806	A Large Scale Taxonomy Mapping Evaluation
+R1	10.1.1.102.3578	A classification  of schema-based matching approaches
+R1	10.1.1.134.3677	Learning Source Descriptions for Data Integration
+R1	10.1.1.102.1252	Tracking Changes During Ontology Evolution
+R1	10.1.1.100.7129	Ontology Evolution Analysis with OWL-MeT
+R1	10.1.1.78.6740	Reasoning with Multi-Version Ontologies: A Temporal Logic Approach
+R1	10.1.1.13.8086	A Component-Based Framework For Ontology Evolution
+R1	10.1.1.106.852	H.: A study in empirical and casuistic analysis of ontology mapping results
+R1	10.1.1.101.1068	Mapping Language for Information Integration
+R1	10.1.1.332.4925	An Algorithm for Merging and Aligning Ontologies: : Automation and Tool Support
+R1	10.1.1.405.5016	Bootstrapping ontology alignment methods with apfel
+R1	10.1.1.63.4367	Generalizing the AGM Postulates: Preliminary Results and Applications
+R1	10.1.1.102.9905	TAMBIS: transparent access to multiple bioinformatics information sources
+R1	10.1.1.177.3078	Debugging OWL-DL Ontologies: A Heuristic Approach
+R1	10.1.1.109.6288	Formal Model for Ontology Mapping Creation
+R1	10.1.1.106.2644	Block matching for ontologies
+R1	10.1.1.104.3170	A Stratification-based Approach for Inconsistency Handling in Description Logics
+R1	10.1.1.139.1948	A Revision-Based Approach for Handling Inconsistency in Description Logics
+R1	10.1.1.104.5305	A fine-grained approach to resolving unsatisfiable ontologies
+R1	10.1.1.122.3201	A Bayesian Network Approach to Ontology Mapping
+R1	10.1.1.14.6696	Preliminary Evaluation Of Schema Matching Systems
+R1	10.1.1.109.2313	A String Metric for Ontology Alignment
+R1	10.1.1.106.3290	A Framework for Ontology Evolution in Collaborative Environments
+R1	10.1.1.107.6221	Knowledge base revision in description logics
+R1	10.1.1.81.169	Handling Ontology Change: Survey and Proposal for a Future Research Direction
+R1	10.1.1.156.2199	On rdf/s ontology evolution
+R1	10.1.1.63.3275	A Classification of Ontology Change
+R1	10.1.1.98.8619	(SEMANTIC WEB) EVOLUTION THROUGH CHANGE LOGS: PROBLEMS AND SOLUTIONS

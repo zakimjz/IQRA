@@ -1,0 +1,23 @@
+10.1.1.11.53	2004	Survey and Benchmark of Block Ciphers for Wireless Sensor Networks
+R1	10.1.1.133.1420	The RC5 Encryption Algorithm
+R1	10.1.1.13.1596	SPINS: Security Protocols for Sensor Networks
+R1	10.1.1.1.3275	Secure Routing in Wireless Sensor Networks: Attacks and Countermeasures
+R1	10.1.1.35.9276	The Block Cipher SQUARE
+R1	10.1.1.1.7836	A Timing Attack on RC5
+R1	10.1.1.58.692	Denial of Service via Algorithmic Complexity Attacks
+R1	10.1.1.28.4921	A simple algebraic representation of Rijndael
+R1	10.1.1.20.6154	Integral Cryptanalysis
+R1	10.1.1.134.7839	Cryptanalysis of block ciphers with overdefined systems of equations
+R1	10.1.1.133.484	Essential algebraic structure within the AES
+R1	10.1.1.107.9951	A Statistical Attack on RC6
+R1	10.1.1.19.6862	Assessing Security-Critical Energy-Efficient Sensor Networks
+R1	10.1.1.20.3217	On Communication Security in Wireless Ad-Hoc Sensor Networks
+R1	10.1.1.120.7480	Provable security of KASUMI and 3GPP encryption mode f8
+R1	10.1.1.105.323	On the security of Camellia against the square attack
+R1	10.1.1.128.6054	Security of Reduced Version of the Block Cipher Camellia against Truncated and Impossible Differential Cryptanalysis
+R1	10.1.1.105.864	Multiple linear cryptanalysis of a reduced round RC6. FSE
+R1	10.1.1.31.2917	Correlation Attack to the Block Cipher RC5 and the Simplified Variants of RC6
+R1	10.1.1.15.9966	Improved Impossible Differential Cryptanalysis of Rijndael and Crypton
+R1	10.1.1.20.1	On Some Algebraic Structures in the AES Round Function
+R1	10.1.1.124.8952	Cryptanalysis of Reduced-Round MISTY
+R1	10.1.1.127.7433	Improved Cryptanalysis of MISTY1

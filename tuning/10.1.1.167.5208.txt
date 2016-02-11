@@ -1,0 +1,21 @@
+10.1.1.167.5208	2010	Topological mesh operators
+R1	10.1.1.153.3865	Progressive Meshes
+R1	10.1.1.21.1887	A Signal Processing Approach To Fair Surface Design
+R1	10.1.1.10.1529	Geometric Compression through Topological Surgery
+R1	10.1.1.127.6527	LEDA: A Platform for Combinatorial and Geometric Computing
+R1	10.1.1.153.2138	Mesh optimization
+R1	10.1.1.4.1293	A Fast and Accurate Semi-Lagrangian Particle Level Set Method
+R1	10.1.1.24.3427	Discrete Differential-Geometry Operators for Triangulated 2-Manifolds
+R1	10.1.1.16.3900	OpenMesh - a generic and efficient polygon mesh data structure
+R1	10.1.1.41.7644	Surface Simplification Using Quadric Error Metrics
+R1	10.1.1.116.625	Edgebreaker: Connectivity compression for triangle meshes
+R1	10.1.1.21.3295	The Ball-Pivoting Algorithm for Surface Reconstruction
+R1	10.1.1.21.7272	Spirale Reversi: Reverse decoding of the Edgebreaker encoding
+R1	10.1.1.10.7129	Edgebreaker: A Simple Compression for Surfaces with Handles
+R1	10.1.1.294.9836	High-quality extraction of isosurfaces from regular and irregular grids
+R1	10.1.1.33.9155	Variable Resolution 4-k Meshes: Concepts and Applications
+R1	10.1.1.33.9243	Using Semi-Regular 4-8 Meshes for Subdivision Surfaces
+R1	10.1.1.65.857	A topological framework for advancing front triangulations
+R1	10.1.1.66.8099	Chf: A scalable topological data structure for tetrahedral meshes
+R1	10.1.1.90.3688	A scalable data structure for three-dimensional non-manifold objects
+R1	10.1.1.72.4148	Adapted Dynamic Meshes for Deformable Surfaces

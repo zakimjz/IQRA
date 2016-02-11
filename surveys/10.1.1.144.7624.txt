@@ -1,0 +1,31 @@
+10.1.1.144.7624	2008	Web Spam: a Survey with Vision for the Archivist
+R1	10.1.1.120.3875	Authoritative Sources in a Hyperlinked Environment
+R1	10.1.1.31.1768	The PageRank Citation Ranking: Bringing Order to the Web
+R1	10.1.1.1.4409	Propagation of Trust and Distrust
+R1	10.1.1.108.2624	The connectivity sonar: detecting site functionality by structural patterns
+R1	10.1.1.14.4239	UbiCrawler: a scalable fully distributed web crawler
+R1	10.1.1.103.1693	Semi-Supervised Learning Literature Survey
+R1	10.1.1.122.8129	Combating web spam with trustrank
+R1	10.1.1.422.353	Editorial: special issue on learning from imbalanced data sets
+R1	10.1.1.80.3035	Spam filtering using statistical data compression models
+R1	10.1.1.110.4923	Web Search Using Automatic Classification
+R1	10.1.1.38.6514	Recognizing Nepotistic Links on the Web
+R1	10.1.1.69.3965	Detecting phrase-level duplication on the world wide web
+R1	10.1.1.124.4998	Blocking Blog Spam with Language Model Disagreement
+R1	10.1.1.105.1563	Link-based similarity search to fight web spam
+R1	10.1.1.61.5671	Link-Based Characterization and Detection of Web Spam
+R1	10.1.1.59.3551	SpamRank -- Fully Automatic Link Spam Detection
+R1	10.1.1.59.5304	Web Spam Taxonomy
+R1	10.1.1.387.3479	Detecting Spam Web Pages through Content Analysis
+R1	10.1.1.60.9667	Propagating Trust and Distrust to Demote Web Spam
+R1	10.1.1.167.4868	Topical TrustRank: using topicality to combat web spam
+R1	10.1.1.107.38	Stacked graphical models for efficient inference in markov random fields
+R1	10.1.1.73.3527	Know your neighbors: Web spam detection using the web topology
+R1	10.1.1.149.9210	Content-based Web Spam Detection
+R1	10.1.1.146.3354	WITCH: A New Approach to Web Spam Detection
+R1	10.1.1.214.9214	Identifying video spammers in online social networks
+R1	10.1.1.330.8594	Latent Dirichlet Allocation in Web Spam Filtering. manuscript
+R1	10.1.1.147.3749	A Large Time Aware Web Graph
+R1	10.1.1.219.859	Temporal evolution of the uk web
+R1	10.1.1.144.8696	Semi-Supervised Learning: A Comparative Study for Web Spam and Telephone User Churn
+R1	10.1.1.214.7893	The anti-social tagger - detecting spam in social bookmarking systems
