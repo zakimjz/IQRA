@@ -1,0 +1,26 @@
+		record linkage
+R1	10.1.1.147.3975	Duplicate record detection: A survey
+R1	10.1.1.409.3109	A survey of indexing techniques for scalable record linkage and deduplication
+R1	10.1.1.39.4336	The state of record linkage and current research problems
+R1	10.1.1.131.5522	A Latent Dirichlet Model for Unsupervised Entity Resolution
+R2		Swoosh: a generic approach to entity resolution
+R2	10.1.1.174.6304	Behavior based record linkage
+R2		Collective entity resolution in relational data
+R1		Entity resolution in graphs
+R1		A theory for record linkage
+R1	10.1.1.55.2700	The merge/purge problem for large databases
+R1		Real-world data is dirty: Data cleansing and the merge/purge problem
+R2		A parallel open source data linkage system
+R1	10.1.1.3.9195	TAILOR: A Record Linkage Toolbox
+R1		Collective entity resolution in relational data
+R2	10.1.1.261.4222	Dedoop: Efficient Deduplication with Hadoop
+R2	10.1.1.10.4563	A Comparison of Fast Blocking Methods for Record Linkage
+R2	10.1.1.17.175	Using the EM algorithm for weight computation in the Fellegi-Sunter model of record linkage
+R2	10.1.1.151.8708	Framework for evaluating clustering algorithms in duplicate detection
+R1		Record Linkage: Similarity Measures and Algorithms
+R2	10.1.1.151.8140	Data fusion–Resolving data conflicts for integration
+R1	10.1.1.1.5288	Interactive Deduplication using Active Learning
+R2	10.1.1.294.1947	CrowdER: Crowdsourcing Entity Resolution
+R2	10.1.1.172.252	Large-Scale Deduplication with Constraints using Dedupalog
+R2	10.1.1.85.974	Leveraging aggregate constraints for deduplication
+R2	10.1.1.75.2626	Adaptive Blocking: Learning to Scale Up Record Linkage and Clustering

@@ -1,0 +1,20 @@
+		text readability
+R1	10.1.1.91.4042	The principles of readability
+R1	10.1.1.301.5952	Coh-Metrix: Analysis of text on cohesion and language
+R1		Reconstructing readability: Recent developments and recommendations in the analysis of text difficulty
+R1		A New Readability Yardstick
+R1		Readability revisited, the new Dale-Chall readability formula
+R1		Derivation of new readability formulas (Automated Readability Index, Fog Count and Flesch Reading Ease Formula) for Navy enlisted personnel
+R2		Assessing readability
+R2		Assessing text readability using cognitively based indices
+R2	10.1.1.222.665	READ-IT: assessing readability of Italian texts with a view to text simplification
+R2		Automatic readability assessment for people with intellectual disabilities
+R2	10.1.1.224.2140	Cognitively Motivated Features for Readability Assessment
+R2		Readability: A new approach
+R2		The measurement of readability
+R2	10.1.1.361.8235	Do NLP and machine learning improve traditional readability formulas?
+R2		A readability formula that saves time
+R2		Toward a Readability Index for Japanese Learners of EFL
+R2	10.1.1.145.6350	Revisiting readability: a unified framework for predicting text quality
+R2		Frequent words improve readability and short words improve understandability for people with dyslexia
+R2		Predicting reading difficulty with statistical language models

@@ -1,0 +1,21 @@
+		spectral clustering
+R1	10.1.1.14.3601	Normalized cuts and image segmentation
+R1		On spectral clustering: Analysis and an algorithm
+R1	10.1.1.215.5401	A Spectral Clustering Approach To Finding Communities in Graph.
+R1	10.1.1.140.3081	Kernel k-means: spectral clustering and normalized cuts
+R1		On clusterings: Good, bad and spectral
+R1		A tutorial on spectral clustering
+R1	10.1.1.19.9400	Laplacian Eigenmaps and Spectral Techniques for Embedding and Clustering.
+R1	10.1.1.84.7940	Self-tuning spectral clustering
+R1		A min-max cut algorithm for graph partitioning and data clustering
+R1	10.1.1.131.2635	Weighted graph cuts without eigenvectors a multilevel approach
+R1	10.1.1.148.1997	Fast approximate spectral clustering
+R1		Multiway cuts and spectral clustering
+R1	10.1.1.70.1567	Fundamental limitations of spectral clustering
+R1	10.1.1.207.7208	Segmentation using eigenvectors: a unifying view
+R1	10.1.1.215.1503	On the Equivalence of Nonnegative Matrix Factorization and Spectral Clustering.
+R1	10.1.1.420.4773	Learning spectral clustering
+R1	10.1.1.149.8536	Spectral clustering based on the graph p-Laplacian
+R1		Spectral k-way ratio-cut partitioning and clustering
+R1		Comparison of spectral clustering methods
+R1	10.1.1.330.9933	A survey of kernel and spectral methods for clustering

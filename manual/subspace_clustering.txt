@@ -1,0 +1,26 @@
+		subspace clustering
+R1	10.1.1.131.5152	Automatic subspace clustering of high dimensional data for data mining applications
+R1	10.1.1.294.7946	A Monte Carlo algorithm for fast projective clustering
+R1		Fast algorithms for projected clustering
+R1	10.1.1.36.8684	MAFIA: Efficient and scalable subspace clustering for very large data sets
+R1	10.1.1.125.2157	Density-Connected Subspace Clustering for High-Dimensional Data
+R1	10.1.1.215.7221	subspace clustering of high dimensional data
+R1	10.1.1.64.9283	A generic framework for efficient subspace clustering of high-dimensional data
+R1		Dimensionality unbiased subspace clustering
+R1	10.1.1.140.7683	Robust clustering in arbitrarily oriented subspaces
+R1	10.1.1.215.7221	Subspace Clustering for High Dimensional Data: A Review
+R1	10.1.1.140.7543	Clustering high-dimensional data: A survey on subspace clustering, pattern-based clustering, and correlation clustering
+R1		Finding non-redundant, statistically significant regions in high dimensional data: a novel approach to projected and subspace clustering
+R1		Robust projected clustering
+R1		OpenSubspace: An open source framework for evaluation and exploration of subspace clustering algorithms in weka
+R1	10.1.1.144.3263	ELKI: a software system for evaluation of subspace clustering algorithms
+R1	10.1.1.320.3859	Random projection for high dimensional data clustering: A cluster ensemble approach
+R1	10.1.1.217.953	Sparse subspace clustering: Algorithm, theory, and applications
+R1		EDSC: efficient density-based subspace clustering
+R1		Evaluating clustering in subspace projections of high dimensional data
+R1		Subspace correlation clustering: finding locally correlated dimensions in subspace projections of the data
+R1		Subspace and projected clustering: experimental evaluation and analysis
+R1	10.1.1.75.3688	Harp: A practical projected clustering algorithm
+R1		k-Means projective clustering
+R1		SONAR: Signal De-mixing for Robust Correlation Clustering
+R1	10.1.1.172.4025	K-Subspace clustering

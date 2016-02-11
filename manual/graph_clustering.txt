@@ -1,0 +1,19 @@
+		graph clustering
+R1		Graph clustering via a discrete uncoupling process
+R1	10.1.1.14.3601	Normalized cuts and image segmentation
+R1		On spectral clustering: Analysis and an algorithm
+R1	10.1.1.80.3187	A fast kernel-based multilevel algorithm for graph clustering
+R1	10.1.1.131.2635	Weighted graph cuts without eigenvectors a multilevel approach
+R1	10.1.1.172.9515	Empirical comparison of algorithms for network community detection
+R1	10.1.1.215.5401	A Spectral Clustering Approach To Finding Communities in Graph.
+R1	10.1.1.84.9033	Scan: a structural clustering algorithm for networks
+R1		Validation indices for graph clustering
+R1	10.1.1.145.4824	Graph clustering with network structure indices
+R1		Scalable graph clustering using stochastic flows: applications to community discovery
+R1		Graph clustering
+R1		Modularity and community structure in networks
+R1		Community structure in social and biological networks
+R1		Finding and evaluating community structure in networks
+R1		Finding community structure in very large networks
+R1		Community structure in graphs
+R1		Uncovering the overlapping community structure of complex networks in nature and society

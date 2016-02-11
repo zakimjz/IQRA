@@ -1,0 +1,20 @@
+		subgraph pattern mining
+R1	10.1.1.13.6963	gspan: Graph-based substructure pattern mining
+R1	10.1.1.298.5763	Efficient mining of frequent subgraphs in the presence of isomorphism
+R1	10.1.1.36.2485	An apriori-based algorithm for mining frequent substructures from graph data
+R1		Frequent subgraph discovery
+R1	10.1.1.101.6113	An efficient algorithm for discovering frequent subgraphs
+R1		A quickstart in frequent structure mining can make a difference
+R1	10.1.1.88.8451	Subdue: Compression-based frequent pattern discovery in graph data
+R1	10.1.1.215.4883	Finding frequent patterns in a large sparse graph
+R1	10.1.1.163.9871	What is frequent in a single graph?
+R1		Computing frequent graph patterns from semistructured data
+R1	10.1.1.10.2366	An efficient algorithm for detecting frequent subgraphs in biological networks
+R1		CloseGraph: mining closed frequent graph patterns
+R1	10.1.1.75.9241	Origami: Mining representative orthogonal graph patterns
+R1	10.1.1.150.9531	Output space sampling for graph patterns
+R1	10.1.1.93.9555	Scalable mining of large disk-based graph databases
+R1	10.1.1.109.7955	Spin: mining maximal frequent subgraphs from graph databases
+R1	10.1.1.101.6262	Margin: Maximal frequent subgraph mining
+R1		Graphsig: A scalable approach to mining significant subgraphs in large graph databases.
+R1	10.1.1.163.504	Frequent subgraph mining in outerplanar graphs

@@ -1,0 +1,27 @@
+		data exchange
+R1	10.1.1.13.2900	Data exchange: semantics and query answering
+R1	10.1.1.12.7409	Data exchange: getting to the core
+R1	10.1.1.19.6308	Translating web data
+R1	10.1.1.420.1773	The chase revisited
+R1	10.1.1.10.5869	Composing schema mappings: Second-order dependencies to the rescue
+R2	10.1.1.60.3340	Semantic adaptation of schema mappings when schemas evolve
+R2		Debugging schema mappings with routes
+R2	10.1.1.103.8140	Inverting schema mappings
+R2		Generalized schema-mappings: from termination to tractability
+R2		Nested mappings: schema mapping reloaded
+R2		Core schema mappings
+R2		++Spicy: an OpenSource Tool for Second-Generation Schema Mapping and Data Exchange
+R2		Relational and XML data exchange
+R2	10.1.1.159.8580	Clio: Schema mapping creation and data exchange
+R2		Peer data exchange
+R2	10.1.1.78.2686	XML data exchange: consistency and query answering
+R2		Schema Mapping as Query Discovery
+R2		Schema mappings, data exchange, and metadata management
+R2	10.1.1.367.1305	Data exchange and incomplete information
+R2	10.1.1.151.5478	Laconic schema mappings: Computing the core with sql queries
+R2		Quasi-inverses of schema mappings
+R2	10.1.1.151.6555	Inverting schema mappings: bridging the gap between theory and practice
+R2	10.1.1.61.4319	Implementing mapping composition
+R2	10.1.1.405.4408	Model management 2.0: manipulating richer mappings
+R2	10.1.1.118.1010	Composition of mappings given by embedded dependencies
+R2	10.1.1.12.2729	Applying Model Management to Classical Meta Data Problems

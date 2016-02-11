@@ -1,0 +1,20 @@
+		schema matching
+R1	10.1.1.16.700	A survey of approaches to automatic schema matching
+R1	10.1.1.17.4650	Generic schema matching with Cupid
+R1	10.1.1.135.2192	Similarity flooding: A versatile graph matching algorithm and its application to schema matching
+R1		COMA: a system for flexible combination of schema matching approaches
+R2	10.1.1.127.2920	Corpus-based schema matching
+R2	10.1.1.8.557	Statistical schema matching across web query interfaces
+R2	10.1.1.111.7190	On schema matching with opaque column names and data values
+R2		Instance-based schema matching for web databases by domain-specific query probing
+R1	10.1.1.13.2900	Data exchange: semantics and query answering
+R1		Schema Matching and Mapping
+R1	10.1.1.107.7214	A comparative analysis of methodologies for database schema integration
+R1		Industrial-strength schema matching
+R2	10.1.1.142.27	iMAP: Discovering complex semantic matches between database schemas
+R1	10.1.1.11.4792	Comparison of schema matching evaluations
+R2	10.1.1.93.8145	Schema and ontology matching with COMA++
+R2	10.1.1.122.4181	Using schema matching to simplify heterogeneous data translation
+R2	10.1.1.11.6470	Database schema matching using machine learning with feature selection
+R2	10.1.1.12.2729	Applying Model Management to Classical Meta Data Problems
+R2	10.1.1.160.7692	Ontology matching: A machine learning approach

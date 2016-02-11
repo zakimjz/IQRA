@@ -1,0 +1,21 @@
+		sentiment analysis
+R1		Opinion mining and sentiment analysis
+R1	10.1.1.115.7478	Thumbs up?: sentiment classification using machine learning techniques
+R1	10.1.1.330.3043	Sentiwordnet: A publicly available lexical resource for opinion mining
+R2	10.1.1.122.4281	Wordnet-affect: and affective extension of wordnet
+R1	10.1.1.342.642	A sentimental education: Sentiment analysis using subjectivity summarization based on minimum cuts
+R2	10.1.1.278.3863	Sentiment strength detection in short informal text
+R1		Mining and summarizing customer reviews
+R2	10.1.1.171.147	Sentiment knowledge discovery in twitter streaming data
+R1	10.1.1.396.3859	Learning subjective language
+R2	10.1.1.167.4059	Sentiment analysis in the news
+R2		Yahoo! for amazon: Extracting market sentiment from stock message boards
+R2		Divided they tweet: The network structure of political microbloggers and discussion topics
+R2		Twitter sentiment analysis: The good the bad and the omg
+R2		Twitter as a Corpus for Sentiment Analysis and Opinion Mining
+R2	10.1.1.162.648	Predicting the future with social media
+R2		Predicting elections with twitter: What 140 characters reveal about political sentiment
+R2	10.1.1.130.4698	Biographies, bollywood, boom-boxes and blenders: Domain adaptation for sentiment classification
+R2		Modeling public mood and emotion: Twitter sentiment and socio-economic phenomena
+R2	10.1.1.387.3739	How (not) to predict elections
+R2	10.1.1.164.2102	Co-training for cross-lingual sentiment classification
